@@ -1,0 +1,1722 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#AlphonsusVargas">Alphonsus Vargas Toletanus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2024-10-10">October 10, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-x7yh5z">Venice, 1490</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="16-r"/>
+            <cb ed="#V" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="at8va9-e04861"><!-- l1prolq2 -->
+            <head xml:id="at8va9-e04861-Hd1e101">Quaestio 2</head>
+            <head xml:id="at8va9-e04861-Hd1e103" type="question-title">
+      Utrum habitus theologicus possibilis viatori de lege communi sit scientia proprie dicta
+    </head>
+            <p xml:id="at8va9-e04861-d1e106">
+               <lb ed="#V" n="72"/>SEcundo queritur: Utrum habitus theologicus 
+      <lb ed="#V" n="73"/>possibilis viatori de lege communi sit scientia proprie 
+      <lb ed="#V" n="74"/>dicta. 
+    </p>
+            <p xml:id="at8va9-e04861-d1e115">
+      videtur primo quod non: quia fides et scientia de 
+      eo<lb ed="#V" n="75" break="no"/>dem obiecto non sunt compossibiles in eodem intellectu: cum scientia 
+      <lb ed="#V" n="76"/>sit apparentium. fides autem non apparentium: ad hebreos 
+      <lb ed="#V" n="77"/>11o. Sed et habitus theologicus possibilis viatori de 
+      lege<lb ed="#V" n="78" break="no"/>communi simul stat cum fide in eodem intellectu. vt patet: ergo etc. 
+      <lb ed="#V" n="79"/>Contra: omnis notitia firma ratione apprehensa est 
+      <lb ed="#V" n="80"/>scientifica scientia proprie dicta: quia quod scimus debemus 
+      ra<lb ed="#V" n="81" break="no"/>tioni: quod credimus auctoritati: sicut docet beatus 
+      au<lb ed="#V" n="82" break="no"/>gustinus primo retractationum. 14o. sed habitus 
+      <lb ed="#V" n="83"/>theologicus possibilis viatori est huiusmodi vt patet 
+      <lb ed="#V" n="84"/>per NRicardum: primo de tri. vbi dicit sic. Intentionis 
+      no<lb ed="#V" n="85" break="no"/>stre est in hoc opere ad ea que credimus: non solum 
+      pro<lb ed="#V" n="86" break="no"/>babiles: verum etiam necessarias adducere rationes: 
+      igi<lb ed="#V" n="87" break="no"/>tur etc. 
+    </p>
+            <p xml:id="at8va9-e04861-d1e146">
+      Responsio in ista questione erunt 4 articuli. 
+      <lb ed="#V" n="88"/>In primo ponam aliquas distinctiones. 2o. conclusiones. 
+      3<lb ed="#V" n="89" break="no"/>mouebo dubia. 4o respondebo: et dicam ad 
+      argumen<lb ed="#V" n="90" break="no"/>ta principalia.
+    </p>
+            <div xml:id="at8va9-e04861-Dd1e156">
+               <head xml:id="at8va9-e04861-Hd1e158">Articulus 1</head>
+               <p xml:id="at8va9-e04861-d1e160">
+                  <lb ed="#V" n="91"/>Articulus primus. 
+        <lb ed="#V" n="92"/>QUantum ad primum articulum: Distinguo primo: de 
+        ha<lb ed="#V" n="93" break="no"/>hitu theologico possibili viatori de lege communi: quia 
+        <lb ed="#V" n="94"/>Quidam est diuinitus inspiratus siue reuelatus: et talis est 
+        <lb ed="#V" n="95"/>habitus articulorum fidei: et eorum que deducuntur ex 
+        arti<lb ed="#V" n="96" break="no"/>culis: sicut conclusiones ex principiis: siue principia 
+        di<lb ed="#V" n="97" break="no"/>cti habitus. sint omnes articuli. siue non. Et de 
+        taliloqui<lb ed="#V" n="98" break="no"/>tur apus. 2o. ad thy. 3. omnis doctrina diuintus inspirata 
+        <lb ed="#V" n="99"/>vtilis est ad docendum etc. Quidam est eorum que diuinitus 
+        <lb ed="#V" n="100"/>reuelantur ex probationihus: nobis notis in luine 
+        natu<lb ed="#V" n="101" break="no"/>rali: et declaratiuus et defensiuus. Et de tali loquitur 
+        <lb ed="#V" n="102"/>beatus Augu. 14. de tri. c. primo de magnis. dicit No vtique 
+        <lb ed="#V" n="103"/>quicquid ab homine sciri potesti rebus humanis. 
+        Aucto<lb ed="#V" n="104" break="no"/>ritas fuit allegata in principio. q. precedentis. Quidam 
+        <lb ed="#V" n="105"/>est conclusionum theologicarum: supposita articulorum 
+        no<lb ed="#V" n="106" break="no"/>titia existentia euidenter deductiuus: prout in sequentibus 
+        <lb ed="#V" n="107"/>apparebit. Secundo supposita distinctione de 
+        habitu<lb ed="#V" n="108" break="no"/>scientifico in questione precedenti declarata: quia potest 
+        ac<lb ed="#V" n="109" break="no"/>cipi communiter: proprie: et magis proprie: distinguo de scientia 
+        <lb ed="#V" n="110"/>siue de habitu scientifico proprie dicto: quia quidam est a 
+        po<lb ed="#V" n="111" break="no"/>steriori et per effectum: sicut patet per philosophum: primo et 2o 
+        <lb ed="#V" n="112"/>posteriorum. Quidam est a priori et per causam in 
+        inferen<lb ed="#V" n="113" break="no"/>do pariter et essendo. Et de tali loquintur Linconm. primo. 
+        <lb ed="#V" n="114"/>posteriorum dicit quod scientia est apprehensio scibilis 
+        immutabi<lb ed="#V" n="115" break="no"/>lis. dependentis a priori per apprehensionem cause eius in 
+        <lb ed="#V" n="116"/>essendo et in inferendo. Quidam autem a priori et per causam 
+        <lb ed="#V" n="117"/>in inferendo: non autem in essendo: et de tali loquitur Ari 4. me 
+        <lb ed="#V" n="118"/>taphisice: vbi ostendit: quod metaphisica considerat ens 
+        <lb ed="#V" n="119"/>inquantum ens causas et principia. certum est autem quod entis 
+        in<lb ed="#V" n="120" break="no"/>quantum ens non sunt cause: nec principia in essendo: sed 
+        <lb ed="#V" n="121"/>solum in inferendo. Tertio: ad maiorem euidentiam istius 
+        <lb ed="#V" n="122"/>distinctionis distinguo de priori et posteriori: quia que 
+        <lb ed="#V" n="123"/>dam sunt priora secundum quid: posteriora vero simpliciter. 
+        <lb ed="#V" n="124"/>Quedam sunt priora simpliciter in conceptu pariter et effcum: 
+        <lb ed="#V" n="125"/>quedam vero sunt priora simpliciter it conceptum non autem in 
+        <lb ed="#V" n="126"/>effectu. In primo ordine sunt quecumque sunt priora quo ad 
+        <lb ed="#V" n="127"/>nos: posteriora vero quo ad naturam. Ex talibus fit de 
+        <lb ed="#V" n="128"/>monstratio. quia non propter quid ex primo et 2o. posteriorum. 
+        In<lb ed="#V" n="129" break="no"/>2o. ordine sunt quecumque realiter distincta: quorum vnum 
+        <lb ed="#V" n="130"/>est causa alterius vt sit in aliquo genere cause: sicut 
+        pa<lb ed="#V" n="131" break="no"/>tet de homine et eius risibilitate: siponatur accidens ei 
+        <lb ed="#V" n="132"/>inherens. et ex talibus fit demonstratio potissiam et propter 
+        <lb ed="#V" n="133"/>quid: vt patet ibidem. In 3o ordine: sunt quecumque sunt 
+        <lb ed="#V" n="134"/>idem realiter distincta nisi conceptibiliter: quorum vnum: 
+        si<lb ed="#V" n="135" break="no"/>essent distincta esset causa alterius in aliquo genere 
+        cau<lb ed="#V" n="136" break="no"/>se: sicut patet de natura diuina et eius attributis. Ratio 
+        <lb ed="#V" n="137"/>istius est: quia qualem ordinem seruant alique in effectu vbi 
+        <lb ed="#V" n="138"/>realiter distinguuntur: talem seruant in conceptu vbi conce¬
+        <pb ed="#V" n="16-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>ptibiliter sunt distincta. Sed vbi talia realiter distinguur 
+        <lb ed="#V" n="2"/>tur quod vnum est causa alterius: vt sic est prius illo 
+        simplci<lb ed="#V" n="3" break="no"/>ter in effectu etc. Et ex talibus fit sillogisimus non 
+        mi<lb ed="#V" n="4" break="no"/>nus immo magis euidens in sua veritate: quam sit 
+        demodo<lb ed="#V" n="5" break="no"/>stratio potissima et propter quid: in qua distincta passic 
+        <lb ed="#V" n="6"/>concluditur de subiecto: quia identitas maior praedicati ad 
+        <lb ed="#V" n="7"/>subiectum non aufert euidentiam propositionis. nec 
+        ve<lb ed="#V" n="8" break="no"/>ritatem sed auget. primus ordo prioritatis 
+        correspoto<lb ed="#V" n="9" break="no"/>det habitui primo modo sumpto. secundus. 2o. et 
+        <lb ed="#V" n="10"/>tertius. 3o Si igitur isti tres hahitus adinuicem 
+        <lb ed="#V" n="11"/>comparentur penes euidentiam: patet quod secundus est euidentior 
+        <lb ed="#V" n="12"/>primo et tertius est euidentior 2o. et hec de primo.
+      </p>
+            </div>
+            <div xml:id="at8va9-e04861-Dd1e298">
+               <head xml:id="at8va9-e04861-Hd1e300">Articulus 2</head>
+               <p xml:id="at8va9-e04861-d1e302">
+                  <lb ed="#V" n="13"/>Articulus secundus. 
+        <lb ed="#V" n="14"/>QUantum ad secundum articulum pono. 4. conclusiones 
+        <lb ed="#V" n="15"/>Prima est quod habitus theologie reuelate 
+        pos<lb ed="#V" n="16" break="no"/>sibilis viatori de lege communi vt prescindit a 
+        na<lb ed="#V" n="17" break="no"/>turaliter acquisitis non resoluitur vsque in per se non in 
+        lumi<lb ed="#V" n="18" break="no"/>ne naturali. Probatur primo sic. Ad assentiendum veritatibus per se 
+        <lb ed="#V" n="19"/>notis: vel deductis ex per se notis non necessario 
+        requi<lb ed="#V" n="20" break="no"/>ritur imperium voluntatis. aliter voluntas posset facere 
+        ali<lb ed="#V" n="21" break="no"/>quem dubitare de per se noto: quod est impossibile. Sed ad 
+        <lb ed="#V" n="22"/>assentiendum veritatibus theologie reuelate vt prescindit a 
+        <lb ed="#V" n="23"/>naturaliter acquisitis necessario requiritur imperium 
+        volun<lb ed="#V" n="24" break="no"/>tatis ergo etc. probatur minor quia ad assentiendum creditis necessa 
+        <lb ed="#V" n="25"/>rio requiritur imperium voluntatis. dicit beato: Aug. sut 
+        <lb ed="#V" n="26"/>Io. homl. 26. quod cetera potest homo nolens. credere aut 
+        <lb ed="#V" n="27"/>non nisi volens. Sed constat quod veritates theologice re 
+        <lb ed="#V" n="28"/>uelate vt prescindit etc. sunt vere credite: igitur etc. 
+        <lb ed="#V" n="29"/>Secundo sic. Ad assentiendum conclusionibus deductis 
+        <lb ed="#V" n="30"/>ex perse notis in lumine naturali: quicumque potest euindenter 
+        con<lb ed="#V" n="31" break="no"/>uinci: sed ad assentiendum conclusionibus theologie 
+        reuela<lb ed="#V" n="32" break="no"/>te vt prescindit a naturaliter acquisitis nullus potest 
+        eui<lb ed="#V" n="33" break="no"/>denter conuinci: quia nec fidelis nec infidelis: vt docet 
+        ex<lb ed="#V" n="34" break="no"/>perientia. igitur etc. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e352">
+        Tertio sic: Ad assentiendum per se 
+        <lb ed="#V" n="35"/>notis: vel deductis ex per se notis non est fides necessa 
+        <lb ed="#V" n="36"/>ria: sed ad assentiendum veritatibus theologie. vt 
+        prescin<lb ed="#V" n="37" break="no"/>dit est fides necessaria de facto: quia dum sumus in corpore 
+        <lb ed="#V" n="38"/>peregrinamur adom no: per fidem enim ambulamus non per 
+        <lb ed="#V" n="39"/>speciem. 2a. ad cor. 5o ergo etc. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e365">
+        Quarto sic Si habitus 
+        theo<lb ed="#V" n="40" break="no"/>logie reuelate possibilis etc. resolueret vsque ad per se 
+        <lb ed="#V" n="41"/>no: fides non esset viatoribus meritoria. consequens non solum est 
+        <lb ed="#V" n="42"/>falsum: sed catholice veritati contrarium. igitur et antecedens: 
+        <lb ed="#V" n="43"/>consequentia patet. quia secundum greg. fides non habet meritum: 
+        <lb ed="#V" n="44"/>vbi humana ratio praebet experimentum. Confirmatur quia 
+        <lb ed="#V" n="45"/>omnis habitus resoluens vsquem ad naturaliter per se non est 
+        <lb ed="#V" n="46"/>humanitus adinuentus. hoc patet: quia omnis talis inititur 
+        lu<lb ed="#V" n="47" break="no"/>mini naturali. sed constat. quod habitus theologie reuelate 
+        pos<lb ed="#V" n="48" break="no"/>sibilis viatori de lege communi vt praescindit a naturaliter 
+        acqui<lb ed="#V" n="49" break="no"/>sitis non est humanitus adinuentus. ergo etc. Secunda 
+        conclu<lb ed="#V" n="50" break="no"/>sio est: quod habitus theologie reuelate possibilis viatori de 
+        le<lb ed="#V" n="51" break="no"/>ge communi vt prescindit a naturaliter acquisitis non est scientia 
+        <lb ed="#V" n="52"/>proprie dicta: Ista conclusio sequitur ex precedenti: quia 
+        <lb ed="#V" n="53"/>sequitur habitus thelogie etc. non resoluit vsquem ad per se nona 
+        <lb ed="#V" n="54"/>igitur non est scientia proprie dicta. Ista consequentia patet: 
+        <lb ed="#V" n="55"/>quia scientia proprie dicta est habitus conclusionis 
+        demonstra<lb ed="#V" n="56" break="no"/>te. primo posteriorum: demonstratio autem resoluit vsquem ad 
+        <lb ed="#V" n="57"/>per se nota. igitur etc. Potest tamen confirmari primo sic. Scientia 
+        <lb ed="#V" n="58"/>proprie dicta est notitia euidens scibilis infallibilis 
+        <lb ed="#V" n="59"/>firma ratione comprehensa. igitur theologia reuelata vt 
+        prae<lb ed="#V" n="60" break="no"/>scindit etc. non est scientia proprie dicta. antecedens patet ex 
+        que<lb ed="#V" n="61" break="no"/>stione precedenti. consequentia prohatur: quia theologia 
+        <lb ed="#V" n="62"/>reuelata vt prescindit etc. non est firma ratione 
+        compre<lb ed="#V" n="63" break="no"/>hesa vt patet ex dictis Secundo sic: Dis deductio 
+        sci<lb ed="#V" n="64" break="no"/>entifica scientia proprie dicta necessitat intellectum ad 
+        as<lb ed="#V" n="65" break="no"/>sentiendum: cum sit demonstratiua: sed constat quod deductio 
+        <lb ed="#V" n="66"/>theologie reuelate vt prescindit a naturaliter acquisitis non neces 
+        <lb ed="#V" n="67"/>sitat intellectum ad assentiendum: vt docet experientia 
+        <lb ed="#V" n="68"/>igitur etc. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e430">
+        Tertio sic: Ille processus non est scientificus 
+        <lb ed="#V" n="69"/>scientia proprie dicta: per quem nihil potest euidenter conuinci¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>fidelis nec infidel. hoc patet: quia vbi est scientia proprie 
+        <lb ed="#V" n="71"/>dicta: ibi est euidentia respectu sciti. sed per processum 
+        <lb ed="#V" n="72"/>theolutogie reuelate vt prescindit. etc. non potest euidenter 
+        <lb ed="#V" n="73"/>conuinci fidelis nec infidelis. vt patet ergo etc. 
+        Quar<lb ed="#V" n="74" break="no"/>to sic: vel theologia reuelata vt prescidit etc. procedit ex 
+        <lb ed="#V" n="75"/>principiis per se notis. vel deductis ex per se notis vel 
+        <lb ed="#V" n="76"/>ex principiis tamen creditis et fide suppositis. 
+        pri<lb ed="#V" n="77" break="no"/>mum dari non potest: quia vel huiusmodi principia essent per 
+        <lb ed="#V" n="78"/>se non in lumine naturali: et hoc non: ex conclusione 
+        preceden<lb ed="#V" n="79" break="no"/>ti: vel in lumine fidei: et hoc non: quia fides non facit 
+        no<lb ed="#V" n="80" break="no"/>titiam euidentem: cum sit argumentum non apparentium secundum 
+        <lb ed="#V" n="81"/>apostolum: vel in aliquo lumine medio inter lumen fidetur 
+        <lb ed="#V" n="82"/>et lumen glnie. et hoc non: quia tale lumen de facto 
+        theologi<lb ed="#V" n="83" break="no"/>cis non infunditur: quicquid sit de possibili: vt 
+        suppoi<lb ed="#V" n="84" break="no"/>no pro nunc: igitur procedint ex principiis tantum creditis et 
+        fi<lb ed="#V" n="85" break="no"/>de suppositis: sed ex talibus non acquiritur scientia proprie 
+        <lb ed="#V" n="86"/>dicta: vt in sequentibus apparebit igitur etc. Tertia 
+        <lb ed="#V" n="87"/>conclusio est: quod habitus theologicus eorum quae diuinitus 
+        re<lb ed="#V" n="88" break="no"/>uelantur ex probabilibus nobis notis in lumine naturali de 
+        <lb ed="#V" n="89"/>claratiuus et defensiuus: non est scientia proprie dicta. probatur 
+        <lb ed="#V" n="90"/>Primo sic: omnis notitia scientifica quam habet fidelis 
+        in<lb ed="#V" n="91" break="no"/>lumine naturali est possibilis infideli. hec patet quia per 
+        nul<lb ed="#V" n="92" break="no"/>lam talem distinguitur fidelis ab infideli. sed nulla notitia 
+        <lb ed="#V" n="93"/>scientifica scientia proprie dicta de veritatibus creditis est 
+        <lb ed="#V" n="94"/>possibilis infideli in lumine naturali aliter infidelis in 
+        lumi<lb ed="#V" n="95" break="no"/>ne naturali posset cognoscere euidenter articulos 
+        fi<lb ed="#V" n="96" break="no"/>dei et elicita ex articulis: quod non conceditur. igitur 
+        <lb ed="#V" n="97"/>nec fideli. et sic nulli. Secundo sic. si talis habitus 
+        <lb ed="#V" n="98"/>esset scientificus scientia proprie dicta. quilibet infidelis 
+        pos<lb ed="#V" n="99" break="no"/>set euidenter conuinci ad assentiendum conclusionibus 
+        theo<lb ed="#V" n="100" break="no"/>logicis: cuius oppositum experimur. consequentia patet 
+        <lb ed="#V" n="101"/>quia ad assentiendum conclusioni demonstrate quilibet potest 
+        <lb ed="#V" n="102"/>euidenter conuinci. sed stante supposito. conclusiones 
+        <lb ed="#V" n="103"/>theologice essent vere demonstrate. cum scientia proprie 
+        <lb ed="#V" n="104"/>dicta sit habitus conclusionis demonstrate. igitur etc. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e514">
+                  <lb ed="#V" n="105"/>Tertio sic: si habitus predictus esset scientia proprie 
+        di<lb ed="#V" n="106" break="no"/>cta de veritatibus crediti faceret notitia euidentem: 
+        <lb ed="#V" n="107"/>consequens est falsum. igitur et antecedens. consequentia patet: quia vbi est 
+        <lb ed="#V" n="108"/>scientia proprie dicta: ibi est euidentia. falsitas consequentis: 
+        <lb ed="#V" n="109"/>probatur: quia si sic: quanto quis esset maior theologus: 
+        <lb ed="#V" n="110"/>tanto magis assentiret creditis: cuius contrarium 
+        experi<lb ed="#V" n="111" break="no"/>mur: quia aliquando vna simplex vetula magis assent it et 
+        <lb ed="#V" n="112"/>firmius credit: quam vnus magnus theologus in 
+        habi<lb ed="#V" n="113" break="no"/>tum dicto multum exprtus. ergo etc. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e536">
+        Quarto sic. vel 
+        ha<lb ed="#V" n="114" break="no"/>bitus theologicus articulorum declaratiuus ex 
+        probabi<lb ed="#V" n="115" break="no"/>libus nobis notis in lumine naturali resoluit vsquem ad vera 
+        <lb ed="#V" n="116"/>per se nota. vel non. Si non non est scientifica scientia 
+        <lb ed="#V" n="117"/>proprie dicta: quod est propositum: Si sic: sequuntur omnia in 
+        <lb ed="#V" n="118"/>couenientia ad prima conclusionem adducta: quia sequitur quod 
+        <lb ed="#V" n="119"/>ad assentiendum articulis non necessario requiritur 
+        <lb ed="#V" n="120"/>imperium voluntatis. nec est fides necesa ia: nec 
+        viato<lb ed="#V" n="121" break="no"/>ribus meritoria. Et quod quilibet tam infidelis quam fidelis 
+        <lb ed="#V" n="122"/>ad assentiendum eis posset euidenter conuinci quae non 
+        vide<lb ed="#V" n="123" break="no"/>tur consona theologice veritati igitur etc. Quarta 
+        con<lb ed="#V" n="124" break="no"/>clusio est: quod aliquis habitus theologicus conclusionum 
+        theo<lb ed="#V" n="125" break="no"/>logicarum deductiuus: supposita articulorum notitia 
+        <lb ed="#V" n="126"/>in lumine fidei est scientificus existentia est scientifica scientia 
+        <lb ed="#V" n="127"/>proprie dicta. Ad maiorem declarationem istius 
+        conclu<lb ed="#V" n="128" break="no"/>sionis est aduertendum: quod de aliquo mere credito quantum 
+        <lb ed="#V" n="129"/>ad eius existentiam potest haberi clara et euidens notitia 
+        <lb ed="#V" n="130"/>scientifica de eius existentia scientia proprie dicta: facta 
+        sup<lb ed="#V" n="131" break="no"/>potone: quia supposita eius existentia ex per se notis deducitur 
+        <lb ed="#V" n="132"/>quod multa insunt sibi sine qubus esse non posset. vnde si 
+        pro<lb ed="#V" n="133" break="no"/>poneretur nobis in sacra scriptura quod in celo sunt duo 
+        <lb ed="#V" n="134"/>corpora se tangentia: quorum vnum est totaliter sphericum et 
+        al<lb ed="#V" n="135" break="no"/>terum tota liter planum possemus habere claram et 
+        eui<lb ed="#V" n="136" break="no"/>dentem notit iam scientificam quod non tangerent se: nisi in 
+        pum<lb ed="#V" n="137" break="no"/>cto: quia licet sola fide teneremus talia corpora esse in 
+        celo<lb ed="#V" n="138" break="no"/>non tamen teneremus ex fide: supposita eorum existentia
+        <pb ed="#V" n="17-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>quod non se tangerent nisi in pucto. hoc enim non deduceretur 
+        <lb ed="#V" n="2"/>ex aliquo credito. sed ex propositionibus geometricis 
+        no<lb ed="#V" n="3" break="no"/>bis naturaliter per se notis. Et isto modo possunt multe 
+        <lb ed="#V" n="4"/>econclusiones vere sciri theologice: et ad istum 
+        intelle<lb ed="#V" n="5" break="no"/>ctum: pono conclusionem istam: quam probo primo sic: omnis habitus 
+        <lb ed="#V" n="6"/>resoluens vsque ad per se notsti in lumine naturali: est 
+        <lb ed="#V" n="7"/>scientificus scientia proprie dicta: sed aliquis habitus 
+        theo<lb ed="#V" n="8" break="no"/>logicus est huiusmodi supposita articulorum existentia: 
+        <lb ed="#V" n="9"/>igitur etc. probatur minor quia supposito articulo 
+        incarna<lb ed="#V" n="10" break="no"/>tionis ex perse non. deducitur quod eius causa efficiens sit deus 
+        <lb ed="#V" n="11"/>et istam deductionem facit magister. 3. sententiarum dicit. 
+        Sup<lb ed="#V" n="12" break="no"/>posita etiam trinitate personarum in vnitate 
+        essen<lb ed="#V" n="13" break="no"/>tie ex per se notio. conuincitur quod ibi non sit distinctio in aliquo 
+        <lb ed="#V" n="14"/>absoluto et sic de aliis. Secundo sic: et est quasi 
+        decla<lb ed="#V" n="15" break="no"/>ratio totius conclusionis. suppositio: alicuius impossibilis 
+        <lb ed="#V" n="16"/>non tollit in conclusione deducta ex propositionibus 
+        <lb ed="#V" n="17"/>per se notis rationem scientie proprie dicte. igitur nec suppono 
+        <lb ed="#V" n="18"/>crediti infallibiliter veri cuiusmodi est articumlorum 
+        fidetr<lb ed="#V" n="19" break="no"/>existentia: consequentia est non: antecedens patet: per exemplum positum de 
+        <lb ed="#V" n="20"/>duobus corporibus in celo se tangentibus: quorum 
+        <lb ed="#V" n="21"/>vnum est totaliter sphericum: et alterum totaliter planum: quod 
+        <lb ed="#V" n="22"/>saltem naturaliter non est possibile. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e645">
+        Tertio sic: per 
+        pro<lb ed="#V" n="23" break="no"/>cessum quo deducitur conclusio theologie veritatis ex per se noti in 
+        <lb ed="#V" n="24"/>lumine naturali: sumpta articulorum existentia. aliquis 
+        ha<lb ed="#V" n="25" break="no"/>bitus generatur in nobis. hic autem non est fides: quia ad 
+        <lb ed="#V" n="26"/>eius deductionem non assumitur aliquod creditum licet 
+        suppo<lb ed="#V" n="27" break="no"/>natur necopinio: quia non assumitur aliquod probabile ad 
+        <lb ed="#V" n="28"/>vtrumlibet: sed naturam tantum nec est aliquis aliorum 
+        <lb ed="#V" n="29"/>habituum de quibus arist. tractat. 6. ethi. vt patet 
+        discur<lb ed="#V" n="30" break="no"/>rendo. igitur talis habitus est scientia proprie dicta. 
+        Qua<lb ed="#V" n="31" break="no"/>to sic: omnis deductio ex veris: necessariis et 
+        impossi<lb ed="#V" n="32" break="no"/>bilibus aliter se habere necessitans intellectum ad 
+        assen<lb ed="#V" n="33" break="no"/>tiendum: est scientifica scientia proprie dicta. sed 
+        supposi<lb ed="#V" n="34" break="no"/>ta articulorum existentia possibilis est viatori talis 
+        dedu<lb ed="#V" n="35" break="no"/>ctio: vt in supradictis igitur etc. et hoc de 2o. 
+      </p>
+            </div>
+            <div xml:id="at8va9-e04861-Dd1e677">
+               <head xml:id="at8va9-e04861-Hd1e679">Articuli 3 et 4</head>
+               <p xml:id="at8va9-e04861-d1e681">
+                  <lb ed="#V" n="36"/>Tertius et quartus articulus. 
+        <lb ed="#V" n="37"/>QUintum ad tertium et quartum articulum: contra 
+        conclu<lb ed="#V" n="38" break="no"/>iones istas mouenda et dissoluenda sunt dubia. 
+        <lb ed="#V" n="39"/>Franciscus de marchia in prolo i. q. 3 ar. i1. Et primo: 
+        <lb ed="#V" n="40"/>contra primam conclusionem est quedam opinio: quae ponit: quod 
+        prin<lb ed="#V" n="41" break="no"/>cipia theologie reuelate sunt nobis per se no. vel 
+        dedu<lb ed="#V" n="42" break="no"/>cta euidenter ex aliquo per se noto pro qua arguitr 
+        <lb ed="#V" n="43"/>primo sic. Nullus tenetur indubitantur credere: quod non 
+        <lb ed="#V" n="44"/>est sibi per se notum: nec sibi deductum ex aliquo per se noto per 
+        <lb ed="#V" n="45"/>quilibet catholicus tenetur articulos fidei indubitantur 
+        <lb ed="#V" n="46"/>credere. igitur articuli fidei sunt sibi per se noti: vel de 
+        <lb ed="#V" n="47"/>ducti euidenter ex aliquo per se noto: maior patet: 
+        <lb ed="#V" n="48"/>quia nullus peccat non credendo illud quod non debet in 
+        <lb ed="#V" n="49"/>dubitanter credere. sed quilibet non credens 
+        articu<lb ed="#V" n="50" break="no"/>los fidei indubitantur peccat. igitur quilibet tenetur eos 
+        <lb ed="#V" n="51"/>credere indubitantur: maior vero in qua est 
+        difficul<lb ed="#V" n="52" break="no"/>tas: probatur Primo sic: nullus tenetur firmius ad 
+        heren<lb ed="#V" n="53" break="no"/>conclusioni quam sit certitudo notitie principii propter quam 
+        adhe<lb ed="#V" n="54" break="no"/>ret eidem. hec patet: quia conclusio: non debet excedere 
+        <lb ed="#V" n="55"/>certitudinem principii: sed omnis qui assentit alicui 
+        conclu<lb ed="#V" n="56" break="no"/>sioni: rationabiliter assentit sibi propter aliquam notitiam: quam 
+        <lb ed="#V" n="57"/>habet de prima conclusione: aliter frustra assentiret illi 
+        ma<lb ed="#V" n="58" break="no"/>gis quam opposite. igitur nullus tenetur indubitantur 
+        assenti<lb ed="#V" n="59" break="no"/>re conclusioni nisi notitia propter quam assentit eidem sit certa 
+        <lb ed="#V" n="60"/>indubitantur. sed nulla notitia citra notitiam per se noti: 
+        <lb ed="#V" n="61"/>vel deducti ex aliquo per se noto est certa indubitantur 
+        <lb ed="#V" n="62"/>in genere notitie. ergo etc. Secundo sic: nullus credit aliquid 
+        <lb ed="#V" n="63"/>nisi constet sibi illud: et non econuerso. non ideo constat 
+        sibi<lb ed="#V" n="64" break="no"/>quia credit. sed ideo credit: quia constat. hoc supposito 
+        <lb ed="#V" n="65"/>arguitur sic: propter quod vnum quodque tale et illud magis: sed 
+        <lb ed="#V" n="66"/>cumque credit ideo credit consequenter: quia constat sibi 
+        euiden<lb ed="#V" n="67" break="no"/>ter. igitur notitia qua sibi constat debet esse per se nota et 
+        <lb ed="#V" n="68"/>non ex ipsa fide. sed nulla notitia est certior fide nisi 
+        <lb ed="#V" n="69"/>sit per se noti. vel ex per se notis deducti: ergo. Tertio¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>sic: effectus non diebet excedere causam. sed ascensus fidei est 
+        <lb ed="#V" n="71"/>quidam effectus notitie de re cui assentitur. igitur assensus 
+        si<lb ed="#V" n="72" break="no"/>dei non dicet esse firmior certitudine notitie phaite sed 
+        assen<lb ed="#V" n="73" break="no"/>sus fidei est firmior omni certitudine praehaita: quae non est per 
+        <lb ed="#V" n="74"/>se noti: vel ex per se notis deducti. igitur idem quod prius.
+      </p>
+               <p xml:id="at8va9-e04861-d1e770">
+                  <lb ed="#V" n="75"/>Quarto sic: sequela rei non dicbet esse perfectior re ipsa 
+        <lb ed="#V" n="76"/>sed assensus fidei est quedam sequela notitie inclinantis 
+        <lb ed="#V" n="77"/>ad assensum. igitur non dicbet esse certior tali notitia. sed 
+        assen<lb ed="#V" n="78" break="no"/>sus fidei est certior omni notitia quae non est per se noti: etc. 
+        <lb ed="#V" n="79"/>igitur etc. Secundo ad principale sic. aliquid pertinens 
+        <lb ed="#V" n="80"/>ad fidem potest tripliciter proponi intellectui. vel sicut per 
+        <lb ed="#V" n="81"/>se notum in falsitate: sicut est id quod deus non est vel tamquam per 
+        <lb ed="#V" n="82"/>se notum vel deductum ex per se noto in veritate: sicut est 
+        <lb ed="#V" n="83"/>illud quod deus est. vel tertio modo valet: sicut probabile 
+        de<lb ed="#V" n="84" break="no"/>ductum ex aliquo probabili. et exr hoc arguitur sic. quilibet 
+        <lb ed="#V" n="85"/>tenetur. indubitatur credere illud quod sibi proponitur si 
+        <lb ed="#V" n="86"/>cut per se notum in veritate. et nullus tenetur aliquo modo 
+        <lb ed="#V" n="87"/>credere illud quod sibi proponitur sicut per se notum in falsitate: 
+        <lb ed="#V" n="88"/>igitur quilibet tenetur probabiliter credere quod sibi proponitur 
+        <lb ed="#V" n="89"/>sicut per se notum in veritate. Ista consequentia patet: quia sicut extre 
+        <lb ed="#V" n="90"/>ma ad extremum ita medium iad medium. igitur a 
+        destru<lb ed="#V" n="91" break="no"/>ctione consequentis quod: aliquis tenetur indubitantur credere: non 
+        pro<lb ed="#V" n="92" break="no"/>ponitur sibi tamquam probabile sed sicut per se notum in 
+        veri<lb ed="#V" n="93" break="no"/>tate vel deductum ex aliquo per se noto. sed ea quae proponum 
+        <lb ed="#V" n="94"/>tur nobis in theologia reuelata tenemur credere 
+        idubi<lb ed="#V" n="95" break="no"/>tantur sine scrupulo hesitationis. igitur talia proponuntur 
+        <lb ed="#V" n="96"/>nobis sicut per se non in sua veritate. vel sicut ex perse 
+        <lb ed="#V" n="97"/>notis deducta. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e822">
+        Preterea: cum in creditis non sit 
+        proces<lb ed="#V" n="98" break="no"/>sus in infinitum omnem dare aliquod primo creditum: siue vnum 
+        <lb ed="#V" n="99"/>siue plura. tunc queritur de isto primo credito: siue sit vnum 
+        <lb ed="#V" n="100"/>siue plura. vtrum assentiatur sibi propter se: aut propter aliud per 
+        <lb ed="#V" n="101"/>se notum: aut propter aliud creditum: non propter aliud creditu: quia 
+        <lb ed="#V" n="102"/>positum est quod sit primum creditum. igitur propter se vel propter aliud per 
+        <lb ed="#V" n="103"/>se notum: non propter se. igitur propter aliud per se notum. igitur procedit 
+        <lb ed="#V" n="104"/>ex per se noti. probatur minor quia nullum obiectum inferiori 
+        <lb ed="#V" n="105"/>ordinis potest care proprium assensum obiecti superioris 
+        ordi<lb ed="#V" n="106" break="no"/>nis eo modo quo obiectum causat assensum aliquam: sed obiectum quod 
+        <lb ed="#V" n="107"/>cumque per se notum est superioris ordinis in genere cognoscibili 
+        <lb ed="#V" n="108"/>um obiecto non perse noto igitur obiectum non per se notum non 
+        <lb ed="#V" n="109"/>potest causare proprium assensum obiecti per se noti: sed 
+        assen<lb ed="#V" n="110" break="no"/>tire alicui propter se est proprius modus assentiendi: obiecto per 
+        <lb ed="#V" n="111"/>se noto: ergo etc. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e855">
+        Repono ad rationes francisci de marchia. 
+        <lb ed="#V" n="112"/>Ad primum istorum: vt mihi videtur maior non solum non est 
+        ve<lb ed="#V" n="113" break="no"/>ra: sed deuiat a catholica veritate: quod patet primo: quia 
+        sim<lb ed="#V" n="114" break="no"/>plici fideli articuli fidei non sunt per se noti nec ex per se 
+        <lb ed="#V" n="115"/>notis deducti: patet de simplici vetula: quicquid sit de 
+        <lb ed="#V" n="116"/>aliis igitur si maior illa sit vera: talis non tenetur 
+        articu<lb ed="#V" n="117" break="no"/>los fidei indubitantur credere quod est erroneum. et cotrrium 
+        ve<lb ed="#V" n="118" break="no"/>ritati Et: potest reduci ratio contra eum sic nullus tenetur indubitam 
+        <lb ed="#V" n="119"/>ter credere quod non est sibi per se notum: nec sibi deductum 
+        <lb ed="#V" n="120"/>ex aliquo per se noto. sed simplici fideli: articuli fidei 
+        <lb ed="#V" n="121"/>non sunt per se noti: nec deducti ex aliquo perse noto. 
+        <lb ed="#V" n="122"/>igitur simplex fidelis non tenetur articulos fidei 
+        indubi<lb ed="#V" n="123" break="no"/>tantur credere. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e885">
+        Preterea: vel articuli fidei sunt in 
+        <lb ed="#V" n="124"/>fideli: vt puta iudeo vel pagano per se noti: vel 
+        deducti<lb ed="#V" n="125" break="no"/>ex aliquo perse noto: vel non: Si sic: sequitur necessa 
+        <lb ed="#V" n="126"/>rio quod infidelis assentiet veritati articulorum: quod patet 
+        <lb ed="#V" n="127"/>esse falsum: cum credat oppositum esse verum. consequentia patet: quia non 
+        <lb ed="#V" n="128"/>est in ptante alicuius non assentire per se noto. vel 
+        ex<lb ed="#V" n="129" break="no"/>pese notis deducto: Sed non sequitur quod infidelis non 
+        te<lb ed="#V" n="130" break="no"/>netur articulos fidei indubitantur credere: si maior 
+        <lb ed="#V" n="131"/>illa sit vera: quod est falsum. et contra eum: quia nullus peccat 
+        <lb ed="#V" n="132"/>non credendo illud quod non diebet indubitantur credere. sed 
+        in<lb ed="#V" n="133" break="no"/>fidelis non credens articulos fidei indubitantur peccat 
+        <lb ed="#V" n="134"/>per eum: ergo. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e911">
+        Preterea vel heretico non credenti 
+        arti<lb ed="#V" n="135" break="no"/>culum trini. articulus trini. est per se notus: vel 
+        dedu<lb ed="#V" n="136" break="no"/>ctus ex per se notis: vel non: si sic non poterit non 
+        assenti<lb ed="#V" n="137" break="no"/>re eidem: quod contradicit supposito: si non non tenetur ipsum 
+        <lb ed="#V" n="138"/>indubitant credere. igitur non peccatsi non credit: quod
+        <pb ed="#V" n="17-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>non consonat catholice veritati. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e929">
+        Preterea: si ista 
+        <lb ed="#V" n="2"/>Propositio sit vera: sequuntur omnia inconuenientia illa 
+        <lb ed="#V" n="3"/>ta ex opposito prime conclusionis mee: quia sequitur: quod ad 
+        <lb ed="#V" n="4"/>assentiendum articulis non necessario requiritur im 
+        <lb ed="#V" n="5"/>perium voluntatis: nec est fides necessaria et sic de aliis 
+        <lb ed="#V" n="6"/>que omnia sunt absurda et catholice veritati Sria. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e942">
+                  <lb ed="#V" n="7"/>Preterea: ista propositio est expresse articulus pari 
+        <lb ed="#V" n="8"/>siene contrademnatus et est in numero articulorum 37. vbi sic 
+        di<lb ed="#V" n="9" break="no"/>citur: quod nihil sit credendum nisi per se notum: vel 
+        dedu<lb ed="#V" n="10" break="no"/>ctum ex perse notis: posset declarari error. patet igitur 
+        <lb ed="#V" n="11"/>quod illa maior non solum est falsa: sed fidei catholice 
+        dis<lb ed="#V" n="12" break="no"/>sona et contraria. Nec probationes concludunt. non 
+        quiden<lb ed="#V" n="13" break="no"/>prima: quia non omnis qui assentit conclusioni indubitantur a 
+        s<lb ed="#V" n="14" break="no"/>sentit propter notitiam praemissarum quam habet de ipsa: sicut 
+        assu<lb ed="#V" n="15" break="no"/>mitur in min: quibusdam enim assentimus propter solam auctoritatem 
+        <lb ed="#V" n="16"/>dicentis cum imperio voluntatis. et sic est in proposito: conceditur: 
+        <lb ed="#V" n="17"/>igitur quod vbi assensus causatur ex notitia: nullo modo 
+        tene<lb ed="#V" n="18" break="no"/>tur firmius adherere conclusioni quam sit certitudo 
+        noti<lb ed="#V" n="19" break="no"/>tie propter: quam adheret eidem: sed vbi assensus non causatur 
+        <lb ed="#V" n="20"/>ex notitia praeuia. patet: quod deduction em nulla. Nec secunda 
+        <lb ed="#V" n="21"/>quia maior illius probationis: sicut et maior principalis 
+        <lb ed="#V" n="22"/>rationis non solum est falsa. sed catholic est reritati contraria: 
+        <lb ed="#V" n="23"/>vt videtur: non enim credimus quod constat nobis: sicut assensit 
+        <lb ed="#V" n="24"/>illa maior immo totum oppositum: quia credimus ideo quia 
+        <lb ed="#V" n="25"/>non intelligimus sicut scribitur in isa. vnde beatus Aug 
+        <lb ed="#V" n="26"/>15. de tri. c. 8. vbi dicit de par. certe cum incusse 
+        credi<lb ed="#V" n="27" break="no"/>derint scripturis sacris. tamquam veracissimis testibus 
+        <lb ed="#V" n="28"/>agant orando: et querendo et bene viuendo: vt intelligant 
+        <lb ed="#V" n="29"/>i. inquantum videri potest videatur mente: quod tenetur fide. 
+        <lb ed="#V" n="30"/>Non igitur credit catholicus: quod intelligit: sed si credit 
+        <lb ed="#V" n="31"/>intelligitr. Et anshel. de incarnatione verbi. c. 2. 
+        Nul<lb ed="#V" n="32" break="no"/>lus christianus debet disputare quomodo quidem 
+        catho<lb ed="#V" n="33" break="no"/>lica ecclesia corde credit: et ore confitetur verum sit: sed 
+        sim<lb ed="#V" n="34" break="no"/>pliciter eandem fidem indubitantur: tenendo: amando: et secundum 
+        <lb ed="#V" n="35"/>illam viuendo humiliter quantum potest querere rationem quomodo 
+        <lb ed="#V" n="36"/>sit: si potest intelligem deo gras agat: si non potest non immittat 
+        <lb ed="#V" n="37"/>cornua ad ventilandum: sed submittat caput ad 
+        vene<lb ed="#V" n="38" break="no"/>randum. igitur idem quod prius. Et vlterius: si nullus credit 
+        <lb ed="#V" n="39"/>aliquid nisi constet sibi illud fides non esset viatoribus me 
+        <lb ed="#V" n="40"/>ritoria: quod non consonat catholice veritati: Tertia 
+        <lb ed="#V" n="41"/>probatio et non valet: quia assenssus fidei non est effectus 
+        <lb ed="#V" n="42"/>notitine de re cui assentitur: sicut assumitur in minori: quia 
+        <lb ed="#V" n="43"/>catholicus non assentit creditis propter notitiam praeuiam quam 
+        <lb ed="#V" n="44"/>habet de ipsis. sed propter solam auctoritatem dicentis cum 
+        im<lb ed="#V" n="45" break="no"/>perio voluntatis vt dictum est super. Et per hoc patet quid 
+        <lb ed="#V" n="46"/>dicendum ad quartam. quia assensus fidei non est 
+        sequela<lb ed="#V" n="47" break="no"/>notitie inclinantis ad ipsum. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e1033">
+        Ad secundum: principale 
+        dico<lb ed="#V" n="48" break="no"/>quod procedit ex insufficienti diuisione: quia veritates 
+        fi<lb ed="#V" n="49" break="no"/>dei proponuntur nobis sicut reuelate a prima veritate: 
+        <lb ed="#V" n="50"/>quae nec falli nec fallere potest. et ideo tenemur eis firmiter 
+        <lb ed="#V" n="51"/>assentire. Et vlterius maior sicut assumitur non est 
+        ve<lb ed="#V" n="52" break="no"/>ra: quia nihil pertinens ad fidem proponitur intellectui sicut 
+        <lb ed="#V" n="53"/>per se notu in falsitate nec sicut per se notum in 
+        ve<lb ed="#V" n="54" break="no"/>ritate. nec sicut probabile deductum ex aliquo 
+        probabili<lb ed="#V" n="55" break="no"/>Non sicut per se notum in veritate: quia nullum creditum est 
+        <lb ed="#V" n="56"/>per se notu in sua veritate: nec deductum ex aliquo per 
+        <lb ed="#V" n="57"/>se noto. vt patet ex dictis: Nec sicut perse notum in 
+        fal<lb ed="#V" n="58" break="no"/>sitate: quia sicut nullus credit non esse verum quod est ei per se 
+        <lb ed="#V" n="59"/>notum in veritate sic nullus credit esse falsum: quod est si 
+        <lb ed="#V" n="60"/>bi per se notum in falisitate. Et vlterius fidei 
+        catholi<lb ed="#V" n="61" break="no"/>ce de qua nunc loquimur non potest sub esse falsum. Nec sicut 
+        <lb ed="#V" n="62"/>probabile deductum ex aliquo probabili: quia nullum 
+        probabi<lb ed="#V" n="63" break="no"/>le deductum ex aliquo probabili. vt sic est creditum: sed 
+        <lb ed="#V" n="64"/>opinatum. credere autem et opinari differunt: sicut fides 
+        <lb ed="#V" n="65"/>et opinio. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e1075">
+        Ad tertium: etiam dico: quod procedit ex 
+        insuffi<lb ed="#V" n="66" break="no"/>cienti diuisione: quia primo credito non assentitur propter aliquod 
+        <lb ed="#V" n="67"/>creditum. nec propter se. nec propter aliud per se notum: sed 
+        <lb ed="#V" n="68"/>propter auctoritatem dicentis cum imperio voluntatis. ratio 
+        isti<lb ed="#V" n="69" break="no"/>us est: quia scire debetur rationi: credem autem a uctoritati. vt patet
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>per beatum Aug. primo retractat. c. 14. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e1092">
+                  <lb ed="#V" n="71"/>Opieitio sancti thome in prima parte. q. 2. ar. 2. 
+        <lb ed="#V" n="72"/>Contra conclusionem principaliter inuenio 
+        qua<lb ed="#V" n="73" break="no"/>tuor opiones: quarum prima ponit: quod habitus 
+        theo<lb ed="#V" n="74" break="no"/>logie reuelate possibilis viatori de lege communi: etiam vt 
+        <lb ed="#V" n="75"/>praescindit a naturaliter acquisitis est scientia proprie dicta subalter 
+        <lb ed="#V" n="76"/>nata scientie dei et beatorum. Et vt clarius appareat 
+        di<lb ed="#V" n="77" break="no"/>cta positio declarabitur modus ponendi primo. Secundo 
+        confir<lb ed="#V" n="78" break="no"/>mabitur rationibus quibus mouetur. Modus ponendi potest 
+        <lb ed="#V" n="79"/>reduci ad tria puncta 
+      </p>
+               <p xml:id="at8va9-e04861-d1e1114">
+        Primus est: quod scientie etiam proprie dicte 
+        <lb ed="#V" n="80"/>sunt in duplici ordine: quia quidam pro cedunt ex principiis in 
+        <lb ed="#V" n="81"/>eiusd est euidentur notis sine recursu ad aliqua scientiam 
+        su<lb ed="#V" n="82" break="no"/>piorem sicut geologia. et vniuersaliter omnis scientie 
+        subalternan<lb ed="#V" n="83" break="no"/>tes. quidam vero procedunt ex principiis notis euidentur: non 
+        <lb ed="#V" n="84"/>tamen in eis sed in scientia superiori: sicut perspectiua et 
+        vni<lb ed="#V" n="85" break="no"/>uersaliter omnes scientie subalternate. Et ex hoc elicitur: quod de 
+        <lb ed="#V" n="86"/>ratione scientie proprie dicte non est habere principia in eadem 
+        eui<lb ed="#V" n="87" break="no"/>dentur non. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e1134">
+        Secundus punctus est: quod habitus theologicus 
+        re<lb ed="#V" n="88" break="no"/>uelatus possibilis viatori de lege communi non procedit ex 
+        prin<lb ed="#V" n="89" break="no"/>cipiis perimo modo notis: quia articuli fidei qui ponuutur 
+        princi<lb ed="#V" n="90" break="no"/>cipia dicti habitus non sunt nobis in via euident noti: 
+        <lb ed="#V" n="91"/>sed tantum crediti. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e1145">
+        Tertius punctus est: quod habitus thogie 
+        re<lb ed="#V" n="92" break="no"/>uelate procedit ex principiis notis secundo modo euidentur: quia 
+        <lb ed="#V" n="93"/>articuli fidei qu nobis in via sunt crediti tantum in scientia 
+        dei<lb ed="#V" n="94" break="no"/>et beatorum sunt euidenter noti: Ex istis elicitur: quod 
+        habi<lb ed="#V" n="95" break="no"/>tus theologie reuelate in nobis sit scientia proprie dicta sub 
+        <lb ed="#V" n="96"/>alternata scientie dei et beatorum: et sic patet modus ponendi.
+      </p>
+               <p xml:id="at8va9-e04861-d1e1158">
+                  <lb ed="#V" n="97"/>Rationes sancti thome vbi supra. 
+        <lb ed="#V" n="98"/>Quantum ad secundum. ista positio probatur tripliciter. Primo 
+        <lb ed="#V" n="99"/>sic: scientia subalternata quecumque vt distinguitur a subalis 
+        <lb ed="#V" n="100"/>ternante est scientia proprie dicta: cum snit habitus per se 
+        distin<lb ed="#V" n="101" break="no"/>cti: sed theologia nobis reuelata est scientia substantialternata scientie 
+        <lb ed="#V" n="102"/>dei et beatorum: vt patet in. 3o. pucto. ergo etc. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e1174">
+        Prete 
+        <lb ed="#V" n="103"/>rea: si theologia nobis reuelata nn esset scientia proprie dicta: 
+        <lb ed="#V" n="104"/>hoc ideo esset: quia articuli fidei ex quibus procedit non fiunt 
+        <lb ed="#V" n="105"/>nobis euidenter noti: sed hoc non obstat: quia de ratione 
+        pro<lb ed="#V" n="106" break="no"/>prie dicte scientie non est habere principia in eadem euidenter no 
+        <lb ed="#V" n="107"/>sicut patet ex primo posteriorum. igitur etc. Et confirmatur ista 
+        <lb ed="#V" n="108"/>minor ab aliquibus primo sic. perspectiua vt prescindit a 
+        <lb ed="#V" n="109"/>geologia est scientia proprie dicta. hec patet: quia perspectia in 
+        <lb ed="#V" n="110"/>quantum perspectia: est scientia proprie dicta: et vt sic 
+        pre<lb ed="#V" n="111" break="no"/>scidit a gelogia: sed constat: quod perspectia vt praescindit ageoa 
+        <lb ed="#V" n="112"/>in suis principiis non habet notitia euidentem: igitur de ratione 
+        <lb ed="#V" n="113"/>scientie proprie dicte non est habere de suis principiis notitiam 
+        <lb ed="#V" n="114"/>euidentem. Secundo sic: posito: quod deus conseruaret habitum 
+        <lb ed="#V" n="115"/>perspectine sine geologia vel habitum musice sine arithme 
+        <lb ed="#V" n="116"/>tica: quod videtur satis possibile ex quo sunt habitus 
+        distin<lb ed="#V" n="117" break="no"/>cti: adhuc perspectia et musica essent scientie proprie 
+        di<lb ed="#V" n="118" break="no"/>cte. et tamen constat: stante casu: quod non haberent de suis 
+        prin<lb ed="#V" n="119" break="no"/>cipiis notitiam euidentem. igitur non est de ratione scientie. etc. 
+        <lb ed="#V" n="120"/>Tertio ad principale quidam sic arguunt: sicut se habet 
+        <lb ed="#V" n="121"/>habitus alicuius adiscenti scientiam humanam vt sortiatur 
+        no<lb ed="#V" n="122" break="no"/>men scientie humanitus adinuente. Ita se habet habitus theologie 
+        <lb ed="#V" n="123"/>viatoris: vt sortiatur nomen scientie diuinitus inspirate: sed 
+        habi<lb ed="#V" n="124" break="no"/>tus discipuli adiscentis aliquam scientiam hummanam: sortitur 
+        no<lb ed="#V" n="125" break="no"/>men scientie proprie dicte: si principia sint magistro 
+        euiden<lb ed="#V" n="126" break="no"/>ter non: et a discipulo firmiter credita. igitur etc maior 
+        <lb ed="#V" n="127"/>supponitur. minor probatur auctoritate philo. primo elencorum 
+        <lb ed="#V" n="128"/>dicentis: quod omnet adiscentem credere. Et confirmatur: quia secundum 
+        <lb ed="#V" n="129"/>arist. 6. ethicorum. principia scientie sufficientur cognoscuntur 
+        <lb ed="#V" n="130"/>per sensum. vel per inductionem: vel per aliquam aliam fidem. 
+        <lb ed="#V" n="131"/>igitur sufficit ad scientiam proprie dictam: quod de principio eius 
+        <lb ed="#V" n="132"/>habeatur fides. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e1243">
+        Preterea: theologus habens fidem 
+        arti<lb ed="#V" n="133" break="no"/>culorum studens diligentur in sacramea scriptura: et eliciens 
+        <lb ed="#V" n="134"/>conclusiones theologicas ex articulis acquirit aliquem 
+        ha<lb ed="#V" n="135" break="no"/>bitum distinctum a fide: hec patet: tum quia prius hebat fidem 
+        <lb ed="#V" n="136"/>tum quia fides non est habitus sillogisticus et discursiuus: tum 
+        <lb ed="#V" n="137"/>quia alter vanus esset labor assumptus. sed talis habitus 
+        <lb ed="#V" n="138"/>acquisitus non est ars: nec prudentia: nec intellectus
+        <pb ed="#V" n="18-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>patet deductiue: nec opinio cum excludat formidinem 
+        <lb ed="#V" n="2"/>nec sapientia proprie dicta: quia talis nulli subalternatur. 
+        igi<lb ed="#V" n="3" break="no"/>tur scientia alteri subalterna. Ista positio multa ponit 
+        <lb ed="#V" n="4"/>preter conclusionem principalem: contra quam adducitur. 
+        Capio<lb ed="#V" n="5" break="no"/>tamen duo puncta principalia in quibus fundatur. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e1274">
+                  <lb ed="#V" n="6"/>Contra sanctum thomam. 
+        <lb ed="#V" n="7"/>Primus est: habitus theologicus viatoris 
+        substantialterna<lb ed="#V" n="8" break="no"/>tur theologie comprehensoris. Secundus est: quod ex principiis 
+        <lb ed="#V" n="9"/>tamtum creditis potest haberi scientia proprie dicta Et pono duas 
+        <lb ed="#V" n="10"/>conclusiones oppositas. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e1287">
+        Prima est: quod habitus theologie 
+        via<lb ed="#V" n="11" break="no"/>toris non subalternatur theologie comprehensoris quantum ad eius 
+        <lb ed="#V" n="12"/>principia: sicut perspectiua substantialternatur geologism probatur. 
+        Pri<lb ed="#V" n="13" break="no"/>mo sic: nulla scientia subalterna est eius subiecti primi sub 
+        <lb ed="#V" n="14"/>eadem ratione formali: cum scientia subalternante. hec patet: 
+        au<lb ed="#V" n="15" break="no"/>ctoritate: et ratione. primo auctoritate linconm. primo posteriorum 
+        <lb ed="#V" n="16"/>comento. 17. vbi dicit: quod subiectum peimum scientie subalter 
+        <lb ed="#V" n="17"/>nate addit conditionem super subiectum scientie subalternantis 
+        <lb ed="#V" n="18"/>que non egreditur a natura subiecti. Secundo ratione: quia scientia sub 
+        <lb ed="#V" n="19"/>alternans et subalternata distinguntur specifice: et 
+        dis<lb ed="#V" n="20" break="no"/>tinctarum scientiarum secundum speciem sunt distincta subiecta. 
+        pri<lb ed="#V" n="21" break="no"/>ma secundum istum doctorem et veritatem: sed habitus theologicus 
+        <lb ed="#V" n="22"/>viatoris est eiusdem subiecti primi sub eadem ratione 
+        formali<lb ed="#V" n="23" break="no"/>cum habitu theologico comprehensoris secundum eum qui ponit deum 
+        <lb ed="#V" n="24"/>sub rationem deitatis absolute vtriusque theologie subiectum. 
+        <lb ed="#V" n="25"/>ergo etc. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e1322">
+        Preterea: scientia subalterna non est subalter 
+        <lb ed="#V" n="26"/>nati incompossibilisin eodem. patet in omnibus inductiue. sed 
+        <lb ed="#V" n="27"/>theologia reuelata possibilis viatori in lumine fidei est 
+        <lb ed="#V" n="28"/>incompossibilis theologie comprehensoris secundum eum in questioni: 
+        <lb ed="#V" n="29"/>bus de veritate: igitur idem: quod prius. Secundo probo 
+        <lb ed="#V" n="30"/>conclusionem absolute: Primo sic: impossibile est quod scientie 
+        <lb ed="#V" n="31"/>subalternantis et subalternate sint eadem per se 
+        princi<lb ed="#V" n="32" break="no"/>pia: sed theologie viatoris et comprehensoris sunt eadem per se 
+        <lb ed="#V" n="33"/>principia: igitur etc. maior patet: quia principia scic subalter 
+        <lb ed="#V" n="34"/>nate sunt conclusiones in scientia subblternante: patet de 
+        <lb ed="#V" n="35"/>perspectia et geologia: de musica et arithmetica: et similibus. 
+        <lb ed="#V" n="36"/>probatur minor quia principia theologie comprehensoris sunt a 
+        via<lb ed="#V" n="37" break="no"/>toribus vere credita quacumque sint illa. igitur sunt de 
+        conside<lb ed="#V" n="38" break="no"/>ratione per se sni habitus theologici: et non sicut 
+        conclusio<lb ed="#V" n="39" break="no"/>nes: quia principia scientie subalternantis non sunt conclusiones. 
+        <lb ed="#V" n="40"/>in subalternata. igitur sicut principium: et sic intentum. 
+        Se<lb ed="#V" n="41" break="no"/>cundo sic: omnis scientia subalternans considerat per se: et primo 
+        ali<lb ed="#V" n="42" break="no"/>quas veritates: que non sunt de perse consideratione scientie 
+        <lb ed="#V" n="43"/>subalternate sed habitus theologicus comprehensoris non 
+        <lb ed="#V" n="44"/>considerat aliquas veritates: quae non sint de per se 
+        conside<lb ed="#V" n="45" break="no"/>ratione theologie viatoris. ergo maior patet: quia principia scientie 
+        <lb ed="#V" n="46"/>subalternate sunt conclusiones in scientia subalternante 
+        <lb ed="#V" n="47"/>Et confirmatur. quia vel principia scientie subalternantis sunt de 
+        <lb ed="#V" n="48"/>per se consideratione scientie subalternate: vel non. Si non 
+        <lb ed="#V" n="49"/>propositum. Si sic: vel sicut principia: vel sicut conclusiones: non 
+        <lb ed="#V" n="50"/>sicut conclusiones: quia tunc principia scientie subalternantis: 
+        <lb ed="#V" n="51"/>probarentur in subalternata: quod non est verum: nec sicut 
+        prin<lb ed="#V" n="52" break="no"/>cipia: quia tunc principia scientie subalternate non 
+        probaren<lb ed="#V" n="53" break="no"/>tur in subalternante: quod est falsum et contra eos. ergo: minor 
+        pro<lb ed="#V" n="54" break="no"/>batur: quia omnis veritas clare visa a comprehensore est vere 
+        <lb ed="#V" n="55"/>credita actu vel habitu a fideli viatore. et sic de per se 
+        <lb ed="#V" n="56"/>dsideratione sui habitus theologici. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e1392">
+        Secunda conclusio est: 
+        <lb ed="#V" n="57"/>quod ex principiis tantum creditis et fide suppositis non generatur in 
+        no<lb ed="#V" n="58" break="no"/>bis scientia proprie dicta probatur primo ad hominem sic Si ex 
+        prin<lb ed="#V" n="59" break="no"/>cipiis tantum creditis: et fide suppositis causaretur in nobis scientia 
+        <lb ed="#V" n="60"/>proprie dicta: fides et scientia de eodem obiecto essent 
+        compossi<lb ed="#V" n="61" break="no"/>biles in eodem intellectu: quod est expresse contra eum consequentia 
+        <lb ed="#V" n="62"/>probatur: quia omnis conclusio ex principiis tantum creditis per se 
+        de<lb ed="#V" n="63" break="no"/>ducta est vere credita: et ex supposito vere scita. 
+        igi<lb ed="#V" n="64" break="no"/>tur etc. Et confirmatur in proposito: quia conclusiones 
+        theo<lb ed="#V" n="65" break="no"/>logice quae deducuntur ex articulis: quae tamquam ex principiis 
+        ve<lb ed="#V" n="66" break="no"/>re sunt creditis: vel igitur sunt vere scte scientia proprie 
+        di<lb ed="#V" n="67" break="no"/>cta: vel non. Si non: sequitur: quod theologia nobis reuelata 
+        <lb ed="#V" n="68"/>non est scientia proprie dicta cuius oppositum intendit. Si 
+        <lb ed="#V" n="69"/>sic: patet: quod fides et scientia de eode subiecto sunt compossi¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>biles in eodem intellectu. Secundo probo conclusionem 
+        abso<lb ed="#V" n="71" break="no"/>lute: primo sic: nulla conclusio ex aliis per se deducta est 
+        eui<lb ed="#V" n="72" break="no"/>dentior principiis ex quibus deducit omnis conclusio scita 
+        <lb ed="#V" n="73"/>scientia proprie dicta est euidentior principiis tantum creditis 
+        <lb ed="#V" n="74"/>Secundo omnis conclusio deducta ex principiis mere creditis 
+        <lb ed="#V" n="75"/>est tantum credita. sicut conclusio deducta ex principiis mere 
+        <lb ed="#V" n="76"/>probabilibus est tantum probabilis ergo etc. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e1440">
+        Tertio sic: nulla de 
+        <lb ed="#V" n="77"/>ductio inferior demonstratiua potest causare notitiam 
+        propri<lb ed="#V" n="78" break="no"/>am silogismi demonstratiui: cum eaum inferior per se non 
+        <lb ed="#V" n="79"/>possit in proprium effectum ese superioris sine causa superiori: 
+        <lb ed="#V" n="80"/>sed notitia scientifica scientia proprie dicta est notia proprie 
+        <lb ed="#V" n="81"/>sillogismi demonstratiui: cum talis notitia sit habitus 
+        con<lb ed="#V" n="82" break="no"/>clusionis demonstrate: primo posteriorum. ergo nulla 
+        de<lb ed="#V" n="83" break="no"/>ductio inferior demonstratiua potest causare notitiam scienti 
+        <lb ed="#V" n="84"/>ficam. Sed constat: quod omnis deductio ex principiis tantum 
+        credi<lb ed="#V" n="85" break="no"/>tis est inferior demonstratiua. cum principia tantum 
+        credi<lb ed="#V" n="86" break="no"/>ta sint in euidentiam: ergo etc. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e1465">
+        Quarto sic: si ex 
+        princi<lb ed="#V" n="87" break="no"/>piis tantum creditis posset deduci conclusio vere scita: 
+        opinio<lb ed="#V" n="88" break="no"/>in aliquibus esset scientia proprie dicta: quod nullus diceret: 
+        <lb ed="#V" n="89"/>consequentia patet. quia propositiones probabiles ex quibus 
+        ge<lb ed="#V" n="90" break="no"/>neratur opienintio: a quibusdam sunt vere credite. vnde arist. 
+        <lb ed="#V" n="91"/>et hi. dicit: quod aliqui opinantes ita firmiter adherent 
+        <lb ed="#V" n="92"/>suis opinionibus: sicut multi faciunt conclusionibus 
+        de<lb ed="#V" n="93" break="no"/>monstratis. igitur etc. Ex his patet quod habitus theologicus 
+        <lb ed="#V" n="94"/>viatoris de quo nunc loquimur non est scientia proprie dicta: 
+        <lb ed="#V" n="95"/>nec rationes istius opinionis concludunt. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e1487">
+                  <lb ed="#V" n="96"/>Reponso ad rationes sancti thome. 
+        <lb ed="#V" n="97"/>Ad primam. igitur patet: quod mior est falsa: quia theor 
+        via<lb ed="#V" n="98" break="no"/>toris non subalternatur theologie comprehensoris: vt patet ex 
+        di<lb ed="#V" n="99" break="no"/>ctis Et vlterius: si illa minor esset vera adhuc ratio non 
+        con<lb ed="#V" n="100" break="no"/>cluderet: quia scientia subalterna non est scientia nisi scienti 
+        re<lb ed="#V" n="101" break="no"/>soluetur in principia scientie subalternantis: vel cognoscenti 
+        <lb ed="#V" n="102"/>euidentur eius per se principia a posteriori. et per effectum 
+        <lb ed="#V" n="103"/>vel per experientiam mediante cognitione sensitiua: 
+        <lb ed="#V" n="104"/>possunt euidentur cognosci in subalterna: in proposito autem 
+        <lb ed="#V" n="105"/>nullum istorum est possibile. igitur ratio nulla. Ad secundam 
+        con<lb ed="#V" n="106" break="no"/>cedo: quod thelogia nobis reuelata ideo non est proprie scientia: quia 
+        <lb ed="#V" n="107"/>eius per se principia non sunt nobis euidenter non. Et quando 
+        di<lb ed="#V" n="108" break="no"/>citur: quod hoc non est de ratione scientie proprie dicte here 
+        princi<lb ed="#V" n="109" break="no"/>pia in eadem euidentur non patet quid dicendum ex solutione 
+        <lb ed="#V" n="110"/>statim data: per idem patet quid dicendum ad confirmationes: 
+        <lb ed="#V" n="111"/>quia perspectiua: siue geologia musica siue arithmetica non 
+        <lb ed="#V" n="112"/>essent scientie proprie dicte nisi cognoscenti earum 
+        principia<lb ed="#V" n="113" break="no"/>euidenter vel a posteriori et per effectum: vel per 
+        expe<lb ed="#V" n="114" break="no"/>rientiam mediante cognitione sensitiua vnde si aliquis 
+        <lb ed="#V" n="115"/>haberet perspectiuam sine geologia et non cognosceret euidenter 
+        <lb ed="#V" n="116"/>eius principia aliquo istorum modorum. vel alio sit possibilis 
+        <lb ed="#V" n="117"/>perspectiua non esset ei scientia proprie dicta: sed fides. vel 
+        <lb ed="#V" n="118"/>opinio: si principia illa essent probabilia. Ad tertium: 
+        <lb ed="#V" n="119"/>eodem modo: quia habitus discipuli discentis scientiam humanam 
+        <lb ed="#V" n="120"/>non habet rationem scientie proprie dicte: nisi principia sint sibi 
+        eui<lb ed="#V" n="121" break="no"/>dent nota. nisi dispositiue. et hoc intendit philis cum 
+        di<lb ed="#V" n="122" break="no"/>xit: quod omnet adiscentem credere: quia sides de principiis 
+        dis<lb ed="#V" n="123" break="no"/>ponit ipsum ad scientiam proprie dictam. Et ad 
+        confirma<lb ed="#V" n="124" break="no"/>tionem arist. dico: quod loquitur de scientia in generali prout dicitur de 
+        <lb ed="#V" n="125"/>scientia communiter proprie: et magis proprie dicta. A 
+        <lb ed="#V" n="126"/>quartum: apparebit quid dicendui. q. sequenti. vbi 
+        inqui<lb ed="#V" n="127" break="no"/>retur vtrum habitus theologie reuelate sit realiter distinctus a fide.
+      </p>
+               <p xml:id="at8va9-e04861-d1e1559">
+                  <lb ed="#V" n="128"/>Opinio henrici. 12. quolibet. q. 2. 
+        <lb ed="#V" n="129"/>Secunda opinio: quae directe opponitur conclusioni 
+        predi<lb ed="#V" n="130" break="no"/>cte ponit: quod theologia reuelata possibilis viatori est scientia 
+        <lb ed="#V" n="131"/>proprie dieta: quia articuli fidei ex quibus procedit sunt 
+        <lb ed="#V" n="132"/>vere in illa noti non quidem in lumine fidei: quia in illo 
+        <lb ed="#V" n="133"/>sunt crediti tantum. sed in quodam lumine medio inter 
+        lu<lb ed="#V" n="134" break="no"/>men fidei et lumen glorie. Et vt clarius videatur 
+        pri<lb ed="#V" n="135" break="no"/>mo declarabitur modus ponendi. Secundo 
+        confirmabi<lb ed="#V" n="136" break="no"/>tur rationibus et auctoritatibus quibus mouentur. 
+        <lb ed="#V" n="137"/>Modus ponendi potest reduci ad quatuor puncta 
+        <lb ed="#V" n="138"/>Primus punctis est: quod sicut isti tres actus: circa¬
+        <pb ed="#V" n="18-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>diuinam essentiam: videlicet crendere: intelligere: et 
+        vide<lb ed="#V" n="2" break="no"/>re: essentialiter distinguuntur: sic est triplex lumen correns. 
+        <lb ed="#V" n="3"/>Est enim quoddam lumen sufficiens ad apertam visionem 
+        <lb ed="#V" n="4"/>humana de credibilibus scilicet lumen glorie. Et quoddam 
+        <lb ed="#V" n="5"/>sufficiens ad credendum scilicet lumen fidei. Et quoddam me 
+        <lb ed="#V" n="6"/>dium inter ista: quod necessario requiritur ad hoc: quod 
+        cre<lb ed="#V" n="7" break="no"/>dibilia a nobis intelligantur. Et quod sit dare tale lumen 
+        <lb ed="#V" n="8"/>medium probatur auctoritate beati Aug. super illo verbo 
+        <lb ed="#V" n="9"/>Io. primo: erat lux vera etc: vbi dicit quod aliud est lumen 
+        ad<lb ed="#V" n="10" break="no"/>credendum aliud ad intelligendum. Secundus punctus 
+        <lb ed="#V" n="11"/>est: quod licet illud lumen non infundatur omnibus fidelibus 
+        de<lb ed="#V" n="12" break="no"/>lege communi: infunditur tamen doctoribus: et maioribus vt 
+        fi<lb ed="#V" n="13" break="no"/>dem valeant defendere et declarare. Et ista videtur 
+        inten<lb ed="#V" n="14" break="no"/>tentio beati Aug. vbi sup. dicit quod lux increata 
+        illumi<lb ed="#V" n="15" break="no"/>nat: hominem dupliciter paruulos qulidem umine fidei: quo 
+        <lb ed="#V" n="16"/>nutriuntur vt lacte: maiores vero lumine sapiem: quo vt 
+        <lb ed="#V" n="17"/>solido cibo vescantur: quod lumen hebat apostulus qua 
+        dice<lb ed="#V" n="18" break="no"/>bat sapientiam loquimur inter perfectos. hec Aug et 
+        vide<lb ed="#V" n="19" break="no"/>tur auctoritas valde clara: Tertius punctus est: 
+        <lb ed="#V" n="20"/>quod licet lumen glorie non compatiatur secum fidei enigma: istud 
+        <lb ed="#V" n="21"/>tamen lumen non euacuat fidem sed perficit. Sed illud 
+        declara<lb ed="#V" n="22" break="no"/>tur exemplo: et ratione. Exemplo quidem: in aere: qui de 
+        <lb ed="#V" n="23"/>nocte est simpliciter tenebrosus et meridie simplicit 
+        illu<lb ed="#V" n="24" break="no"/>minatus: et in aurora partim tenebrosus: et partim 
+        illumi<lb ed="#V" n="25" break="no"/>natus: nec tenebra noctis totaliter expelliter vsque ad 
+        meri<lb ed="#V" n="26" break="no"/>diem: quando claritas perficitur. Ad propositum fides vt dicunt 
+        <lb ed="#V" n="27"/>est quasi tenebra: gloria quasi lux meridiana: quae non 
+        con<lb ed="#V" n="28" break="no"/>patitur secum tenebram: fidei lumen autem illud est quasi lux 
+        au<lb ed="#V" n="29" break="no"/>rore: quia per ipsum fides non euacuatur. sed perficitur: et 
+        qua<lb ed="#V" n="30" break="no"/>si illuminatur: Rone vero: quia licet duo coria in suis ex 
+        <lb ed="#V" n="31"/>cellentiis non sint compossibilia in eodem tamen vt dicunt 
+        con<lb ed="#V" n="32" break="no"/>patiuntur se in esse remisso. patet in exemplo posito: sed 
+        ob<lb ed="#V" n="33" break="no"/>scuritas fidei et claritas luminis glorie opponuntur: et 
+        <lb ed="#V" n="34"/>sicut duo contria in suis excellentiis. obscuritas autem fidei 
+        <lb ed="#V" n="35"/>et claritas istius luminis medii opponuntur: sicut cria 
+        <lb ed="#V" n="36"/>in esse remisso: quia claritas illius luminis non est 
+        perfe<lb ed="#V" n="37" break="no"/>ctra: ergo etc. Quartus punctus est: quod in tali lumie me 
+        <lb ed="#V" n="38"/>dio articuli fidei sunt vere intellecti. Et ista videtur in 
+        <lb ed="#V" n="39"/>tentio beati Aug. contra epistolam fortunati: vbi sic a t. 
+        <lb ed="#V" n="40"/>Credimus vt intelligere mereamur non iam homibus: 
+        se<lb ed="#V" n="41" break="no"/>ipso deo intrinsecus mentem nostram illustrante atque 
+        firma<lb ed="#V" n="42" break="no"/>te: et his concordat anshel. prosolog. 4. vbi sic inquit. 
+        gra<lb ed="#V" n="43" break="no"/>tias tibi ago domine: quia quod prius credidit donante: iam 
+        <lb ed="#V" n="44"/>sic intelligo te illuminante: vt si te esse nolim credere: non 
+        <lb ed="#V" n="45"/>possim intelligere. Ex istis elicitur: quod theologia nobis 
+        re<lb ed="#V" n="46" break="no"/>uelata in doctoribus est scientia proprie dicta: quia articuli 
+        fi<lb ed="#V" n="47" break="no"/>dei ex quibus procedit: sicut ex principiis sunt in isto 
+        lu<lb ed="#V" n="48" break="no"/>mine vere intellecti: et sic patet modus ponendi. 
+        <lb ed="#V" n="49"/>Quantum ad seundum: conclusio principalis probatur. Primo 
+        <lb ed="#V" n="50"/>quia non minoris veritatis: et efficatie est in nobis issud 
+        lumen<lb ed="#V" n="51" break="no"/>supernaturale: supposita fide: quam lumen naturale intellectus 
+        <lb ed="#V" n="52"/>agentis supposito fantasmate. sed in lumine naturali 
+        intelle<lb ed="#V" n="53" break="no"/>ctus agentis supposito fantasmate principia naturalia sunt 
+        <lb ed="#V" n="54"/>vere intellecta: sic quod ex ipsis deducitur scientia proprie dicta 
+        <lb ed="#V" n="55"/>ergo. etc. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e1709">
+        Preterea: omnis notitia certior fide est scientia proprie 
+        <lb ed="#V" n="56"/>dicta: hoc patet: quia nulla notitia est certior fide nisi sit 
+        fir<lb ed="#V" n="57" break="no"/>ma ratione comprehensa: sed notitia de credibilibus: quam 
+        ha<lb ed="#V" n="58" break="no"/>bent doctores in isto lumine medio est certior fide vt patet 
+        <lb ed="#V" n="59"/>ex dictis etc. Et confirmatur multis auctoritatibus. Primo 
+        <lb ed="#V" n="60"/>auctoritate beati Aug. secunda epistola ad volusianum 
+        <lb ed="#V" n="61"/>vbi sic inquit. Ego fidem catholicam confiteor: et per illam 
+        <lb ed="#V" n="62"/>ad certam scientiam me venturum presumo. Ecce quod beatus 
+        <lb ed="#V" n="63"/>Aug. vocat theologiam scientiam certam: et per consequens proprie 
+        <lb ed="#V" n="64"/>dictam Secundo auctoritate eiusdem expressa. 14 de tri. 
+        <lb ed="#V" n="65"/>c. primo: vbi dicit: quod hac scientia non pollent fideles 
+        plurimi<lb ed="#V" n="66" break="no"/>quamuis polleant ipsa fide plurimi. aliud est enim scire: quod 
+        <lb ed="#V" n="67"/>homo credere debeat propter adipiscendam vitam beatam: quae non 
+        <lb ed="#V" n="68"/>nisi eterna est. Aliud autem scire quemadmodum hoc ipsum 
+        <lb ed="#V" n="69"/>et piis opituletur: et contra ipios desendatur: quam proprio voca¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>bulo apostulus videtur scientiam appellare hec Aug. 
+        Mul<lb ed="#V" n="71" break="no"/>te auctoritatest consimiles adducuntur: sed quia eandem vium 
+        <lb ed="#V" n="72"/>hobsunt penitus cum predictis pertranseo. Ista opinio 
+        mul<lb ed="#V" n="73" break="no"/>ta ponit quae communiter non tenentur. capio tamen ex multis tres 
+        <lb ed="#V" n="74"/>conclusiones: a quibus dependent principaliter. Prima est 
+        <lb ed="#V" n="75"/>de infusione istius luminis medii. Secunda est de 
+        con<lb ed="#V" n="76" break="no"/>possibilitate ipsius cum lumine fidei. Tertia est de 
+        compossi<lb ed="#V" n="77" break="no"/>bilitate fidei et scientie. Et pono tres conclusiones 
+        opposi<lb ed="#V" n="78" break="no"/>tas ex quibus euidenter infertur oppositum conclusionis: quam in 
+        <lb ed="#V" n="79"/>tendit: Est igitur: Prima conclusio. quod de lege communi non 
+        <lb ed="#V" n="80"/>infunditur doctoribus thelogie aliquod lumen altius 
+        fide<lb ed="#V" n="81" break="no"/>probatur ad hominem. Primo sic: omnis doc. thelogus cui 
+        infum<lb ed="#V" n="82" break="no"/>ditur istud lumenper cipit ipsum. istam propositionem ponit iste 
+        <lb ed="#V" n="83"/>doc. quolibe. 12. q. 2. vbi dicit: quod illud lumen est quid spiritua 
+        <lb ed="#V" n="84"/>le: sicut gratia baptismalis: et ideo no potest ostendi illi. tamen 
+        percipi<lb ed="#V" n="85" break="no"/>unt qui ipsum recipiunt: hec ille: sed constat: quod docto 
+        <lb ed="#V" n="86"/>res moderni non percipiunt illud lumen nec perceperunt: 
+        <lb ed="#V" n="87"/>quia ipsum de facto negant et negauerunt: igitur eis non 
+        in<lb ed="#V" n="88" break="no"/>funditur de lege communi. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e1785">
+        Preterea: doctores theol 
+        libere<lb ed="#V" n="89" break="no"/>possunt veritatibus creditis dissentire. igitur nullum tale 
+        lumen<lb ed="#V" n="90" break="no"/>supernaturale infunditur eis de lege communi. antecedens patet: quia doctor 
+        <lb ed="#V" n="91"/>theologus potest fieri hereticus. igitur potest veritatibus 
+        <lb ed="#V" n="92"/>crediris dissentire: ergo: consequentia probatur: quia euidenter noto 
+        <lb ed="#V" n="93"/>nullus potest libere dissentire: sed illud lumen secundum illum 
+        <lb ed="#V" n="94"/>doctore de veritatibus creditis facit notitiam euidentem 
+        <lb ed="#V" n="95"/>doctoribus quibus infunditur: ergo etc. Et confirmatur: quia 
+        ha<lb ed="#V" n="96" break="no"/>bens notitiam euidentem de veritatibus geologie in lumine natura 
+        <lb ed="#V" n="97"/>li non potest dictis veritatibus dissentire ergo multo 
+        mi<lb ed="#V" n="98" break="no"/>nus habens notitiam euidentem theologie de veritatibus: vel aliis 
+        <lb ed="#V" n="99"/>quibuscumque in lumine supernaturali. Secundo probo conclusio 
+        <lb ed="#V" n="100"/>nem absolute. Primo sic: sequitur: aliquod lumen altius 
+        <lb ed="#V" n="101"/>fide infunditur doctoribus theologie de lege communi. igitur 
+        do<lb ed="#V" n="102" break="no"/>ctores theoi firmius adherent creditis quam quicumque 
+        sim<lb ed="#V" n="103" break="no"/>plex fidelis: cuius oppositum docet experientia: consequentia patet: 
+        <lb ed="#V" n="104"/>quia simplex fidelis adheret per solam fide. hi autem preter 
+        fi<lb ed="#V" n="105" break="no"/>dem habeunt de credibilibus notitiam euidentem. Secundo sic 
+        <lb ed="#V" n="106"/>sequitur: aliquod lumen altius fide infunditur docto. 
+        theo<lb ed="#V" n="107" break="no"/>de lege communi. igitur ad assentiendum creditis non est eis fides 
+        <lb ed="#V" n="108"/>necessaria: cuius oppositum de quocumque viatore omntensum 
+        <lb ed="#V" n="109"/>est super: et patet per beatum Aug. 13. de tri c. 465 de par. vbi 
+        <lb ed="#V" n="110"/>dicit: quod necessaria est fides. vt beatitudine 
+        consequa<lb ed="#V" n="111" break="no"/>mur. consequentia clara est quia ad assentiendum scito non est fides 
+        <lb ed="#V" n="112"/>necessaria. sed in tali lumine veritates credite 
+        do<lb ed="#V" n="113" break="no"/>ctoribus theologie sunt vere scite per ponentes ipsum: igitur. 
+        <lb ed="#V" n="114"/>Confirmatur: quia ad assentiendum scito in lumine naturali non est 
+        fi<lb ed="#V" n="115" break="no"/>des necessaria. igitur multo minus ad assentiendum scito in 
+        <lb ed="#V" n="116"/>lumine supernaturalio consequentia patet: quia lumen supernarale de cuius ratione est 
+        <lb ed="#V" n="117"/>facere notitiam euidentem et scientifica scientiam proprie dictam 
+        <lb ed="#V" n="118"/>non est minoris virtutis et efficacie. immo maioris lumine 
+        <lb ed="#V" n="119"/>naturali. Ista videtur intentio beati Aug. secundo. de doc. 
+        chri<lb ed="#V" n="120" break="no"/>stiana. c. vbi dicit quod scriptura sacra non asserit nisi 
+        <lb ed="#V" n="121"/>fidem. igitur in doctoribus tantum est lumen. fidei. igitur non altius 
+        <lb ed="#V" n="122"/>Et glosct super illo verbo 2. ad corin. 5o dum sumus in 
+        cor<lb ed="#V" n="123" break="no"/>pore pegrinamur a domino per fidem. enim abulamus etc. dicit 
+        <lb ed="#V" n="124"/>quod mo per sidem tantum illuminamur. igitur altius lumen de 
+        <lb ed="#V" n="125"/>lege communi doctoribus non infunditur. Et vlterius non videtur 
+        <lb ed="#V" n="126"/>consonum rationi: quod tale lumen doctoribus infundatur de 
+        lege<lb ed="#V" n="127" break="no"/>communi: et de ipso non fiat spatalis mentio in scriptura. 
+        Se<lb ed="#V" n="128" break="no"/>cunda conclusio est: quod ex dictis istius doc:. sequitur: quod 
+        lumen<lb ed="#V" n="129" break="no"/>sidei non compatiatur simul in doctore thelogie cum isto lumine me 
+        <lb ed="#V" n="130"/>dio cuius oppositum tamen intendit: probatur: si tale lumen medium 
+        <lb ed="#V" n="131"/>simul esset in doc. theologie cum lumine fidei: sequeretur: quod quanto 
+        <lb ed="#V" n="132"/>qui resset maior theologus: tanto minus haberet de 
+        lu<lb ed="#V" n="133" break="no"/>mine fidei: et per consequens minus crederet: consequens  falsum 
+        <lb ed="#V" n="134"/>igitur et antecedens: falsitas consequentis patet: quia fides isnmobis est 
+        <lb ed="#V" n="135"/>meritoria: igitur quo remissius credit minus meretur. Et 
+        <lb ed="#V" n="136"/>sic quanto quis esset maior theologus minus mereretur in 
+        <lb ed="#V" n="137"/>credendo: quod non videtur bene dictum: consequentia probatur: quia non fit 
+        <lb ed="#V" n="138"/>accessus ad vnum contriorum nisi per recessum ab altero in
+        <pb ed="#V" n="19-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>aliquo gradu. non enim acceditur ad caliditatem nisi per 
+        reces<lb ed="#V" n="2" break="no"/>sum a frigiditate: quia quanto quis magis accedit ad 
+        ca<lb ed="#V" n="3" break="no"/>liditate tanto minus participat de frigiditate. Sed 
+        lu<lb ed="#V" n="4" break="no"/>men fidei et lumen glorie secundum istum doc. opponuntur sicut 
+        <lb ed="#V" n="5"/>duo coStraria in suis excellentiis: igitur quato quis magis 
+        <lb ed="#V" n="6"/>accedit ad lumen glorie: tanto minus participat de 
+        lumi<lb ed="#V" n="7" break="no"/>ne fidei. Sed stante supposito: quanto quis est maior 
+        <lb ed="#V" n="8"/>theologus tato magis accedit ad claritatem luminis 
+        <lb ed="#V" n="9"/>glorie: et magis participat de lumine medio: et 
+        medi<lb ed="#V" n="10" break="no"/>um magis accedit ad naturam extremi vnius: quam vnum 
+        ex<lb ed="#V" n="11" break="no"/>tremum ad naturam alterius. ergo etc. Et confirmatur: per 
+        ex<lb ed="#V" n="12" break="no"/>emplum suum: quia sicut lux aurore partim expellit tene 
+        <lb ed="#V" n="13"/>nebram secundum eum et veritatem: et quanto lux aurore magis 
+        <lb ed="#V" n="14"/>intenditur tanto tenebra magis remittitur Sed lumen 
+        il<lb ed="#V" n="15" break="no"/>lud medium partim expellit fidem et quanto lumen istud 
+        <lb ed="#V" n="16"/>fuerit intensius tanto fides erit remissior. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e1935">
+        
+        Prete<lb ed="#V" n="17" break="no"/>rea: quando vnum extremum non est compossibile cum alio: nec 
+        <lb ed="#V" n="18"/>cum medio: vel saltem quanto mediu magis accedit 
+        ad<lb ed="#V" n="19" break="no"/>naturam illius extremi: tanto illud in quo compatitur magis 
+        <lb ed="#V" n="20"/>remittitur. Exemplum: si frigidum non est compossibile cum 
+        cali<lb ed="#V" n="21" break="no"/>do: nec cum tepido: vel saltem quanto tepidum magis 
+        ac<lb ed="#V" n="22" break="no"/>cedit ad naturam calidi: tanto frigidum siue frigiditas 
+        <lb ed="#V" n="23"/>magis remittitur. Sed lumen fidei non compatitur simuil in 
+        eo<lb ed="#V" n="24" break="no"/>dem cum glorie lumine secundum eum. igitur nec cum illo lumine me 
+        <lb ed="#V" n="25"/>dio: vel saltem quanto illud lumen medium magis 
+        acce<lb ed="#V" n="26" break="no"/>dit ad natura luminis glorie tanto lumen fidei magis 
+        <lb ed="#V" n="27"/>remittitur: et per consequens quanto quis esset maior theologus 
+        <lb ed="#V" n="28"/>tanto minus haberet de lumine fidei: quia tanto illud 
+        lumen<lb ed="#V" n="29" break="no"/>medium magis accederet in ipso ad naturam luminis 
+        <lb ed="#V" n="30"/>glorie. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e1969">
+        Tertia conclusio est: quod simipliciter est impossibile et 
+        con<lb ed="#V" n="31" break="no"/>tr adictionem implicat: quod doc. theologus siml credat 
+        <lb ed="#V" n="32"/>et scientiat conclusiones theologicas esse veras. Est tamen hic 
+        <lb ed="#V" n="33"/>aduertendum: quod per istam conclusionem non intendo negare: quod 
+        <lb ed="#V" n="34"/>habitus fidei et scientie non sintr compossibiles in eodem: nec etiam 
+        <lb ed="#V" n="35"/>quod actus fidei et scientie non sint compossibiles in eodem: 
+        saltem<lb ed="#V" n="36" break="no"/>de potentia dei absoluta: dum tamen habens ipsos per actum 
+        fi<lb ed="#V" n="37" break="no"/>dei non credat: vel per actum sciendi non sciat: sicut alias 
+        <lb ed="#V" n="38"/>fuit dictum: Sed volo tantum probare: quod simpliciter est impossibile: 
+        <lb ed="#V" n="39"/>quod doc. theologus vel alius quicumque simls credat et sciat 
+        <lb ed="#V" n="40"/>scientia proprie dicta conclusionem aliquam esse veram: cuius tamen 
+        <lb ed="#V" n="41"/>oppositum a sserit iste doctor. probatur. Primo sic: fides 
+        <lb ed="#V" n="42"/>est de non apparentibus tantum: igitur simpliciter est 
+        impossibi<lb ed="#V" n="43" break="no"/>le et contradictionem implicatur: quod aliquis simul credat et 
+        sci<lb ed="#V" n="44" break="no"/>at conclusionem aliqua esse vera: consequentia est non: quia vbi est 
+        sci<lb ed="#V" n="45" break="no"/>re: ibi est euidentia: et sic apparentia respectu sciti: antecedens 
+        <lb ed="#V" n="46"/>est magistri libo. 3 dicit 13. c. 7. vbi sic ait. nondum quoque 
+        <lb ed="#V" n="47"/>est: quod fides proprie de non apparentibus tantum est. Et 
+        pro<lb ed="#V" n="48" break="no"/>batur. primo auctoritate. b. Greg. in quadam homelia dicit quod 
+        <lb ed="#V" n="49"/>apparentia non habeunt fidem sed cognitionem. Secundo 
+        aucto<lb ed="#V" n="50" break="no"/>ritate eiusdem. dicit in dialogo: quod veracitur dicitur credem: quod 
+        <lb ed="#V" n="51"/>non valet videri: natura credi iam non potest quod videri potest. 
+        <lb ed="#V" n="52"/>Tertio auctoritate. b. Aug. 13. de tri. c. 3. vbi dicit 
+        <lb ed="#V" n="53"/>de par. quod illud quod credem iubemur vide non possimus 
+        <lb ed="#V" n="54"/>Et probat hoc. b. Aug. per diffinitionem fidei datam ab 
+        <lb ed="#V" n="55"/>apostolo. Quarto auctoritate eiusdem super Io. vbi 
+        <lb ed="#V" n="56"/>sic ait: credimus vt cognoscamus: non cognoscimns 
+        <lb ed="#V" n="57"/>vt credamus: quid est enim fides nisi credere: quod non 
+        vi<lb ed="#V" n="58" break="no"/>des et concludit immediate magister: fides ergo est: quod non 
+        <lb ed="#V" n="59"/>vides credem. veritas quod credidisti videre: vnde 
+        recte<lb ed="#V" n="60" break="no"/>fides est: quod dicitur argumentum rerum non apparentium: quia si 
+        <lb ed="#V" n="61"/>fides est exlseo conuincitur. et probatur aliqua esse non apparentia 
+        <lb ed="#V" n="62"/>cum fides non sit nisi de apparentibus ergo etc. Secundo 
+        <lb ed="#V" n="63"/>sic: simpliciter est impossibile et contradictionem implicat: quod 
+        ali<lb ed="#V" n="64" break="no"/>quis simlis possit non assentire. et non possit non 
+        assenti<lb ed="#V" n="65" break="no"/>re eidem dusioni. sed conclusioni scite nullus potest non 
+        as<lb ed="#V" n="66" break="no"/>sentire: hoc patet: quia conclusio scita est demonstrata: et 
+        con<lb ed="#V" n="67" break="no"/>clusioni demonstrate nullus potest non assentire cum 
+        demodo<lb ed="#V" n="68" break="no"/>stratio resoluat vsque ad per se nota. conclusioni vero 
+        cre<lb ed="#V" n="69" break="no"/>dite quilibet potest non assentire: quia cetera potest homo no¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>lens. credere autem non nisi volens secundum Aug: igitur etc. Et 
+        <lb ed="#V" n="71"/>confirmatur in proposito quoniam quicumque doctor theologus 
+        po<lb ed="#V" n="72" break="no"/>test fieri hebeticus. igitur quilibet potest conclusionibus 
+        cre<lb ed="#V" n="73" break="no"/>ditis dissentire. Sed ad istas rationes respondere nititur 
+        qui<lb ed="#V" n="74" break="no"/>dam doctor non oster licet non addducat eas sub 
+        ista<lb ed="#V" n="75" break="no"/>forma¬ Thomas de argentina in prolo. i. q. 3. ar. i. 
+        <lb ed="#V" n="76"/>Ad primam dicit: quod ad hoc: quod aliqua sint contradictoria 
+        <lb ed="#V" n="77"/>non sufficit: quod sumantur respectn eiusdem. sed etiam omne: quod 
+        <lb ed="#V" n="78"/>sumantur secundum idem. Et ideo licet euidens secundum scientiam contradicat 
+        <lb ed="#V" n="79"/>non euidenti secundum scientiam: euidens tamen secundum scientiam non 
+        repu<lb ed="#V" n="80" break="no"/>gnat non euidenti secundum fidem: et ex his videtur: quod consequentia illius 
+        ratio<lb ed="#V" n="81" break="no"/>nis sit nulla. Ad secundam dicit. quod possibile non 
+        assen<lb ed="#V" n="82" break="no"/>tire et non possibile non assentire non contradicunt: nisi 
+        sumam<lb ed="#V" n="83" break="no"/>tur secundum enndem habitum. 
+        <lb ed="#V" n="84"/>Contra thomam de argentina 
+        <lb ed="#V" n="85"/>Sed iste solutiones non satisfaciunt vt videtur: non 
+        quiden<lb ed="#V" n="86" break="no"/>prima: quia quod nullo modo est euidens alicui non est ei euidens 
+        <lb ed="#V" n="87"/>secundum scientiam. sed quod est ineuidens alicui secundum fidem: nullo modo 
+        <lb ed="#V" n="88"/>est euidens illio igitur quod est ineuidens alicui secundum fidem: non 
+        <lb ed="#V" n="89"/>est ei euidens secundum scientiam. maior est euidens. minor probatur 
+        <lb ed="#V" n="90"/>quia vel illud: quod est ineuidens alicui secundum fidem est aliquo 
+        <lb ed="#V" n="91"/>modo apparens ei: vel non. Si non: propositum. Si sic: 
+        fi<lb ed="#V" n="92" break="no"/>des non erit: de non apparentibus tantum: quod est contra 
+        magi<lb ed="#V" n="93" break="no"/>strum superius allegatum. Sed forte diceretur: quod fides dicitur 
+        <lb ed="#V" n="94"/>de non apparentibus tantum: quia quod creditur non apparet per 
+        <lb ed="#V" n="95"/>actum credendi: potest tamen apparere per alium actum. Ista 
+        <lb ed="#V" n="96"/>tamen euasio est nulla: et contra intellectum magistri et 
+        sancto<lb ed="#V" n="97" break="no"/>rum: quod patet: primo: quia si fides dicitur de non apparentibus tantum: 
+        <lb ed="#V" n="98"/>quia quod creditur non apparet per actum credendi: pari 
+        ratio<lb ed="#V" n="99" break="no"/>ne dilectio erit de non apparentibus tantum: quia quod 
+        diligi<lb ed="#V" n="100" break="no"/>tur non apparet per actu diligendi: quod nullus diceret 
+      </p>
+               <p xml:id="at8va9-e04861-d1e2125">
+                  <lb ed="#V" n="101"/>Preterea: vel necessario sequitur: hoc credit. ergo 
+        <lb ed="#V" n="102"/>aliud est sibi non apparens: vel non. Si non: contra magistrum 
+        <lb ed="#V" n="103"/>qui dicit: quod si fides est: ex ea conuincitur et probatur aliqua 
+        <lb ed="#V" n="104"/>esse non apparentia. Si sic: et certum est: quod non nisi illud: quod 
+        <lb ed="#V" n="105"/>creditur: igitur quod creditur non solum non apparet per actum 
+        <lb ed="#V" n="106"/>credendi: sed absolute. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e2141">
+        Preterea: si illud: quod 
+        cre<lb ed="#V" n="107" break="no"/>ditur potest apparere per actum alium: poterit videri per 
+        <lb ed="#V" n="108"/>alium actum: quod est expresse contra b. Aug. superius 
+        alle<lb ed="#V" n="109" break="no"/>gatum: qui dicit: quod illud: quod credere iubemur videre 
+        <lb ed="#V" n="110"/>non possimus. Et contra b. Grego: quod credi iam non potest: 
+        <lb ed="#V" n="111"/>quod videri potest. Et confirmatur: quia de visis. non est fides: 
+        <lb ed="#V" n="112"/>igitur: quod creditur non videtur. nec per actum credendi. nec per 
+        <lb ed="#V" n="113"/>actum videndi distinctum ab actu credendi: consequentia est 
+        nota<lb ed="#V" n="114" break="no"/>antecedens patet ex dictis: patet etiam per chriso. super illo verbo ad 
+        he<lb ed="#V" n="115" break="no"/>bre. 11. fides est sopam rerum sperandarum. argumentum non 
+        <lb ed="#V" n="116"/>apparentium. Et habetur in gloria. vbi sic ait. de his quae non 
+        <lb ed="#V" n="117"/>videntur proprie fides est: de visis enim non est fides. sed 
+        agni<lb ed="#V" n="118" break="no"/>tio. Et quia illud verbum saluatoris: quia 
+        vidisti<lb ed="#V" n="119" break="no"/>me. thoma credidisti videtur sonare oppositum: sta 
+        <lb ed="#V" n="120"/>tim subditur: thomas enim cui dictum est: quia 
+        vidi<lb ed="#V" n="121" break="no"/>sti me credidisti non hoc credidit: quod vidit sed aliud 
+        <lb ed="#V" n="122"/>vidit aliquod credidit vidit enim hominem: credidit deum. Et 
+        <lb ed="#V" n="123"/>hec verba adducit magister ad probandum: quod fides est 
+        <lb ed="#V" n="124"/>de non apparentibus tantum: qua non oporteret adducere si: quod 
+        <lb ed="#V" n="125"/>crederet posset per alium actum videri 
+      </p>
+               <p xml:id="at8va9-e04861-d1e2185">
+        Preterea: ista 
+        <lb ed="#V" n="126"/>consequentia est nulla: istud non apparet per actum credendi. igitur non 
+        <lb ed="#V" n="127"/>apparet. igitur exponere magistrum. dicit absolute: quod 
+        fi<lb ed="#V" n="128" break="no"/>des non apparet per actum crededi est loqui ad placitum et in 
+        <lb ed="#V" n="129"/>ponem magistro quod non intellexerit significata 
+        vocabulo<lb ed="#V" n="130" break="no"/>rum. patet igitur quod prima ratio non est soluta. Nec secunda videtur solui: 
+        <lb ed="#V" n="131"/>Cuius gratia est aduertendum quod aliqud est dicem: huic 
+        veri<lb ed="#V" n="132" break="no"/>tati non assentio per istum habitu: et huic veritati 
+        possu<lb ed="#V" n="133" break="no"/>non assentire. hoc patet: quia perse noto non assentio per habitum 
+        <lb ed="#V" n="134"/>credulitatis: cum non sit habitus cognitiuus. et tamen perse non. non post 
+        <lb ed="#V" n="135"/>su non assentire: quia licet non assentiam ei per habitum credulitatis 
+        <lb ed="#V" n="136"/>tamen assentio necessario tunc sic: licet non sit impossibile quod ei 
+        <lb ed="#V" n="137"/>dem veritati assentiam per vnum habitum: et non assentiam per habitum 
+        <lb ed="#V" n="138"/>alium vt patet ex dictis: tamen simpliciter est impossibile et contdictio¬
+        <pb ed="#V" n="19-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>nem implicat. siue per eundem habitum siue per alios diuersos: quod 
+        <lb ed="#V" n="2"/>eide veritati simul. possim assentire et non assentire ab 
+        <lb ed="#V" n="3"/>solute. hoc patet: quia licet non sit impossibile quod eandem rem 
+        vide<lb ed="#V" n="4" break="no"/>am per actu vio endi et non per actum audiendi: tamen 
+        sim<lb ed="#V" n="5" break="no"/>pliciter est impossibile et contradictionem implicat: quod eandem rem 
+        <lb ed="#V" n="6"/>possit videre simul: et no videre absolute. Ro istius est: 
+        <lb ed="#V" n="7"/>quia non sequitur non video rem istam per actum videndi ergo non 
+        <lb ed="#V" n="8"/>video ipsam: sed cuicumque credito possum non assentire 
+        ab<lb ed="#V" n="9" break="no"/>solute: aliter credito non assentire libere: quod est contra b. 
+        <lb ed="#V" n="10"/>Aug. sumperius allegatum. Et euidenter scito non possum 
+        <lb ed="#V" n="11"/>non assentire: igitur simpliciter est impossibile et contradictio 
+        <lb ed="#V" n="12"/>nem implicat ide simul esse creditum et scitum. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e2246">
+        Preterea: 
+        <lb ed="#V" n="13"/>omni conclusioni credite possum non assentire non solum 
+        contradi<lb ed="#V" n="14" break="no"/>ctorie: sed corie credendo scilicet conclusionem oppositam esse 
+        ve<lb ed="#V" n="15" break="no"/>ram: aliter catholicus non posset fieri heticus: sed 
+        con<lb ed="#V" n="16" break="no"/>clusioni scite non possum non assentire: sic quod credam 
+        <lb ed="#V" n="17"/>conclusione opposita. esse veram igitur conclusio scita non potest esse 
+        cre<lb ed="#V" n="18" break="no"/>dita. patet igitur rationes illas non esse solutas. et per consequens 
+        <lb ed="#V" n="19"/>manet illa conclusio. valet quod simpliciter est impossibile et 
+        con<lb ed="#V" n="20" break="no"/>tradictionem implicat: quod doctor theologus simul credat: 
+        <lb ed="#V" n="21"/>et scieiat conclusiones theologicas esse veras. Et 
+        quili<lb ed="#V" n="22" break="no"/>bet doctor theologus credit conclusiones theologicas 
+        <lb ed="#V" n="23"/>esse veras. sequitur: quod thelogia reuelata in doctoribus 
+        <lb ed="#V" n="24"/>non sit scientia proprie dicta in tali lumine medio sicut 
+        ima<lb ed="#V" n="25" break="no"/>ginatur ille doctor.
+      </p>
+               <p xml:id="at8va9-e04861-d1e2277">
+        Responsio ad rationes henrici. 
+        <lb ed="#V" n="26"/>Restat igitur respondem ad motia ipsius. Et primo ad 
+        aucto<lb ed="#V" n="27" break="no"/>ritatas: quibus probare nititur tale lumen medium doctori 
+        <lb ed="#V" n="28"/>bus infundi: pro quarum solutione nonndum. quod lumen 
+        acci<lb ed="#V" n="29" break="no"/>pitur dupliciter a doctoribus: essentialiter scilicet et 
+        simili<lb ed="#V" n="30" break="no"/>tudinarie. Et isto secundo modo omnis habitus: quo nobis 
+        ali<lb ed="#V" n="31" break="no"/>quid manifestatur appellatur lumen: quia in hoc quod est 
+        ma<lb ed="#V" n="32" break="no"/>nifestare conuenit cndu lumine proprie dicto. Ad 
+        propo<lb ed="#V" n="33" break="no"/>situm: dico quod b. Aug per lumen illud: quo maiores 
+        illu<lb ed="#V" n="34" break="no"/>minantur vt fidem valeant defendere et declarare per 
+        <lb ed="#V" n="35"/>telligit habitum theologie secundo et tertio modo sumptum: de quid 
+        <lb ed="#V" n="36"/>bus dictum est in primo ar. q. 2. Ei quod ista sit intentio beati 
+        <lb ed="#V" n="37"/>Aug. patet per eum 14 de tri. c. 1. vbi dicit quod hac scientia non 
+        <lb ed="#V" n="38"/>pollent fideles plurimi quamuis polleant ipsa fide pluri 
+        <lb ed="#V" n="39"/>mi: ergo etc. minores enim sciunt saltem 
+        implici<lb ed="#V" n="40" break="no"/>te: quod homo credere debeat: maiores vero sciut quem 
+        <lb ed="#V" n="41"/>admodum hoc ipsum piis opituletur. et contra impios 
+        defen<lb ed="#V" n="42" break="no"/>datur. et per consequens sciunt fidem declarare et defendere: 
+        pro<lb ed="#V" n="43" break="no"/>ut viatoribus est possibile de lege communi: verum quia isti 
+        hbi<lb ed="#V" n="44" break="no"/>tus possunt haberi vel per acquisitionem. vel per 
+        in<lb ed="#V" n="45" break="no"/>fusionem eodem modo quo b. Aug. et multi alii sancti 
+        do<lb ed="#V" n="46" break="no"/>ctores habuerunt non dubito quia spiitum sancto inspirati 
+        <lb ed="#V" n="47"/>locuti sunt sancti dei homines. Iccirco dicebat. b. Aug. 
+        <lb ed="#V" n="48"/>credimus vt intelligere mereamur iam non hominibus sed 
+        <lb ed="#V" n="49"/>ipso deo intrinsecus illustrante. Et sic patet quid dicendum 
+        <lb ed="#V" n="50"/>ad illas et ad omnes consimiles auctoritates. Ad 
+        ratio<lb ed="#V" n="51" break="no"/>nes etiam patet: quod supponunt tale medium lumen doctoribus 
+        <lb ed="#V" n="52"/>infuudi de lege communi: et ideo non concludunt. Ad 
+        auctorita<lb ed="#V" n="53" break="no"/>tes: quibus probare nititur theologiam esse scientiam proprie 
+        di<lb ed="#V" n="54" break="no"/>ctam: patet inspicienti: quod accipiunt scientiam large. vel loquum 
+        <lb ed="#V" n="55"/>tur de theologia tertio modo sumpta: de qua in quarta 
+        con<lb ed="#V" n="56" break="no"/>clusione posui quod est scientia proprie dicta. Tertia opintio: 
+        <lb ed="#V" n="57"/>quam inuenio contra conclusionem prodictam ponit quod theologia 
+        re<lb ed="#V" n="58" break="no"/>uelata est in nobis scientia pro prie dicta: quia articuli 
+        fider<lb ed="#V" n="59" break="no"/>ex quibus procedit: sunt nobis naturaliter per se noti vel ex per se 
+        <lb ed="#V" n="60"/>deducti: sed quia aliqua de ratione eius fuerunt adducte contra primam 
+        <lb ed="#V" n="61"/>conclusionem et alie adducentur contra tertiam pro nunc 
+        <lb ed="#V" n="62"/>dimitto eam. Opinio Iacobi de appamis. 
+        <lb ed="#V" n="63"/>Quarta vero ponit: quod theologia reuelata est fidelibus 
+        <lb ed="#V" n="64"/>scientia proprie dicta: quia articuli fidei ex quibus. procedit 
+        <lb ed="#V" n="65"/>tamquam ex principiis sunt fidelibus euidenter noti: non 
+        quiden<lb ed="#V" n="66" break="no"/>in lumine naturali: nec in aliquo lumine medio 
+        inte<lb ed="#V" n="67" break="no"/>lumen fidei et lumen glorie: sicut precedentes opiniones. 
+        <lb ed="#V" n="68"/>ponebant. sed potius in lumine fidei. Et vt clarius 
+        de<lb ed="#V" n="69" break="no"/>claretur videatur primo modus ponendi. 2o. confirmabitur rationibus
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>quibus mouentur. Quantum ad primum: modus ponenda 
+        <lb ed="#V" n="71"/>potest reduci ad quatuor puncta. Primus est: quod sicut 
+        bea<lb ed="#V" n="72" break="no"/>ti in patria dupliciter cognoscunt creaturas: valet in proprio 
+        <lb ed="#V" n="73"/>genere mediante lumine naturali et in verbo mediante 
+        lu<lb ed="#V" n="74" break="no"/>mine glorie. Sic fideles in via dupliciter cognoscunt 
+        <lb ed="#V" n="75"/>articulos fidei scilicet naturaliter et supernaturaliter. 
+        naturali<lb ed="#V" n="76" break="no"/>ter quidem mediantelumine naturali: supinaturaliter me 
+        <lb ed="#V" n="77"/>diante lumine fidei. Secundus punctus est: quod sicut 
+        eo<lb ed="#V" n="78" break="no"/>gnitio. qua beatus cognoscit creaturas in proprio genere 
+        <lb ed="#V" n="79"/>mediante lumine naturali est imperfecta: et quasi obscura: sic 
+        <lb ed="#V" n="80"/>et cognitio qui viator cognoscit artieulos fidei naturaliter si 
+        <lb ed="#V" n="81"/>ue in lumine naturali est enignatica et imperfecta. Et ad istum 
+        <lb ed="#V" n="82"/>sensum exponunt omnes auctoritates dicentes sidem esse de non 
+        <lb ed="#V" n="83"/>visis et non apparentibus: quia cognitio naturalis de credibili 
+        <lb ed="#V" n="84"/>bus est enigmatica et obscura: Tertius punctus est: 
+        <lb ed="#V" n="85"/>quod sicut cognitio qua beatus cognoscit creaturas 
+        ver<lb ed="#V" n="86" break="no"/>bo mediante lumie glorie est euidens et clara: sic et 
+        co<lb ed="#V" n="87" break="no"/>gnitio supernaturalis qua viator cognoscit articulos 
+        fi<lb ed="#V" n="88" break="no"/>dei in luine fidei est clara et euidens viatori. Quartus 
+        <lb ed="#V" n="89"/>puctus est. quod licet fides de credibilibus faciat fideli 
+        no<lb ed="#V" n="90" break="no"/>titiam euidentem: infidelem tamen non possumus euidentur 
+        con<lb ed="#V" n="91" break="no"/>uincere: ratio istius est: quia infidelis non participat cum 
+        <lb ed="#V" n="92"/>fideli in lumine fidei. et nullus posset ab alio euidenter 
+        <lb ed="#V" n="93"/>puinci ad assentiendum alicui conclusioni: nisi participet 
+        <lb ed="#V" n="94"/>secum in lumine: quo mediante conclusio illa est enidentr non 
+        <lb ed="#V" n="95"/>infidelem igitur non possumus euidentur conuincere: sed 
+        fide<lb ed="#V" n="96" break="no"/>li vt docnunt possumus demonstrare. et sic theologia erit fid 
+        eli<lb ed="#V" n="97" break="no"/>bus demonstratiua et per consequens scientia proprie dictura. et sic patet 
+        <lb ed="#V" n="98"/>modus ponendi. Qnantum ad secundum: conclusio 
+        princi<lb ed="#V" n="99" break="no"/>palis probatur dupliciter: Primo sic: in essentialiter 
+        ordina<lb ed="#V" n="100" break="no"/>tis: sicut suprmum: medium et infimum: quicquid perfectionis simul 
+        <lb ed="#V" n="101"/>et coniunctim competit infimo et suprmo: competit et medio. ho 
+        <lb ed="#V" n="102"/>patet: de vegetatiuo: sensitiuo et intellectiuo essentialiter or 
+        <lb ed="#V" n="103"/>dinato: et similibus. Sed lumen glorie et lumen fidei: et 
+        lu<lb ed="#V" n="104" break="no"/>m intellectus agentis essentialiter ordinantur: sicut supremum 
+        <lb ed="#V" n="105"/>medium et infimum: ergo quicquid perfectionis simul et coniunctim 
+        <lb ed="#V" n="106"/>competit lumini intellectus agentis: et lumini glorie: 
+        compe<lb ed="#V" n="107" break="no"/>tit lumini fidei Sed constat: quod facere principia euidentia sic 
+        <lb ed="#V" n="108"/>quod ex ipsis deducatur conclusio scira scientia proprie dicta est per 
+        <lb ed="#V" n="109"/>fectionis et competit simul et coniunctim lumini intellectus agentis 
+        <lb ed="#V" n="110"/>et lumini glorie igitur et lumini fidei: minor declaratur 
+        <lb ed="#V" n="111"/>quia quod lumen glorie sit supremum ab omnibus est concessum: sed 
+        <lb ed="#V" n="112"/>quod lumen fidei sit medium probatur: quia vel est maioris perfectio 
+        <lb ed="#V" n="113"/>nis: quam lumen intellectus agentis. vel equalis: vel mino 
+        <lb ed="#V" n="114"/>ris: non equalis. quia tunc essent eiusdem rationis. et sic 
+        incon<lb ed="#V" n="115" break="no"/>possibiles in eodem ex 5o metaphisice: nec maioris: quia 
+        <lb ed="#V" n="116"/>tunc frustra infunderetur: cum lumen perfectius possit quicquid 
+        <lb ed="#V" n="117"/>potest inperfectius. ergo minor. Et confirm atur: quia lumen fidei 
+        <lb ed="#V" n="118"/>non compatitur secum aliquem errorem. lumen vero intellectus 
+        <lb ed="#V" n="119"/>agentis sic. ergo est perfectius eo. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e2486">
+        Secundo sic: vel lumen fidei 
+        <lb ed="#V" n="120"/>ponitur in nobis vt faciat principia nostri habitus theologici 
+        <lb ed="#V" n="121"/>euidentia: vel ad firmiter ad herendum veritatibus 
+        theo<lb ed="#V" n="122" break="no"/>logicis vel vt assensum faciat meritorium. Non propter sensum: 
+        <lb ed="#V" n="123"/>tum quia non est de ratione luminis inclinare ad assentien 
+        <lb ed="#V" n="124"/>dum sed tantum esse illud sub quo aliquid videtur: tum quia omnem assensum 
+        <lb ed="#V" n="125"/>quem habet fidelis in lumine fidei potest here infidelis: sicu 
+        <lb ed="#V" n="126"/>patet de puero in fideli nutrito inter christianos qua per 
+        fi<lb ed="#V" n="127" break="no"/>dem acquisitam ita assentit veritatibus theologicis vt esset 
+        <lb ed="#V" n="128"/>peratus morin pro illis: sicut fidelis cum lumine fidei: tum 
+        <lb ed="#V" n="129"/>quia errans in vno articulo ammittit fidem infusam. vt 
+        communi<lb ed="#V" n="130" break="no"/>ter tenetur et tamen firmiter assentit ceteris. Nec propter 
+        ter<lb ed="#V" n="131" break="no"/>tium: tum quia quod facur actum meritorium non stat cum pecato mor 
+        <lb ed="#V" n="132"/>tali lumen autem fidei sic: tum quia sola charitas facure actum 
+        <lb ed="#V" n="133"/>meritorium tum quia si lumen fidei propter euidentiam: faceret 
+        ac<lb ed="#V" n="134" break="no"/>tum meritorium eadem ratione et lumen intellectre agentis: cum 
+        <lb ed="#V" n="135"/>articuli fidei in tali lumine sint ineuidentes. quod non 
+        con<lb ed="#V" n="136" break="no"/>ceditur: relinquitur ergo primum et sic propositum: quia se 
+        <lb ed="#V" n="137"/>principia theologie sunt nobis euidentia. igitur ex ipsis 
+        <lb ed="#V" n="138"/>deducitur conclusio scita scientia proprie dicta. Ista con¬
+        <pb ed="#V" n="20-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>clusio firmatur auctoritate ricar. in principio libro sui de 
+        <lb ed="#V" n="2"/>tri. vbi dicit: quod sicut philsio. illustratillumie naturali: peruenerut 
+        <lb ed="#V" n="3"/>ad cognitione naturalium ita ter heol lumine fidei illuminati 
+        <lb ed="#V" n="4"/>possunt atttingere ad cognitionem credendorum. 
+        <lb ed="#V" n="5"/>Contra Iacobum de appamis. 
+        <lb ed="#V" n="6"/>Ista opino quamuis sit satis pulchra: multa ponit qua non 
+        <lb ed="#V" n="7"/>reputo vera: capio tamen duas conclusiones tantum. Prima 
+        <lb ed="#V" n="8"/>est: quod fides de credibilibus facit viatoribus euidentiam et ab 
+        <lb ed="#V" n="9"/>ista dependet opinino sundamentaliter. Secunda est: quod 
+        lumen<lb ed="#V" n="10" break="no"/>fidei non inclinat ad assentiendum veritatibus theologicis: 
+        <lb ed="#V" n="11"/>Et pono duas conclusiones oppositas: Est igitur. 
+        <lb ed="#V" n="12"/>Prima conclusio: quod fides de credibilibus non facit 
+        via<lb ed="#V" n="13" break="no"/>tor ibus euidentiam. Ista conclusio satis patet ex predictis: quia 
+        <lb ed="#V" n="14"/>fides est de non apparentibus tantum: igitur non facit de 
+        credi<lb ed="#V" n="15" break="no"/>bilibus euidentiam. Nec valet gloria. istius doc. quae dicit 
+        <lb ed="#V" n="16"/>quod fides est de visis: et non apparentibus: quia 
+        cognitio<lb ed="#V" n="17" break="no"/>naturalis de credibilibus est obscura et imperfecta. primo quia 
+        pa<lb ed="#V" n="18" break="no"/>ri ratione cognitio beatifica esset de non visis: et non appare 
+        <lb ed="#V" n="19"/>tibus: quia cognitio naturalis eorum quae nos beatificant est 
+        <lb ed="#V" n="20"/>obscura et imperfecta: Ita cognitio creaturarum in 
+        ver<lb ed="#V" n="21" break="no"/>bo essent de non viss et non apparentibus: quia cognitio 
+        na<lb ed="#V" n="22" break="no"/>lis eorum quae cognoscuntur in proprio genere est obscura et 
+        <lb ed="#V" n="23"/>imperfecta per eum. hec autem et similia sunt 
+        absur<lb ed="#V" n="24" break="no"/>da. igitur illa expositio nulla 
+      </p>
+               <p xml:id="at8va9-e04861-d1e2586">
+        Preterea: glo est contra 
+        in<lb ed="#V" n="25" break="no"/>tentionem apostoli: et magistri. et sanctorum quod posset ad 
+        <lb ed="#V" n="26"/>duci per auctoritates. b. Aug. grego. et chriso. superius 
+        <lb ed="#V" n="27"/>adductas. Secundo et vltimo ad principale pro nunc 
+        <lb ed="#V" n="28"/>sic. Cuius actus est tantum credere eius non est 
+        euiden<lb ed="#V" n="29" break="no"/>tis cognoscere. hoc patet: quia credem non est euidentur 
+        cogno<lb ed="#V" n="30" break="no"/>scere. aliter quanto quis firmius crede ret euidentius 
+        <lb ed="#V" n="31"/>cognosceret: cuius oppositum patet in multi simplicibus: sed 
+        <lb ed="#V" n="32"/>contrstat. quod actus fidei est tantum credetr ergo: etc. Secunda 
+        con<lb ed="#V" n="33" break="no"/>clusio est: quod fides infusa inclinat ad assentiendum 
+        veri<lb ed="#V" n="34" break="no"/>tatibus theologicis: probatur: quia fides acquisita 
+        incli<lb ed="#V" n="35" break="no"/>nat ad assentiendum veritatibus theologicis. igitur 
+        <lb ed="#V" n="36"/>multo magis fides infusa inclinabat fidelem: consequentia est 
+        <lb ed="#V" n="37"/>non. quia fides infusa non est minoris vigoris immo maioris 
+        <lb ed="#V" n="38"/>infideli: quam fides acquisita infideli. antecedens est istius doc. 
+        <lb ed="#V" n="39"/>qui concedit vt patet in sua ratione. secunda quod puer infidesis 
+        <lb ed="#V" n="40"/>nutritus inter christianos per fidem acquisitam assentit 
+        ve<lb ed="#V" n="41" break="no"/>ritatibus theologicis. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e2625">
+        Secundo sic: fides infusa 
+        incli<lb ed="#V" n="42" break="no"/>nat ad credendum theologicas veritates. igitur ad 
+        assen<lb ed="#V" n="43" break="no"/>tiendum. antecedens patet: quia proprius actus eius est credere. et 
+        <lb ed="#V" n="44"/>habitus naturaliter inclinat ad proprium actum suum: et consequentia est 
+        <lb ed="#V" n="45"/>nota: quia credere est assentire. Ad hoc possunt adduci 
+        mul<lb ed="#V" n="46" break="no"/>te auctoritates: sed quia conclusio non videtur catholicis 
+        du<lb ed="#V" n="47" break="no"/>bia dimitto. Ex his et praesertim ex prima conclusione 
+        <lb ed="#V" n="48"/>patet: quod theologia reuelata non est fidelibus in lumine fidei 
+        <lb ed="#V" n="49"/>scientia proprie dicta: sicut iste doc. imaginatur. nec rationes 
+        <lb ed="#V" n="50"/>eius conuincunt. Ad primam igitur dico: quod quamuis 
+        lumen<lb ed="#V" n="51" break="no"/>fidei sit simpliciter nobilius lumine naturali intellectus 
+        agen<lb ed="#V" n="52" break="no"/>tis et in se et in ratione obiecti: non tamen in ratione euidentie: 
+        <lb ed="#V" n="53"/>quia de sui ratione non est facere euidentiam de obiecto: cum 
+        <lb ed="#V" n="54"/>eius obiectum sit non visum et non apparens vt patet ex 
+        <lb ed="#V" n="55"/>dictis. Nec probationes concludunt in isto sensu: non qui 
+        <lb ed="#V" n="56"/>dem prima: quia non proprie infunditur frustra: quia licet non 
+        fa<lb ed="#V" n="57" break="no"/>ciat euidentiam facit tamen adhesionem firmam sicut patet 
+        <lb ed="#V" n="58"/>per b. Aug. 8. de tri. c. 18. 7. i. Nec secunda: quia et si lum 
+        <lb ed="#V" n="59"/>fidei non compatitur secum aliquem: errorem: Ex hoc tamen non se 
+        <lb ed="#V" n="60"/>tur: quod sit perfectius lumine naturali in ratione 
+        euiden<lb ed="#V" n="61" break="no"/>tie. sed quod per ipsum non creditur nisi verum. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e2671">
+        Ad secundum: patet 
+        <lb ed="#V" n="62"/>ex secunda conclusione: quod lumen fidei ponitur ad firmiter 
+        ad<lb ed="#V" n="63" break="no"/>herendum veritatibus theologicis. nec probationes 
+        <lb ed="#V" n="64"/>conuincunt. Non quidem prima quia lumen fidei et est lumen et 
+        <lb ed="#V" n="65"/>est habitus cum sit virius theologica. inquantum lumen: est 
+        <lb ed="#V" n="66"/>illud sub quo aliquid videtur: inquantum habitus: inclinat 
+        <lb ed="#V" n="67"/>ad actum proprium. et hoc est credere. siue firmiter 
+        verita<lb ed="#V" n="68" break="no"/>tibus theologicis adherere. Nec secunda quia non sequitur 
+        <lb ed="#V" n="69"/>ichassentit et non per infusam fidem sed per acquisita. igi¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>fides infusa non inclinat. immo totum oppositum: quia si per 
+        <lb ed="#V" n="71"/>solam fidem acqiisitam inclinatur ad assentiendum multo 
+        <lb ed="#V" n="72"/>magis inclinareutur si haberet fidem infusam. Et per idem patet 
+        <lb ed="#V" n="73"/>quid dicendum. ad tertiam probationem Posset etiam concedi: 
+        <lb ed="#V" n="74"/>quod fides facit assensum mer torium: suppofita tamen 
+        cha<lb ed="#V" n="75" break="no"/>ritate: et ceteris quae necessario requiruntur ad 
+        meritum<lb ed="#V" n="76" break="no"/>et sic loquitur. b. Aug. 83. q. q. 58. vbi dicit quod ad 
+        creden<lb ed="#V" n="77" break="no"/>dum non merti sed gra vocamur: credendo aut 
+        meritu<lb ed="#V" n="78" break="no"/>comparamus. His igitur opinionibus exclusis remanet: 
+        <lb ed="#V" n="79"/>secunda conclusio cui opponuntur vt videtur. 
+        <lb ed="#V" n="80"/>Franciscus de marchia vbi supra. 
+        <lb ed="#V" n="81"/>Sed contra conclusionem princi palem: est opinio illa: quae ponit diei 
+        <lb ed="#V" n="82"/>quod theologia viatoris est scientia proprie dicta: quia articuli fidei 
+        <lb ed="#V" n="83"/>ex quibus procedit sunt nobis per se noti. vel ex per se 
+        <lb ed="#V" n="84"/>noti deducti in lumine naturali. Et vt clarius videatur. 
+        pri<lb ed="#V" n="85" break="no"/>declarabitur modus ponendi: secundo confirmabitur rationi¬
+      </p>
+               <p xml:id="at8va9-e04861-d1e2728">
+        ¶ 
+        <lb ed="#V" n="86"/>bus qubus mouetur. Modus ponendi potest 
+        redu<lb ed="#V" n="87" break="no"/>ci ad quatuor puncta. Primus est: quod aliud est 
+        demo<lb ed="#V" n="88" break="no"/>strare passionem de subiecto. et aliud demonstrare 
+        ve<lb ed="#V" n="89" break="no"/>ritatem propositionis de propositione: in qua passio 
+        conclu<lb ed="#V" n="90" break="no"/>ditur de subiecto: verbi gratia. aliud est demonstrare: quod 
+        <lb ed="#V" n="91"/>omnis homo est risibilis: et aliud est demonstrare: quod omnis homo est 
+        <lb ed="#V" n="92"/>risibilis sit vera: ratio huius est: quia in prima 
+        demonstra<lb ed="#V" n="93" break="no"/>tione concluditur risibilitas de homine quae est eius passio. in 
+        <lb ed="#V" n="94"/>secunda concluditur veritas de propositione quae est passio pro 
+        <lb ed="#V" n="95"/>positionis. Secundus punctus est: quod licet aliud sit demodo 
+        <lb ed="#V" n="96"/>strare passionem de subiecto. et aliud veritatem 
+        proposi<lb ed="#V" n="97" break="no"/>tionis de propositione in qua passio concluditur de supiecto 
+        <lb ed="#V" n="98"/>Iste tamen due demonstrationes se habent ad inuicem consequenter 
+        <lb ed="#V" n="99"/>quia quicumque demonstrat immediate: quod omnis homo sit 
+        risibi<lb ed="#V" n="100" break="no"/>is demonstrat ex consequinti: quod ista propositio omnis sodo est 
+        <lb ed="#V" n="101"/>risibilis sit vera. et conclusio demonstras immediate istam 
+        pro<lb ed="#V" n="102" break="no"/>positionem esse veram: demonstrat ex consequenti: quod risibile 
+        in<lb ed="#V" n="103" break="no"/>st homoni et sic de aliis. Tertius punctus est: quod 
+        veri<lb ed="#V" n="104" break="no"/>tas illius propositionis: deus est trinus et vnus: et 
+        cuius<lb ed="#V" n="105" break="no"/>libet alterius propositionis theologice est a viatore 
+        <lb ed="#V" n="106"/>demonstrabilis euidentur de propositione ipsa. non 
+        quiden<lb ed="#V" n="107" break="no"/>a priori et per causam sed aposteriori et per effectum. Et istud 
+        <lb ed="#V" n="108"/>supponatur pro nunc: quia in sequentibus declarabitur. 
+        <lb ed="#V" n="109"/>Quartus punctus est: quod veritate conclusa de illa 
+        pro<lb ed="#V" n="110" break="no"/>positione: deus est trinus et vnus: concluditur euidenter: non 
+        <lb ed="#V" n="111"/>quidem a priori: sed a posteriori predicatum 
+        proposi<lb ed="#V" n="112" break="no"/>tionis de subiecto scilicet esse trinum et vnum de deo. Ro 
+        isti<lb ed="#V" n="113" break="no"/>us est: quod iste due demonstrationes se consequuntur: vt 
+        <lb ed="#V" n="114"/>patet ex secundo puncto. vnde veritas conclusa de propositione 
+        <lb ed="#V" n="115"/>erit mediu et eausam ad concludendum predicatum propositionis 
+        <lb ed="#V" n="116"/>de subiecto a posteriori. et quia est. Et quod dictum est de 
+        isto<lb ed="#V" n="117" break="no"/>articulo intelligendum est de quolibet alio: et sic patet 
+        <lb ed="#V" n="118"/>quod quilibet articulus est a viatore demonstrabilis 
+        eui<lb ed="#V" n="119" break="no"/>dentur saltem a posteriori. Et per consequens ex ipsis potest de 
+        <lb ed="#V" n="120"/>duci conclusio scita scientia proprie dicta et sic patet modus 
+        <lb ed="#V" n="121"/>ponendi. Quantum ad secundum: probantur due 
+        conclusio<lb ed="#V" n="122" break="no"/>nes. Prima est: quod veritas istius propositionis. deus 
+        <lb ed="#V" n="123"/>est trinus et vnus. et cuiuslibet alterius propositionis 
+        <lb ed="#V" n="124"/>theologice est a viatore demonstrabilis euidentur de 
+        pro<lb ed="#V" n="125" break="no"/>positione ipsa: sicut dicebatur in 3o puncto. Secunda 
+        <lb ed="#V" n="126"/>est conclusio principalis valet: quod theologia viatoris est scientia 
+        pro<lb ed="#V" n="127" break="no"/>prie dicta. Prima conclusio sic deducitur. omnis 
+        proposi<lb ed="#V" n="128" break="no"/>tio a deo reuelata est infallibiliter vera et si constat 
+        no<lb ed="#V" n="129" break="no"/>bis de reue atione eius veritas est nobis non. enidenter. sed 
+        <lb ed="#V" n="130"/>ista propositio: deus est trinus et vnus. et similiter alia quecumque 
+        <lb ed="#V" n="131"/>consimilis. est a deo reuelata: et de eius reuelatione constat 
+        <lb ed="#V" n="132"/>nobis euidentur per effectus supernatuarales. et signa supirsntalia 
+        <lb ed="#V" n="133"/>non solum probabilia: sed necessaria ad huius attestationem 
+        <lb ed="#V" n="134"/>a deo nobis exhibita et demonstrata. igitur. ista 
+        proprio<lb ed="#V" n="135" break="no"/>et quaelibet consimilis est a deo reuelata. et deus 
+        reuela<lb ed="#V" n="136" break="no"/>tione constat nobis per effectus super naturales et signa supirinam 
+        <lb ed="#V" n="137"/>lia non solum probabilia sed necessaria ad huius attesta 
+        <lb ed="#V" n="138"/>tionem a deo nobis ex habita et dempto. ergo illa propo¬
+        <pb ed="#V" n="20-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>sitio et quelibs consilis est insallibiliter vera: et eius 
+        ve<lb ed="#V" n="2" break="no"/>ritas est nobis euidenter non. maior. quantum ad primam 
+        <lb ed="#V" n="3"/>partem patet: quia deus non potest reuelare falsum. et quantum ad 
+        <lb ed="#V" n="4"/>tertiam tenet ex terminis: minor vero a qua dependet 
+        <lb ed="#V" n="5"/>to tadeductio probatur multipliciter. Primo sic. Si 
+        <lb ed="#V" n="6"/>gna probabilia non faciunt fidem necessariam sed probabilem 
+        <lb ed="#V" n="7"/>tantum: hoc patet: quia vnumquodque signum facit fidem secundum: 
+        gra<lb ed="#V" n="8" break="no"/>dum sue certitudinis: sed signa supernaturalia ad attestatio 
+        <lb ed="#V" n="9"/>nem fidei nobis a deo exhibita et demonstrata faciunt: 
+        <lb ed="#V" n="10"/>fidem necessariam: non tamtum probabilem: quia nullus dicet de 
+        articu<lb ed="#V" n="11" break="no"/>lis dubitare. igitur huiusmodi signa non sunt tantum 
+        proba<lb ed="#V" n="12" break="no"/>bilia sed necessaria. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e2876">
+        Secundo sic. nulla conclusio excedit 
+        <lb ed="#V" n="13"/>certitudinem sui medii. sed ista signa supernaturalia 
+        con<lb ed="#V" n="14" break="no"/>parantur ad fidem nostram: sicut medium ad conclusionem. 
+        igi<lb ed="#V" n="15" break="no"/>tur fides non est certior istis signis. sed fides nostra est 
+        <lb ed="#V" n="16"/>certa non probabilis tantum quia nihil firmius tenetur: quam quod 
+        <lb ed="#V" n="17"/>fide apprehenditur. igitur huiusmodi signa dicuntur esse 
+        cer<lb ed="#V" n="18" break="no"/>ta et non probabilia. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e2893">
+        Tertio sic: sicut signa naturalia ad 
+        <lb ed="#V" n="19"/>causam naturalem: ita supernaturalia ad supernalem. sed 
+        signa<lb ed="#V" n="20" break="no"/>naturalia probabilia aggenerant fidem tantum probabilem 
+        <lb ed="#V" n="21"/>de causa naturali: igitur signa probabilia aggnant fidem. 
+        <lb ed="#V" n="22"/>tamtum probabilem de causa supernaturali: et non fidem certam: 
+        <lb ed="#V" n="23"/>et ita catholicus non tenetur credere articulos 
+        fidei<lb ed="#V" n="24" break="no"/>indubitantur. sed tamtum probabiliter. et per consequens fides nostra non 
+        <lb ed="#V" n="25"/>esset nisi quadam opinio: quod non est verum. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e2911">
+        Quarto sic: nullum 
+        <lb ed="#V" n="26"/>medium non necessarium potest causare assensum medii 
+        neces<lb ed="#V" n="27" break="no"/>sari. sed assensus certus et necessarius est proprius 
+        ef<lb ed="#V" n="28" break="no"/>fectus medii necessari. igitur nullum mediu probabile vt 
+        <lb ed="#V" n="29"/>probabile: nisi accipiatur per modum medii necessa 
+        <lb ed="#V" n="30"/>ri potest causare effectum certum et necessarium. sed assensus 
+        fi<lb ed="#V" n="31" break="no"/>deinre quantum ad rationem sed assensus: circumscripta 
+        euiden<lb ed="#V" n="32" break="no"/>tia est eque necessarius et certus in genere assensus 
+        si<lb ed="#V" n="33" break="no"/>cut assensus scientie: quia fidelis eque adheret ad 
+        fidem<lb ed="#V" n="34" break="no"/>conclusioni eredite: sicut philo. per scientiam adhaent conclusio 
+        <lb ed="#V" n="35"/>ni scite: cum nihil firmius teneatur: quam quod fide 
+        apprehe<lb ed="#V" n="36" break="no"/>ditur. vt dictum est prius: igitur iste assensus non potest causari ab 
+        <lb ed="#V" n="37"/>aliquo medio probabili tantum. igitur a med io necessario: 
+        <lb ed="#V" n="38"/>igitur signa quibus innititur sunt signa necessaria: et non 
+        <lb ed="#V" n="39"/>tamtum probabilia. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e2944">
+        Quinto sic: ex medio proprio 
+        opinio<lb ed="#V" n="40" break="no"/>nis nihil generatur nisi opinio: sed mediu proprium 
+        opi<lb ed="#V" n="41" break="no"/>nionis est medium probabile non necessarium: quia opinio 
+        ge<lb ed="#V" n="42" break="no"/>neratur ex probabilibus. vt patet per phsioe primo thopicorum. igitur 
+        <lb ed="#V" n="43"/>ex media probabili non generatur nisi opinio. sed fides nostra 
+        <lb ed="#V" n="44"/>est supra opinionem constituta. igitur generatur ex medio 
+        supe<lb ed="#V" n="45" break="no"/>riori quam fit medium probabile. sed nullum medium est 
+        su<lb ed="#V" n="46" break="no"/>perius medio probabili: nisi sit necessarium. igitur fides 
+        <lb ed="#V" n="47"/>innititur medio necessario: patet igitur minor principalis 
+        ratio<lb ed="#V" n="48" break="no"/>nis et per consequens prima conclusio. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e2966">
+        Secunda vero probatur. 
+        <lb ed="#V" n="49"/>Primo sic: omnis habitus: qui innititur medio necessario: habet 
+        <lb ed="#V" n="50"/>rationem scientie proprie dicte. sed fides innititur medio 
+        ne<lb ed="#V" n="51" break="no"/>cessario vt patet ex dictis: ergo etc. Et confirmatur. quia aliter 
+        <lb ed="#V" n="52"/>non videtur posse saluari quo fides nostra sit certa. nisia causau 
+        <lb ed="#V" n="53"/>et fortuna. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e2979">
+        Secundo sic: nullus habitus dese formaliter 
+        <lb ed="#V" n="54"/>neuter ad vtrumque oppositorum: ex se determinatur ad 
+        <lb ed="#V" n="55"/>alterum eorum. nisi mediante habitu determinante 
+        respi<lb ed="#V" n="56" break="no"/>ciente alterum illorum. nisi a casu: homc patet: quia illud quod est ex se 
+        <lb ed="#V" n="57"/>formaliter indeterminatum. per aliquid: omnem quod 
+        determi<lb ed="#V" n="58" break="no"/>netur. sed fides quantum est ex se et ex formali ratione sua 
+        <lb ed="#V" n="59"/>est neutrum ad verum et falsum: sicut et opinio quia 
+        fi<lb ed="#V" n="60" break="no"/>des quantum est ex se potest esse falsa sicut vera igitur fides 
+        <lb ed="#V" n="61"/>non determinatur precise ad verum: nisi per aliquem 
+        ha<lb ed="#V" n="62" break="no"/>bitum determinate respicientem verum: talis autem 
+        habi<lb ed="#V" n="63" break="no"/>tus non est opinio: quia opinio non respicit determinate 
+        <lb ed="#V" n="64"/>verum nec ars: nec prudentia. nec intellectus. patet 
+        <lb ed="#V" n="65"/>de se: igitur scientia proprie dicta. vel sapientia et 
+        <lb ed="#V" n="66"/>si sapientia igitur scientia quia omnis sapientia est scientia 
+        <lb ed="#V" n="67"/>licet nonecontrario. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e3012">
+                  <lb ed="#V" n="68"/>Contra fraciscum de 
+        marchia<lb ed="#V" n="69" break="no"/>Ista opino multa ponit: que non reputo bene dicta
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>Capiotamen duas conclusi ones: quo iuibus principalis 
+        <lb ed="#V" n="71"/>fundatur. Prima est: quod veritas articulorum fidei potest 
+        <lb ed="#V" n="72"/>a nobis euidenter concludi per signa supernaturalia attestatione 
+        <lb ed="#V" n="73"/>fidei exhibita et demonstrata. Secunda est: quod thelogia 
+        <lb ed="#V" n="74"/>viatoris inititur medio necessario nobis euidenti: et 
+        po<lb ed="#V" n="75" break="no"/>no duas conclusiones oppositas. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e3035">
+        Est ergo prima conclusio: 
+        <lb ed="#V" n="76"/>quod veritas articulorum fidei per signa supernaturalia: attesta 
+        <lb ed="#V" n="77"/>tione fidei exhibita et demonstrata non est a nobis 
+        demodo<lb ed="#V" n="78" break="no"/>strabilis euidenter. probatur. Primo sic: exsignis tantum 
+        cre<lb ed="#V" n="79" break="no"/>ditis non clare visis. nulla veritas est a nobis 
+        demon<lb ed="#V" n="80" break="no"/>strabilis euidentur. sed signa ista supernaturalia sunt a 
+        nob<lb ed="#V" n="81" break="no"/>tantum credita non clare visa. igitur etc. maior patet etiam per 
+        <lb ed="#V" n="82"/>eos: quia nulla conclusio excedit certitudinem sui medii: 
+        <lb ed="#V" n="83"/>vel principii: probatur minor: quia signa ista a deo fidelibus 
+        <lb ed="#V" n="84"/>exhibita non sunt nobis praesentias sein praeterita: praeterita vero 
+        <lb ed="#V" n="85"/>quae nos praecesserunt non sunt a nobis clare visa. sed tantum 
+        cre<lb ed="#V" n="86" break="no"/>dita: igitur etc. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e3061">
+        Secundo sic. sicut signa naturalia ad causam naturale 
+        <lb ed="#V" n="87"/>ita supernaturalia ad supinataurale: proposition est eorum. sed sicut naturalia 
+        <lb ed="#V" n="88"/>de ca naturali non concludunt euidentur nisi videnti: igitur nec 
+        su<lb ed="#V" n="89" break="no"/>pernaturalia de supernaturali. sed huiusmodi signa non 
+        <lb ed="#V" n="90"/>sunt nec fuerunt a nobis visa: licet sint fide supppsita. 
+        <lb ed="#V" n="91"/>igitur etc. Confirmatur: quia iste doctor non vidit. illa 
+        <lb ed="#V" n="92"/>signa. igitur per ea articuli fidei non sunt ei euidenter noti. 
+        <lb ed="#V" n="93"/>Et vlterius secundum eum. nullus tenetur indubitantur 
+        crede<lb ed="#V" n="94" break="no"/>re: nisi quod sibi est per se notum: vel sibi deductum ex aliquo 
+        <lb ed="#V" n="95"/>per se noto: igitur ipse non tenetur articulos fidei indubitam 
+        <lb ed="#V" n="96"/>ter credere: quod ipse non concederet. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e3085">
+        Secunda conclusio est: 
+        <lb ed="#V" n="97"/>quod theologia viatoris prout de ipsa loquitur iste doc. non 
+        in<lb ed="#V" n="98" break="no"/>nititur medio necessario euidenter fidelibus concludenti. Et 
+        <lb ed="#V" n="99"/>dico nobiliter prout de ipsa loquitur iste doc. quia theologia 
+        via<lb ed="#V" n="100" break="no"/>toris de qua posui quarta conclusionem innititur medio necessa 
+        <lb ed="#V" n="101"/>rio cum sit scientia proprie dicta: sed sic de thelogia non loquitur 
+        <lb ed="#V" n="102"/>doc. iste vt patet. Ista conclusio sic intellecta sequitur ex 
+        <lb ed="#V" n="103"/>praecedenti: quia illud medium necessarium secundum eum non est 
+        ni<lb ed="#V" n="104" break="no"/>si ista signa supernaturalia. sed ista non concludunt nobis 
+        euiden<lb ed="#V" n="105" break="no"/>ter: cum sint tantum credita non clare visa ex conclusione pre 
+        <lb ed="#V" n="106"/>cedenti. ergo etc. Et confirmatur primo quia habitus qu inititur 
+        me<lb ed="#V" n="107" break="no"/>dio necessario facit euidentia de conclusione sed theologia 
+        via<lb ed="#V" n="108" break="no"/>toris prout de ipsa loquitur. iste doc. non facit euidentiam de 
+        <lb ed="#V" n="109"/>suis conclusionibus ergo: probatur minor: quia habens euidentiam de 
+        <lb ed="#V" n="110"/>aliqua conclusione non indiget fide. hoc patet: quia euidentia 
+        <lb ed="#V" n="111"/>conclusntiomnis concludit necessitatem fidei. sed quilibet viator in 
+        <lb ed="#V" n="112"/>diget fide ad assentiendum conclusionibus theologie sic assum 
+        <lb ed="#V" n="113"/>pte etiam per eum. igitur etc. Secundo habitus quo inititur medio 
+        ne<lb ed="#V" n="114" break="no"/>cessario concludit fideli et infideli. sed thelogia de qua nunc 
+        <lb ed="#V" n="115"/>agitur non concludit saltem fidelis etiam per eum: igitur etc. Sed 
+        <lb ed="#V" n="116"/>adhuc doc. iste nititur respondere dicit quod duplex et medium 
+        ne<lb ed="#V" n="117" break="no"/>cessarium: quia quoddam est necesaarium in primo gradu certitudinis 
+        <lb ed="#V" n="118"/>sicut est medium mathematicum: quoddam est necessarium 
+        <lb ed="#V" n="119"/>secundo gradu certitudinis: sicut est medium naturale et mora 
+        <lb ed="#V" n="120"/>le. vt puta: quod deus sit adorandus et honorandus. Et 
+        il<lb ed="#V" n="121" break="no"/>lud est duplex: quia quoddam est medium. necessarium proprie 
+        <lb ed="#V" n="122"/>acceptum ex principiis subiecti: et tale facit conclusionem 
+        <lb ed="#V" n="123"/>euidentem: et notitia habita de conclusione per tale medium est 
+        <lb ed="#V" n="124"/>scientia proprie dicta: et habens talem notitiam non indigetr fide: 
+        <lb ed="#V" n="125"/>tale medium concludit equaliter fideli et infideli. et 
+        medio<lb ed="#V" n="126" break="no"/>sic necessario non innititur theologia viatoris vt dicit. 
+        quod<lb ed="#V" n="127" break="no"/>dam vero est medium extra neum non proprie acceptum a 
+        prin<lb ed="#V" n="128" break="no"/>cipiis: sed ab aliquo extraneo. et tale medium: quia 
+        neces<lb ed="#V" n="129" break="no"/>sarium ex se facit: necessario assentire conclussoni. sed quia non 
+        <lb ed="#V" n="130"/>est medium proprium non facit euidentiam sufficientem de 
+        con<lb ed="#V" n="131" break="no"/>clusione: et tali medio necessario innititur theologia viatoris 
+        <lb ed="#V" n="132"/>Et quia tale medium non facit euidentiam de conclusione sed 
+        <lb ed="#V" n="133"/>tamtum facit assensum necessarium. et multa apparentia 
+        vi<lb ed="#V" n="134" break="no"/>dentur repugnare conclusionibus theologicis Iccirco 
+        fi<lb ed="#V" n="135" break="no"/>des est nemia. ne certitudo medii reuocetur indubium. et quia 
+        <lb ed="#V" n="136"/>insidelis non habet fidem: ideo non concludint sibi illud medium 
+        <lb ed="#V" n="137"/>Et ex his patet ad rationes. Sed ad veritatem 
+        <lb ed="#V" n="138"/>ista solutio non consonat sibi ipsi et repugnat poni
+        <pb ed="#V" n="21-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>sue: primum patet dupliciter. Primo: quia omnis demonstratio a 
+        po<lb ed="#V" n="2" break="no"/>
+                  <lb ed="#V" n="3"/>tertori et per effectum de qua lioquit arqt. pro et secundo poste. 
+        <lb ed="#V" n="4"/>inititur medio extraneo: non proprie accepto a principiis 
+        <lb ed="#V" n="5"/>subi ecti: et tamtn equalit conciudit rine li et infideli: et tacit 
+        <lb ed="#V" n="6"/>euidentia de conclusione sic: quod ad assentied un ei non est 
+        fi<lb ed="#V" n="7" break="no"/>des necessaria: vt docetr experientia: igitur distinctio 
+        nui<lb ed="#V" n="8" break="no"/>la. Secudo: quia medium quod ex se racit 
+        necessario<lb ed="#V" n="9" break="no"/>assentire conclusioni. exclud it ne cessitate fidei: et 
+        conclin<lb ed="#V" n="10" break="no"/>qit equalit fideli et infideli: sed mediu illud extraneum 
+        cui<lb ed="#V" n="11" break="no"/>innitit theologia viatoris: quia necessarium ex se facit 
+        <lb ed="#V" n="12"/>necessario assentire conclusioni: vt asserit dicta solutio: 
+        <lb ed="#V" n="13"/>igitur excludit necessitate fidei: et concludit equaliter 
+        fideli<lb ed="#V" n="14" break="no"/>et infideli: quod expresse negatur: probatur maior: quia 
+        circu<lb ed="#V" n="15" break="no"/>cripta ride et posito tasi medio: vl assentit necessa 
+        <lb ed="#V" n="16"/>rio concloni vel no: si non igitur ex se no racit necessa 
+        <lb ed="#V" n="17"/>rio assentire conclusioni: quod est contra positum: si fic. igitur 
+        exclu<lb ed="#V" n="18" break="no"/>dit necersitate fidei: et per consequenis concludit equasit rideli et 
+        <lb ed="#V" n="19"/>infideli: quod est propositum: patet igitur: quod ista solutio non consonatur 
+        <lb ed="#V" n="20"/>sibiipi. Sed probatur secundo: quod repugnet poni sue: 
+        <lb ed="#V" n="21"/>Primo sic: omne med in per se notu vel ex per se noti 
+        dedu<lb ed="#V" n="22" break="no"/>ctum racit euidentia de conclusione: sed medium cui inititur 
+        the<lb ed="#V" n="23" break="no"/>ologia viatoris: prout de ipsa loquitur iste doc. et nobis 
+        <lb ed="#V" n="24"/>per se notum: vel ex per se noti deductum: aliter nullus tenere 
+        <lb ed="#V" n="25"/>tur indubitant credere vt dicit: igitur racit euidentia 
+        <lb ed="#V" n="26"/>de conclusione: quod tamen negat: probatur maior: quia sicut 
+        conclo<lb ed="#V" n="27" break="no"/>deducta ex meo nece nario est necessaria: ita 
+        dedu<lb ed="#V" n="28" break="no"/>cta ex euidenti est euidens: immo nisi hoc esset: conclusio 
+        sci<lb ed="#V" n="29" break="no"/>ta non esset euides: sed nihil est euidenti per se noto: vel ex 
+        <lb ed="#V" n="30"/>per se noti de qucto: e dice cod t heologia viatoris 
+        proce<lb ed="#V" n="31" break="no"/>qdat ex per se noti: et no facit euidentia de conclusione: 
+        esi<lb ed="#V" n="32" break="no"/>apta contradictio. Secudo sic: nullu mediu quod sine 
+        ha<lb ed="#V" n="33" break="no"/>bitum inclinate ad assentiedu potest in dubium reuocari: est 
+        <lb ed="#V" n="34"/>nobist per se notu: vel ex per se noti dequctum: hoc patet: quia 
+        <lb ed="#V" n="35"/>repugnat per se noto in dubium reuocari: sed mediu cui 
+        in<lb ed="#V" n="36" break="no"/>nititu theologia nra: vt a sserit ista solutio: sine fid eqt 
+        <lb ed="#V" n="37"/>iclinante ad assentiendum potest in duhim reuocari: igitur 
+        ta<lb ed="#V" n="38" break="no"/>le medium non est nobis per se notum: nec deductum ex 
+        ali<lb ed="#V" n="39" break="no"/>per se noto quod contradicit poni. Confirmatur: quia vbi est 
+        <lb ed="#V" n="40"/>scientia proprie dicta: ibi est sciti euidentia: igitur ex 
+        opposi<lb ed="#V" n="41" break="no"/>to: vbi non est euidentia respectu sciti: ibi non est scientia prope 
+        <lb ed="#V" n="42"/>dicta: sed vbi m ediu non facit euidenti a de conclusione: 
+        ibi<lb ed="#V" n="43" break="no"/>non est euidentia respectu sciti: igitur nec scientia proprie dicta: 
+        <lb ed="#V" n="44"/>quo posito sequi tet quod theologia nra non sit sceia pro prie 
+        <lb ed="#V" n="45"/>dicta: quod contradicit prineipali conclusioni: patet igitur: quod rationes 
+        <lb ed="#V" n="46"/>no ut soiute: ne c opinio est rationalis vt videtur. 
+        <lb ed="#V" n="47"/>Rno ad rationes fracisci de marchia. 
+        <lb ed="#V" n="48"/>¶Testat igitur rspondere ad motiua ipsius: et primo ad 
+        <lb ed="#V" n="49"/>ratione rudamtalem: pro proma sua conclusione: dico quod per signa 
+        <lb ed="#V" n="50"/>1lia supernalia non constatur nobis euidet quod ista propiso: 
+        de<lb ed="#V" n="51" break="no"/>est trin¬ et vnus: sit a deo reueiata: sicut patet ex prima 
+        co<lb ed="#V" n="52" break="no"/>clusione contra opinione ista deqducta: nec probationes conuicut: quia 
+        <lb ed="#V" n="53"/>omnes supponut quod quacumque a ssentit arti culis assentit 
+        propte<lb ed="#V" n="54" break="no"/>talia sig supoinalia aqu atte statione fidei dem sonstrata 
+        <lb ed="#V" n="55"/>quod non est verum: cum ista sig no sint a. nobis clare visa: sed 
+        <lb ed="#V" n="56"/>taum credita: vt dictum est sup. Ad rationes secude 
+        conclusio<lb ed="#V" n="57" break="no"/>nis dicundum ad primam: quod min est falsa: quia fides non inititur 
+        <lb ed="#V" n="58"/>medio necessario: euident fid elibus eoncludenti vt paet 
+        ex<lb ed="#V" n="59" break="no"/>dictis. Nec confirmatio valet: quia fides nostra est certa: quia 
+        <lb ed="#V" n="60"/>a deo reueiata: sed quod sit a deo reuelata non est nobis dici 
+        <lb ed="#V" n="61"/>m dstratum: sed creditum. Ad se cndam dico: quod fides 
+        <lb ed="#V" n="62"/>nra est dterminate vera: non propter asiquem habitu distinctum 
+        <lb ed="#V" n="63"/>ab ipsa innobis: sed quia a deo renelata: qui non potest 
+        reue<lb ed="#V" n="64" break="no"/>la re faisu. Ex qui paet quod maior sicut assumitr non est vera: 
+        <lb ed="#V" n="65"/>nec probatio vaiet: quia non sequitur. fides in nob per 
+        aliquid<lb ed="#V" n="66" break="no"/>oet minatur ad verum: igitur per habitum inherentem: sufficit eni quod 
+        <lb ed="#V" n="67"/>quia dexminex reueiatur a deo: qui non falli nec fallere potest. 
+        <lb ed="#V" n="68"/>Franeiscus de marois in prlo. q. 2. articumlo 
+        <lb ed="#V" n="69"/>Contra quarta conclusionem: quae communiter non tenext. quiaa sic 
+        <lb ed="#V" n="70"/>se cundo in primo libro.
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="71"/>arguut: si theologia esset scientia proprie di: cta ex 
+        euiden<lb ed="#V" n="72" break="no"/>tia deductionis suppositis arti cu lieude impossibilibus 
+        <lb ed="#V" n="73"/>posset esse scientia: quod est impossibile. cdonmina patet: quia nullu 
+        impossi<lb ed="#V" n="74" break="no"/>bile potest euident et necessario dequci. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e3345">
+        Preterea: 
+        <lb ed="#V" n="75"/>supposito vnor a1so: potest aliudua fa 1sum euident 
+        dedu<lb ed="#V" n="76" break="no"/>ci: igitur si talis de deo sit scientifica: falsu poterit 
+        sciri<lb ed="#V" n="77" break="no"/>scientia. proprie dicta: quod non est verum quia falsum nescix: quia non et.
+      </p>
+               <p xml:id="at8va9-e04861-d1e3354">
+                  <lb ed="#V" n="78"/>Ad idem potest argu in tertio sic nulia notitia 
+        suppo<lb ed="#V" n="79" break="no"/>nes aliquod creqitum: re soiuit visque ad per set nota simptir 
+        <lb ed="#V" n="80"/>quia nullu creditum est simpliter per se notum: igitur nulla talis et 
+        <lb ed="#V" n="81"/>s ia proprie dicta: sed notitia supponens arti culorum 
+        co<lb ed="#V" n="82" break="no"/>Pni 1os: su proponit ali qud creqitum: ergo etc. Prete 
+        <lb ed="#V" n="83"/>rea: sci re est re per cam cognoscere: sed ea qua de deo podic a 
+        <lb ed="#V" n="84"/>tur in conclusionibus theologicis: non habent cam: etiam 
+        supposi<lb ed="#V" n="85" break="no"/>ta articulorum existentia: igitur etc. Confirmatur: quia per me 
+        <lb ed="#V" n="86"/>aqu assentieqn icito non est fides necessaria: quia iustus 
+        ex<lb ed="#V" n="87" break="no"/>fid e viuit ad ratio. primo etc. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e3378">
+                  <lb ed="#V" n="88"/>Repoo ad rationes fracisci de maronis. 
+        <lb ed="#V" n="89"/>Ad prima ergo istorum. dico quod de impossibili vt 
+        impossi<lb ed="#V" n="90" break="no"/>bile est no potest esse scia: 13 uprobosito vno impossibili: aliqd 
+        <lb ed="#V" n="91"/>quod deducit non pabe fdione ipossibiiis: ied necessa rii: et dici 
+        <lb ed="#V" n="92"/>tali priptt haber  1cia sicut prime e secuaam ratione 
+        addu<lb ed="#V" n="93" break="no"/>cta. pro conciunsione mea. Ex p1um. oc tores querunt 
+        <lb ed="#V" n="94"/>vtru. i. 1. distingueretur a siuo si non procederet ab eo: 
+        <lb ed="#V" n="95"/>et licet suppositum sit simplicitr impossibile: potest tamen 
+        sciri<lb ed="#V" n="96" break="no"/>quod querit naite in patria: aliter questio esset nulia: quod 
+        <lb ed="#V" n="97"/>cmniter no t et nex Cid e cuiaum etouem mo dico e quod 
+        sup<lb ed="#V" n="98" break="no"/>posito vno ralso aliua habet rationem veri necessarii: 
+        <lb ed="#V" n="99"/>et sic icibilis. 
+      </p>
+               <p xml:id="at8va9-e04861-d1e3408">
+        Ad tertium dico: quod duplicit notitiam 
+        <lb ed="#V" n="100"/>potest suproponere aliquod creditum: vno modo: quia a ssumit 
+        <lb ed="#V" n="101"/>inprsm sicut principium ad probandum conclusione: et sic 
+        mul<lb ed="#V" n="102" break="no"/>te conclusiones theologice ex articulis riode in 
+        adqducu<lb ed="#V" n="103" break="no"/>tur. Alio modo: quia supponitur illud creditum esse: tamen no 
+        <lb ed="#V" n="104"/>assumiter ad probandum conclusionem: sicut patet: si ponere 
+        <lb ed="#V" n="105"/>tur duo corpora: vnum sphericum: et aliud planum inceium: 
+        <lb ed="#V" n="106"/>ve l alibi se tangentia: et probaretur facta suppone quod 
+        <lb ed="#V" n="107"/>sion se tageret nisi in pucto his permissis dico: quod 
+        noti<lb ed="#V" n="108" break="no"/>tia supponens ali quod creditum per mo modo non reso suit 
+        vi<lb ed="#V" n="109" break="no"/>quam ad per se nota: nec per consequenis est scientia proprie dicta. 
+        Noti<lb ed="#V" n="110" break="no"/>tia vero supponens aliquod creditum secundo modo: sic quod 
+        <lb ed="#V" n="111"/>ta se creditum non assumitur ad probanau conciusionem: 
+        si<lb ed="#V" n="112" break="no"/>cut principium: et sic est in proposito. vt patet. Ad quartum 
+        <lb ed="#V" n="113"/>patet quia dicendum ex conclusionibus in proimo articulo de 
+        <lb ed="#V" n="114"/>claratis: quia si de talibus no posit haberi scnia a pori: et 
+        <lb ed="#V" n="115"/>per cam in essendo: pot haberi per cam in inserendo: vel 
+        <lb ed="#V" n="116"/>saltem a posteriori. Ad confirmationem dico: quod 
+        ad<lb ed="#V" n="117" break="no"/>assentiendum dictis conclusionibus est rides necesst aria 
+        <lb ed="#V" n="118"/>simpliciter: quia illud quod supponit est mere creaitum: et id eo 
+        <lb ed="#V" n="119"/>aqu assentienqaum eig simplicit no potest infidelis 
+        euide<lb ed="#V" n="120" break="no"/>ter commn ci. Et ad iti sesm dicit aplg: quod iustus 
+        <lb ed="#V" n="121"/>ex fide viuit: racta tamten et concessa suppositione non est 
+        vi<lb ed="#V" n="122" break="no"/>terius fides necessaria propt euidentia deductionis. 
+        <lb ed="#V" n="123"/>Re mo ad argumeta proincipalia. 
+        <lb ed="#V" n="124"/>Ad rationes princi pales. Ad prima patet quid dice qdu 
+        <lb ed="#V" n="125"/>ex soluti one itatim data quia posito quod theo logia 
+        ter<lb ed="#V" n="126" break="no"/>tio modo supta sit scientia. proprie dicta: non sequit quod fides 
+        <lb ed="#V" n="127"/>et scientia de eode subiecto sunt compossibiles in eodem 
+        in<lb ed="#V" n="128" break="no"/>tellectu: lied non sit impossibile fide et scientiam simus esse 
+        qua<lb ed="#V" n="129" break="no"/>tum ad habitus: vt dictum est supra. Ad secudum dico: 
+        <lb ed="#V" n="130"/>quod theologia perimo et secudo modo sum oxa non est notitia 
+        <lb ed="#V" n="131"/>firma ratione comprehela: vt patet ex supradictis. Et 
+        aqu<lb ed="#V" n="132" break="no"/>ricardum ipemet exponit se et determinat. dicit quod huiusmodi 
+        <lb ed="#V" n="133"/>rationes sunt quedam probationes: dicuntur tamen necessarie 
+        <lb ed="#V" n="134"/>non ratione euidentie: sed ratione materie que in se 
+        cer<lb ed="#V" n="135" break="no"/>t isima est et necensar1d. 
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

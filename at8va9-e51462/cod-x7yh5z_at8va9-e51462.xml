@@ -1,0 +1,1248 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#AlphonsusVargas">Alphonsus Vargas Toletanus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2024-10-10">October 10, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-x7yh5z">Venice, 1490</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="87-r"/>
+            <cb ed="#V" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="at8va9-e51462"><!-- l1d3q2 -->
+            <head xml:id="at8va9-e51462-Hd1e101">Quaestio 2</head>
+            <head xml:id="at8va9-e51462-Hd1e103" type="question-title">Utrum quelibet pars imaginis create sit totalis causa effectiva sui actus</head>
+            <p xml:id="at8va9-e51462-d1e106">
+               <lb ed="#V" n="24"/>SEcundo quaero vtrum qualibet pars imaginis create 
+      <lb ed="#V" n="25"/>usit totalis causa effectiua sui actus. Et videtur: 
+      <lb ed="#V" n="26"/>primo quod non: quia intellectus creatus non est non. 
+      <lb ed="#V" n="27"/>istelllectus est pars imaginis create: vt patet ex 
+      que<lb ed="#V" n="28" break="no"/>stione praecedenti antecedens probatur: quia sicut se habet sensum 
+      <lb ed="#V" n="29"/>ad sensibile et totalis ca effectiua sui actus: igitur nec 
+      quae<lb ed="#V" n="30" break="no"/>libet pers etc. consequentia est non. actum sentiendi: sic se habet 
+      intelle<lb ed="#V" n="31" break="no"/>ctus ad intelligibile et ad actum intelligendi vt patet 
+      <lb ed="#V" n="32"/>per philosophum secundo et tertio de anim a sed sensum non 
+      eto<lb ed="#V" n="33" break="no"/>talis causa effectiua actus sentiendi vt patet in eodem. 
+      se<lb ed="#V" n="34" break="no"/>cundo: ergo etc. 
+    </p>
+            <p xml:id="at8va9-e51462-d1e132">
+      Contra. intellectus et voluntas 
+      que<lb ed="#V" n="35" break="no"/>sunt partes imaginis create non minus causant 
+      effecti<lb ed="#V" n="36" break="no"/>ue actus suos: quam potentie inferioris. hoc patet: quia esse 
+      <lb ed="#V" n="37"/>causam dicit perfectionem et per consequens potentie perfectiori 
+      <lb ed="#V" n="38"/>debet magis competere sed causant: etc. igitur etc probatur 
+      <lb ed="#V" n="39"/>minor: quia potentia generatiua. motiua: et 
+      calefacti<lb ed="#V" n="40" break="no"/>ua sunt cause totales suorum actuum: ergo. 
+    </p>
+            <p xml:id="at8va9-e51462-d1e148">
+      Responsio 
+      iIn<lb ed="#V" n="41" break="no"/>ista questione erunt quattuor articuli. quia primo ponam 
+      ali<lb ed="#V" n="42" break="no"/>quas distinctiones: secundo conclusiones. tertio moue 
+      <lb ed="#V" n="43"/>bo dubia: et quarto respondebo. 
+    </p>
+            <div xml:id="at8va9-e51462-Dd1e158">
+               <head xml:id="at8va9-e51462-Hd1e160">Articulus 1</head>
+               <p xml:id="at8va9-e51462-d1e162">
+                  <lb ed="#V" n="44"/>Articulus primus: 
+        <lb ed="#V" n="45"/>¶ QUantum ad primum intelligedo qodnem de intellectu 
+        <lb ed="#V" n="46"/>Tet voluntate quae sunt partes imaginis create: vt 
+        pa<lb ed="#V" n="47" break="no"/>tet in qaestio.e praecedenti. Distinguo primo cum philoso 
+        tertio<lb ed="#V" n="48" break="no"/>de anima de intellectu possibili et agente: et 
+        suppo<lb ed="#V" n="49" break="no"/>no iuxta communiorem doctrinam quod intellectus agens et 
+        <lb ed="#V" n="50"/>possibilis realiter distinguuntur: cuius ratio ad praesens potest 
+        <lb ed="#V" n="51"/>esse: quia intellectus possibilis nullam operationem 
+        ha<lb ed="#V" n="52" break="no"/>bet preuiam intellectioni: cum nihil sit eorum que sunt ante 
+        <lb ed="#V" n="53"/>intelligere: vt patet tertio de anima. sed intellectus agens 
+        <lb ed="#V" n="54"/>habet aliquam operationem praeuiam intellectioni: vt patet ibidem 
+        <lb ed="#V" n="55"/>igitur intellectus agens non est possibilis nec 
+        econuer<lb ed="#V" n="56" break="no"/>so. Secundo distinguo de actu intelligendi: quia 
+        qui<lb ed="#V" n="57" break="no"/>dam est naturalis: respectu cuius intellectus possibilis est 
+        in<lb ed="#V" n="58" break="no"/>potentia naturali: quidam super naturalis respectu cum 
+        <lb ed="#V" n="59"/>ius intellectus possibilis est in potentia obedibili: 
+        pri<lb ed="#V" n="60" break="no"/>mus causatur a causa naturali: quecunque sit illa: se 
+        <lb ed="#V" n="61"/>cundus a supernaturali. Et similiter potest distingui de 
+        <lb ed="#V" n="62"/>actu voluntatis. Et intelligo questionem de actu 
+        na<lb ed="#V" n="63" break="no"/>turali intellectus et voluntatis: non de supernaturali: quia 
+        co<lb ed="#V" n="64" break="no"/>gnitio et finitio beatifica que sunt actus supernaturales 
+        <lb ed="#V" n="65"/>intellectus voluntatis non sunt ab eis actiue totaliter 
+        <lb ed="#V" n="66"/>nec partialiter: sed a solo deo sicut fuit ostensum diioe primo 
+        <lb ed="#V" n="67"/>ma. et hec de primo. 
+      </p>
+            </div>
+            <div xml:id="at8va9-e51462-Dd1e218">
+               <head xml:id="at8va9-e51462-Hd1e220">Articulus 2</head>
+               <p xml:id="at8va9-e51462-d1e222">
+                  <lb ed="#V" n="68"/>Articulus secundus. 
+        <lb ed="#V" n="69"/>¶ Auntumad scuodm ariculu: qu conforirit rideter ini¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>hi dicendum de intellectum et voluntate: pono quattuor 
+        <lb ed="#V" n="71"/>conclusiones de intellectu. Ex qubus inferam correlarie 
+        <lb ed="#V" n="72"/>quattuor alias de voluntate. Est igitur prima conclusio quod 
+        <lb ed="#V" n="73"/>intellectus agens est aliquid anime: probatur primo sic: 
+        intel<lb ed="#V" n="74" break="no"/>lectus agens non est aliquid anime. igitur homo non potest 
+        naturali<lb ed="#V" n="75" break="no"/>ter intelligere cum voluerit cuius oppositum docet 
+        expe<lb ed="#V" n="76" break="no"/>rientia et aristoteles secundo de anima: consequentia probatur: quia 
+        <lb ed="#V" n="77"/>homo non potest naturaliter aliquid intelligere nisi puia 
+        ope<lb ed="#V" n="78" break="no"/>ratione intellectus agentis. igitur si eius operatio non est in 
+        po<lb ed="#V" n="79" break="no"/>testate voluntatis nec intellectio. sed supposito quod non 
+        <lb ed="#V" n="80"/>sit aliquid anime eius operatio non est in potestate 
+        vo<lb ed="#V" n="81" break="no"/>luntatis vt patet ergo etc. 
+      </p>
+               <p xml:id="at8va9-e51462-d1e257">
+        Preterea: omne principium 
+        natu<lb ed="#V" n="82" break="no"/>rale vniuersaliter requisitum ad propriam operationem 
+        <lb ed="#V" n="83"/>hominis inquantum homo: est aliquid in homine. 
+        intelle<lb ed="#V" n="84" break="no"/>ctus agens est huiusmodi: ergo: maior patet: quia 
+        stantege<lb ed="#V" n="85" break="no"/>nerali influentia dei potest homo in sua propriam 
+        opera<lb ed="#V" n="86" break="no"/>nem: circumscripto omni eo quod non est ipse: nec aliquid eius 
+        <lb ed="#V" n="87"/>minor: probatur: quia secundum arist. io. ethi. intelligere est 
+        pro<lb ed="#V" n="88" break="no"/>pria operatio hominis inquantum homo. sed intellectus agens 
+        vni<lb ed="#V" n="89" break="no"/>uersaliter requiritur ad intellectionem sicut eius 
+        natu<lb ed="#V" n="90" break="no"/>le principium vt patet. tertio de anima: igitur etc. 
+      </p>
+               <p xml:id="at8va9-e51462-d1e279">
+        
+        Prete<lb ed="#V" n="91" break="no"/>rea si intellectus agens non esset aliquid anime: vel non esset 
+        <lb ed="#V" n="92"/>dare intellectum agentem vel esset scientia dei: vt 
+        vide<lb ed="#V" n="93" break="no"/>tur qubusdam. vel esset aliqua substantia separata a 
+        <lb ed="#V" n="94"/>nobis quantum ad esse virtute cuius fit intellectualis 
+        <lb ed="#V" n="95"/>operatio: vel secundum quandam vnionem ipsius ad nos: sicut 
+        <lb ed="#V" n="96"/>posuit alex. et auerronis: vel per infiuxum formarum 
+        intel<lb ed="#V" n="97" break="no"/>ligibilium in nos: sicut posuit auicen. primum est contra philosophum 
+        <lb ed="#V" n="98"/>de anima: qui diuidit intellectum in possibilem et agentem: 
+        <lb ed="#V" n="99"/>vt dictum est supra. Et confirmatur: primo quia res 
+        inferi<lb ed="#V" n="100" break="no"/>oris ordinis: vel nullo modo agunt n res supioris 
+        ordi<lb ed="#V" n="101" break="no"/>nis: vel si agunt: agunt virtute alicuius superioris: 
+        <lb ed="#V" n="102"/>sed intellectus et omnia que partinent ad ipsum sunt res 
+        <lb ed="#V" n="103"/>superioris ordinis: cum sint spiritumalia: et obiecta 
+        parti<lb ed="#V" n="104" break="no"/>cularia sunt inferioris ordinis cum sint corporalia: igitur 
+        <lb ed="#V" n="105"/>vel obiecta particularia nullo modo causant actum in 
+        <lb ed="#V" n="106"/>telligendi in intellectu: vel causant virtute alicuius 
+        <lb ed="#V" n="107"/>superioris. Si detur primum habetur intentum: quia oportet 
+        <lb ed="#V" n="108"/>dare aliquid superioris ordinis quod causet actum 
+        in<lb ed="#V" n="109" break="no"/>telligendi: et illud voco intellectum agentem Si detur se 
+        <lb ed="#V" n="110"/>cundum idem sequitur: ergo etc. Secundo: quia omnis operatio 
+        men<lb ed="#V" n="111" break="no"/>talis est a principio vitali: non solum receptiue: sed etiam 
+        <lb ed="#V" n="112"/>effectiue totaliter vel saltem partialiter: aliter effectus 
+        <lb ed="#V" n="113"/>esset nobilior totali causa effectiua: quod non est verum: 
+        <lb ed="#V" n="114"/>sed intelligere est operatio vitalis: ergo oportet quod 
+        ha<lb ed="#V" n="115" break="no"/>beat aliquam causam vit alem saltem partialiter: et hanc 
+        <lb ed="#V" n="116"/>voco intellectum agentem: secundum etiam dari non potest: 
+        <lb ed="#V" n="117"/>quia vel scientia dei dicitur intellectus agens: quia dat rebus 
+        <lb ed="#V" n="118"/>naturam et virtutem mouendi intellectum possibilem: vel quia 
+        <lb ed="#V" n="119"/>dat eis aliquam aliam virtutem spalem. primum dari non potest: 
+        <lb ed="#V" n="120"/>quia pari ratione scientia dei diceretur intellectus possibilis 
+        <lb ed="#V" n="121"/>quia dat ei naturam et virtutem intelligendi et recipiendi 
+        <lb ed="#V" n="122"/>actum intelligendi: quod est inconueniens: nec secundum: quia sic 
+        opi<lb ed="#V" n="123" break="no"/>nantes nullam talem virtutem assignant: tum quia per talem nulla 
+        <lb ed="#V" n="124"/>res moueret intellectum ad intelligendum. Et 
+        con<lb ed="#V" n="125" break="no"/>firmatur: quia vel obiecta particularia habent a 
+        <lb ed="#V" n="126"/>scientia dei influentiam aliquam specialem: vel solum 
+        <lb ed="#V" n="127"/>generalem: non specialem: quia nullam talem assignant. si 
+        so<lb ed="#V" n="128" break="no"/>lum generalem pari ratione dicetur quod potentia 
+        dei<lb ed="#V" n="129" break="no"/>est calefactiua: quia dat ignis potentia calefaciendi: 
+        <lb ed="#V" n="130"/>et sic de omni potentia actiua quod est absurdum. 
+      </p>
+               <p xml:id="at8va9-e51462-d1e368">
+                  <lb ed="#V" n="131"/>Preterea: intellectus agens non est maioris 
+        am<lb ed="#V" n="132" break="no"/>bitus quam possibilis: igitur non est scientia dei: 
+        antece<lb ed="#V" n="133" break="no"/>dens est phlysi. 3 de anima dicit quod sicut intellectus agens 
+        <lb ed="#V" n="134"/>est omnia facere: ita possibilis omnia fieri. Et 
+        con<lb ed="#V" n="135" break="no"/>firmatur: quia aliter potentie actiue intellectus 
+        agen<lb ed="#V" n="136" break="no"/>tis non corresponderet in natura potentia passiua 
+        <lb ed="#V" n="137"/>vel econtra: quorum quodlibet est inconuenies: et contra philosiet ibidem: 
+        <lb ed="#V" n="138"/>consequentia probatur: quia scientia dei est intellectus diuinus qui in infi¬
+        <pb ed="#V" n="87-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>nitum excedit intellectum possibilem in nobis: 
+        er<lb ed="#V" n="2" break="no"/>go etc. Nec potest vlterius dari tertium: quia talis 
+        <lb ed="#V" n="3"/>vnio illius intellectus ad nos: vel influxus ipsius in 
+        <lb ed="#V" n="4"/>nos: qualem posuerunt physi non consonat sane doctri 
+        <lb ed="#V" n="5"/>ne: ergo etc. Pro ista conclusione est articulus 
+        pari<lb ed="#V" n="6" break="no"/>si en. 28. vbi dicitur: quod intellectus agens non copuletur 
+        <lb ed="#V" n="7"/>nostro possibili: et quod intellectus possibilis non vniatur 
+        <lb ed="#V" n="8"/>nobis secundum substantiam error: hec est etiam expressa 
+        sen<lb ed="#V" n="9" break="no"/>tentia physi. 3 de anima. vbi postquam ostendit quod in omni 
+        na<lb ed="#V" n="10" break="no"/>tara in qua est dare aliquid: quod est omnia fieri: est dare 
+        <lb ed="#V" n="11"/>aliquid quod est omnia facere: concludit quod necesse est in anima 
+        <lb ed="#V" n="12"/>has esse differentias: sed certum est quod iste due differentie 
+        <lb ed="#V" n="13"/>non essent in anima: si intellectus agens non esset aliquid anime: 
+        <lb ed="#V" n="14"/>ergo etc. Ex ista conclusione et per sertim ex deductione 
+        <lb ed="#V" n="15"/>arist. infero correlarie: quod in natura rationali creata est 
+        <lb ed="#V" n="16"/>dare voluntatem possibilem et agentem: sicut et intellectum: 
+        <lb ed="#V" n="17"/>deductio videtur mihi satis clara: quia ratio arist. non 
+        mi<lb ed="#V" n="18" break="no"/>nus probat hoc de voluntate quam de intellectu: arguo 
+        <lb ed="#V" n="19"/>enim sicut et ipse: in omni natura in qua est dare vnum 
+        <lb ed="#V" n="20"/>quod est omnia fieri: est dare vnum quod est omnia facere: 
+        <lb ed="#V" n="21"/>sed in natura rationali creata est dare voluntatem 
+        possibi<lb ed="#V" n="22" break="no"/>lem que est omnia fieri: igitur in ipsa est dare voluntatem 
+        <lb ed="#V" n="23"/>agentem que est omnia facere: maior est philosi: et minor 
+        <lb ed="#V" n="24"/>est vera: igitur etc. Et confirmatur: quia quicquid dicatur 
+        <lb ed="#V" n="25"/>ad istam rationem: dicetur ad rationem pbi: cum minor sit 
+        <lb ed="#V" n="26"/>ita vera de voluntate: sicut de intellectu: igitur vel 
+        ra<lb ed="#V" n="27" break="no"/>tio arist. non concludit: vel si illa concludit et ista. 
+      </p>
+               <p xml:id="at8va9-e51462-d1e452">
+        Pre 
+        <lb ed="#V" n="28"/>terea: potentia equalis ambitus obiectiue et eiusdem 
+        <lb ed="#V" n="29"/>immaterialitatis subiectiue: quarum vna est perfectior 
+        al<lb ed="#V" n="30" break="no"/>tera: si minus perfecta habet virtutem agentem sui 
+        ge<lb ed="#V" n="31" break="no"/>neris et magis perfecta: hoc patet: quia posse agere 
+        di<lb ed="#V" n="32" break="no"/>cit perfectione: sed intellectus et voluntas in 
+        creatu<lb ed="#V" n="33" break="no"/>ris sunt equalis ambitus obiectiue: vt patet per bea. 
+        <lb ed="#V" n="34"/>aug. 10. de tri. c. 11. et eiusdem immaterialitatis 
+        subie<lb ed="#V" n="35" break="no"/>ctiue: quia sunt eiusdem subiecti primi: et voluntas est 
+        perfecti<lb ed="#V" n="36" break="no"/>or intellectu: vt patet ex. q. praecedenti. et intellectus 
+        ha<lb ed="#V" n="37" break="no"/>bet virtutem agentem sui generis ex conclusione statia 
+        <lb ed="#V" n="38"/>deducta: igitur et voluntas. 
+      </p>
+               <p xml:id="at8va9-e51462-d1e478">
+        Secunda conclusio 
+        principa<lb ed="#V" n="39" break="no"/>lis est: quod obiectum naturaliter conceptibile: non est totalis 
+        <lb ed="#V" n="40"/>causa effectiua: nec partialis actus intelligendi: 
+        proba<lb ed="#V" n="41" break="no"/>tur primo sic: obiectum naturaliter sensibile non est tota 
+        <lb ed="#V" n="42"/>lis causa effectiua nec partialis actus sentiendi igitur 
+        <lb ed="#V" n="43"/>obiectum naturaliter intelligibile non est totalis causa 
+        <lb ed="#V" n="44"/>effectiua nec partialis actus intelligendi: consequentia est nota: 
+        <lb ed="#V" n="45"/>et antecedens est bea. aug. 12. super gensem ad litteram. c. 2o. vbi sic 
+        <lb ed="#V" n="46"/>inquit: nec sanum putandum est facere quod corpus in sptum 
+        <lb ed="#V" n="47"/>tanquam corpus corpori factibili mere vite subditur: 
+        omni<lb ed="#V" n="48" break="no"/>enim modo pstantior est qui facit: ea re de qua aliquid 
+        fa<lb ed="#V" n="49" break="no"/>cit: nec vllo modo spium pestantius est corpus: et subdit 
+        in<lb ed="#V" n="50" break="no"/>mediate ad propositum: quamais enim prius videamus 
+        ali<lb ed="#V" n="51" break="no"/>quod corpus quod antea non videramus: atque inde 
+        in<lb ed="#V" n="52" break="no"/>cipiat imago eius esse in spiritu nostro: tamen eandem eius 
+        <lb ed="#V" n="53"/>imaginem non corpus in spiitum sed ipse spiritus in seipso 
+        fa<lb ed="#V" n="54" break="no"/>cit sterilitatem numerali: et loquitur ad litteram de 
+        ima<lb ed="#V" n="55" break="no"/>gine que est visio: ergo etc. Et consimilem sententiam 
+        <lb ed="#V" n="56"/>ponit in 6 musice satis circa principium: vbi sic ait: 
+        <lb ed="#V" n="57"/>diligenter considerandum vtrum re vera ni hil aliud sit 
+        <lb ed="#V" n="58"/>quod dicitur audire: nihil aliud a corpore in anima fieri: sed 
+        <lb ed="#V" n="59"/>absurdum est fabricatori corpori sub ecta est materiam 
+        <lb ed="#V" n="60"/>quo quod animam subdetur: nunque enim est anima corpore dete 
+        <lb ed="#V" n="61"/>rior: et omnis materia fabricatore deterior: nullo ergo 
+        <lb ed="#V" n="62"/>modo anima fabricatori corpori subiecta est materies esset: 
+        <lb ed="#V" n="63"/>aut si aliquos in ea numeros corpus operaretur: hec 
+        au<lb ed="#V" n="64" break="no"/>gu. Et modicum infra prosequens materiam istam subdit 
+        <lb ed="#V" n="65"/>et ne longum faciam: videtur mihi anima cum sentit in corpore: 
+        <lb ed="#V" n="66"/>non ab illo aliquid pati: sed in eius passionibus attentius 
+        <lb ed="#V" n="67"/>agere. Et quibusdam interpositis concludit: cum autem 
+        <lb ed="#V" n="68"/>anima ab operationibus suis aliquid patitur: a seipsa patitur 
+        <lb ed="#V" n="69"/>non a corpore. Et hec est ratio potissima que me mouet
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>ad tenendum conclusionem istam propter dicta bea. aug. 
+        <lb ed="#V" n="71"/>Secundo potest sic argui illud cui accidit ad hoc quod in 
+        <lb ed="#V" n="72"/>telligatur ab intellectu esse in actu: vel in potentia none 
+        <lb ed="#V" n="73"/>totalis causa effectiua nec partialis actus 
+        intelligen<lb ed="#V" n="74" break="no"/>di: sed obiecto naturaliter conceptibili accidit etc. 
+        igi<lb ed="#V" n="75" break="no"/>tur etc. maior patet ratione et auctoritate: ratione 
+        quiden<lb ed="#V" n="76" break="no"/>quia quod est in potentia non potest esse causa effectiua actus realis in 
+        <lb ed="#V" n="77"/>actu. aucte: quia causa in actu et effectus in actu simuil sunt et non 
+        <lb ed="#V" n="78"/>sunt. 5. metaphi. igitur illud cui accidit esse in actu non 
+        <lb ed="#V" n="79"/>est causa effectiua actus realis in actu: minor patet: 
+        <lb ed="#V" n="80"/>quia non solum intelligitur ens in actum: sed ens in 
+        poten<lb ed="#V" n="81" break="no"/>tia: et econtra: igitur etc. 
+      </p>
+               <p xml:id="at8va9-e51462-d1e576">
+        Tertio sic: illud cui 
+        ac<lb ed="#V" n="82" break="no"/>cidit esse absolutum vel respectiuum vt intelligatur 
+        <lb ed="#V" n="83"/>ab intellectu non est totalis causa effectiua nec paet 
+        <lb ed="#V" n="84"/>tialis actus intelligendi obiecto naturaliter 
+        conce<lb ed="#V" n="85" break="no"/>cotibibile accidit etc. igitur etc maior patet: quia 
+        re<lb ed="#V" n="86" break="no"/>spectus non est per se principium: nec terminus 
+        acti<lb ed="#V" n="87" break="no"/>onis. 5 phisi minor probatur vt prius: quia et 
+        absolu<lb ed="#V" n="88" break="no"/>tum et respectiuum intelliguntur ab intellectu: 
+        er<lb ed="#V" n="89" break="no"/>go etc. 
+      </p>
+               <p xml:id="at8va9-e51462-d1e596">
+        Quarto sic: illud cui accidit quod sit ens 
+        reale<lb ed="#V" n="90" break="no"/>vel rationis non est totalis causa effectiua nec paset 
+        <lb ed="#V" n="91"/>tialis actus intelligendi: hoc patet: quia causa actus 
+        <lb ed="#V" n="92"/>realis necessario est realis: sed obiecto naturaliter 
+        <lb ed="#V" n="93"/>conceptibili accidit quod sit reale vel rationis: quia non 
+        <lb ed="#V" n="94"/>solum intelligitur ens reale: sed etiam rationis: ef 
+        <lb ed="#V" n="95"/>go etc. Ex ista conclusione infero correlarie quod 
+        ob<lb ed="#V" n="96" break="no"/>iectum voluntatis non est totalis causa effectiua: 
+        <lb ed="#V" n="97"/>nec partialis actus volendi. deductio est satis non 
+        <lb ed="#V" n="98"/>ta: quia obiectum voluntatis non magis causat actu 
+        <lb ed="#V" n="99"/>volendi quam obiectum intellectus actum 
+        intelligen<lb ed="#V" n="100" break="no"/>di: et potest deduci per easdem rationes. Illis 
+        ta<lb ed="#V" n="101" break="no"/>men dimissis confirmo conclusionem per rationes 
+        <lb ed="#V" n="102"/>speciales: et quia conclusio habet duas partes. 
+        Pri<lb ed="#V" n="103" break="no"/>mo probo primam videlicet: quod obiectum non sit tota 
+        <lb ed="#V" n="104"/>lis causa etc. et arguo sic: omnes actus volendi et 
+        nolen<lb ed="#V" n="105" break="no"/>di ad quos voluntas est in potentia naturali sunt in 
+        <lb ed="#V" n="106"/>potestate voluntatis: ergo nullus talis 
+        causaturto<lb ed="#V" n="107" break="no"/>taliter ab obiecto: antecedens patet: quia secundum bea. 
+        <lb ed="#V" n="108"/>aug. primo retrac. c. o. nihil tam in potestate 
+        volun<lb ed="#V" n="109" break="no"/>tatis quam ipsa voluntas: quod necessario intelligitur de 
+        <lb ed="#V" n="110"/>actu non de potentia: consequentia probatur. quia 
+        si<lb ed="#V" n="111" break="no"/>actus qui est in potestate voluntatis causatur 
+        to<lb ed="#V" n="112" break="no"/>taliter ab obiecto vel actio talis obiecti est in 
+        pote<lb ed="#V" n="113" break="no"/>state voluntatis: vel non. si non: igitur nec actus est 
+        in<lb ed="#V" n="114" break="no"/>potestate voluntatis: quia in cuius potestate non est 
+        <lb ed="#V" n="115"/>antecedens: nec consequens: quod de necessitate 
+        <lb ed="#V" n="116"/>sequitur ad antecedens: sed si agens agit patiens 
+        ne<lb ed="#V" n="117" break="no"/>cessario patitur: igitur in cuius potestate non est 
+        actio<lb ed="#V" n="118" break="no"/>agentis: nec passio patientis. si sic: igitur talem 
+        obie<lb ed="#V" n="119" break="no"/>ctum non poterit agere nisi voluntas velit ipsum 
+        age<lb ed="#V" n="120" break="no"/>re: tunc quero: vel actus ille volendi quo voluntas 
+        <lb ed="#V" n="121"/>vult ipsum agere est effectiue ab obiecto: vel a 
+        vo<lb ed="#V" n="122" break="no"/>luntate: vel ab alio non ab obiecto: quia talis actus 
+        <lb ed="#V" n="123"/>est prior actione obiecti: et nullus effectus est 
+        prior<lb ed="#V" n="124" break="no"/>actione per quam producitur si a voluntate pari 
+        ra<lb ed="#V" n="125" break="no"/>tione et alius quicumque erit a voluntate: cum non 
+        mi<lb ed="#V" n="126" break="no"/>nus sit quilibet aliorum in potestate voluntatis: quo 
+        <lb ed="#V" n="127"/>posito sequitur quod nullus sit totaliter ab obiecto: quod 
+        <lb ed="#V" n="128"/>est intentum: si ab alio queram sicut prius: vel 
+        actio<lb ed="#V" n="129" break="no"/>illius est in potestate voluntatis: vel non: si non actus 
+        <lb ed="#V" n="130"/>non erit in potestate voluntatis: nec per consequens 
+        <lb ed="#V" n="131"/>per ipsum erit aliquid in eius potestate. si sic: 
+        reuer<lb ed="#V" n="132" break="no"/>tetur questio: et proceditur in infinitum: sed talis 
+        pro<lb ed="#V" n="133" break="no"/>cessus est vitandus standum est igitur in primo. Et 
+        <lb ed="#V" n="134"/>confirmatur: quia accipio primum actum qui est 
+        <lb ed="#V" n="135"/>in potestate voluntatis: et vocetur. a. et peto: vel 
+        ta<lb ed="#V" n="136" break="no"/>lis est a voluntate effectiue: vel non: si sic: pari 
+        ra<lb ed="#V" n="137" break="no"/>tione et alius quicunque: vt patet ex supradictis: et 
+        <lb ed="#V" n="138"/>per consequens nullus erit totaliter ab obiecto: quod est propositum
+        <pb ed="#V" n="88-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>si non: vel est ab aliquo: cuius actio est in potestate 
+        volun<lb ed="#V" n="2" break="no"/>tatis ex deductione praecedenti. et per consequens primus actus qui est 
+        in<lb ed="#V" n="3" break="no"/>potestate voluntatis non est in partante voluntatis: quod est 
+        contra<lb ed="#V" n="4" break="no"/>dictio: si sic vel eius actio est inptante: voluntatis per istam 
+        <lb ed="#V" n="5"/>actum. a. sic quod per eum voluntas vult illud agere. vel per alium 
+        <lb ed="#V" n="6"/>non per istum: quia iste est posterior actione agentis: cum sit eius 
+        <lb ed="#V" n="7"/>effectus prius autem non est in ptante posterioris si per alium: 
+        <lb ed="#V" n="8"/>vel ille erit prior actu. a. vel non. si non: adhuc per ipsum actus 
+        <lb ed="#V" n="9"/>illius agentis non erit in ptante voluntatis: cum ponatur 
+        poste<lb ed="#V" n="10" break="no"/>rior ipsa: si sic: vel talis actus est in potestate 
+        volun<lb ed="#V" n="11" break="no"/>tatis vel no: si non: per ipsum nihil erit in ptante 
+        voluenta<lb ed="#V" n="12" break="no"/>tis: si sic: igitur actus. a. non est primus actus qui est in ptante 
+        <lb ed="#V" n="13"/>voluntatis: cuius oppositum est assumptu patet igitur prima 
+        <lb ed="#V" n="14"/>pers conclusionis Secudam vero videlibet quod obiectum non sit 
+        causa<lb ed="#V" n="15" break="no"/>partialis etc. deduco sic: aliquis actus voluntatis non causa 
+        <lb ed="#V" n="16"/>tur ab obiecto partialiter: igitur nullus: consequentia est mihi euidens: 
+        <lb ed="#V" n="17"/>quia non est maior necessitas quod vnus actus voluntatis 
+        cau<lb ed="#V" n="18" break="no"/>setur partialiter ab obiecto: quam alius. antecedens probatur: quia actus 
+        <lb ed="#V" n="19"/>volendi aliquam re propter malitiam eius non causatur ab obiecto: 
+        <lb ed="#V" n="20"/>quod est malum totaliter vel partialiter: hoc patet: quia malum solum habet 
+        <lb ed="#V" n="21"/>rationem priuatiuam: cum non sit nisi priuatio boni priuatio autem 
+        ni<lb ed="#V" n="22" break="no"/>hil est: sicut expresse demonstratur anshel. de concep. virgis 
+        <lb ed="#V" n="23"/>c. 5. et de casu diabili. c. 11. et 12. nihil autem non est 
+        to<lb ed="#V" n="24" break="no"/>talis causa effectiua: nec partialis actus realis. 
+      </p>
+               <p xml:id="at8va9-e51462-d1e761">
+                  <lb ed="#V" n="25"/>Tertia conclusio principalis est quod intellectus 
+        possibi<lb ed="#V" n="26" break="no"/>lis non est totalis causa effectiua. nec partialis actus 
+        intel<lb ed="#V" n="27" break="no"/>ligendi. Ista conclusio. probatur communiter primo sic: si intellectus 
+        <lb ed="#V" n="28"/>possibilis esset totalis causa effectiua vel partialis 
+        <lb ed="#V" n="29"/>actus intelligendi vnum et idem secundum idem: et respectu 
+        <lb ed="#V" n="30"/>eiusdem esset in actu et in potentia: quod rationi 
+        repu<lb ed="#V" n="31" break="no"/>gnat: et probatur consequentia: quia vt causaret actum esset in 
+        <lb ed="#V" n="32"/>actu et vt recipet ipsum esset in potentia: cum agens sit 
+        <lb ed="#V" n="33"/>tale in actu: quale patiens in potentia. 3 phisi. et 
+        pri<lb ed="#V" n="34" break="no"/>mo de generatione: igitur etc. Secundo sic: si 
+        intelle<lb ed="#V" n="35" break="no"/>ctus possibilis esset etc. eiusdem ad se spsum esset 
+        relatio<lb ed="#V" n="36" break="no"/>realis: consequens est impossibile: igitur et antecedens: consequentia patet: quia 
+        <lb ed="#V" n="37"/>actiui ad passiuum est relatio realis. 5 metaphi. 
+        falsi<lb ed="#V" n="38" break="no"/>tas consequentis probatur: quia realiter relatiua sunt realiter 
+        <lb ed="#V" n="39"/>opposita: sed eiusdem ad se seipsum non est realis oppositio: 
+        <lb ed="#V" n="40"/>igitur nec realis relatio. 
+      </p>
+               <p xml:id="at8va9-e51462-d1e798">
+        Sed ad istas rationes quadam 
+        <lb ed="#V" n="41"/>Scotus in primo di. 3. parte. 3. q 2. ar. vl. respondet. 
+        <lb ed="#V" n="42"/>doctor. 
+        <lb ed="#V" n="43"/>Ad primam: quod non est aliquod inconueniens quod vnum et 
+        <lb ed="#V" n="44"/>idem respectu eiusdem sit in actu virtuali et in potentia 
+        <lb ed="#V" n="45"/>formali: quia non eodem modo est in actu et in potentia: et ideo 
+        <lb ed="#V" n="46"/>quod idem fit virtualiter tale in actu: et formaliter tale in 
+        po<lb ed="#V" n="47" break="no"/>tentia: nulla est contradictio: poterit igitur intellectus 
+        pos<lb ed="#V" n="48" break="no"/>sibilis esse in actu virtuali: et in potentia formali: et per 
+        <lb ed="#V" n="49"/>consequens se reducere ad actum formalem sine contradictione. 
+        <lb ed="#V" n="50"/>Ad secundum dicit: quod alique relationes opposite sunt 
+        <lb ed="#V" n="51"/>incompossibiles in eadem natura: alique in eodem 
+        supposi<lb ed="#V" n="52" break="no"/>to: alique nec in eodem supposito: nec in eadem natura 
+        <lb ed="#V" n="53"/>vnde ex ratione relationum in communi non potest concludi 
+        repu<lb ed="#V" n="54" break="no"/>gnantia earum in eodem. Exemplum primi: causa et causa 
+        <lb ed="#V" n="55"/>tum in eade natura et in eodem supposito repugnant: 
+        ali<lb ed="#V" n="56" break="no"/>ter idem dependeret a seipso sine sui diuisione. Exem 
+        <lb ed="#V" n="57"/>plum secundi: producens et productum non repugnant in eadem 
+        <lb ed="#V" n="58"/>natura: vbi natura potest communicari sine sui diuisione: 
+        si<lb ed="#V" n="59" break="no"/>cut patet in natura diuina: repugnat tamen in eodem 
+        sup<lb ed="#V" n="60" break="no"/>posito. Exemplum terti: moues motum: nec in eadem 
+        <lb ed="#V" n="61"/>natura: nec in eodem supposito repugnant: quia hic non 
+        <lb ed="#V" n="62"/>ponitur dependentia essentialis: quale ponunt relationes 
+        <lb ed="#V" n="63"/>cause et causati: nec ponitur ibi quod idem sit antequam sit: quod 
+        <lb ed="#V" n="64"/>videtur ponere relatio producentis et producti: sed tantum 
+        po<lb ed="#V" n="65" break="no"/>nitur hic quod idem dependeat a se quantum ad actum 
+        acci<lb ed="#V" n="66" break="no"/>dentalem quem recipit ab eo. Incompossibilitatem 
+        igi<lb ed="#V" n="67" break="no"/>tur aliquarum relationum: oportet reducere ad 
+        ali<lb ed="#V" n="68" break="no"/>quam incompossibilitatem priorem: et vbi illa prior 
+        <lb ed="#V" n="69"/>non inuenitur: nec ista concludentur ibi: et sic est in 
+        pro<lb ed="#V" n="70" break="no"/>posito. Et declarat vlterius ista responsio: quod sicut
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="71"/>ille relationes producentis et producti: quae sunt repugnantes 
+        <lb ed="#V" n="72"/>in eodem supposito: possunt fundari in eadem natura illimitata: si est 
+        <lb ed="#V" n="73"/>in essentia diuina: ita ille relationes mouentis et moti: 
+        <lb ed="#V" n="74"/>que malto minore habent repugnantiam possunt 
+        fun<lb ed="#V" n="75" break="no"/>dari in eadem natura aliqualiter illimitata: quicquid 
+        <lb ed="#V" n="76"/>aunt est in potentia sormali ad aliquem actum: et cum hoc habet 
+        <lb ed="#V" n="77"/>actualitatem virtualiter respectu illius: sicut est cum 
+        <lb ed="#V" n="78"/>idem mouet se aliqualiter illimitatum: quia potentia non est 
+        <lb ed="#V" n="79"/>tantum capax illius perfectionis: sed etiam causans eam: igitur 
+        <lb ed="#V" n="80"/>ibi propter aliqualem illimitationem bene compatiunt se 
+        <lb ed="#V" n="81"/>iste relationes opposite. 
+      </p>
+               <p xml:id="at8va9-e51462-d1e893">
+        Contra scotum. 
+        <lb ed="#V" n="82"/>¶Iste tamen solutiones non videntur mihi sufficere. Non se 
+        <lb ed="#V" n="83"/>quidem primo: quia si idem secundum idem et respectu eiusdem potest 
+        <lb ed="#V" n="84"/>esse in actu virtuali et in potentia formali idem secundum idem 
+        <lb ed="#V" n="85"/>potest agere in seipsum et pati a seipso: cuius oppositum 
+        con<lb ed="#V" n="86" break="no"/>mentator reputat per se notu 8 met aphi. commento. 2. 
+        <lb ed="#V" n="87"/>vbi sic inquit: potent ia agens est illud quod est prine pium 
+        trans<lb ed="#V" n="88" break="no"/>mutationis in aliud secundum quod est aliud non in se: cum sit 
+        ma<lb ed="#V" n="89" break="no"/>nifestum quod nihil agit in seipsum: potentia vero passiua est 
+        <lb ed="#V" n="90"/>illud quod recipit transmutatione in se ex alio secundum quod est 
+        <lb ed="#V" n="91"/>aliud: etiam cum sit manifestum quonihil patiatur a seipso: 
+        <lb ed="#V" n="92"/>Et confirmatur: quia arist. 5. metaphi. diffiniens 
+        poten<lb ed="#V" n="93" break="no"/>tiam actiuam et passiuam absolute vt dicuntur de 
+        for<lb ed="#V" n="94" break="no"/>mali et virtuali cum loquatur de potentia: prout sequitur 
+        <lb ed="#V" n="95"/>naturam entis inquantum ens: sub quo continetur actus 
+        <lb ed="#V" n="96"/>formalis et virtualis: et potentia: similiter dicit quod 
+        po<lb ed="#V" n="97" break="no"/>tentia actiua est principium transmutandi aliud secundum 
+        ali<lb ed="#V" n="98" break="no"/>ud: et potentia passiua principium transmutandi ab alio 
+        <lb ed="#V" n="99"/>secundum aliud: cum igitur nihil sit aliud a seipso: nihil 
+        pote<lb ed="#V" n="100" break="no"/>rit esse secundum idem et respectu eiusdem in actu 
+        virtuali<lb ed="#V" n="101" break="no"/>et in potentia formali. 
+      </p>
+               <p xml:id="at8va9-e51462-d1e939">
+        Preterea: si aliqua vna res 
+        <lb ed="#V" n="102"/>possit esse in actu virtuali et potentia formali respectu 
+        <lb ed="#V" n="103"/>eiusdem: aliqua res posset agere in seipsa sorma quam 
+        <lb ed="#V" n="104"/>non habet: consequentia est nota: et consequens est contra be. aug. expresse. 2. de 
+        <lb ed="#V" n="105"/>libero arbitrio. c. 3. vbi sic inquit: nulla res seipsam 
+        <lb ed="#V" n="106"/>formare potest: quia nulla res potest dare sibi quod non habet: et 
+        <lb ed="#V" n="107"/>vtique vt habeat forma formatur aliquid: 
+        quapro<lb ed="#V" n="108" break="no"/>pter quaelibet res si quam habet formam non eius opus 
+        <lb ed="#V" n="109"/>est accipere quod habet: si quam vero forma non habet 
+        <lb ed="#V" n="110"/>non potest a se accipere quod non habet: nulla igitur 
+        <lb ed="#V" n="111"/>res vt dixi formare se potest: hec aug. Et ista 
+        ra<lb ed="#V" n="112" break="no"/>tio potissime mouet me ad impugnandum 
+        solutio<lb ed="#V" n="113" break="no"/>nem istam: et tenendum conclusionem principalem 
+        pro<lb ed="#V" n="114" break="no"/>pter dicta be. aug quia si intellectus possibilis esset 
+        <lb ed="#V" n="115"/>totalis causa effectiua: vel partialis actus 
+        intelli<lb ed="#V" n="116" break="no"/>gendi posset seipsum formare: et causare in seipso 
+        for<lb ed="#V" n="117" break="no"/>mam quam non habet: cuius oppositum vult bea. 
+        <lb ed="#V" n="118"/>aug. expresse. Ex his patet: quod secunda ratio non est 
+        <lb ed="#V" n="119"/>soluta: quia si mouens et motum non repugnant in 
+        <lb ed="#V" n="120"/>eadem natura: nec in eodem supposito: idem secundum 
+        ipen<lb ed="#V" n="121" break="no"/>et respectu eiusdem esset in aclu virtuali et in 
+        poten<lb ed="#V" n="122" break="no"/>tia formali: cuius oppositum patet esse verum ex 
+        di<lb ed="#V" n="123" break="no"/>ctis. Et vlterius illa solutio destruit seipsam: vt 
+        vi<lb ed="#V" n="124" break="no"/>detur: dicit enim quod omnis natura in qua fundantur 
+        <lb ed="#V" n="125"/>relationes mouentis et moti est aliqualiter illimita 
+        <lb ed="#V" n="126"/>ta: sed constat quod natura intellectus possibilis non 
+        <lb ed="#V" n="127"/>est illimitata aliquo modo: cum omnis intellectus 
+        <lb ed="#V" n="128"/>creatus sit simpliciter finitus et nullo medo 
+        infini<lb ed="#V" n="129" break="no"/>tus: igitur in intellectu possibili relationes huiusmo 
+        <lb ed="#V" n="130"/>di fundari non possunt: quod est propositum: ergo etc. 
+        <lb ed="#V" n="131"/>Et vlterius ista solutio contradicit principiis philesi: 
+        <lb ed="#V" n="132"/>qui. 8. phisi. et 12 metaphisice. ad probandum primum 
+        <lb ed="#V" n="133"/>motorem accipit pro principio: quod omne quod mouetur ab alio 
+        <lb ed="#V" n="134"/>mouetur: patet igitur rationes illas non esse solutas: vt videtur: patet 
+        <lb ed="#V" n="135"/>etiam conclusione esse de mente be. aug. et arist. et sui 
+        commenta<lb ed="#V" n="136" break="no"/>toris. Et potest ex dictis eorum confirmari. Primo sic: illud quod 
+        <lb ed="#V" n="137"/>solum est pura potentia in genere intelligibilium non est totaliter 
+        causa<lb ed="#V" n="138" break="no"/>effectiua nec partialis actus intelligendi: intellectus passibilis 
+        <lb ed="#V" n="139"/>est huiusmodi: ergo: maior patet: quia omne agens agit secundum quod est
+        <pb ed="#V" n="88-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>in actu: illud ergo quod est pura potentia in aliquo 
+        gene<lb ed="#V" n="2" break="no"/>re per exclusionem omnis actualitatis nullam actiuitatem 
+        <lb ed="#V" n="3"/>habet in illo genere: minor est arist. 3. de anima dicit quod 
+        in<lb ed="#V" n="4" break="no"/>tellectus possibilis non habet aliam naturam nisi quia post 
+        <lb ed="#V" n="5"/>sibilis vocatus est: ergo etc. Secundo sic: secundum commen 
+        <lb ed="#V" n="6"/>tatorem. 3 de anima commento. 5. sicut se habet materia 
+        primo<lb ed="#V" n="7" break="no"/>ma ad forma vel formas senssbiles: sic intellectus 
+        <lb ed="#V" n="8"/>possibilis ad fornas intelligibiles: sed materia 
+        pri<lb ed="#V" n="9" break="no"/>ma: quia est pura potentia simpliciter in genere entium 
+        <lb ed="#V" n="10"/>non est totalis causa effectiua nec partialis allcuius 
+        for<lb ed="#V" n="11" break="no"/>me sensibilis: igitur intellectus possibilis: quia est pura 
+        <lb ed="#V" n="12"/>potentia in genere intelligibilium non est totalis causa 
+        effe<lb ed="#V" n="13" break="no"/>ctiua: nec partialis actus intelligendi. Ex ista conclusio 
+        <lb ed="#V" n="14"/>ne infero correlarie quod voluntas possibilis vel 
+        passi<lb ed="#V" n="15" break="no"/>ua non est totalis causa effectiua: nec partialis actus volem: 
+        <lb ed="#V" n="16"/>di: deductio patet per rationes probantes conclusionem istam de 
+        in<lb ed="#V" n="17" break="no"/>tellectu: que non minus concludunt de voluntate. 
+      </p>
+               <p xml:id="at8va9-e51462-d1e1065">
+                  <lb ed="#V" n="18"/>Quarta conclusio principalis est: quod intellectus agens 
+        <lb ed="#V" n="19"/>est totalis causa effectiua actus intelligendi et ad 
+        ponen<lb ed="#V" n="20" break="no"/>dum conclusionem istam: mouent me praincipaliter verba 
+        be<lb ed="#V" n="21" break="no"/>ati aug. qui ex vna parte dicit: quod anima est actiua suarum 
+        <lb ed="#V" n="22"/>operationum: vt patet per auctoritatem ipsius. 12. super gen. 
+        <lb ed="#V" n="23"/>ad litteram et in 6. allegatas in secunda conclusione. 
+        <lb ed="#V" n="24"/>Et ex alia parte ponit quod nulla res potest producere in se 
+        <lb ed="#V" n="25"/>spa forma quam non habet: vt patet per auctoritatem 
+        ipsi<lb ed="#V" n="26" break="no"/>us. 2. de libero arbitrio allegatam in tertia. Et ex 
+        <lb ed="#V" n="27"/>istis sequitur quod in anima parter inteliectum possibilem qui 
+        re<lb ed="#V" n="28" break="no"/>cipit intellectionem sit aliqua virtus que sit actiua 
+        <lb ed="#V" n="29"/>ipsius: et nulla potest assignari praeter intellectum agentem: 
+        <lb ed="#V" n="30"/>immo quecumque detur illam voco intellectum agentem. 
+        Confir<lb ed="#V" n="31" break="no"/>mo tamen conclusionem sic: quandocumque actiuitas actiui 
+        <lb ed="#V" n="32"/>adequat passibilitatem passiui ad quicquid se extendit 
+        <lb ed="#V" n="33"/>passinitas passiui se extendit actiue actiuitas 
+        acti<lb ed="#V" n="34" break="no"/>ui: patet ex terminis: sed actiuitas intellectus 
+        agen<lb ed="#V" n="35" break="no"/>tis adequat naturalem passibilitatem intellectus 
+        <lb ed="#V" n="36"/>possibilis: quia sicut intellectus possibilis est omnia 
+        fie<lb ed="#V" n="37" break="no"/>ri: ita intellectus agens est omnia facere per philosophum. 3 de anima: 
+        <lb ed="#V" n="38"/>et intellectus possibilis est totalis causa receptiua: et sic 
+        <lb ed="#V" n="39"/>passiua actus intelligendi: igitur intellectus agens est 
+        to<lb ed="#V" n="40" break="no"/>talis causa effectiua eiusdem. Secundo sic: omnis 
+        opera<lb ed="#V" n="41" break="no"/>tio immanens est subiectiue sui principii actiuitati: vel 
+        <lb ed="#V" n="42"/>alicuius immediate fundati in eode cum suo 
+        principio<lb ed="#V" n="43" break="no"/>actiuo: aliter operatio immanens non esset perfectio agentis: 
+        <lb ed="#V" n="44"/>quod est contra philosophum o. metaphi. sed intelligere est 
+        opera<lb ed="#V" n="45" break="no"/>tio immanens: vt patet ibidem et fundatur subiectiue in 
+        in<lb ed="#V" n="46" break="no"/>tellectu possibili: igitur causatur effectiue ab intellectu 
+        <lb ed="#V" n="47"/>possibili: vel ab aliquo immediate fundato in eodem 
+        <lb ed="#V" n="48"/>subiecto cum ipso sed non causatur effectiue ab 
+        intelle<lb ed="#V" n="49" break="no"/>ctu possibili: vt patet ex tertia conclusione: igitur causatur 
+        <lb ed="#V" n="50"/>ab aliquo immediate fundato in eodem subiectiue cum 
+        <lb ed="#V" n="51"/>ipso: sed constat quod nihil aliud ab intellectu agente 
+        imme<lb ed="#V" n="52" break="no"/>diate fundatur in anima nostra cum intellectu possibili a 
+        quo<lb ed="#V" n="53" break="no"/>possit causari actus intelligendi ergo etc. 
+        Ter<lb ed="#V" n="54" break="no"/>tio sic: vel intellectus agens est totalis cau effectiua actus 
+        <lb ed="#V" n="55"/>intelligendi: vel nulla vel partialis: non nulla: nec partialitsr 
+        <lb ed="#V" n="56"/>ergo totalis: non quidem nusmla: aliter intellectus agens 
+        <lb ed="#V" n="57"/>non esset omnia facere: nec intelligere esset actio immanens 
+        <lb ed="#V" n="58"/>vt patet ex dictis: nec partialis: quia illud quod cum eo 
+        <lb ed="#V" n="59"/>concurreret vel esset obiectum vel species representatiua 
+        <lb ed="#V" n="60"/>ipsius vel intellectus possibilis: hoc patet: quia istis 
+        <lb ed="#V" n="61"/>positis potest poni actus intelligendi nisi impedimentum 
+        <lb ed="#V" n="62"/>occurrat: sed nullum istorum potest dari: non quidem primum: vt 
+        <lb ed="#V" n="63"/>patet ex secunda conclusione: nec secundum: quia si obiectum non 
+        <lb ed="#V" n="64"/>potest poni totalis causa effectiua: nec partialis actus in 
+        <lb ed="#V" n="65"/>telligendi: nec species representatiua ipsius: nec tertium: 
+        <lb ed="#V" n="66"/>vt patet ex conclusione praecedenti. Ex ista conclusione 
+        infe<lb ed="#V" n="67" break="no"/>ro correlarie quod voluntas agens est totalis causa effectiua 
+        <lb ed="#V" n="68"/>omnis actus volendi et nolendi: ad quos possibilis est in 
+        po<lb ed="#V" n="69" break="no"/>tentia naturali: deductio est mihi euidens: quia non minus
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>voluntas agens est totalis causa effectiua actus 
+        volen<lb ed="#V" n="71" break="no"/>di: quam intellectus agens actus intelligendi. Et potest vel 
+        <lb ed="#V" n="72"/>terius deduci per rationes probantes conclusionem istam de 
+        in<lb ed="#V" n="73" break="no"/>tellectu agente que non minus probant de voluntate. 
+        Con<lb ed="#V" n="74" break="no"/>sirmo tamen eam vnica ratione sic: vel voluntas agens est 
+        tota<lb ed="#V" n="75" break="no"/>lis causa effectiua etc. vel nulla: vel partialis: non nulla 
+        <lb ed="#V" n="76"/>nec partialis: ergo totalis: non quidem nulla quod 
+        ostendo<lb ed="#V" n="77" break="no"/>dupliciter. Primo: quia secundum anshel. de concor. c. 
+        vo<lb ed="#V" n="78" break="no"/>luntas est actiua et facit omnes voluntarios motus: 
+        <lb ed="#V" n="79"/>et talis non est voluntas passiua: vt patet ex conclusione 
+        prae<lb ed="#V" n="80" break="no"/>cedenti: igitur voluntas agens. Secundo: quia actus 
+        volun<lb ed="#V" n="81" break="no"/>tatis est liber: igitur est a voluntate actiue totaliter vel 
+        partia<lb ed="#V" n="82" break="no"/>liter: cum libertas non consistat in mere pati: et non est a 
+        <lb ed="#V" n="83"/>voluntate passiua siue possibili: igitur ab agente. Nec 
+        <lb ed="#V" n="84"/>partialis: quia illud quod cum ea concurreret vel esset obiectum: 
+        <lb ed="#V" n="85"/>vel intellectus vel actus intelligendi: vel voluntas 
+        <lb ed="#V" n="86"/>ipsa passiua: hoc patet: quia istis solis positis potest poni 
+        <lb ed="#V" n="87"/>actus voluntatis: sed nullum istorum potest cum ipsa concurre 
+        <lb ed="#V" n="88"/>re: ergo: non quidem obiectum: vt patet ex secunda conclusione 
+        <lb ed="#V" n="89"/>nec voluntas passiua: vt patet ex tertia: nec 
+        intelle<lb ed="#V" n="90" break="no"/>ctus: hoc non est dubium: nec actus intelligendi: sicut 
+        vi<lb ed="#V" n="91" break="no"/>detur quibusdam: quia talis praecise requiritur vt obiectum si 
+        <lb ed="#V" n="92"/>at praesens voluntati ergo etc. Ad maiorem tamen declarationem 
+        <lb ed="#V" n="93"/>huius conclusionis est aduertendum: quod per istam conclusionem non 
+        in<lb ed="#V" n="94" break="no"/>tendo negare quin deus concurrat actiue ad 
+        producendu<lb ed="#V" n="95" break="no"/>omnem actum intelligendi et volendi: sicut etiam concurrit 
+        <lb ed="#V" n="96"/>cum omni causa secunda ad producendum omnem eius effectum: 
+        <lb ed="#V" n="97"/>nec intendo quod intellectus agens sit effectiuum quod 
+        intel<lb ed="#V" n="98" break="no"/>lectionis tale enim est anima vel angelus: sed intelligo 
+        <lb ed="#V" n="99"/>quod intellectus agens sit eis ratio agendi et effectiuum quo: 
+        <lb ed="#V" n="100"/>imaginor enim quod sicut intellectus possibilis non 
+        in<lb ed="#V" n="101" break="no"/>telligit: sed est illud quo anima vel angelus intelligit: sic 
+        <lb ed="#V" n="102"/>et intellectus agens non causat actu: sed est illud quo 
+        <lb ed="#V" n="103"/>anima vel angelus causat ipsum: et idem intelligo de 
+        volun<lb ed="#V" n="104" break="no"/>tate: et hoc de secundo. 
+      </p>
+            </div>
+            <div xml:id="at8va9-e51462-Dd1e1259">
+               <head xml:id="at8va9-e51462-Hd1e1261">Articuli 3 et 4</head>
+               <p xml:id="at8va9-e51462-d1e1263">
+                  <lb ed="#V" n="105"/>Tertius et quartus articulus. 
+        <lb ed="#V" n="106"/>QUantum ad tertium et quartum articulum simul 
+        mo<lb ed="#V" n="107" break="no"/>uenda et dissoluenda sunt dubia contra conclusiones. 
+        <lb ed="#V" n="108"/>istas. 
+      </p>
+               <p xml:id="at8va9-e51462-d1e1274">
+        Et primo contra primam est quedam opinio cuiusdam 
+        <lb ed="#V" n="109"/>reuerendi doctoris nostri. 
+        <lb ed="#V" n="110"/>Bernardus oliuerii in primo di. 3. q. 8. ar. i. 
+        <lb ed="#V" n="111"/>Qui circa materiam illam ponit duas conclusiones. 
+        <lb ed="#V" n="112"/>Prima est: quod intellectus agens non est aliquid anime et ista 
+        <lb ed="#V" n="113"/>directe contradicit conclusioni mee. Secunda: quod 
+        intelle<lb ed="#V" n="114" break="no"/>ctus agens est ipsa scientia dei: que dicitur intellectus agens: 
+        <lb ed="#V" n="115"/>quia dat rebus virtutem mouendi intellectum possibilem 
+        <lb ed="#V" n="116"/>et causandi in ipso actum intelligendi: et hec contradicit 
+        <lb ed="#V" n="117"/>ei indirecte. Prima conclusionem que directe est ad 
+        pro<lb ed="#V" n="118" break="no"/>positum probat multipliciter. Primo sic: nulla potentia 
+        <lb ed="#V" n="119"/>existens in anima nostra est nobilior intellectu possibili: nisi 
+        <lb ed="#V" n="120"/>forte voluntas: sed intellectus agens est nobilior 
+        intel<lb ed="#V" n="121" break="no"/>lecta possibili et non est voluntas: igitur etc. maior probatur: 
+        <lb ed="#V" n="122"/>quia poteria intelligens formaliter est nobilior formaliter 
+        <lb ed="#V" n="123"/>potentia non intelligente formaliter: sed intellectus 
+        pos<lb ed="#V" n="124" break="no"/>sibilis est intelligens formaliter: et nulla alia potentia 
+        <lb ed="#V" n="125"/>existens in anima nostra est intelligens formaliter: igitur 
+        intel<lb ed="#V" n="126" break="no"/>lectus possibilis est nobilior omni potentia existente in anima 
+        <lb ed="#V" n="127"/>nostra: dimissa voluntate: que licet non sit formaliter in 
+        <lb ed="#V" n="128"/>telllgens est tamen formaliter volens: minor autem patet: 
+        <lb ed="#V" n="129"/>quia agens est nobilius patiente: sed intellectus agens 
+        <lb ed="#V" n="130"/>agit: possibiliss vero patitur: ergo etc. 
+      </p>
+               <p xml:id="at8va9-e51462-d1e1324">
+        Preterea: 
+        <lb ed="#V" n="131"/>agens vniuersale non minis distinguitur supposito et 
+        <lb ed="#V" n="132"/>subiecto a passo quam agens particulare: hoc patet in 
+        omni<lb ed="#V" n="133" break="no"/>bus inductiue: videmus enim quod sol qui est agens 
+        vni<lb ed="#V" n="134" break="no"/>uersale magis distinguitur ab homine: quam homo qui 
+        <lb ed="#V" n="135"/>est agens particulare: et idem apparet in similibus 
+        quia<lb ed="#V" n="136" break="no"/>buscumque: sed intellectus agens est agens vniuersale: 
+        <lb ed="#V" n="137"/>obiecta vero sunt agentia particularia: ergo magis 
+        di<lb ed="#V" n="138" break="no"/>stinguitur intellectus ages supposito et subiecto a pauo:
+        <pb ed="#V" n="89-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>quam ipsa obiecta: sed constat quod ipsa obiecta son sunt 
+        ali<lb ed="#V" n="2" break="no"/>quid anime: igitur multo minus intellectus agens. 
+      </p>
+               <p xml:id="at8va9-e51462-d1e1353">
+        Pre 
+        <lb ed="#V" n="3"/>terea: nullum accidens inherens alicui potest esse agens 
+        <lb ed="#V" n="4"/>principale: vel equiuocum: licet possit esse ratio agendi: sed si 
+        <lb ed="#V" n="5"/>intellectus agens esset aliquid anime: esset accidens ei in 
+        <lb ed="#V" n="6"/>herens: ergo non esset agens principale seu equiuocum 
+        <lb ed="#V" n="7"/>et per consequens non esset agens: cum non sit agens: particulare 
+        <lb ed="#V" n="8"/>hoc autem est falsum: relinquitur ergo quod non sit aliquid in anima
+      </p>
+               <p xml:id="at8va9-e51462-d1e1370">
+                  <lb ed="#V" n="9"/>Preterea: nullum agens particulare est nobilius 
+        <lb ed="#V" n="10"/>agenti vniversali: sed si intellectus agens esset aliquid anime: 
+        agen<lb ed="#V" n="11" break="no"/>tia particularia essent ipso nobiliora: cum tamen sit agens 
+        <lb ed="#V" n="12"/>vniversale: igitur non est aliquid anime: maior patet in omnibus 
+        indu<lb ed="#V" n="13" break="no"/>ctiue vt dicit iste doc. minor autem probatur: quia si pone 
+        <lb ed="#V" n="14"/>retur in anima: esset accidens: et multa agentia particula 
+        <lb ed="#V" n="15"/>ria sunt substantie: et constat quod sub statia est nobilior 
+        <lb ed="#V" n="16"/>omni accidente: ergo etc. 
+      </p>
+               <p xml:id="at8va9-e51462-d1e1390">
+        Preterea: omne agens 
+        particula<lb ed="#V" n="17" break="no"/>re recipit influentiam ab vniversali. sed si talis intellectus 
+        <lb ed="#V" n="18"/>esset in anima: agentia particularia non reciperent 
+        influem<lb ed="#V" n="19" break="no"/>tiam ab ipso: igitur non debet poni in ipsa: maior patet 
+        <lb ed="#V" n="20"/>de deo et creaturis: de sole et animalibus et sic de aliis: 
+        <lb ed="#V" n="21"/>et minor videtur nota: quia talia obiecta non dependerent 
+        <lb ed="#V" n="22"/>ab eo in esse: nec in conseruari: cum esset queda qualitas 
+        <lb ed="#V" n="23"/>tantum: igitur etc. Et ex his sequitur oppositum propositionis 
+        <lb ed="#V" n="24"/>quam intuli correlarie. quia si in anima non sit dare intellectum 
+        <lb ed="#V" n="25"/>agentem multo minus est dare voluntatem agentem. 
+        <lb ed="#V" n="26"/>Et confirmatur: quia numquam philosi fecerunt mentionem de 
+        volun<lb ed="#V" n="27" break="no"/>tate agente: vt videt rationale: si sit dare voluntatem 
+        <lb ed="#V" n="28"/>agentem sicut et intellectum. Conu bernardum. 
+      </p>
+               <p xml:id="at8va9-e51462-d1e1419">
+                  <lb ed="#V" n="29"/>¶ Istis tamen non obstantibus videtur mihi: quod nulla ista 
+        <lb ed="#V" n="30"/>rum conclusionum sit vera vt patet ex deductione conclusionis 
+        <lb ed="#V" n="31"/>mee: contra quam adducuntur. Et potest vlterius confirmari: quod 
+        <lb ed="#V" n="32"/>si intellectus agens non esset aliquid anime: intelligere non esset 
+        <lb ed="#V" n="33"/>actio immanens: cuius oppositum: patet per aris. 9. 
+        metaphi<lb ed="#V" n="34" break="no"/>sice: consequentia declaratur: quia nulla operatio dicitur immanens 
+        <lb ed="#V" n="35"/>cuius agens vniversale et particulare principale: et instrumen 
+        <lb ed="#V" n="36"/>tale distinguuntur supposito et spo ab operatione: et 
+        su<lb ed="#V" n="37" break="no"/>biecto operationis hec patet: quia nulla talis operatio 
+        <lb ed="#V" n="38"/>maneret in agente: et omnis operatio immanens manet 
+        <lb ed="#V" n="39"/>in agente per arist. vbi supra: sed si intellectus agens 
+        <lb ed="#V" n="40"/>non sit aliquid anime: tam vniversale agens quam particulare: tam 
+        <lb ed="#V" n="41"/>principale quam instrumentale distinguuntur supposito et 
+        <lb ed="#V" n="42"/>substanto ab operatione et subsato operationis: hoc patet: quia tam 
+        <lb ed="#V" n="43"/>intellectus agens qui ab ipso ponitur agens vniversale: quam 
+        obiecta<lb ed="#V" n="44" break="no"/>extrinseca que ab ipso ponunt agentia particularia: 
+        <lb ed="#V" n="45"/>casu posito distinguuntur supposito et subiecto ab 
+        intel<lb ed="#V" n="46" break="no"/>lectione et substanto intellectionis: igitur intelligere non erit 
+        <lb ed="#V" n="47"/>actio immanens: Et confirmatur: quia illa actio est 
+        transi<lb ed="#V" n="48" break="no"/>ens: cuius agens vniversale et particulare distinguuntur 
+        sup<lb ed="#V" n="49" break="no"/>posito et substanto ab operatione et substanto operationis: per 
+        <lb ed="#V" n="50"/>philosophum vbi supra: sed sic est in proposito: si intellectus 
+        <lb ed="#V" n="51"/>agens sit scientia dei et non aliquid in anima: igitur etc. 
+      </p>
+               <p xml:id="at8va9-e51462-d1e1471">
+        
+        Pre<lb ed="#V" n="52" break="no"/>terea: contra clsines istas sunt expresse duo ar. parisien. 
+        <lb ed="#V" n="53"/>preter articulum quem adduxi in deductione cclusionis mee 
+        <lb ed="#V" n="54"/>Primus est articulus 119. vbi dicitur: quod substantia 
+        <lb ed="#V" n="55"/>anime fit eterna: et quod intellectus agens et possibilis sinte 
+        <lb ed="#V" n="56"/>terni: error: sed constat quod intellectus agens est 
+        eter<lb ed="#V" n="57" break="no"/>nus: si sit scientia dei: ergo etc. Secunds est articulus 133. 
+        <lb ed="#V" n="58"/>vbi dicitur: quod intellectus agens est quedam substantia 
+        se<lb ed="#V" n="59" break="no"/>parata superior ad intellectum possibilem: et quod vabe 
+        sb<lb ed="#V" n="60" break="no"/>stantiam potentiam et operatione est separatus a 
+        cor<lb ed="#V" n="61" break="no"/>pore: nec est forma corporis humani: error: sed 
+        con<lb ed="#V" n="62" break="no"/>stat quod hec omnia verificantur de deo: sisit scientia dei: ergo etc.
+      </p>
+               <p xml:id="at8va9-e51462-d1e1497">
+                  <lb ed="#V" n="63"/>Nec motum istius doc. concludunt. 
+        <lb ed="#V" n="64"/>Responsio bernardi oliuerii. 
+        <lb ed="#V" n="65"/>Ad primam: igitur communiter negatur maior. Et ad 
+        proba<lb ed="#V" n="66" break="no"/>tionem dicitur: quod nobilius est esse tale virtualiter: quam 
+        forma<lb ed="#V" n="67" break="no"/>liter: quia intellectus agens virtualiter continet 
+        intellectio<lb ed="#V" n="68" break="no"/>nem quam causat: licet intellecius possibilis sit formaliter intelligens 
+        <lb ed="#V" n="69"/>adhuc intellectus ages erit nobilior ipso. Ista tamen so¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>lutio licet sit communis non videtur impedire rationem: quia iutta 
+        <lb ed="#V" n="71"/>regulam anshel. mono. c. 15: licet in perfectionibus 
+        <lb ed="#V" n="72"/>secundum quid: nobilius sit esse tale virtualiter: quam formaliter: quia 
+        <lb ed="#V" n="73"/>nobilius est posse creare lapidem: quam esse formaliter lapis 
+        <lb ed="#V" n="74"/>in perfectionibus tamen simpliciter nobilius est esse tale 
+        for<lb ed="#V" n="75" break="no"/>maliter: quam virtualiter: et per hoc probat anshel. quod omnis per 
+        <lb ed="#V" n="76"/>sectio simpliciter conuenit deo formaliter: sed intelligere est 
+        <lb ed="#V" n="77"/>perfectio simpliciter: quia in vno quoque melius est esse: quam 
+        <lb ed="#V" n="78"/>non esse: vt patet per anshel. ibidem. ergo etc. Et ideo quicquid 
+        <lb ed="#V" n="79"/>sit de maiori: nego minorem: quia intellectus agens non 
+        <lb ed="#V" n="80"/>videtur simpliciter nobilior intellectu passibili: licet sit 
+        nobi<lb ed="#V" n="81" break="no"/>lior ipso secundum quid: ratio huius est: quia illa potentia est 
+        sim<lb ed="#V" n="82" break="no"/>pliciter nobilior cuius operatio perfectissima est 
+        nobili<lb ed="#V" n="83" break="no"/>or: sed perfectissima operatio intellectus possibilis est 
+        <lb ed="#V" n="84"/>nobilior simpliciter perfectissima operatione intellectus 
+        <lb ed="#V" n="85"/>agentis: igitur intellectus possibilis est simpliciter nobilior 
+        <lb ed="#V" n="86"/>intellectu agente: probatur minor: quia perfectissima 
+        ope<lb ed="#V" n="87" break="no"/>ratio intellectus possibilis est visio dei beatifica: quam 
+        <lb ed="#V" n="88"/>non causat intellectus agens: sed deus ipse: ergo etc. 
+        <lb ed="#V" n="89"/>Nec probatio valet: quia non semper agens est simpliciter 
+        nobi<lb ed="#V" n="90" break="no"/>lior eo in quo agit: videmus enim: quod ignis agit in 
+        ho<lb ed="#V" n="91" break="no"/>minem: et tamen non oportet: quod sit simpliciter nobilior homine. 
+        <lb ed="#V" n="92"/>Et per istum doc. obiectum cognitum agit in intellectum: 
+        <lb ed="#V" n="93"/>et tamen non omne quod: quodlibet obiectet sit simpliciter nobilius intellectu: 
+        <lb ed="#V" n="94"/>aliter albedo esset simpliciter nobilior ipso subo: quod est 
+        <lb ed="#V" n="95"/>manifeste falsum: et sic de aliis multis: sufficit enim quod 
+        <lb ed="#V" n="96"/>agens sit nobilius passo secundum quid scilicet inquantum agens 
+      </p>
+               <p xml:id="at8va9-e51462-d1e1575">
+                  <lb ed="#V" n="97"/>Ad secundum: ratio supponit quod intellectus sit agens vniversale 
+        <lb ed="#V" n="98"/>respectu intellectionis: et obiectum intelligibile agens 
+        <lb ed="#V" n="99"/>particulare: quod non est verum quia obiectum naturaliter 
+        con<lb ed="#V" n="100" break="no"/>ceptibile non est totalis causa effectiua nec 
+        particula<lb ed="#V" n="101" break="no"/>ris actus intelligendi: vt patet ex secunda clusine. Multi etiam 
+        <lb ed="#V" n="102"/>concederent maiorem in actionibus transeuntibus non 
+        <lb ed="#V" n="103"/>autem in immanentibus cuiusmodi est intelligere. 
+      </p>
+               <p xml:id="at8va9-e51462-d1e1594">
+        Ad 
+        <lb ed="#V" n="104"/>tertium concedo conclusionem: quia intellectus agens non est 
+        <lb ed="#V" n="105"/>principale agens: sed ratio agendi principali agenti: est 
+        <lb ed="#V" n="106"/>n. illud quo angelus vel anima causat actum 
+        intelligen<lb ed="#V" n="107" break="no"/>di vt dictum est supra. 
+      </p>
+               <p xml:id="at8va9-e51462-d1e1605">
+        Ad quartum potest dupliciter 
+        <lb ed="#V" n="108"/>responderi: primo quidem interimendo maiorem: quia sol est 
+        <lb ed="#V" n="109"/>agens vniversale respectu omnium que infra spheram actiuorum 
+        <lb ed="#V" n="110"/>et passiuorum naturaliter producuntur: et homo est agens 
+        <lb ed="#V" n="111"/>particulare: quia sol et homo generant hominem: et tamen 
+        con<lb ed="#V" n="112" break="no"/>stat: quod homo et omne animatum est simpliciter nobilius 
+        <lb ed="#V" n="113"/>sole: potest tamen vniversale agens secundum quid nobilius quam particum 
+        <lb ed="#V" n="114"/>lare: sed isto modo non est inconueniens: quod accidens 
+        <lb ed="#V" n="115"/>sit nobilius aliquo subiecto. Secundo potest dici: quod obiecntum 
+        <lb ed="#V" n="116"/>non sit agens: nec vniversale nec particulare: nisi cum anima in 
+        <lb ed="#V" n="117"/>telligit se: et ideo ratio nulla. Ad quintum etiam eodem 
+        <lb ed="#V" n="118"/>modo: quia supponitur in minori: quod obiectia extrinseca sint 
+        <lb ed="#V" n="119"/>agentia particularia: quod non est verum. Ex his patet 
+        <lb ed="#V" n="120"/>quid dicendum ad illud: quod infertur de voluntate 
+        agen<lb ed="#V" n="121" break="no"/>te. Et quando dicitur quod philosi no fecerunt mentionem: potest 
+        di<lb ed="#V" n="122" break="no"/>ci dupliciter: primo quidem dici potest: quod locus ab 
+        au<lb ed="#V" n="123" break="no"/>ctoritate non tenet negatiue: et ideo non secquitur: philosi non 
+        fe<lb ed="#V" n="124" break="no"/>cerunt mentionem de voluntate agente: igitur non est 
+        da<lb ed="#V" n="125" break="no"/>re voluntatem agentem. Secundo potest dici: quod licet philosi non 
+        fe<lb ed="#V" n="126" break="no"/>cerunt mentionem explicite de voluntate agente: 
+        <lb ed="#V" n="127"/>fecerunt tamen implicite: quia sicut declaratum est 
+        supe<lb ed="#V" n="128" break="no"/>rius: ratio quam facit arist. non minus probat voluntatem 
+        <lb ed="#V" n="129"/>agentem: quam intellectum. Con secundam conclusionem 
+        <lb ed="#V" n="130"/>sunt duo modi dicendi famosi: quorum primus ponit: 
+        <lb ed="#V" n="131"/>quod obiectum naturaliter conceptibile est totalis 
+        cau<lb ed="#V" n="132" break="no"/>sa effectiua actus intelligendi. Secundo vero: quod sit ei 
+        <lb ed="#V" n="133"/>us causa partialis: licet non totalis: verum quia 
+        quiliber<lb ed="#V" n="134" break="no"/>eorum est directe contra conclusionem: iccirco non adduco 
+        <lb ed="#V" n="135"/>rationes diuisim. 
+      </p>
+               <p xml:id="at8va9-e51462-d1e1668">
+        Ex fundamentis: igitur scoti: cuius est 
+        <lb ed="#V" n="136"/>secundus modus dicendi quidam doc. 
+        <lb ed="#V" n="137"/>Landulphus in. 1. di. 4. q. 1. ar. 2. 
+        <lb ed="#V" n="138"/>Arguit Primo sic. A quocumque habet aliquid effe¬
+        <pb ed="#V" n="89-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>ctiue vnde formaliter distinguatur: illud est eius 
+        effe<lb ed="#V" n="2" break="no"/>ctiuum: sed hoc habet actus intelligendi ab obiecto: ergo 
+        ma<lb ed="#V" n="3" break="no"/>ior patet: quia causa dans esse dat specificum esse per quod 
+        <lb ed="#V" n="4"/>vnumquodque ab alio distinguitur: minor probatur: quia 
+        distin<lb ed="#V" n="5" break="no"/>ctio obiectorum videtur causare distinctionem actuum 
+        <lb ed="#V" n="6"/>vnde philosns. 2. et 3. de anima inuestigat distinctionem actus 
+        <lb ed="#V" n="7"/>per distincta obiectia. 
+      </p>
+               <p xml:id="at8va9-e51462-d1e1697">
+        Preterea: nihil est perfectius 
+        <lb ed="#V" n="8"/>penes illud: quod non est causa sui: cum ab eodem aliquid 
+        <lb ed="#V" n="9"/>sit et perfectum sit: sed penes perfectiora obiecta sunt 
+        <lb ed="#V" n="10"/>actus perfectiores: quia philoss. 3. ethico. ponit actum 
+        <lb ed="#V" n="11"/>felicitatis esse perfectissimum: quia est de perfectissimo 
+        <lb ed="#V" n="12"/>obiecto: igitur impossibile et quin obiecium sit ca actus. 
+      </p>
+               <p xml:id="at8va9-e51462-d1e1710">
+        Pre 
+        <lb ed="#V" n="13"/>terea: causa potens habere actus infinitos specie 
+        diffe<lb ed="#V" n="14" break="no"/>rentes est infinita: nisi concurrat cum ea aliud agens: 
+        <lb ed="#V" n="15"/>sed intellectus potest habere infinitos actus spe 
+        dis<lb ed="#V" n="16" break="no"/>tinctos: ergo erit infinitus: si non concurrat cum eo obiectum 
+        <lb ed="#V" n="17"/>ad causandum: maior patet: quia causa prehabet omnes 
+        effe<lb ed="#V" n="18" break="no"/>ctus: maxime quando est causa equiuoca: cui non acquiritur 
+        <lb ed="#V" n="19"/>potentia causandi eo quod causat: igitur si prehabeat in 
+        <lb ed="#V" n="20"/>finitos effectus erit infinita: minor probatur: quia 
+        cir<lb ed="#V" n="21" break="no"/>ca infinitum ens potest habere intellectus suum actum 
+        <lb ed="#V" n="22"/>igitur nisi concurrat obiectum erit infinitus. 
+      </p>
+               <p xml:id="at8va9-e51462-d1e1734">
+        Preterea: 
+        <lb ed="#V" n="23"/>ad idem arguitur communiter: Primo sic: illud quod est tale in 
+        <lb ed="#V" n="24"/>actu: qualis intellectus est in potentia: et per consequens: 
+        <lb ed="#V" n="25"/>reductiuum ipsius de potentia ad actum: est 
+        necessa<lb ed="#V" n="26" break="no"/>rio totalis causa effectiua: vel partialis actus 
+        intellig<lb ed="#V" n="27" break="no"/>di: sed obiectum naturaliter conceptibile: est tale in actu 
+        qua<lb ed="#V" n="28" break="no"/>lis intellectus est in potentia: et per consequens: igitur etc: 
+        ma<lb ed="#V" n="29" break="no"/>ior patet: quia illud quod reducit aliquid de potentia ad 
+        <lb ed="#V" n="30"/>actum: videtur necessario quod agat in illud: probatur 
+        mi<lb ed="#V" n="31" break="no"/>nor: quia intellectus est in potentiaad. intelligendum: a 
+        <lb ed="#V" n="32"/>liter. numquam posset intelligere: et obiectum est de se actu 
+        intelligi<lb ed="#V" n="33" break="no"/>bile: igitur etc. 
+      </p>
+               <p xml:id="at8va9-e51462-d1e1761">
+        Preterea: illud quod necessario 
+        exigi<lb ed="#V" n="34" break="no"/>tur ad intellectionem et non sicut passiuum: nec sicut 
+        <lb ed="#V" n="35"/>receptiuum: illud requiritur sicut actiuum: hoc patet: quia 
+        <lb ed="#V" n="36"/>non apparet alia ratio ad quam requiratur: sed obiectum 
+        neces<lb ed="#V" n="37" break="no"/>sario exigitur ad intellectionem: et non sicut passiuum: quia in 
+        <lb ed="#V" n="38"/>tellectus non agit in rem extra: nec sicut receptiuum: quia 
+        <lb ed="#V" n="39"/>non recipit intellectionem: vt patet: igitur etc. 
+      </p>
+               <p xml:id="at8va9-e51462-d1e1777">
+        Preterea: 
+        <lb ed="#V" n="40"/>omne recipiens aliquid absolutum in se non nisi existente quo 
+        <lb ed="#V" n="41"/>dam alio se: habet ad illud sicut recipiens ad agens: 
+        <lb ed="#V" n="42"/>aliter nesciremus quod ignis agit calorem: sed intellectus 
+        <lb ed="#V" n="43"/>possibilis non recipit intellectionem ratione rei sensibilis 
+        <lb ed="#V" n="44"/>nisi coexistente eius similitudine per sensus 
+        administra<lb ed="#V" n="45" break="no"/>ta: et causata a sensibili obiecto: intellectus igitur possibilis 
+        <lb ed="#V" n="46"/>se habet ad obiectum sensibile: sicut recipieus ad agens 
+        <lb ed="#V" n="47"/>Et confirmatur: ista positio auctoritate. b. Aug. 8. de 
+        <lb ed="#V" n="48"/>tri. c. vlti. vbi sic ait: liquide tenendum est: quod omnis res 
+        <lb ed="#V" n="49"/>quam cognoscimus aggenerat in nobis notitia sui: 
+        <lb ed="#V" n="50"/>ab vtroque enim paritur notitia: valet a cognoscente et 
+        cogni<lb ed="#V" n="51" break="no"/>to: ergo etc. 
+      </p>
+               <p xml:id="at8va9-e51462-d1e1806">
+        Ad rationes scoti. 
+        <lb ed="#V" n="52"/>Ad primum istorum: Primo reduco rationem contra suum au 
+        <lb ed="#V" n="53"/>ctorem assumpta eadem maiore a quo habet aliquid ef 
+        <lb ed="#V" n="54"/>fectiue: vnde formaliter distinguatur illud est eius effectiuum 
+        <lb ed="#V" n="55"/>sed hoc habet propria passio a substanto non minus quam actus in 
+        <lb ed="#V" n="56"/>telligendi ab obo: cum subsanium ponatur in propria diffinitio 
+        <lb ed="#V" n="57"/>ne passionis loco diciturie: vt patet 7 meta. ergo propria 
+        pas<lb ed="#V" n="58" break="no"/>sio causatur a proprio subsanto effectiue: quod est contra doc. eorum 
+        <lb ed="#V" n="59"/>cum non distinguatur realiter ab eo: vt docut. Ad 
+        forma<lb ed="#V" n="60" break="no"/>igitur rationis nego minorem. nec probatio valet: quia non se 
+        <lb ed="#V" n="61"/>quitur actus distinguuntur per obiectia igitur ab obiectis habent 
+        <lb ed="#V" n="62"/>aliquid effectiue vt formaliter distinguantur: sicut 
+        <lb ed="#V" n="63"/>non sequitur actus distinguuntur: per suas proprias rationes 
+        <lb ed="#V" n="64"/>formales. igitur ab eis habeunt aliquid effectiue vnde 
+        for<lb ed="#V" n="65" break="no"/>maliter distinguantur. immo sic arguendo committitur 
+        fal<lb ed="#V" n="66" break="no"/>latia consequentis: quia proceditur a pluribus causis veritatr 
+        <lb ed="#V" n="67"/>ad vnam: concedo ergo quod actus distinguuntur per obiecta 
+        <lb ed="#V" n="68"/>quia circa aliud et aliud obiectum intellectus causat 
+        ali<lb ed="#V" n="69" break="no"/>um et alium actum nec adhuc requiritur obiectum sicut
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>actiuum: sed solum sicut materia circa quam. 
+      </p>
+               <p xml:id="at8va9-e51462-d1e1852">
+        Ad 
+        <lb ed="#V" n="71"/>secundum vel intelligit in maiori quod nihil est perfectius 
+        <lb ed="#V" n="72"/>penes quod non est causa sui effectiua: vel intelligit quod 
+        <lb ed="#V" n="73"/>nihil est perfectius penes illud quod non est causa sui in 
+        ali<lb ed="#V" n="74" break="no"/>quo genere causae: si secundo modo non est ad propositum. quia 
+        <lb ed="#V" n="75"/>ex hoc non sequeretur. quod obiectum esset causam effectiua actus 
+        <lb ed="#V" n="76"/>intelligendi. si primo modo proposito non est vera. quia qualibet res 
+        con<lb ed="#V" n="77" break="no"/>posita est nobilior alia per suam forma: et vniversaliter quaelibet res 
+        <lb ed="#V" n="78"/>persuam propriam entitatem est nobilior et 
+        perfe<lb ed="#V" n="79" break="no"/>ctior alia: vel imperfectior: et tamen constat. quod nulla res 
+        <lb ed="#V" n="80"/>est causa effectiua sui ipsius: nec aliqua forma est 
+        causa<lb ed="#V" n="81" break="no"/>effectiua eius cuius est forma: igitur ratio nulla. Et 
+        <lb ed="#V" n="82"/>potest reduci contra eum sicut et precedens: quia penes 
+        perfectio<lb ed="#V" n="83" break="no"/>ra subiecta proprie passiones sunt perfectiores: vt 
+        <lb ed="#V" n="84"/>patet: et tamen per eas subsanium non potest esse causa effectiua 
+        pas<lb ed="#V" n="85" break="no"/>sionis. Ad tertium: primo reduco rationem contra eum et 
+        <lb ed="#V" n="86"/>ostendo: quod si causa totalis potens habere actus infinitos 
+        <lb ed="#V" n="87"/>specie differentes est infinita: quod etiam causa partialis 
+        po<lb ed="#V" n="88" break="no"/>tens: etc. erit infinita: quod est contra eum et contra doc. quem 
+        se<lb ed="#V" n="89" break="no"/>quitur: quia si causa totalis potens: etc. est infinita hoc ideo 
+        <lb ed="#V" n="90"/>est: quia maioris perfectionis est posse habere duos 
+        ef<lb ed="#V" n="91" break="no"/>fectus specie differentes: quam vnum tantum: et posse habere 
+        <lb ed="#V" n="92"/>tres quam posse habere duos: et sic infinitum: sed si hoc 
+        <lb ed="#V" n="93"/>est verum in causa totali: etiam verum erit in causa partiali: quia 
+        <lb ed="#V" n="94"/>licet causa partialis non sit tante perfectionis sicut eaum 
+        to<lb ed="#V" n="95" break="no"/>talis: esse tamen causam partialem est alicuius perfectionis 
+        <lb ed="#V" n="96"/>et ideo si in causa totali est vniversaliter verum: quod posse habere 
+        du<lb ed="#V" n="97" break="no"/>os actus: etc. est maioris perfectionis: quam posse 
+        ha<lb ed="#V" n="98" break="no"/>bere vnum tantum: verum erit etiam in causa partiali conformiter 
+        lo<lb ed="#V" n="99" break="no"/>quendo. 
+      </p>
+               <p xml:id="at8va9-e51462-d1e1917">
+        Ad rationem igitur dico: quod causa potens habere 
+        <lb ed="#V" n="100"/>infinitos actus simul et pro siml quantum est ex se: est 
+        in<lb ed="#V" n="101" break="no"/>finita intensiue: non tamen ca potens habere infinitos actus 
+        <lb ed="#V" n="102"/>simlis: sed non pro simlis: quia si sol effectus esset ab 
+        eterno<lb ed="#V" n="103" break="no"/>posset producem successiue effectus infinitos: et per consequens 
+        simul<lb ed="#V" n="104" break="no"/>contineret eos licet non pro simlis: et tamen propter hoc non esset 
+        infi<lb ed="#V" n="105" break="no"/>nitus sic est in proposito quia intellectus non potest 
+        ha<lb ed="#V" n="106" break="no"/>bere infinitos actus simul et pro simil: vt patet: et ideo 
+        ratio<lb ed="#V" n="107" break="no"/>nulla. 
+      </p>
+               <p xml:id="at8va9-e51462-d1e1937">
+        Ad primum: aliorum dico: quod maior non est 
+        to<lb ed="#V" n="108" break="no"/>taliter vera: quia licet obiectum sit aliquo modo tale in actu 
+        qua<lb ed="#V" n="109" break="no"/>lis intellectus est in potentia: non tamen sequitur propter hoc: quod 
+        <lb ed="#V" n="110"/>sit reductiuum ipsius de potentia ad actum: quia 
+        pote<lb ed="#V" n="111" break="no"/>rit reduci ad aliquam virtutem actiuam sui generis: 
+        pu<lb ed="#V" n="112" break="no"/>ta per intellectum agentem: vt patet ex 4. lione: ignis 
+        <lb ed="#V" n="113"/>enim est in potentia ad coburendum: cobustibile est in actu 
+        <lb ed="#V" n="114"/>quantum est de se cobustibile: non tamen reducit ignem de 
+        <lb ed="#V" n="115"/>potentia ad actum: sed ignis per suum calorem est 
+        cau<lb ed="#V" n="116" break="no"/>sa cobustionis. Et si dicatur: quod obiectum assimilat sibi 
+        in<lb ed="#V" n="117" break="no"/>tellectum: igitur reducit ipsum de potentia ad actum 
+        <lb ed="#V" n="118"/>nego consequentiam: quia non assimilat sibi intellectum 
+        effecti<lb ed="#V" n="119" break="no"/>ue: sed sicut materia circa quam. Ad secundum: nego 
+        <lb ed="#V" n="120"/>maiorem: exigitur enim obiecnteum solum sicut materia circa 
+        quam<lb ed="#V" n="121" break="no"/>et non sicut passiuum: nec sicut receptiuum finis enim 
+        prae<lb ed="#V" n="122" break="no"/>exigitur necessario in omni actione naturali: et non sicut a 
+        <lb ed="#V" n="123"/>ctiuum nec sicut passiuum: nec sicut receptiuum: sed sicut 
+        <lb ed="#V" n="124"/>illud ad quod alia ordinantur: illa igitur maior non est sut 
+        <lb ed="#V" n="125"/>ficiens. Ad tertium: etiam nego maiorem: quia finis: vt 
+        <lb ed="#V" n="126"/>statim fuit dictum: necessario requiritur ad actionem 
+        <lb ed="#V" n="127"/>cuiuslibet agentis naturaliter: et per consequens nihil 
+        recipi<lb ed="#V" n="128" break="no"/>tur aut causatur naturaliter in aliquo: nisi existente fine et 
+        <lb ed="#V" n="129"/>cum recipiens non se habet ad finem: sicut agens: 
+        <lb ed="#V" n="130"/>quia eam finalis non est effectiua: et in proposito 
+        intelle<lb ed="#V" n="131" break="no"/>ctus possibilis non recipit actum intelligendi naturali 
+        <lb ed="#V" n="132"/>ter nisi coexistentibus intelleetu agente et specie in fantasia 
+        <lb ed="#V" n="133"/>et ipsamet fantasia: et tamen hec omnia non ponuntur causare ef 
+        <lb ed="#V" n="134"/>fectiue actum intelligendi. Dicendum: ergo quod obiectum naturaliter 
+        <lb ed="#V" n="135"/>conceptibile non requiritur ad actum intelligendi: sicut agens 
+        <lb ed="#V" n="136"/>sced sicut materia circa quam. Ad auctoritatem vero 
+        con<lb ed="#V" n="137" break="no"/>cedo cum. b. Aug. quod a cognoscente: et cognito pariter si 
+        <lb ed="#V" n="138"/>ne gignitur notitia: a cognoscente quodem effectiue: a co¬
+        <pb ed="#V" n="90-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>gnito vero sicut ab eo quod necessario requiritur ad in 
+        <lb ed="#V" n="2"/>tellectionem non sicut effectiuum: sed sicut materia 
+        cir<lb ed="#V" n="3" break="no"/>ca quam: et hoc intendit. b. Aug. aliter contradiceret sibi ipsi 
+        <lb ed="#V" n="4"/>vt patet per auctoritates ipsius allegatas in deductio 
+        <lb ed="#V" n="5"/>ne ipsius coclusionis. Nec est bona consequentia a cognoscente 
+        <lb ed="#V" n="6"/>et cognito notitia gignitur: igitur ab vtroquoe effectiue: 
+        <lb ed="#V" n="7"/>quia in plus se habet gigni: sicut et causari: quam 
+        effecti<lb ed="#V" n="8" break="no"/>ue produci. vult ergo b. Aug. quod quodlibet istorum est 
+        cau<lb ed="#V" n="9" break="no"/>sa notitie in aliquo genere cause: cognoscens quidem 
+        <lb ed="#V" n="10"/>in genere cause efficientis: cognitum vero in genere 
+        cau<lb ed="#V" n="11" break="no"/>se materialis: non quod sit eius materia in qua vel de qua: sed 
+        <lb ed="#V" n="12"/>precise circa quam: et sic sunt exponende omnes auctori 
+        <lb ed="#V" n="13"/>tates quae videntur attribuere causalitatem obiecto 
+        respe<lb ed="#V" n="14" break="no"/>ctum notitie. Con tertiam clusionem sunt etiam duo 
+        mo<lb ed="#V" n="15" break="no"/>di dicendi: quorum vnus ponit: quod intellectus 
+        possib<lb ed="#V" n="16" break="no"/>bilis est totalis causa effectiua actus intelligendi. 
+        Al<lb ed="#V" n="17" break="no"/>ter vero: quod sit eius causa partialis licet non totalis: verum 
+        <lb ed="#V" n="18"/>quia quilibet eorum est contra inem quam teneo: non curo 
+        moti<lb ed="#V" n="19" break="no"/>ua eorum disiunctim adducere. 
+      </p>
+               <p xml:id="at8va9-e51462-d1e2053">
+        Cond ergo coclsionem arguit 
+        <lb ed="#V" n="20"/>quidam doc. Landulphus: 
+        <lb ed="#V" n="21"/>Ubi supra ex fundamentis scoti cuius est secunds 
+        mo<lb ed="#V" n="22" break="no"/>dus dicendi: Primo sic: actus vitalis non debet esse 
+        to<lb ed="#V" n="23" break="no"/>taliter a causa non vitali: cum sit imperfectior eo: sed actus in 
+        <lb ed="#V" n="24"/>tellectus est actus vitalis: ergo oportet quod habeat causam 
+        vi<lb ed="#V" n="25" break="no"/>talem scilicet intellectum possibilem. 
+      </p>
+               <p xml:id="at8va9-e51462-d1e2069">
+        Preterea: omnis 
+        opera<lb ed="#V" n="26" break="no"/>tio intra manens manet in agente vt agens est: cum sit 
+        <lb ed="#V" n="27"/>perfectio eius: vt patet per philosophum o. meta. sed intelligere 
+        <lb ed="#V" n="28"/>est operatio intra manens: vt patet ibidem: ergo manet in 
+        <lb ed="#V" n="29"/>agente vt agens est: sed manet in intellectu 
+        possibili<lb ed="#V" n="30" break="no"/>igitur est ab eo actiue 
+      </p>
+               <p xml:id="at8va9-e51462-d1e2082">
+        Preterea: perfectissimo enti non est 
+        <lb ed="#V" n="31"/>remouenda totalis causalitas sue operationis: cum 
+        cau<lb ed="#V" n="32" break="no"/>salitas sit perfectio entis: sed intellectus est 
+        perfectissi<lb ed="#V" n="33" break="no"/>mum ens: vt patet. 10. meta. 3. de anima et 10. ethico. ergo 
+        ha<lb ed="#V" n="34" break="no"/>bebit aliquam causalitatem respectu sue operationis. Pre 
+        <lb ed="#V" n="35"/>terea: habitus ponitur in intellectu possibili non solum ad 
+        <lb ed="#V" n="36"/>patiendum: quia de se summe est dispositus respectu actus: 
+        <lb ed="#V" n="37"/>ponitur in eo ad agendum. Et confirmatur ista ratio: quia 
+        cond<lb ed="#V" n="38" break="no"/>tio agentis non ponitur in passo: hoc patet: quia perfectio agentis 
+        <lb ed="#V" n="39"/>non est dispositio passi: sed habitus ponitur in intellectu 
+        <lb ed="#V" n="40"/>possibili: et habitus est dispositio agentis: tum quia habitus est: 
+        <lb ed="#V" n="41"/>qui habentem perficit: et opus eius bonus reddit vt dicitur. 2. ethi. 
+        <lb ed="#V" n="42"/>tum quia habitui attribuitur prompte et declarabitur 
+        opera<lb ed="#V" n="43" break="no"/>ri: ergo intellectus possibilis non erit men passiuus: et per consequens 
+        <lb ed="#V" n="44"/>erit aliquo modo actiuus. 
+      </p>
+               <p xml:id="at8va9-e51462-d1e2115">
+        Preterea: reflexio super 
+        <lb ed="#V" n="45"/>actum est actus operantis: sed ista reflexio conuenit 
+        intelle<lb ed="#V" n="46" break="no"/>ctui possibili: qui est potentia reflexiua: igitur 
+        intelle<lb ed="#V" n="47" break="no"/>ctus possibilis reflectendo se causat intellectionem. Ad 
+        <lb ed="#V" n="48"/>hoc ducuntur etiam auctoritates. b. Aug. contra cclusionem 
+        pre<lb ed="#V" n="49" break="no"/>cedentem allegate: quibus videtur dicere: quod 
+        intelle<lb ed="#V" n="50" break="no"/>ctus possibilis: qui est formaliter cognoscens sit causa 
+        <lb ed="#V" n="51"/>partialis intellectionis: quia a cognoscente et cognito 
+        <lb ed="#V" n="52"/>notitia gignitur: etc. Responsio ad rationes landulphi. 
+        <lb ed="#V" n="53"/>Ad primum istorum concedo: quod actus intelligendi habet 
+        <lb ed="#V" n="54"/>cam vitalem: sed non sequitur: habet causam vitalem igitur 
+        intelle<lb ed="#V" n="55" break="no"/>ctum possibilem: quia intellectus agens qui ponit eius 
+        causa<lb ed="#V" n="56" break="no"/>totalis est vitalis non minus: quam possibilis. i 
+        <lb ed="#V" n="57"/>secundum: distinguo de agente: quo et quod: sicut est aliquoa 
+        <lb ed="#V" n="58"/>liter tactum supra: et concedo quod omnis operatio itra 
+        ma<lb ed="#V" n="59" break="no"/>nens: manet in agente quod: non autem in agente quo: 
+        si<lb ed="#V" n="60" break="no"/>ue in ratione agendi: quia omne producens aliquid in se ipso 
+        <lb ed="#V" n="61"/>diuiditur in duo: quorum vnum est ei ratio agendi aliud 
+        ratio<lb ed="#V" n="62" break="no"/>recipiendi iuxta doctrinam arist. et etiam. b. Aug. aliter 
+        <lb ed="#V" n="63"/>eadem res formaret seipsam: cuius oppositu 
+        inten<lb ed="#V" n="64" break="no"/>dit: vt allegatum est supra: et sic est in proposito: quia in 
+        <lb ed="#V" n="65"/>tellectio manet in anima et est effectiue ab ea tamquam a 
+        prin<lb ed="#V" n="66" break="no"/>cipio quod: et intellectus agens est ei ratio agendi: 
+        possibi<lb ed="#V" n="67" break="no"/>lis vero ratio recipiendi: et ideo deducendo. 4 nem 
+        <lb ed="#V" n="68"/>dicebatur: quod omnis operatio immanens est subiectiue sut 
+        <lb ed="#V" n="69"/>principii actiui: vel alicuius immediate fundati in eo¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>dem cum suo principio actiuo. 
+      </p>
+               <p xml:id="at8va9-e51462-d1e2176">
+        Ad tertium: 
+        conce<lb ed="#V" n="71" break="no"/>do: quod oportet intellectum dare: qui sit causa effectiua 
+        <lb ed="#V" n="72"/>actus intelligendi: et hoc sufficit ad hoc: quod 
+        intelle<lb ed="#V" n="73" break="no"/>ctus sit ens perfectissimum in suo genere: sed non sequitur 
+        <lb ed="#V" n="74"/>oportet dare intellectum qui sit causa effectiua actus 
+        in<lb ed="#V" n="75" break="no"/>telligendi: igitur hic est intellectus possibilis: quia potest esse 
+        <lb ed="#V" n="76"/>intellectus agens. Ad quartum posset 
+        diuersimo<lb ed="#V" n="77" break="no"/>de responderi secundum diuersas opiniones doctorum: quia quidam 
+        <lb ed="#V" n="78"/>dicunt: quod habitus non facit ad substantiam actus: sed ad 
+        <lb ed="#V" n="79"/>modum eius: quidam vero econtra: quicquid tamen sit de 
+        <lb ed="#V" n="80"/>hoc: concedo: quod habitus intellligibilis aliquo modo ponitur. 
+        <lb ed="#V" n="81"/>ad agendum: et est ratio agendi: non quidem intellectui 
+        pos<lb ed="#V" n="82" break="no"/>sibili cum sit pura potentia in genere intelligibilium: sed 
+        an<lb ed="#V" n="83" break="no"/>gelo vel aie: quae mediante tali habitu per intellectum 
+        <lb ed="#V" n="84"/>agentem tamquam per rationem agendi: et principium actionis 
+        <lb ed="#V" n="85"/>quo prompte et delectabiliter causat actum: Et ad 
+        con<lb ed="#V" n="86" break="no"/>firmationem concedo: quod conditio agentis non ponitur in 
+        pas<lb ed="#V" n="87" break="no"/>so: vbi agens supposito: et subiecto distinguitur a 
+        pas<lb ed="#V" n="88" break="no"/>so: quia tunc non esset perfectio agentis: sed vbi agens 
+        sup<lb ed="#V" n="89" break="no"/>posito et subiecto non distinguitur a passo: contraditio 
+        agen<lb ed="#V" n="90" break="no"/>tis potest poni in passo: et sic est in proposito: quia 
+        intelle<lb ed="#V" n="91" break="no"/>ctus agens et possibilis fundatur immediate in essentia 
+        <lb ed="#V" n="92"/>angeli vel anime. Et vlterius non est imaginandum 
+        <lb ed="#V" n="93"/>quod habitus ponatur in intellecti possibili: et quod intellectus 
+        <lb ed="#V" n="94"/>agens per illum habitum prompte: et delectabiliter 
+        <lb ed="#V" n="95"/>exeat in actum: sed imaginandum est: quod habitus ponitur 
+        <lb ed="#V" n="96"/>in angelo vel in anima et per intellectum possibile tamquam 
+        <lb ed="#V" n="97"/>per rationem recipientis: recipit ipsum: quo posito potest 
+        <lb ed="#V" n="98"/>per intellectum agentemtam quam per rationem agendi et 
+        <lb ed="#V" n="99"/>principium operandi: quo prompte et delectabiliter 
+        <lb ed="#V" n="100"/>actum care: et sic habitus est eoditio agentis: quia conditio 
+        <lb ed="#V" n="101"/>angeli vel aie causantis. 
+      </p>
+               <p xml:id="at8va9-e51462-d1e2246">
+        Ad quintum concedo: quod 
+        refle<lb ed="#V" n="102" break="no"/>xio super actum est actus operantis: quia est actus 
+        angeli<lb ed="#V" n="103" break="no"/>vel aime qui mediantibus intellectu possibili tamquam 
+        ratio<lb ed="#V" n="104" break="no"/>ne recipiendi et intellectu agente tamquam ratione agendi 
+        refle<lb ed="#V" n="105" break="no"/>cti praesunt super actum: sed ad hoc non oportet: quod intellectus 
+        <lb ed="#V" n="106"/>possibilis causet actum: quia proprie loquendo non 
+        refle<lb ed="#V" n="107" break="no"/>ctit se super actum: sed est illud quo angelus vel anima re 
+        <lb ed="#V" n="108"/>flectuntur super ipsum: non quidem tamquam per rationem agendi: 
+        <lb ed="#V" n="109"/>sed tamquam per rationem recipiendi precise: Ad 
+        auctori<lb ed="#V" n="110" break="no"/>tates vero concedo: quod a cognoscente id est ab angelo vel 
+        <lb ed="#V" n="111"/>anima causatur effectiue actus intelligendi: et hoc 
+        intelli<lb ed="#V" n="112" break="no"/>git. b. Aug. intellectus tamen possibilis non est ei ratioagendi sed 
+        p<lb ed="#V" n="113" break="no"/>tellectus agens sicut et intellectus agens non est ei ratio recipiendi 
+        <lb ed="#V" n="114"/>sed intellectus possibilis. 
+      </p>
+               <p xml:id="at8va9-e51462-d1e2278">
+        Con. 4. sio nem quidam doctor. 
+        <lb ed="#V" n="115"/>Fraciscus de marionis ordinis minorum in 1d. 3. q. 4. ar. i. 
+        <lb ed="#V" n="116"/>Arguit Primo sic: posito totali actiuo et passiuo 
+        <lb ed="#V" n="117"/>debite approtimatis et non impeditis potest sequi effectus 
+        <lb ed="#V" n="118"/>si sit a ca libera. et necessario sequitur si sint agentia 
+        <lb ed="#V" n="119"/>naturalia: quocumque alio circumscripto: cum ab alio non 
+        <lb ed="#V" n="120"/>dependeat talis effectus: sed intellectus possibilis 
+        <lb ed="#V" n="121"/>est totale receptum actus intelligendi. ergo si 
+        intel<lb ed="#V" n="122" break="no"/>lectus agens est totale actiuum obiecto non praesente: nec 
+        <lb ed="#V" n="123"/>in se nec in specie posset causari actus intelligendi 
+        <lb ed="#V" n="124"/>cuius oppositum e xperimur. 
+      </p>
+               <p xml:id="at8va9-e51462-d1e2302">
+        Preterea: nulla 
+        eam<lb ed="#V" n="125" break="no"/>finita continet totaliter infinitos effectus specie 
+        distin<lb ed="#V" n="126" break="no"/>ctos: cum maioris perfectionis sit continere plures 
+        <lb ed="#V" n="127"/>quam vnum: intellectus autem si essent infinita obiecta specie 
+        <lb ed="#V" n="128"/>distincta omnia posset intelligere: ergo etc: 
+        Prete<lb ed="#V" n="129" break="no"/>rea: iccirco probamus ignem esse causam caloris: et a 
+        <lb ed="#V" n="130"/>quam non videntes eius causationem: quam cernimus 
+        <lb ed="#V" n="131"/>quod approximata igni: si non impediatur sequitur talis 
+        <lb ed="#V" n="132"/>effectus: Et eadem ratio est in proposito: quia 
+        obie<lb ed="#V" n="133" break="no"/>cto praesente intellectui: nisi voluntas impediat cauntur 
+        <lb ed="#V" n="134"/>actus intelligendi: igitur obiectum est eius causa 
+        sal<lb ed="#V" n="135" break="no"/>tem partialis: et per consequens intellectus agens 
+        <lb ed="#V" n="136"/>non est causa totalis. 
+      </p>
+               <p xml:id="at8va9-e51462-d1e2331">
+        Preterea si obiectum 
+        po<lb ed="#V" n="137" break="no"/>natur tantum causa sine qua non: ad cuius praesentia: 
+        <lb ed="#V" n="138"/>potentia moueat seipsam vel intellectus agens mo¬
+        <pb ed="#V" n="90-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>ueat possibilem effectiue: ita poterit dici. quod calo: 
+        <lb ed="#V" n="2"/>est causa sine qua non ad cuius praesentiam aer vel 
+        aqua<lb ed="#V" n="3" break="no"/>virtus in aere calefacit seipsum: quod est inconueniens 
+      </p>
+               <p xml:id="at8va9-e51462-d1e2349">
+                  <lb ed="#V" n="4"/>Ad rationes francisci. 
+        <lb ed="#V" n="5"/>Ad primum istorum quia passiuum reducitur ad genus 
+        <lb ed="#V" n="6"/>causae malis disting o de materia: quia quadam est materia in quaeu 
+        <lb ed="#V" n="7"/>dam de qua: et quedam circa quam: et concedo: quod 
+        posi<lb ed="#V" n="8" break="no"/>to totali actiuo et passiuo: dum tamen sit materia non 
+        so<lb ed="#V" n="9" break="no"/>lum in qua: sed de qua et cirea quam debite 
+        appro<lb ed="#V" n="10" break="no"/>ximatis: etc. potest sequi effectus: posito tamen totali 
+        acti<lb ed="#V" n="11" break="no"/>no et passiuo: quod solum est materia in qua: non est tamen 
+        <lb ed="#V" n="12"/>de qua nec circa quam: non oportet. quod sequatur 
+        effe<lb ed="#V" n="13" break="no"/>ctus. Exemplum primi posito igne et ligno 
+        combusti<lb ed="#V" n="14" break="no"/>bili debite approrimatis: etc. necessario sequitur 
+        cobu<lb ed="#V" n="15" break="no"/>stio quia lignum est materia combustibilis non solum in 
+        <lb ed="#V" n="16"/>quae sed de qua: et circa quam. Exemplum secundi: deus 
+        po<lb ed="#V" n="17" break="no"/>test supplere causalitatem effectiuam notitie 
+        intuiti<lb ed="#V" n="18" break="no"/>ue possibilis naturaliter de albedine: praesente albedine: tamen ipsa 
+        <lb ed="#V" n="19"/>corrupta: vel amnichilata non potest causare notitiam 
+        <lb ed="#V" n="20"/>intuitiuam secundum istum doc. et doctorem quam sequitur: 
+        <lb ed="#V" n="21"/>quia non esset notitia rei presentis et existentis: vt existens est: 
+        <lb ed="#V" n="22"/>et hoc habent concedere omnes illi qui non distinguunt 
+        inter<lb ed="#V" n="23" break="no"/>notitiam intuitiuam et intueri: siue inter visionem et 
+        <lb ed="#V" n="24"/>videre quia sicut extitit declaratum super 1 diictione 
+        impos<lb ed="#V" n="25" break="no"/>sibile est albedinem amnichilatam videri secundum istos: 
+        po<lb ed="#V" n="26" break="no"/>sito totali actiuo et passiuo quod solum est materia in 
+        qua<lb ed="#V" n="27" break="no"/>circumscripta materia de qua vel circa quam: non oportet: 
+        <lb ed="#V" n="28"/>quod sequat effectus. Et tunc ad minorem dico: quod 
+        intel<lb ed="#V" n="29" break="no"/>lectus possibilis est totale passiuum: vel receptiuum 
+        <lb ed="#V" n="30"/>actus intelligendi: quia est ma eius in qua: non tamen de 
+        qua<lb ed="#V" n="31" break="no"/>vel circa quam: nisi cum intelligit se: et ideo non sequitur 
+        <lb ed="#V" n="32"/>quod circumscripto odiecto in se et in sua specie possit 
+        causa<lb ed="#V" n="33" break="no"/>ri actus intelligendi. Et potest reduci ratio contra eum accipiendo 
+        <lb ed="#V" n="34"/>eandem maiorem: et inferendo minorem sed posito deo 
+        sup<lb ed="#V" n="35" break="no"/>plente causalitatem effectiuam albedinis si quam habet in sensu 
+        <lb ed="#V" n="36"/>ponitur totale actiuum et passiuum visionis possibilis 
+        <lb ed="#V" n="37"/>haberi de albedine: igitur corrupta vel amnichilata 
+        al<lb ed="#V" n="38" break="no"/>bedine potest causari visio albedinis: cuius oppositum 
+        <lb ed="#V" n="39"/>oportet ipsum concedere et omnes illos qui non 
+        distin<lb ed="#V" n="40" break="no"/>gaunt inter visionem et videre. Ad secundum patet: 
+        <lb ed="#V" n="41"/>quid dicendum ex solutione tertie rationis adducte contra 
+        <lb ed="#V" n="42"/>2. conclusionem. Ad tertium dico: quod accipit causam 
+        <lb ed="#V" n="43"/>diminnte: non enim probamus: quod ignis causat 
+        calo<lb ed="#V" n="44" break="no"/>rem in aqua effectiue: et hoc precise quod approxima 
+        <lb ed="#V" n="45"/>to igne si non impediatur: sequitur talis effectus: sed 
+        ex<lb ed="#V" n="46" break="no"/>hoc probamus: quod ad productionem caloris neces 
+        <lb ed="#V" n="47"/>sario requiritur ignis in aliquo genere cause: et quod non potest 
+        <lb ed="#V" n="48"/>reduci nisi ad genus cause efficientis conuincitur: quod sit 
+        <lb ed="#V" n="49"/>causa eius effectiua: in pro posito autem non est sic: quia 
+        <lb ed="#V" n="50"/>obiectum reducitur ad genus cause maturalis: non quod sit 
+        <lb ed="#V" n="51"/>materia cognitionis in qua vel de qua: sed circa 
+        quam<lb ed="#V" n="52" break="no"/>vt dictum est supra. Per idem patet: quid 
+        di<lb ed="#V" n="53" break="no"/>cendum ad quartum: quia obiectum non est tantum 
+        cau<lb ed="#V" n="54" break="no"/>sa sine qua non: sed vere reduciturad aliquod genus 
+        <lb ed="#V" n="55"/>cause.
+      </p>
+               <p xml:id="at8va9-e51462-d1e2464">
+        Ad argumenta principalia. 
+        <lb ed="#V" n="56"/>Ad rationes principales: Ad primam nego antecedens: 
+        <lb ed="#V" n="57"/>Et ad probationem: dico quod sensibile non causat ef 
+        <lb ed="#V" n="58"/>fectiue actum sentiendi totaliter: nec partialiter: vt 
+        pa<lb ed="#V" n="59" break="no"/>tet ex his que dicta sunt in secunda conclusione. Et quando 
+        <lb ed="#V" n="60"/>dicitur: quod sensus non est totalis causa ipsius secundum philost uo 
+        <lb ed="#V" n="61"/>concedo de sensu possibili: siue passiuo: totalis enim non 
+        <lb ed="#V" n="62"/>est totalis causa effectiua nec partialis actus 
+        sentien<lb ed="#V" n="63" break="no"/>di sicut nec intellectus possibilis actus intelligendi 
+        <lb ed="#V" n="64"/>sed sicut in anima nostra est dare intellectum agentem 
+        <lb ed="#V" n="65"/>qui sit totalis causa effectiua actus intelligendi: sic est 
+        <lb ed="#V" n="66"/>dare sensum agentem qui sit totalis causa effectiua actus 
+        <lb ed="#V" n="67"/>sentiendi. et ista credo esse intentionem philysi: quia ratio 
+        <lb ed="#V" n="68"/>ista in omni natura: etc. non minus probat: quod sit dare sensum 
+        <lb ed="#V" n="69"/>agentem in nobis qui scit omnia facere in genere suo:
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>quam intellectum. Et potest reduci ratio sicut superius fuit 
+        <lb ed="#V" n="71"/>deducta ad probandum voluntatem agentem. Ad 
+        <lb ed="#V" n="72"/>secundam rationem concedo: quod intellectus et voluntas 
+        cau<lb ed="#V" n="73" break="no"/>sant effectiue actus suos: eo tamen modo quo dictum est 
+        <lb ed="#V" n="74"/>in quarta conclusione.
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

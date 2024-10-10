@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#AlphonsusVargas">Alphonsus Vargas Toletanus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2024-10-10">October 10, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-x7yh5z">Venice, 1490</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="171-r"/>
+            <cb ed="#V" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="at8va9-e99999"><!-- l1d45-48q1 -->
+            <head xml:id="at8va9-e99999-Hd1e101">Quaestio 1</head>
+            <head xml:id="at8va9-e99999-Hd1e103" type="question-title">Utrum quilibet homo potens uti libero arbitrio teneatur sub pena peccati voluntatem suam voluntati divine universaliter in volito conformare</head>
+            <p xml:id="at8va9-e99999-d1e106">
+               <lb ed="#V" n="135"/>QUunc de voluntate dei: etc. Circa 
+      dis<lb ed="#V" n="136" break="no"/>tinctionem istam 45. et tres vltimmas 
+      se<lb ed="#V" n="137" break="no"/>quentes. in quibus. magister agit de 
+      volun<lb ed="#V" n="138" break="no"/>Itate diuina secundum se. et per comparationem
+      <pb ed="#V" n="171-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>ad voluntatem humanam: quero istam questionem. vtrum 
+      <lb ed="#V" n="2"/>quilibet homo potens vti libero arbitrio teneatur sub 
+      <lb ed="#V" n="3"/>pena peccati voluntatem suam voluntati divine vniversaliter in 
+      vo<lb ed="#V" n="4" break="no"/>lito conformare. Et videtur quod sic: quia quilibet homo potens 
+      <lb ed="#V" n="5"/>vti libero arbitrio tenetur velle sub pena peccati. quod 
+      <lb ed="#V" n="6"/>bonum et iustum est: igitur quilibet tenetur sub pena 
+      pecca<lb ed="#V" n="7" break="no"/>ti velle: quod deus vult. antecedens videtur ex terminis notum. et 
+      <lb ed="#V" n="8"/>consequentia patet: quia deus non rult nisi quod bonum et iustum est:
+    </p>
+            <p xml:id="at8va9-e99999-d1e139">
+               <lb ed="#V" n="9"/>Contra: viri sancti frequenter sine peccato 
+      vo<lb ed="#V" n="10" break="no"/>luerunt contraria. igitur non quilibet tenetur: etc. antecedens 
+      <lb ed="#V" n="11"/>non est cat holicis dubium. quia actuum. 15. vbi dici 
+      <lb ed="#V" n="12"/>tur quod barnabas volebat assumere Iohannem qui 
+      co<lb ed="#V" n="13" break="no"/>gnominabatur marcus. Paulus antem cogebat ipsum 
+      <lb ed="#V" n="14"/>de opposito. dicit quia cum discesisset ab eiusdem 
+      pa<lb ed="#V" n="15" break="no"/>philia et non iuisset cum eis in opus non debere eum 
+      <lb ed="#V" n="16"/>recipi. vnde facta est dissensio inter paulum et barnabam: 
+      <lb ed="#V" n="17"/>nec est credendum aliquem ipsorum in hoc 
+      peccal<lb ed="#V" n="18" break="no"/>se. consequentia videtur nota: quia impossibile est 
+      <lb ed="#V" n="19"/>voluntates volentium contraria divine voluntati. vni¬s 
+      <lb ed="#V" n="20"/>uersaliter in volito conformari. et per consequens 
+      ad<lb ed="#V" n="21" break="no"/>hoc non tenetur sub pena peccati. In ista 
+      questio<lb ed="#V" n="22" break="no"/>ne erunt quattuor articuli Primo ponam aliquas 
+      <lb ed="#V" n="23"/>distinctiones. Secundo conclusiones. Tertio mouebo 
+      <lb ed="#V" n="24"/>dubia. Ultimo respondebo. 
+    </p>
+            <div xml:id="at8va9-e99999-Dd1e176">
+               <head xml:id="at8va9-e99999-Hd1e178">Articulus 1</head>
+               <p xml:id="at8va9-e99999-d1e180">
+                  <lb ed="#V" n="25"/>Articulus primus. 
+        <lb ed="#V" n="26"/>QUantum ad primum Distinguo Primo de 
+        vo<lb ed="#V" n="27" break="no"/>luntate: quia quandoque sumitur large: et sic 
+        ap<lb ed="#V" n="28" break="no"/>petitus sensitiuus in homine voluntas dicitur et vocatur: non 
+        so<lb ed="#V" n="29" break="no"/>lum in homine: sed etiam in brutis. dicit arist. 3. ethi. 
+        <lb ed="#V" n="30"/>quod bruta voluntarie agunt: quandoque vero sumitur 
+        <lb ed="#V" n="31"/>proprie. et sic tantum appetitus intellectiuus vocatur 
+        <lb ed="#V" n="32"/>voluntas. 
+      </p>
+               <p xml:id="at8va9-e99999-d1e200">
+        Secundo distinguo de voluntate 
+        hos<lb ed="#V" n="33" break="no"/>minis proprie dicta: quia quedam est naturalis. et 
+        <lb ed="#V" n="34"/>quedam deliberatiua. nec iste sunt in homine due 
+        <lb ed="#V" n="35"/>potentie. sed vna tantummodo dicta secundum duplicem 
+        ei<lb ed="#V" n="36" break="no"/>us actum: actuum enim voluntatis quidam consequuntur ipsum 
+        <lb ed="#V" n="37"/>ex naturali instructu sine deliberatione prima. qui 
+        <lb ed="#V" n="38"/>dam vero consequuntur deliberationem rationis. 
+        <lb ed="#V" n="39"/>voluntas igitur considerata quantum ad actus 
+        il<lb ed="#V" n="40" break="no"/>los qui sequuntur ipsam ex naturali instinctu et 
+        si<lb ed="#V" n="41" break="no"/>ne deliberatione prima. dicitur voluntas naturalis 
+        <lb ed="#V" n="42"/>constituta vero ad actus illos qui sequuntur 
+        delibe<lb ed="#V" n="43" break="no"/>rationem rationis: dicitur deliberatiua. et de hac 
+        <lb ed="#V" n="44"/>precise intelligo questionem: quia accipiendo 
+        volun<lb ed="#V" n="45" break="no"/>tatem hominis pro appetitu sensitiuo siue pro 
+        vo<lb ed="#V" n="46" break="no"/>luntate naturali: certum est quod non solum tenemur: 
+        <lb ed="#V" n="47"/>etc. immo non possumus voluntatem sic sumptam 
+        vo<lb ed="#V" n="48" break="no"/>luntati diuine vniuersaliter in volito conformare: quia 
+        <lb ed="#V" n="49"/>si deus vel let me mori vtique appetitus sensitiuus. 
+        <lb ed="#V" n="50"/>et voluntas naturalis hoc abhorreret et refutaret: 
+        <lb ed="#V" n="51"/>quantum in eo esset dicente damascenum libro tertio. c. 23. 
+        <lb ed="#V" n="52"/>omnia entia essendi desiderium habent 
+        naturali<lb ed="#V" n="53" break="no"/>ter: et ibidem ait. quod deus factus homo hoc 
+        desideri<lb ed="#V" n="54" break="no"/>um habuit et mori remnuit. 
+      </p>
+               <p xml:id="at8va9-e99999-d1e250">
+        Tertio distinguo 
+        de<lb ed="#V" n="55" break="no"/>voluntate dei: quia sicut patet per magistrum. in lit 
+        <lb ed="#V" n="56"/>tera. di. 45 voluntas dei quandoque sumiter proprie. et 
+        <lb ed="#V" n="57"/>significat dispositionem: siue beneplacitum 
+        dicen<lb ed="#V" n="58" break="no"/>tium: quod non est aliud quam deus efficaciter volens. et 
+        <lb ed="#V" n="59"/>voluntas sic sumpta vocatur a doc. voluntas 
+        bene<lb ed="#V" n="60" break="no"/>placiti. et est vna tantum. sicut est vnus deus nec 
+        <lb ed="#V" n="61"/>multitudinem recipiens. nec mutationem: quia 
+        in<lb ed="#V" n="62" break="no"/>expleta esse non potest. vt patet per magistrum vbi 
+        <lb ed="#V" n="63"/>supra. de hac loquitur propheta cum ait: omnia que 
+        <lb ed="#V" n="64"/>cunque voluit deus fecit: quando que vero sumitur im 
+        <lb ed="#V" n="65"/>proprie siue large et quasi metaphorice. et sic 
+        volun<lb ed="#V" n="66" break="no"/>tas dei vocatur: quod secundum roprietatem non est 
+        vo<lb ed="#V" n="67" break="no"/>luntas proprie: sed signum voluntatis ipsius. signa 
+        <lb ed="#V" n="68"/>nanque multotiens nominantur nominibus significa
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="69"/>torum et vt hominis testamentum dicitur 
+        volun<lb ed="#V" n="70" break="no"/>tas hominis: eo quod est signum voluntatis ipsius et 
+        <lb ed="#V" n="71"/>hinc quod signa ire dicuntur ira: et signa dilectionis 
+        di<lb ed="#V" n="72" break="no"/>lectio appellantur. vt patet per magistrum ibidem: 
+        <lb ed="#V" n="73"/>et voluntas sic sumpta vocatur a doctoribus voluntas 
+        <lb ed="#V" n="74"/>signi. et hec non est tantum vna: sed multiplex. pro 
+        <lb ed="#V" n="75"/>pter quod scriptura vt ait magister aliquando plures 
+        <lb ed="#V" n="76"/>voluntates dei pronunciat iuxta illud to. Magna 
+        <lb ed="#V" n="77"/>opera domini exquisita in omnes voluntates eius: 
+        <lb ed="#V" n="78"/>Uoluntas enim sic sumpta quinque modis 
+        accipi<lb ed="#V" n="79" break="no"/>tur a sanctis et a doctoribus. vt patet per magistrum 
+        <lb ed="#V" n="80"/>in littera iuxta quinque que videntur esse signa 
+        diui<lb ed="#V" n="81" break="no"/>ne voluntatis: vt patet: perceptio: prohibitio. 
+        consi<lb ed="#V" n="82" break="no"/>lium permissio. et operatio. Uersus: Precipit et 
+        pro<lb ed="#V" n="83" break="no"/>hibet. permittit. consulit. implet. et quod iste quandoque 
+        <lb ed="#V" n="84"/>voluntates dicantur variis auctoritatibus 
+        decla<lb ed="#V" n="85" break="no"/>rat magister in littera vhbi supra: in fine huiis 
+        distin<lb ed="#V" n="86" break="no"/>ctionis concludit. quinque supradicta. igitur sunt que 
+        <lb ed="#V" n="87"/>dicuntur secundum tropum dei voluntas. quia signa sunt 
+        <lb ed="#V" n="88"/>diuine voluntatis. que vna ast immutabilis scilicet dei 
+        be<lb ed="#V" n="89" break="no"/>neplacitum. sic intelligenda est illa communis 
+        distin<lb ed="#V" n="90" break="no"/>ctio per magistrum que voluntas dei distinguitur 
+        <lb ed="#V" n="91"/>in voluntatem signi et voluntatem beneplaciti. 
+      </p>
+               <p xml:id="at8va9-e99999-d1e335">
+        et 
+        <lb ed="#V" n="92"/>quamuis de vtraque possit intelligi questio: intelligo 
+        ta<lb ed="#V" n="93" break="no"/>men eam ad presens de voluntate beneplaciti: quia 
+        <lb ed="#V" n="94"/>de voluntate signi saltem quantum ad quattuor 
+        pro<lb ed="#V" n="95" break="no"/>mas eius acceptiones satis euidens est modo: nam 
+        <lb ed="#V" n="96"/>stat autem quod nullus tenetur velle peccare male face 
+        <lb ed="#V" n="97"/>si loquimur de preceptione. vel prohibitione quorum 
+        <lb ed="#V" n="98"/>re: aut quod nullus tenetur velle peccare eo ipso quo vult 
+        <lb ed="#V" n="99"/>quodlibet dicitur voluntas dei modo predicto. 
+        vi<lb ed="#V" n="100" break="no"/>patet ex dictis. certum est: quod quilibet tenetur sub 
+        <lb ed="#V" n="101"/>pena peccati voluntatem suam tali voluntati 
+        vni<lb ed="#V" n="102" break="no"/>uersaliter in voiito conformare: quilibet enim 
+        tene<lb ed="#V" n="103" break="no"/>tur sub pena peccati obseruari quodlibet 
+        prece<lb ed="#V" n="104" break="no"/>ptum affirmatiuum vel negatiuum sibi factum a deo 
+        <lb ed="#V" n="105"/>Si vero loquantur de consilio seu consiliis. certum 
+        <lb ed="#V" n="106"/>est quod non. quia si quilibet tenetur ad consi lia quilibet 
+        <lb ed="#V" n="107"/>non implens consilia peccaret. quod est contra apostolum 
+        <lb ed="#V" n="108"/>telligenda de voluntate hominis deliberatiua et de 
+        vo<lb ed="#V" n="109" break="no"/>prima ad cor. Si acceperis vt orem non peccasti. 
+        <lb ed="#V" n="110"/>et si nupserit virgo non peccauit. Si vero loquimur 
+        <lb ed="#V" n="111"/>de permissione euidens est: quod non tenetur voluntatem 
+        <lb ed="#V" n="112"/>nostram voluntati diuine vniuersaliter in volito con¬ 
+      </p>
+               <p xml:id="at8va9-e99999-d1e384">
+                  <lb ed="#V" n="113"/>QUantum ad secundum: pono quatuor conclusiones 
+        Pri<lb ed="#V" n="114" break="no"/>formare. immo quicumque voluntatem suam isto modo 
+        <lb ed="#V" n="115"/>tali voluntati diuine vniuersaliter in volito 
+        con<lb ed="#V" n="116" break="no"/>ma est. quod ad rectitudinem voluntatis nostre non 
+        ne<lb ed="#V" n="117" break="no"/>formet sic conformando peccaret. Ratio huius est 
+        <lb ed="#V" n="118"/>luia deus isto modo vult omnia mala fieri. dicit be. 
+        <lb ed="#V" n="119"/>Aug. Enchitur. quod non sit aliquid nisi omnipotens: 
+        fi<lb ed="#V" n="120" break="no"/>eri velit: vel sinendo vt fiat. vel ipse faciendo. 
+        con<lb ed="#V" n="121" break="no"/>pec care vel male facere peccat. de operatione 
+        ve<lb ed="#V" n="122" break="no"/>ro et voluntate beneplaciti idem est iudicium: quia 
+        <lb ed="#V" n="123"/>quecunque deus operatur vult heneplaciti voluntate 
+        <lb ed="#V" n="124"/>His premissis patet: quia questio solum est 
+        in<lb ed="#V" n="125" break="no"/>luntate bene placiti. 
+      </p>
+            </div>
+            <div xml:id="at8va9-e99999-Dd1e417">
+               <head xml:id="at8va9-e99999-Hd1e419">Articulus 2</head>
+               <p xml:id="at8va9-e99999-d1e421">
+        Articulus secundus. 
+        <lb ed="#V" n="126"/>cessario requiritur: quod velimus: omne illud quod euidentur et 
+        <lb ed="#V" n="127"/>sine omni ambiguitate constat homini deum velle simpliciter 
+        <lb ed="#V" n="128"/>et absolute cuius oppositum ponit quidam reuererendus 
+        <lb ed="#V" n="129"/>doc. de nostris. Pro deductione huius conclus sionis 
+        <lb ed="#V" n="130"/>ctum talis voliti: verbi gratia. deus potest velle patrem 
+        <lb ed="#V" n="131"/>premitto aliquas propositiones. Prima est: quod deus 
+        <lb ed="#V" n="132"/>potest aliquid velle: et velle voluntatem hominis illud non vel 
+        <lb ed="#V" n="133"/>le: etiam habita sufficienti notitia de voluntate dei 
+        respe<lb ed="#V" n="134" break="no"/>meum mori: et deus potest velle me non velle patrem 
+        <lb ed="#V" n="135"/>meum mori: etiam habita sufficienti notitia: quod deus 
+        <lb ed="#V" n="136"/>velit ipsum mori. Istam propositionem deduco.
+        <pb ed="#V" n="172-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>primo sic: deus potest velle aliquid et volutatem hominis nihil 
+        vel<lb ed="#V" n="2" break="no"/>le: etiam habita sufficienti notitia respectu talis 
+        voliti<lb ed="#V" n="3" break="no"/>de voluntate dei. igitur potest aliquid velle: et velle volunta 
+        <lb ed="#V" n="4"/>tenhominis nihil velle etiam habita tali notitia: consequentia est non: 
+        <lb ed="#V" n="5"/>quia si deus vult voluntatem hominis nihil velle: vult eam 
+        <lb ed="#V" n="6"/>illud quod ipse vult non velle: antes vero probatur sic: deus potest 
+        <lb ed="#V" n="7"/>aliquid velle: et velle voluntatem hominis non coagere ad 
+        ali<lb ed="#V" n="8" break="no"/>quem eius actum: etiam habita notitia: etc: igitur potest aliquid 
+        <lb ed="#V" n="9"/>velle: et velle voluntatem hominis nihil velle: etiam habita 
+        <lb ed="#V" n="10"/>tali notitia: antecedens non diebet catholici esse dubium: quia si ponatur 
+        <lb ed="#V" n="11"/>in esse non sequitur contradictio: et consequentia patet: quia voluntas 
+        homins<lb ed="#V" n="12" break="no"/>non potest aliquid velle: deo sic ad eius actum non coagente: 
+        <lb ed="#V" n="13"/>igitur etc. Secundo sic: deus potest aliquid velle quod volunta 
+        <lb ed="#V" n="14"/>ti hominis non congruit velle: igitur potest aliquid velle et 
+        velle<lb ed="#V" n="15" break="no"/>voluntatem hominis illud non velle: etiam habita sufficienti 
+        no<lb ed="#V" n="16" break="no"/>titia etc. consequentia nota: quia potest velle voluntatem hominis non vel 
+        <lb ed="#V" n="17"/>le: quod non congruit ei velle: etiam habita quacumque notitia 
+        <lb ed="#V" n="18"/>de voluntate et antecedens est be. aug. Enc hitr. c. 2. et magister. 
+        <lb ed="#V" n="19"/>in littera di. vltima. c. 1. dicit quantum inter est inter volunratem 
+        dei<lb ed="#V" n="20" break="no"/>et voluntatem hominis: vt in qulbusdam congruat aliud deo vel 
+        <lb ed="#V" n="21"/>le: aliud homini: quod non est verum nisi deus posset aliud vel 
+        <lb ed="#V" n="22"/>le quid voluntati. hominis non congruit velle: ergo. Secum 
+        <lb ed="#V" n="23"/>da proposito est: quod deus potest aliquid velle et velle voluntatem 
+        <lb ed="#V" n="24"/>hominis contrarium illius velle: etiam habita sufficienti notitia 
+        <lb ed="#V" n="25"/>de vtroque: verbigtra: deus potest velle patrem meum mori: et 
+        <lb ed="#V" n="26"/>velle me velle eum non mori: etiam me habente sufficientem 
+        <lb ed="#V" n="27"/>notitiam quod ipse velit patrem meum mori. et quod velit me 
+        <lb ed="#V" n="28"/>velle patrem mesi non mori: hanc deduco primo sic: non 
+        mi<lb ed="#V" n="29" break="no"/>nus potest deus aliquid velle et voluntatem hominis contrarium vel 
+        <lb ed="#V" n="30"/>le: post notitiam habitam de vtroque quam antecedem sed ante notitiam 
+        <lb ed="#V" n="31"/>habitam potest: igitur et post: maior patet: quia non est maior re 
+        <lb ed="#V" n="32"/>pugnantia: deum ista velle post notitiam: quam ante et 
+        mino<lb ed="#V" n="33" break="no"/>rem ponit anshel. expresse de similitudinibus. c. 15. dicit 
+        <lb ed="#V" n="34"/>quod deus volebat. b. martinum ab hac vita follere: et si 
+        <lb ed="#V" n="35"/>mul cum hoc volebat discipulos eius velle ipsum ab hac 
+        <lb ed="#V" n="36"/>vita non rolli: ergo. 
+      </p>
+               <p xml:id="at8va9-e99999-d1e530">
+        Secundo sic deus potest mihi reuelare 
+        <lb ed="#V" n="37"/>quod ipse vult prem meum mori: et quod vult me patrem meum: 
+        <lb ed="#V" n="38"/>non mori: igitur potest aliquid velle: et velle meam voluntate 
+        <lb ed="#V" n="39"/>contrarium illius velle: etiam me habente sufficientem 
+        noti<lb ed="#V" n="40" break="no"/>tia de vtroque: consequentia est nota: quia cum deus non possit 
+        <lb ed="#V" n="41"/>reuelare salsum. per divinam reuelationem sufficientur est 
+        mihi<lb ed="#V" n="42" break="no"/>notum: deum velle prem meum mori et velle me non velle 
+        pa<lb ed="#V" n="43" break="no"/>trem meum mori. antecedens probatur: quia deus praet facere quod nullam includit 
+        <lb ed="#V" n="44"/>rpugnantiam: sed quod deus ruelet mihi quod vult patrem meum 
+        mo<lb ed="#V" n="45" break="no"/>ri: et quod vult me pater em meum velle non mori: nullam includit 
+        <lb ed="#V" n="46"/>repugnantiam: quia ex quo praet illa simul velle vt patuit superius per 
+        <lb ed="#V" n="47"/>anshel. sine aliqua repugnantia praet vtraque mihi reuelar. 
+        <lb ed="#V" n="48"/>a proposito est: quod ad rectitudinem voluntatis huiane necessa 
+        <lb ed="#V" n="49"/>rio requiritur quod ipsa velit illud quod deus vult eam non velle: ita 
+        <lb ed="#V" n="50"/>nec requiritur necessario quod ipsa velit illud quod deus vult 
+        ram<lb ed="#V" n="51" break="no"/>non velle: immo totum omnium ad eius rectitud men videtur magi re 
+        <lb ed="#V" n="52"/>quiri. Ultima proposito est: quod ad rectitudinem voluntatis humane 
+        <lb ed="#V" n="53"/>non necessario requiritur quod velit illud quod simpliciter est 
+        impose<lb ed="#V" n="54" break="no"/>ipsam velle: homo est extra terminis non: quia si detur omium impossibile esset omnino 
+        <lb ed="#V" n="55"/>voluntatem hominis esse rectam. quod non consonat fidei. nec 
+        ve<lb ed="#V" n="56" break="no"/>ritati. His praemissis deduco conclusionem assumptam primo sic: 
+        <lb ed="#V" n="57"/>deus praet aliquid velle. et velle voluntatem hominis illud non vel 
+        <lb ed="#V" n="58"/>le: etiam habita notitia sufficienti terspectu illius voliti de 
+        volun<lb ed="#V" n="59" break="no"/>tate dei igitur ad trctitudinem voluntatis humane: non neeario 
+        <lb ed="#V" n="60"/>requiritur velit omne illud quod euidenter et sin abiguitate constat 
+        <lb ed="#V" n="61"/>homin deum velle simus et absolute. antecedens patet ex prima 
+        propositon<lb ed="#V" n="62" break="no"/>et consequentia tet ex 3a: quia si detur oni consequentis: sequitur ad 
+        rectitudi<lb ed="#V" n="63" break="no"/>nem voluntatis humane necessario requiri quod ipse velit illud 
+        <lb ed="#V" n="64"/>quod deus vult eam non velle: cusoum asserit illa propositio: consequentia patet: 
+        <lb ed="#V" n="65"/>quia posito per casum quod deus velt patrem meum mori: me habente 
+        <lb ed="#V" n="66"/>sufficientem notitiam de voluntate dei terspectu talis voliti: 
+        <lb ed="#V" n="67"/>sicut assumitur vel ad rectitudinem voluntatis mee: necessa 
+        <lb ed="#V" n="68"/>rio requiritur quod veli patrem meum mori vel non: sinn habetur 
+        propsito<lb ed="#V" n="69" break="no"/>situm principale: quia deus simus et absolute vult patrem meu¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>mori: et istd constat mihi euidenter ex supposito: et sic patet 
+        <lb ed="#V" n="71"/>consequentia deducenda: quia deus non vult me velle patrem meum 
+        mo<lb ed="#V" n="72" break="no"/>ri ergo. Secundo ad idem arguo sic: deus praet aliquid velle et 
+        <lb ed="#V" n="73"/>velle voluntatem hominis corium illius velle: etiam habita suffi¬ 2. 
+        <lb ed="#V" n="74"/>cienti notitia de vtroque: ergo ad rectitudinem voluntatis 
+        <lb ed="#V" n="75"/>humane non necessario etc. antecedens patet ex secunda propoitone: et 
+        <lb ed="#V" n="76"/>consequentia tenet ex quarta: quia si detur oppositum consequentis: sequitur ad 
+        re<lb ed="#V" n="77" break="no"/>ctitudinem voluntatis humane: necessario requiri quod velit 
+        il<lb ed="#V" n="78" break="no"/>lud quod simpliciter est impossibile ipsam velle: cus oppositum 
+        po<lb ed="#V" n="79" break="no"/>nit illa propiosito: illa consequentia patet: quia posito per casum quod deus velit 
+        <lb ed="#V" n="80"/>patrem meum mori: et velit me velle patrem meum non 
+        mo<lb ed="#V" n="81" break="no"/>ri: me habente sufficientem notitiam de vtraque: sequitur ex 
+        <lb ed="#V" n="82"/>vna parte quod ad rectitudinem voluntatis mee. necessario 
+        <lb ed="#V" n="83"/>requiritur quod velit patrem meum mori: quia sufficientur est 
+        mihi<lb ed="#V" n="84" break="no"/>notum: vult eum mori ex supposito: et ex altera parte 
+        re<lb ed="#V" n="85" break="no"/>quiritur necessario quod vult patrem m eum non mori: quia in 
+        <lb ed="#V" n="86"/>sufficientur est mihi notum quod deus vult me velle patrem 
+        <lb ed="#V" n="87"/>meum non mori: hoc velle simul et semel. ut nunc loquimur est 
+        <lb ed="#V" n="88"/>simus impossibile: igitur. 
+      </p>
+               <p xml:id="at8va9-e99999-d1e647">
+        Secunda conclusio principalis: quod nullus homo 
+        te<lb ed="#V" n="89" break="no"/>netur sub pena peccati voluntate propriam: voluntati divine 
+        <lb ed="#V" n="90"/>simus et absolute in volito conformare etiam habita 
+        snfficien<lb ed="#V" n="91" break="no"/>ti notitia de volito respcum illius voliti: hoc stante sequitur 
+        <lb ed="#V" n="92"/>quod deus velit illud non velle. Ista conclusi videtur satis euidens: quia 
+        si<lb ed="#V" n="93" break="no"/>detur omnii sequitur quod aliquis teneretur sub pena peccati 
+        simr<lb ed="#V" n="94" break="no"/>et absolute velle: quod deus vult eum non velle: quod non videtur 
+        ab<lb ed="#V" n="95" break="no"/>aliquo catholico concedendum: quia sicut nullus tenetur sub pec 
+        <lb ed="#V" n="96"/>na peccati simus et absolute velle quod deus vult eum vel 
+        <lb ed="#V" n="97"/>le: ita nullus tenetur sub pena peccati simur et absolute 
+        <lb ed="#V" n="98"/>non velle: quod deus vult non velle. Ista videtur esse intentio anshel. 
+        <lb ed="#V" n="99"/>in libro de similibus. c. 153. dicit expresse: quod non sper debemus vel 
+        <lb ed="#V" n="100"/>le quod deus vult: sed hoc velle debemus. quod deus vult nos uel 
+        <lb ed="#V" n="101"/>le deber. 
+      </p>
+               <p xml:id="at8va9-e99999-d1e678">
+        Tertia conclusio est: quod in casu aliquis tenetur sub 
+        pena<lb ed="#V" n="102" break="no"/>peccati volultatem propriam voluntati divine in aliquo volito 
+        <lb ed="#V" n="103"/>difformare: etiam habita sufficienti notitia de voluntatem 
+        dei<lb ed="#V" n="104" break="no"/>respcum illius voliti. Istam concclusionem deduco sic: ponatur quod 
+        <lb ed="#V" n="105"/>deus velit patrem meum mori: et vellet me velle patrem 
+        <lb ed="#V" n="106"/>meum non mori: et quod vtrumque sit mihi per reuelationem 
+        suffi<lb ed="#V" n="107" break="no"/>cientur notum: isto casu posito: qui possibilis est vt patet ex 
+        se<lb ed="#V" n="108" break="no"/>cunda propositione pro declaratione praeme conclusionis deducte. 
+        <lb ed="#V" n="109"/>vel teneor sub pena peccati velle patrem meum non 
+        mo<lb ed="#V" n="110" break="no"/>ri: vel non: si dicatur quod sic: sequitur quod sub pena peccati 
+        te<lb ed="#V" n="111" break="no"/>neor voluntatem mea voluntati difformaiter in aliquo volito: 
+        <lb ed="#V" n="112"/>propositum: si non: contra: nulla voluntas est iusta nisi quae vult 
+        <lb ed="#V" n="113"/>vult eam velle: vt patet per anshel. de libro arbi. c. 8. et 
+        <lb ed="#V" n="114"/>de. concor. c. 6. et ista proposito nullam patitur calumniam si 
+        volun<lb ed="#V" n="115" break="no"/>tati sit sufficientur notum quod deus vult eam illud velle: sed 
+        ca<lb ed="#V" n="116" break="no"/>su illo posito sufficientur est mihi notum: quod deus vult me 
+        <lb ed="#V" n="117"/>velle patrem meum non mori et si non rolo patrem meu non 
+        mori<lb ed="#V" n="118" break="no"/>voluntas mea non est iusta: et per consequens esset peccatum. 
+      </p>
+               <p xml:id="at8va9-e99999-d1e718">
+        
+        Quar<lb ed="#V" n="119" break="no"/>ta conclusio est: quod quilibet homo potens vti sibro arbi. 
+        te<lb ed="#V" n="120" break="no"/>netur sub pena peccati voluntatem propriam 
+        confor<lb ed="#V" n="121" break="no"/>mare diuine voluntati in omni volito quod deus vult 
+        <lb ed="#V" n="122"/>eum velle: habita sufficienti notitia de voluntate. 
+        <lb ed="#V" n="123"/>dei: probatur. Primo sic: nulla voluntas est iusta 
+        ni<lb ed="#V" n="124" break="no"/>si quae vult quod deus vult eam velle: quando volenti illud innotescit: 
+        <lb ed="#V" n="125"/>igitur quilibet homo potens vti libero arbi. tenetur sub 
+        pena<lb ed="#V" n="126" break="no"/>pecti hre iustam voluntatem: consequentia est non. quia quilibet homo potens 
+        <lb ed="#V" n="127"/>vti libero arbi. tenetur sub pena habere iustam voluntatem: 
+        <lb ed="#V" n="128"/>antecedens est anshelut dictum in conclusione praecedenti: ergo. Secundo 
+        <lb ed="#V" n="129"/>sic: omnis voluntas creata tenetur esse subiecta voluntati 
+        <lb ed="#V" n="130"/>dei sub pena pecti: sed nulla voluntas est subiecta 
+        volunta<lb ed="#V" n="131" break="no"/>ti dei nisi quae vult quod deus vult eam velle: habita tali 
+        noti<lb ed="#V" n="132" break="no"/>tia etc. ergo omnis creatura tenetur velle sub pena pecti etc. 
+        <lb ed="#V" n="133"/>et per consequens quilibet homo potens vti arbitrio tenetur etc. 
+        maio<lb ed="#V" n="134" break="no"/>rem hus rationis ponit anshel. cur deus homo. c. 12. vbi expresse 
+        <lb ed="#V" n="135"/>dicit: quod omnis voluntas rationalis creature subiecta esse 
+        <lb ed="#V" n="136"/>debet voluntati dei: et hoc est debitum quod angelus et homo 
+        de<lb ed="#V" n="137" break="no"/>bent deo soluendo nullus peccat: et omnis qui non soluit 
+        <lb ed="#V" n="138"/>peccat: minor autem de se nota est:
+      </p>
+            </div>
+            <div xml:id="at8va9-e99999-Dd1e765">
+               <head xml:id="at8va9-e99999-Hd1e767">Articululi 3 et 4</head>
+               <p xml:id="at8va9-e99999-d1e769">
+                  <pb ed="#V" n="172-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>QUantum ad tertium et quartum articulos simul 
+        con<lb ed="#V" n="2" break="no"/>tra conclusiones istas mouenda et dissoluenda sunt 
+        du<lb ed="#V" n="3" break="no"/>bia. 
+      </p>
+               <p xml:id="at8va9-e99999-d1e782">
+        Et primo contra primam est opinio cuiusdam reuerendi doc. 
+        <lb ed="#V" n="4"/>Thomas de argetina in primo. q. vlti. ar. 4. 
+        <lb ed="#V" n="5"/>Qui formaliter ponit oppositum illius conclusionis: 
+        <lb ed="#V" n="6"/>quod multipliciter nititur probare. Primo sic. Ille non 
+        <lb ed="#V" n="7"/>et alicuius verus amicus quo volutate sua ab eo 
+        discor<lb ed="#V" n="8" break="no"/>dat iniustis et rationabilibus: sed habens rectam volutatem est 
+        <lb ed="#V" n="9"/>amicus dei: et omne quod deus vult simpliciter et absolute est 
+        iu<lb ed="#V" n="10" break="no"/>stum et rationabile: ergo maior patet per Tulium quo dicit: ad 
+        perfe<lb ed="#V" n="11" break="no"/>ctam amicitiam spectare idem velle et idem nolle: et 4. 
+        ethi<lb ed="#V" n="12" break="no"/>co. dicitur ab arist. quod contrarietas voluntatum dissoluit 
+        ami<lb ed="#V" n="13" break="no"/>citiam. et. 2. ethi. dicit: quod ratio amoris consistit in 
+        procura<lb ed="#V" n="14" break="no"/>re pro amico que in volito ipsius sunt: minor patet: quod 
+        quan<lb ed="#V" n="15" break="no"/>tum ad primam: quia canticorum primo dicit sponsa christi deo: 
+        re<lb ed="#V" n="16" break="no"/>cti diligunt te: patet etiam quantum ad secundum parte, quia cum 
+        vo<lb ed="#V" n="17" break="no"/>luntas diuina sit ipsa equitas et rectitudo obliquari non 
+        <lb ed="#V" n="18"/>potest: et per consequens omne quod simpliciter et absolute est iustum et 
+        rationabi<lb ed="#V" n="19" break="no"/>le. 
+      </p>
+               <p xml:id="at8va9-e99999-d1e819">
+        Secundo sic: omnis homo habens rectam voluntatem tenetur 
+        <lb ed="#V" n="20"/>velle illud cuius oppositum si contingeret necessario 
+        tol<lb ed="#V" n="21" break="no"/>leretur dei perfectio: sed si foret oppositum illius quod deus 
+        <lb ed="#V" n="22"/>praecise et determinate vult fieri tolleretur perfectio diuine 
+        <lb ed="#V" n="23"/>voluntatis: ergo maior patet: quia omnis amicus vult illud cuius 
+        op<lb ed="#V" n="24" break="no"/>positum tollit perfectionem et honorem amici: minor etiam 
+        <lb ed="#V" n="25"/>patet: quia si fieret opppsitum illius quod deus distincte et 
+        deter<lb ed="#V" n="26" break="no"/>minate vult: tunc vigor et potestas dei tolleretur: esset enim 
+        in<lb ed="#V" n="27" break="no"/>ualida: aliter non contingeret oppsitum eius quod 
+        determina<lb ed="#V" n="28" break="no"/>te vult. 
+      </p>
+               <p xml:id="at8va9-e99999-d1e841">
+        Tertio sic: super illud psalmum. non adhesit mihi 
+        <lb ed="#V" n="29"/>cor prauum: dicit glossa cor prauum et distortum habet qui non 
+        <lb ed="#V" n="30"/>vult illud quod deus vult: et in eadem glossa dicit quod voluntas dei 
+        <lb ed="#V" n="31"/>est regula cui omnem nos conformare: hec autem non esset vera: 
+        <lb ed="#V" n="32"/>nisi ad rectitudinem voluntatis nostre requireretur 
+        necessa<lb ed="#V" n="33" break="no"/>rio quod velimus omne illud quod nobis constat euidenter deum 
+        <lb ed="#V" n="34"/>velle simpliciter et absolute. 
+      </p>
+               <p xml:id="at8va9-e99999-d1e858">
+        Quarto sicut se habet 
+        intelle<lb ed="#V" n="35" break="no"/>ctus creatus ad intellectum diuinum: sic volutas creata ad 
+        <lb ed="#V" n="36"/>voluntatem diuinam: sed nullus intellectus creatus potest esse rectus: 
+        <lb ed="#V" n="37"/>si totaliter sit difformis ab intellectu diuino quod cognoscat 
+        <lb ed="#V" n="38"/>illud quod intellectus diuinus non cognoscit: igitur nulla 
+        volun<lb ed="#V" n="39" break="no"/>tas creata poterit esse recta si taliter est difformis 
+        volun<lb ed="#V" n="40" break="no"/>tati diuine: quod vellet aliquid quod deus non vult: maior 
+        sup<lb ed="#V" n="41" break="no"/>ponitur: minor probatur: quia cum diuinus intellectus sit omnino verus 
+        <lb ed="#V" n="42"/>si tunc aliquod obiectum intellectus creatus intelligeret oppositum 
+        <lb ed="#V" n="43"/>eius: quod intellectus diuinus intelligit: talis intellectus creatus de 
+        <lb ed="#V" n="44"/>necessitate esset falsus. 
+      </p>
+               <p xml:id="at8va9-e99999-d1e882">
+        Quinto sic: homo habens rectam 
+        <lb ed="#V" n="45"/>voluntatem manente huius irectitudine non potest licite velle 
+        <lb ed="#V" n="46"/>contra voluntatem diuinam: antecedens patet: consequens probatur: quia quod licitum est 
+        <lb ed="#V" n="47"/>velle: hoc est licitum facere: igitur a destructione antecedentis etc.
+      </p>
+               <p xml:id="at8va9-e99999-d1e891">
+                  <lb ed="#V" n="48"/>Sexto sic: non minus deficit a rectitudine repugnans 
+        <lb ed="#V" n="49"/>diuine voluntati quam repugnans diuine prouidentie. sed vt ait 
+        <lb ed="#V" n="50"/>aug. in plus est: cui non placet diuina prouidentia: igitur.  
+        Ul<lb ed="#V" n="51" break="no"/>timo sic omnis ordinata voluntas debet praeponere velle diuinum 
+        <lb ed="#V" n="52"/>suo proprio velle: ista patet: quia si detur oppositum huius voluntatis 
+        <lb ed="#V" n="53"/>nec est recta nec ordinata: peruerteret enim ordinem: eo 
+        <lb ed="#V" n="54"/>quod proponeret illud quod non est proponendum: sed si aliqua voluntas 
+        <lb ed="#V" n="55"/>non conformatur se vniversaliter inuolito conformiter voluntati diuine illa 
+        <lb ed="#V" n="56"/>non praeponeret velle diuinam suo proprio velle: sed potius econtra 
+        <lb ed="#V" n="57"/>igitur talis voluntas non est ordinata. 
+      </p>
+               <p xml:id="at8va9-e99999-d1e915">
+        Ad rationes thome. 
+        <lb ed="#V" n="58"/>Ad primum istorum dico: quod ille non est verus amicus qua 
+        volun<lb ed="#V" n="59" break="no"/>tate sua discordat ab eo iniustis et rationalibus quae vult ipsum 
+        <lb ed="#V" n="60"/>velle. potest tamen discordare in his qua non vult: immo amicitia 
+        <lb ed="#V" n="61"/>tenetur si vult ea quae ipse vult non velle: et sic auctoritates ille 
+        <lb ed="#V" n="62"/>sunt intelligende: et quia deus potest aliquid velle: et velle 
+        volunta<lb ed="#V" n="63" break="no"/>tem hominis illud non velle: vt dictum est supra: patet rationem illam esse 
+        <lb ed="#V" n="64"/>nullam. 
+      </p>
+               <p xml:id="at8va9-e99999-d1e933">
+        Ad secundum nego minorem: quia deus vult antichristum 
+        <lb ed="#V" n="65"/>fore: et tamen potest facere antichristum non fore: sed si faceret non 
+        tol<lb ed="#V" n="66" break="no"/>leretur eius perfectio: et ad probationem quando dictur: quod tunc vigor et 
+        <lb ed="#V" n="67"/>potestas diuine voluntatis tolleretur: immo ex hoc vigor potestas 
+        su<lb ed="#V" n="68" break="no"/>e voluntatis amplius apparet: quia si faceret antichristus non fore faceret 
+        <lb ed="#V" n="69"/>nisi volendo. 
+      </p>
+               <p xml:id="at8va9-e99999-d1e946">
+        Ad tertium dico: quod auctoritas illius glossa. 
+        intel<lb ed="#V" n="70" break="no"/>ligitur de his qua deus vult hominem velle: et non de his quae ipse
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="71"/>vult simpliciter et absolute: illi namque cor prauum et distortum 
+        <lb ed="#V" n="72"/>habet qui non vult illud quod deus vult eum velle: habita sufficienti 
+        no<lb ed="#V" n="73" break="no"/>titia respectu voliti de voluntate dei. et sic intelligende sunt 
+        <lb ed="#V" n="74"/>et non aliter omnes consimiles auctoritates. 
+      </p>
+               <p xml:id="at8va9-e99999-d1e963">
+        Ad quartum nego maiore si 
+        <lb ed="#V" n="75"/>proportio illa intelligitur vniversaliter: et quantum ad omnia sicut debet 
+        intelli<lb ed="#V" n="76" break="no"/>gi: si ratio dicet aliquid concludere: ratio negationis et: quia intellectus 
+        <lb ed="#V" n="77"/>rectitudo consistit in adequatione ad rem intellectam consideratam 
+        <lb ed="#V" n="78"/>in se. rectitudo vero voluntati consistit in ordine ad finem: quia 
+        <lb ed="#V" n="79"/>adequatio ad rem intellectam non potest manere: si intellectus creatus 
+        <lb ed="#V" n="80"/>discordet incognito ab intellectu domino: ordo vero ad 
+        fi<lb ed="#V" n="81" break="no"/>nem potest manere. Et si voluntas creata discordet in volito 
+        <lb ed="#V" n="82"/>a voluntate diuina: suppposito quod deus velit voluntatem 
+        crea<lb ed="#V" n="83" break="no"/>tam illo de quod ipse vult non velle: sequitur quod rectitudo voluntatis 
+        <lb ed="#V" n="84"/>create poterit manere cum contrario uolito quamuis rectitudo 
+        in<lb ed="#V" n="85" break="no"/>tellectus creati non possit manere cum contrario intellectu. 
+      </p>
+               <p xml:id="at8va9-e99999-d1e989">
+        Ad 
+        <lb ed="#V" n="86"/>quintum dico: quod sicut licet possum velle contrarium eius quod deus vult: non 
+        <lb ed="#V" n="87"/>tamen contrarium eius: quod deus vult me velle: ita licite possum facere 
+        <lb ed="#V" n="88"/>contrarium eius quod deus vult: si tamen contrarium eius quod deus vult me facere 
+        <lb ed="#V" n="89"/>vnde si deus reuelaret in quod vult patrem meum mori: et quod 
+        <lb ed="#V" n="90"/>vult me velle patrem meum non mori: licitum erit mihi pro 
+        sa<lb ed="#V" n="91" break="no"/>nitate ipsius facere quicquid posset. 
+      </p>
+               <p xml:id="at8va9-e99999-d1e1005">
+        Ad sextam dico: quod ex illis 
+        <lb ed="#V" n="92"/>praemissis non sequitur nisi quod amplius est qui repugnat diem voluntati: sed 
+        <lb ed="#V" n="93"/>ex hoc nihil concluditur: quia non repugnat diuine voluntati quae non 
+        <lb ed="#V" n="94"/>vult quacumque deus vult velle: immo si deus deus vellet: et 
+        vel<lb ed="#V" n="95" break="no"/>let petrum non velle: a. petrus repugnaret diuine voluntati si 
+        <lb ed="#V" n="96"/>vellet: a. et per consequens ratio est ad oppositum. 
+      </p>
+               <p xml:id="at8va9-e99999-d1e1018">
+        Ad vltimum nego minor 
+        <lb ed="#V" n="97"/>quia velle aliud quam deus vult: non est proponere voluntatem propriam 
+        <lb ed="#V" n="98"/>voluntati diuine: se velle aliud quam deus vult eum velle. vnde si 
+        <lb ed="#V" n="99"/>deus vellet patrem meum mori: et vellet me non velle patrem 
+        <lb ed="#V" n="100"/>meum mori: et per consequens ratio est ad oppositum praecedens. Contra 
+        se<lb ed="#V" n="101" break="no"/>cundam conclusionem posset instari. rerum quia ex his quae dicta sunt supra 
+        <lb ed="#V" n="102"/>et quae dicentur: satis poterit apparere quid sit dicendum ad eam: ideo illam 
+        per<lb ed="#V" n="103" break="no"/>transeo.
+      </p>
+               <p xml:id="at8va9-e99999-d1e1036">
+        Gregorius de armino in primo q. vlti. 
+        <lb ed="#V" n="104"/>Contra tertiam vero est quidam doctor noster qua ponit quod qualibet 
+        te<lb ed="#V" n="105" break="no"/>netur voluntatem suam in nullo voluntati dei difformare quod 
+        <lb ed="#V" n="106"/>deducit dupliciter. Primo sic: quolibet tenetur nil velle contra eternam 
+        <lb ed="#V" n="107"/>lege: igitur quilibet tenetur in nullo difformare voluntatem suam 
+        <lb ed="#V" n="108"/>voluntati diuine: antecedens patet: quia velle aliquid contra eternam legem est 
+        <lb ed="#V" n="109"/>peccatum. vnde aug. contra faustum: peccatum est dictum vel factum vel 
+        concupi<lb ed="#V" n="110" break="no"/>tum contra eternam legem: consequentia probatur: quia vt immediate subiungit aug. 
+        <lb ed="#V" n="111"/>lex eterna est ratio vel voluntas dei: difformare autem 
+        volunta<lb ed="#V" n="112" break="no"/>tem diuine voluntati nil aliud est quam velle aliquod contra diuinam 
+        vo<lb ed="#V" n="113" break="no"/>luntatem seu illud quod vult deus: igitur qualibet tenetur in nullo 
+        dif<lb ed="#V" n="114" break="no"/>formare etc:
+      </p>
+               <p xml:id="at8va9-e99999-d1e1062">
+        Secundo sic: nulli licite displicet aliud 
+        bo<lb ed="#V" n="115" break="no"/>num inquantum huiusmodi: aut placet aliquod malum: igitur quilibet 
+        te<lb ed="#V" n="116" break="no"/>netur etc. antecedens patet: consequentia probatur: quia deus non diligit aut vult nisi 
+        <lb ed="#V" n="117"/>bonum: nec non vult seuodit nisi malum. 
+      </p>
+               <p xml:id="at8va9-e99999-d1e1072">
+        Ad rationes gre. 
+        <lb ed="#V" n="118"/>ad primum istorum nego consequentiam: quia non quicumque vult contrarium eius 
+        <lb ed="#V" n="119"/>quod deus vult: contra eternam facere legem: sed iste tamtum quo contrariorum eius vult  
+        <lb ed="#V" n="120"/>quod deus non vult eum velle: et ad probationes concedo: quod lex 
+        <lb ed="#V" n="121"/>eterna est ratio vel voluntas diuina: sed ex hoc non probatur propositum: immo 
+        <lb ed="#V" n="122"/>magis oppositum: quia nihil vult contra diuinam legem: qui vult illud quod 
+        <lb ed="#V" n="123"/>deus vult esse velle: est si uelit contrarium eius quod deus uult: sed 
+        po<lb ed="#V" n="124" break="no"/>tius econuerso: quia est dicit ulterius: quod difformare propriam 
+        <lb ed="#V" n="125"/>uoluntatem uoluntati diuine: nihil est quam uelle contra diuinam 
+        uolun<lb ed="#V" n="126" break="no"/>tatem non est uerum: quia quacumque uult contrarium eius quod deus uult 
+        diffor<lb ed="#V" n="127" break="no"/>mat uoluntatem suam uoluntati diuine in nolito: et tamen possibile 
+        <lb ed="#V" n="128"/>est aliquem uelle contrarium eius quod deus uult: et nil uelle contra 
+        uolun<lb ed="#V" n="129" break="no"/>tatem diuinam: quia quo uult omne illud et solum illud quod deus uult eum 
+        <lb ed="#V" n="130"/>uelle: nil uult contra uoluntatem diuinam: sed possibile est aliquem uelle 
+        <lb ed="#V" n="131"/>illud et solum illud quod deus uult eum uelle: et uelle contrarium eius 
+        <lb ed="#V" n="132"/>quod deus uult: ut patet ex dictis: ergo possibile est aliquem 
+        diffor<lb ed="#V" n="133" break="no"/>mare uoluntatem suam uoluntati diuinae: et tamen nil uelle contra 
+        uo<lb ed="#V" n="134" break="no"/>luntatem diuinam. 
+      </p>
+               <p xml:id="at8va9-e99999-d1e1111">
+        Ad secundum dico: quod nulli licite 
+        displi<lb ed="#V" n="135" break="no"/>cet quod bonum est eum uelle: sicut nuli licite placet quod malum est eum 
+        <lb ed="#V" n="136"/>uelle: potest tamen alicui licite displicere quod bonum est esse: dum tamen sit 
+        <lb ed="#V" n="137"/>bonum eum illud non uelle: et sic est in proposito: quia si deus uult 
+        pa<lb ed="#V" n="138" break="no"/>tre meum mori: et uult me uelle patrem meum non mori: bonum 
+        <lb ed="#V" n="139"/>est mihi uelle patrem meum non mori: quia ita deus uult. Ex 
+        <lb ed="#V" n="140"/>his patet quid dicendum ad formam: quia concesso antecedente
+        <pb ed="#V" n="173-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>
+                  <!-- line coord error -->
+                  <lb ed="#V" n="2"/>li sensu dato: neganda est consequentia: nec probatio valet: quia licet 
+        <lb ed="#V" n="3"/>quicquid deus velit verum sic esse: potest tamen aliquid velle quod non 
+        <lb ed="#V" n="4"/>etbonum me velle. 
+      </p>
+               <p xml:id="at8va9-e99999-d1e1142">
+        Contra quartam conclusionem 
+        potess<lb ed="#V" n="5" break="no"/>obiici primo: quia si illa conclusio esset vera aliquis tenetur 
+        sub<lb ed="#V" n="6" break="no"/>pena peccati velle sua tinalem damnationem: consequens est 
+        fal<lb ed="#V" n="7" break="no"/>sum: ergo et antecedens consequentis falsitas patet: quia si aliquis sub 
+        pena<lb ed="#V" n="8" break="no"/>peccati: tenetur velle sua finalem damnationem sub 
+        pena<lb ed="#V" n="9" break="no"/>peccati teneretur velle. non saluare: quod non videt 
+        dicen<lb ed="#V" n="10" break="no"/>dum: consequentia probatur: quia deus potest velle petrum per petuo damna 
+        <lb ed="#V" n="11"/>re et velle eum velle propetuo damnare: et vtrumque ei 
+        reue<lb ed="#V" n="12" break="no"/>lare: quo posito patet si illa conclusio sit vera quod petrus 
+        te<lb ed="#V" n="13" break="no"/>netur velle sub pena peccati suam finalem damnationem. 
+        <lb ed="#V" n="14"/>Secundo: quia posito per casum quod deus velit patrem 
+        me<lb ed="#V" n="15" break="no"/>um mori vel aliquid huiusmodi: et quod me vult illud idem 
+        vel<lb ed="#V" n="16" break="no"/>le: si tamen reuelat mihi primum et non secundum: vel ego 
+        tene<lb ed="#V" n="17" break="no"/>or sub pena peccati velle patrem meum mori: vel non. 
+        <lb ed="#V" n="18"/>Si sic: tunc sequitur quod ignorantia inuincibilis non excusat 
+        <lb ed="#V" n="19"/>peceatum: quod non est verum. Si non: sequitur quod non teneor vel 
+        <lb ed="#V" n="20"/>ie sub pena peccati omne illud quod deus vult me vel 
+        <lb ed="#V" n="21"/>le: cuius oppositum asserit ista conclusio. i 
+      </p>
+               <p xml:id="at8va9-e99999-d1e1181">
+        Ad primum istorum 
+        <lb ed="#V" n="22"/>dicunt aliqui quod deus no potest absolute reuelare alicui 
+        su<lb ed="#V" n="23" break="no"/>am finale damnatione: quia tunc esset causa desparationis 
+        <lb ed="#V" n="24"/>illius: quod videtur ipossibile: sed illud non videtur 
+        sufficet<lb ed="#V" n="25" break="no"/>re: quia posito quod deus reuelaret alicui suam finalem 
+        da<lb ed="#V" n="26" break="no"/>nationem: adhuc non erit necessario causa 
+        desparatio<lb ed="#V" n="27" break="no"/>nis illius: quia facta tali reuelatione posset sibi non eoad 
+        <lb ed="#V" n="28"/>gere ad actum desparationis ipsius. et si non comageret 
+        ta<lb ed="#V" n="29" break="no"/>lis non desperaret: nec per consequens esset ca desperationis 
+        il<lb ed="#V" n="30" break="no"/>lius. Alii vero dicunt: quod facta tali reuelatione talis 
+        te<lb ed="#V" n="31" break="no"/>netur velle perpetuo damnari: et per consequens tenetur velle nunquam 
+        <lb ed="#V" n="32"/>saluari: ex quo sic esset placitum deo: sed illud non 
+        <lb ed="#V" n="33"/>videtur rationabiliter dictum: quia nullus tenetur 
+        velle<lb ed="#V" n="34" break="no"/>illud quod est simpliciter impossibile ipsum velle: sed 
+        <lb ed="#V" n="35"/>simplicitet est impossibile aliquem vellse suam 
+        fina<lb ed="#V" n="36" break="no"/>lem damnationem: ergo maior patet ex terminis: et minore 
+        po<lb ed="#V" n="37" break="no"/>nit be. aug. 13. de tri. in multis capitulis. et secundo de libe. 
+        <lb ed="#V" n="38"/>arbitri. c. 1. et anshel. de casu diaboli. c. 12. vbi 
+        ex<lb ed="#V" n="39" break="no"/>presse volunt quod omnes beatitudinem necessario diligunt 
+        <lb ed="#V" n="40"/>et odiunt summam miseriam. Et si omnes necessario 
+        <lb ed="#V" n="41"/>odiunt summam miseriam simpliciter est impossibile aliquem 
+        <lb ed="#V" n="42"/>ipsam velle. Et potest etiam ratione probari: quia nihil 
+        po<lb ed="#V" n="43" break="no"/>test esse volitum ab aliquo nisi sit ab eo apprehensum 
+        <lb ed="#V" n="44"/>sub ratione boni: sed perpetua damnatio non potest 
+        apphen<lb ed="#V" n="45" break="no"/>di ab aliquo sub ratione boni: ergo maiorem ponit anshel. de 
+        <lb ed="#V" n="46"/>casu diaboli. c. quarto: bi declarat quod nihil velle 
+        possu<lb ed="#V" n="47" break="no"/>mus nisi quod iustum aut commodum esse putamus. et minor est 
+        <lb ed="#V" n="48"/>de se nota etc. 
+      </p>
+               <p xml:id="at8va9-e99999-d1e1242">
+        Respondeo igitur aliter ad rationem et nego
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="49"/>
+                  <!-- line coord error -->
+                  <lb ed="#V" n="50"/>prieqentiam: et ad probationem dico quod deus non potest velle aliquem 
+        <lb ed="#V" n="51"/>velle perpetuo damnari. Ratio istius est: quia cum nullus 
+        <lb ed="#V" n="52"/>possit velle perpetuo damnari: si deus vellet aliquem 
+        vo<lb ed="#V" n="53" break="no"/>luntate beneplaciti vt nunc loquimur propetuo 
+        damna<lb ed="#V" n="54" break="no"/>ri: voluntas beneplaciti non semper implent: immo necessa 
+        <lb ed="#V" n="55"/>rio esset inexpleta: quod est ipossibile: ex hoc statim 
+        appa<lb ed="#V" n="56" break="no"/>ret quod nullus tenet velle suam finalem damnnatione: 
+        eti<lb ed="#V" n="57" break="no"/>am posito quod sit sibi reuelatum a deo quod vult ipsum 
+        perpe<lb ed="#V" n="58" break="no"/>tuo damnari: quia vt patet exr secunda conclusione: nullus tenetur: 
+        <lb ed="#V" n="59"/>sub pena peccati velle illud quod deus vult: etiam 
+        habi<lb ed="#V" n="60" break="no"/>ta sufficienti notitia de voluntate dei respectu illius 
+        vo<lb ed="#V" n="61" break="no"/>liti: sed stante quod deus vellet eum non velle. 
+      </p>
+               <p xml:id="at8va9-e99999-d1e1277">
+        Ad 
+        secun<lb ed="#V" n="62" break="no"/>dum dicerent multi: quod casu isto posito ego non tenerer sub 
+        <lb ed="#V" n="63"/>pena peccati velle patre meum mori: mihi tamen videtur: 
+        <lb ed="#V" n="64"/>sine assertione alia quod in tali casu ego deberem velle 
+        pa<lb ed="#V" n="65" break="no"/>trem meum mori: non quidem simpliciter et absolute: sed sub 
+        <lb ed="#V" n="66"/>additione. valet. si deus vult me velle eum mori: et non 
+        <lb ed="#V" n="67"/>aliter. 
+      </p>
+               <p xml:id="at8va9-e99999-d1e1294">
+                  <lb ed="#V" n="68"/>Ad rationes principales. 
+        <lb ed="#V" n="69"/>Ad primum dico: quod non quilibet tenetur sub pena 
+        hecea<lb ed="#V" n="70" break="no"/>ti velle omne illud quod bonum et iustum est esse: vt patet ex 
+        <lb ed="#V" n="71"/>supradictis: licet quilibet teneatur velle quod bonum et iustum 
+        <lb ed="#V" n="72"/>est eum velle: et in isto sensu concesso antecedente patet ex 
+        <lb ed="#V" n="73"/>dictis consequentiam esse nullam. 
+      </p>
+               <p xml:id="at8va9-e99999-d1e1310">
+        Ad secundum non oportet 
+        respoio<lb ed="#V" n="74" break="no"/>dere: quia non est in aliquo contra me: non est tamen pro me: quia 
+        <lb ed="#V" n="75"/>loquimur de illis de quibus non est notum quid sit a deo 
+        <lb ed="#V" n="76"/>volitum: et de talibus non est dubium quod non tenentur sub 
+        pena<lb ed="#V" n="77" break="no"/>peccati voluntatem suam voluntati divine non volito 
+        confor<lb ed="#V" n="78" break="no"/>mare: de talibus enim loquitur be. aug. Enchitr. c. 1I. 
+        <lb ed="#V" n="79"/>d. quod aliquando bona voluntate homo vult quod deus non vult: 
+        <lb ed="#V" n="80"/>tanquam. si bonus filius patrem viuere velit: quem deus 
+        bo<lb ed="#V" n="81" break="no"/>na voluntate vult mori: de illis vero de quibus notum est: 
+        <lb ed="#V" n="82"/>quod deus velit: vt patet ex dictis: videtur esse dicendum quod 
+        <lb ed="#V" n="83"/>tenentur voluntatem suam conformare voluntati diuine et in 
+        omni<lb ed="#V" n="84" break="no"/>volito quod deus vult eos velle simpliciter et absolute: 
+        <lb ed="#V" n="85"/>vel saltem sub conditione: eo prestante qui est alpha et quod 
+        <lb ed="#V" n="86"/>principium et finis in secula seculorum. Amen. 
+        <lb ed="#V" n="87"/>Explicit lectura super primo sententiarum edita a 
+        subtilissi<lb ed="#V" n="88" break="no"/>mo theologorum monarcha fratre Alphonso de 
+        tole<lb ed="#V" n="89" break="no"/>to: ordinis heremitarum beatissimi aug. sacre 
+        pagi<lb ed="#V" n="90" break="no"/>ne luculentissimo professore: nec non archiepraeo 
+        hyspalem<lb ed="#V" n="91" break="no"/>si qui legit perisius. Anno domini. 1345 
+        <lb ed="#V" n="92"/>Opus quoque lecture istius. Paganinus de 
+        paga<lb ed="#V" n="93" break="no"/>ninis. Anuo salutis. 1 4oo. pridie calen. nouembter. 
+        <lb ed="#V" n="94"/>Impensis suis non minimis Cura atque sua 
+        diligen<lb ed="#V" n="95" break="no"/>tissima Impressione compleuit. Uenetiis. 
+        <lb ed="#V" n="96"/>Laus deo. 
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#AlphonsusVargas">Alphonsus Vargas Toletanus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2024-10-10">October 10, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-x7yh5z">Venice, 1490</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="141-v"/>
+            <cb ed="#V" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="at8va9-e87750"><!-- l1d24q1 -->
+            <head xml:id="at8va9-e87750-Hd1e101">Quaestio 1</head>
+            <head xml:id="at8va9-e87750-Hd1e103" type="question-title">Utrum trinitas personarum in divinis sit verus numerus</head>
+            <p xml:id="at8va9-e87750-d1e106">
+               <lb ed="#V" n="52"/>HIc diligenter inquiri oportet circa 
+      dis<lb ed="#V" n="53" break="no"/>tinctionem istam. 24 in qua magister 
+      in<lb ed="#V" n="54" break="no"/>quirit quid significetur cum dicitur tres 
+      <lb ed="#V" n="55"/>persone. Quero vtrum trinitas 
+      perso<lb ed="#V" n="56" break="no"/>Carum in diuinis sit verus numerus: 
+    </p>
+            <p xml:id="at8va9-e87750-d1e119">
+      et 
+      <lb ed="#V" n="57"/>videtur primo quod non quia verus numerus est accidens 
+      <lb ed="#V" n="58"/>reale: cum sit species quantitatis: vt patet in 
+      predi<lb ed="#V" n="59" break="no"/>camentis. Sed trinitas personarum in diuinis non est 
+      acci<lb ed="#V" n="60" break="no"/>dens reale: quia in deo non est realiter accidens: cum sit 
+      <lb ed="#V" n="61"/>omnino simplex. 
+    </p>
+            <p xml:id="at8va9-e87750-d1e132">
+      Contra: quecumque vera ternitas 
+      <lb ed="#V" n="62"/>sicut et quicunque verus ternarius est species 
+      nume<lb ed="#V" n="63" break="no"/>ri: et per consequens verus numerus: sed trinitas personarum 
+      <lb ed="#V" n="64"/>in diuinis est vera ternitas: ergo etc. 
+    </p>
+            <p xml:id="at8va9-e87750-d1e142">
+      In ista 
+      que<lb ed="#V" n="65" break="no"/>stione primo ponam vnius termini declarationem. secum 
+      <lb ed="#V" n="66"/>do conclusiones. tertio mouebo dubia. quarto respondebo. 
+    </p>
+            <div xml:id="at8va9-e87750-Dd1e149">
+               <head xml:id="at8va9-e87750-Hd1e151">Articulus 1</head>
+               <p xml:id="at8va9-e87750-d1e153">
+                  <lb ed="#V" n="67"/>Articulus primus. 
+        <lb ed="#V" n="68"/>QUantum ad primum: terminus declarandus est nu¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="69"/>merus. Pro cuius declaratione notandum: quod 
+        numer<lb ed="#V" n="70" break="no"/>potest accipi dupliciter stricte scilicet et communitur. 
+        Nu<lb ed="#V" n="71" break="no"/>merus stricte acceptus: est multitudo siue 
+        plurali<lb ed="#V" n="72" break="no"/>tas quantorum seu quantitatum: et numerus sic 
+        sum<lb ed="#V" n="73" break="no"/>ptus est in determinato genere et determinata 
+        spe<lb ed="#V" n="74" break="no"/>cie: est enim species subalterna quantitatis discrete: 
+        <lb ed="#V" n="75"/>vt patet in predicamentis. Numerus vero communitur 
+        <lb ed="#V" n="76"/>acceptus: est multitudo siue plur alitas entium isiue 
+        <lb ed="#V" n="77"/>entitatum quecumque sit illa: et numerus sic sumptus 
+        <lb ed="#V" n="78"/>non est in aliquo genere determinato: sed est 
+        trascen<lb ed="#V" n="79" break="no"/>des secundum quod ens diuiditur in vnum et multa primus 
+        nu<lb ed="#V" n="80" break="no"/>merus comparatur ad secundum: sicut in erius ad 
+        supe<lb ed="#V" n="81" break="no"/>rius: quia omnis numerus quantorum seu quantitatum est 
+        nu<lb ed="#V" n="82" break="no"/>merns entium seu entitatum: sed noleconuerso: et de 
+        <lb ed="#V" n="83"/>vtroque potest intelligi positio etc. 
+      </p>
+            </div>
+            <div xml:id="at8va9-e87750-Dd1e196">
+               <head xml:id="at8va9-e87750-Hd1e198">Articulus 2</head>
+               <p xml:id="at8va9-e87750-d1e200">
+                  <lb ed="#V" n="84"/>Secundus articulus. 
+        <lb ed="#V" n="85"/>QUantum ad secundum. Prima conclusio est: quod 
+        numme<lb ed="#V" n="86" break="no"/>Trus sumptus primo modo solum reperitur in rebus 
+        <lb ed="#V" n="87"/>corporalibus seu materialibus. Ista conclusio 
+        pa<lb ed="#V" n="88" break="no"/>tet quia numerus sic sumptus non reperittr nisi in 
+        re<lb ed="#V" n="89" break="no"/>bus habentibus quantitatem: sed sola corporalia 
+        seu<lb ed="#V" n="90" break="no"/>materialia sunt huiusmodi: ergo etc. 
+      </p>
+               <p xml:id="at8va9-e87750-d1e218">
+        Secunda 
+        conclu<lb ed="#V" n="91" break="no"/>sio est: quod numerus secundo modo dictus repritur: non solum 
+        <lb ed="#V" n="92"/>in rebus materialibus seu corporalibus: sed etiam 
+        <lb ed="#V" n="93"/>spiritualibus: et hoc est euidens quia vbicumque reperitur 
+        ve<lb ed="#V" n="94" break="no"/>ra pluralitas rerum ad inuicem distinctarum: ibi repritur 
+        <lb ed="#V" n="95"/>numerus fecundo modo. Sed talis pluralitas reperit 
+        <lb ed="#V" n="96"/>non solum in rebus corporalibus et materialibus: sed 
+        <lb ed="#V" n="97"/>etiam spiritualibus: vt patet: ergo etc. Et confirmatur: quia vbi 
+        <lb ed="#V" n="98"/>cumque est verus ternarius: verus senarius: et sic de 
+        ce<lb ed="#V" n="99" break="no"/>teris specibus: numeri ibi est verus numerus: primo et se 
+        <lb ed="#V" n="100"/>cundo modo dictus: sed in rebus spiritumalibus est verus 
+        ter<lb ed="#V" n="101" break="no"/>narius etc. non minus quam in rebus corporalibus et 
+        ma<lb ed="#V" n="102" break="no"/>terialibus. Ternarius enim angelorum vel animarum non 
+        mi<lb ed="#V" n="103" break="no"/>nus est teruarius quam hominum vel caprarum: et similiter 
+        <lb ed="#V" n="104"/>de ceteris specibus: numerus igitur in rebis spiiumalibus 
+        <lb ed="#V" n="105"/>est verus numerus primo vel secundo modo sumptus: sed 
+        <lb ed="#V" n="106"/>non primo: vt patet ex conclusione praecedenti: ergo secundo.
+      </p>
+               <p xml:id="at8va9-e87750-d1e255">
+                  <lb ed="#V" n="107"/>Tertia conclusio est: quod trinitas personarum in 
+        diui<lb ed="#V" n="108" break="no"/>nis non est numerus primo modo: et hoc sequitur ex prima: quia 
+        <lb ed="#V" n="109"/>numerus sic sumptens non reperitur nisi in rebus 
+        corpo<lb ed="#V" n="110" break="no"/>ralibus seu materialibus: sed persone diuine non sunt 
+        <lb ed="#V" n="111"/>huiusmodi: ergo. Confirmatur: quia omnis talis numerus est 
+        ve<lb ed="#V" n="112" break="no"/>ra quantitas: igitur vbi non est quantitas ibi non est numerus 
+        <lb ed="#V" n="113"/>sic sumptus: sed in diuinis non est quantitas. vt patet per 
+        <lb ed="#V" n="114"/>be. aug. 5. de tri. c. 2. ergo etc. Ad istum intellectum 
+        <lb ed="#V" n="115"/>loquitur ambrosius primo de tri. dicens: quod in deo non est 
+        <lb ed="#V" n="116"/>numerus nec est quatitas: et allegatur a magistro in 
+        dis<lb ed="#V" n="117" break="no"/>tinctione praeceden: i. 
+      </p>
+               <p xml:id="at8va9-e87750-d1e281">
+        Quarta conclusio est: quod trinitas 
+        <lb ed="#V" n="118"/>personarum in diuinis est vere numerus sic sumptus secum 
+        <lb ed="#V" n="119"/>do modo: et videtur hec satis clara secundum praedicta: tum quia 
+        nu<lb ed="#V" n="120" break="no"/>merus sic sumptus non repugnat spiritualibus rebus: 
+        <lb ed="#V" n="121"/>vt patet ex secunda conclusione: tum quia talis trinitas est 
+        <lb ed="#V" n="122"/>vera pluralitas rerum adinuicem distinctarum Ad istum 
+        <lb ed="#V" n="123"/>intellectum loquitur damm. lib. tertio. c. 5. dicit quod tres hypouo 
+        <lb ed="#V" n="124"/>stases sancte trinitatis indistanter diuise sunt et 
+        nu<lb ed="#V" n="125" break="no"/>merantur: numerus tamen diuisionem vel distantiam vel 
+        deci<lb ed="#V" n="126" break="no"/>cisionem vel alienationem vel incisionem non 
+        ope<lb ed="#V" n="127" break="no"/>ratur in eis: vt patet. damascenum concedit ibi numerum etc. 
+        <lb ed="#V" n="128"/>et hoc de secundo. 
+      </p>
+            </div>
+            <div xml:id="at8va9-e87750-Dd1e308">
+               <head xml:id="at8va9-e87750-Hd1e310">Articuli 3 et 4</head>
+               <p xml:id="at8va9-e87750-d1e312">
+                  <lb ed="#V" n="129"/>Tertius et quartus articulus 
+        <lb ed="#V" n="130"/>¶Uantum ad tertium et quartum articulos contra conclusiones 
+        <lb ed="#V" n="131"/>¶ istas sunt diuerse opiniones doctorum: sed quia 
+        ma<lb ed="#V" n="132" break="no"/>gis sunt vocales quam reales eo quod quidem volunt vocate 
+        <lb ed="#V" n="133"/>numerum illud quod aliquando dicunt numerum: et disputatio 
+        voca<lb ed="#V" n="134" break="no"/>lis non est multum vtilis vbi constat de rebus: supersedeo 
+        <lb ed="#V" n="135"/>ad praesens: alibi enim intendo videre: que sit ratio 
+        forma<lb ed="#V" n="136" break="no"/>lis numeri: et vtrum numerus sit vera res extra 
+        ani<lb ed="#V" n="137" break="no"/>man a rebus numeratis realiter distincta.
+      </p>
+               <p xml:id="at8va9-e87750-d1e334">
+                  <pb ed="#V" n="142-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>Ad argumenta. 
+        <lb ed="#V" n="2"/>Ad rationes principales patet quid dicendum: quia 
+        pri<lb ed="#V" n="3" break="no"/>ma probat tertiam conclusionem: et secunda probat quartam 
+        <lb ed="#V" n="4"/>conclusionem: vt patet ex dictis.
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

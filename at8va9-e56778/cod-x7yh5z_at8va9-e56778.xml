@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#AlphonsusVargas">Alphonsus Vargas Toletanus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2024-10-10">October 10, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-x7yh5z">Venice, 1490</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="95-r"/>
+            <cb ed="#V" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="at8va9-e56778"><!-- l1d6q1 -->
+            <head xml:id="at8va9-e56778-Hd1e101">Quaestio 1</head>
+            <head xml:id="at8va9-e56778-Hd1e103" type="question-title">Utrum in diuinis possunt esse plures filii</head>
+            <p xml:id="at8va9-e56778-d1e106">
+               <lb ed="#V" n="13"/>PReterea queri solet etc. Circa 
+      distin<lb ed="#V" n="14" break="no"/>ctionem istam sextam magister inquirit 
+      <lb ed="#V" n="15"/>vtrum pater genuit filium voluntate an 
+      ne<lb ed="#V" n="16" break="no"/>essitate Et quia questionem istam multum 
+      <lb ed="#V" n="17"/>pulchre pertractat in litera dimitto eam 
+      <lb ed="#V" n="18"/>Et iuxta materiam istius imperscrutabilis generationis 
+      <lb ed="#V" n="19"/>quero vtrum in diuinis possunt esse plures filii. 
+    </p>
+            <p xml:id="at8va9-e56778-d1e124">
+      Et 
+      vi<lb ed="#V" n="20" break="no"/>detur primo quod sic: quia filius potest generare. dicente be. 
+      au<lb ed="#V" n="21" break="no"/>gu. contra maximum libro 3. c. 13. quod filius non genuit: 
+      <lb ed="#V" n="22"/>non quia non potuit: sed quia non oportuit: ergo potuit: sed 
+      <lb ed="#V" n="23"/>non potest generare se filium: quia nulla res est que seipsam 
+      <lb ed="#V" n="24"/>gignet vt sit: primo de tri. c i. igitur alium filium: quo 
+      post<lb ed="#V" n="25" break="no"/>to sequitur quod in diuinis possunt esse plures filii. 
+      Co<lb ed="#V" n="26" break="no"/>tra: in diuinis non sunt plures filii: igitur nec esse possunt 
+      <lb ed="#V" n="27"/>anecues est fidci: et consequentia est bona: quia in divinis ad intra quicquid 
+      <lb ed="#V" n="28"/>est possibile est necessarium: ergo etc. Responsio. In ista quast 
+      <lb ed="#V" n="29"/>one erunt quattuor articuli. In primo pona dubitati 
+      <lb ed="#V" n="30"/>nis materiam et occasionem. in secundo quadruplicem 
+      con<lb ed="#V" n="31" break="no"/>clusionem. tertio mouebo dubia. et quarto respondebo. 
+    </p>
+            <div xml:id="at8va9-e56778-Dd1e153">
+               <head xml:id="at8va9-e56778-Hd1e155">Articulus 1</head>
+               <p xml:id="at8va9-e56778-d1e157">
+                  <lb ed="#V" n="32"/>Articulus primus. 
+        <lb ed="#V" n="33"/>QUantum ad primum articulum duo sunt que possunt 
+        ali<lb ed="#V" n="34" break="no"/>quem mouere ad credendum: quod in diuinis possunt 
+        <lb ed="#V" n="35"/>esse plures filii: primum si crederet quod pater potest alium 
+        fi<lb ed="#V" n="36" break="no"/>lium generare. Secundum si crederet quod filius vel spiritus 
+        <lb ed="#V" n="37"/>sanctus possunt generare: quia quocunque istorum dato 
+        <lb ed="#V" n="38"/>sequitur quod possunt esse plures filii: et hec de primo. 
+      </p>
+            </div>
+            <div xml:id="at8va9-e56778-Dd1e177">
+               <head xml:id="at8va9-e56778-Hd1e179">Articulus 2</head>
+               <p xml:id="at8va9-e56778-d1e181">
+                  <lb ed="#V" n="39"/>Secundus articulus. 
+        <lb ed="#V" n="40"/>QUantum ad secundum articulum: quia filius non posset 
+        <lb ed="#V" n="41"/>generare nisi esset in eo potentia generandi: 
+        quibus<lb ed="#V" n="42" break="no"/>4am videtur necessario sequi: quod possit generare: quod non 
+        <lb ed="#V" n="43"/>reputo esse bene dictum. 
+      </p>
+               <p xml:id="at8va9-e56778-d1e194">
+        Iccirco prima conclusio est: quod 
+        po<lb ed="#V" n="44" break="no"/>tentia generandi est in filio. Ista conclusio patet ex his 
+        <lb ed="#V" n="45"/>que dicta fuerunt di. 4 potest tamen confirmari. Primo 
+        <lb ed="#V" n="46"/>sic: omnis potentia que est in patre: est in filio: aliter 
+        fili<lb ed="#V" n="47" break="no"/>us non esset omnipotes sicut pater: sed potentia 
+        gene<lb ed="#V" n="48" break="no"/>randi est aliqua potentia: et est in patre: quia si pater non 
+        ha<lb ed="#V" n="49" break="no"/>beret potentiam generandi non esset omnipotens vt 
+        pa<lb ed="#V" n="50" break="no"/>tet per be.e aug. contra maximum libro. 3. c. 7. ergo etc. 
+      </p>
+               <p xml:id="at8va9-e56778-d1e212">
+                  <lb ed="#V" n="51"/>Secundo sic: sicut patet per magistrum in littera di. 
+        <lb ed="#V" n="52"/>7. eadem est potentia per quam pater potest generare: et 
+        <lb ed="#V" n="53"/>p quam filius potest generari: sed potentia per quam 
+        fi<lb ed="#V" n="54" break="no"/>lius potest generari est in filio: igitur et illa per quam 
+        pa<lb ed="#V" n="55" break="no"/>ter potest generare erit in filio. 
+      </p>
+               <p xml:id="at8va9-e56778-d1e225">
+        Tertio sic: 
+        perfe<lb ed="#V" n="56" break="no"/>ctio simpliciter est communis tribus personis: sed potentia 
+        <lb ed="#V" n="57"/>generandi in diuinis est perfectio simpliciter: vt patet per 
+        <lb ed="#V" n="58"/>hylarium 4 de tri. vbi ex immensa perfectione filii probat: quod 
+        <lb ed="#V" n="59"/>potentia generandi sit infinita perfectio: infinita autem per 
+        <lb ed="#V" n="60"/>fectio: est perfectio simpliciter: et per ea que dicta sunt 
+        su<lb ed="#V" n="61" break="no"/>per 4 di. ergo etc. Et potest vlterius confirmari: quia 
+        <lb ed="#V" n="62"/>non minoris perfectionis est potentia productiua dei et 
+        crea<lb ed="#V" n="63" break="no"/>toris si eust tangebatur ibidem: quam sit potentia productiua 
+        cre<lb ed="#V" n="64" break="no"/>ature: sed potentia productiua creature est perfectio 
+        sim<lb ed="#V" n="65" break="no"/>pliciter: licet actualis productio ipsarum non dicat 
+        perfectio<lb ed="#V" n="66" break="no"/>nem simpliciter: hoc patet: quia si deus non haberet 
+        po<lb ed="#V" n="67" break="no"/>tentiam creandi non esset omnipotens: nec per consequens simpliciter 
+        <lb ed="#V" n="68"/>essent vniversaliter perfectus: ita potentia productiua dei et creato¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="69"/>ris est perfectio simpliciter: sed potentia generandi in 
+        di<lb ed="#V" n="70" break="no"/>uinis est potentia productiua filii: vt patet ex 4. di. qui 
+        <lb ed="#V" n="71"/>est vere deus et creator: ergo etc. Sed forte dicetur: 
+        <lb ed="#V" n="72"/>quod filius non est genitus a patre inquantum deus: nec 
+        ratio<lb ed="#V" n="73" break="no"/>ne deitatis: sed solum inquantum filius et ratione filiatio 
+        <lb ed="#V" n="74"/>nio: et quia filiatio non dict perfectionem simpliciter: ideo 
+        <lb ed="#V" n="75"/>non opotet quod potentia generandi que tantum est productiua 
+        <lb ed="#V" n="76"/>filii: vt filius et: sit perfectio simpliciter: hec antem 
+        eua<lb ed="#V" n="77" break="no"/>sio si daretur non tolleret rationem. Primo quia 
+        contradi<lb ed="#V" n="78" break="no"/>cit dictis hylarii: et his que ex dictis be. aug. et 
+        ma<lb ed="#V" n="79" break="no"/>gistri deducta fuerunt super 4 di. Secundo: quia licet 
+        fili<lb ed="#V" n="80" break="no"/>us non sit genitus ratione deitatis: sic quod deitas sit 
+        geni<lb ed="#V" n="81" break="no"/>ta vel producta: est tamen in filio per actum generationis 
+        ve<lb ed="#V" n="82" break="no"/>re communicata: quia quicquid habet filius nasceudo 
+        <lb ed="#V" n="83"/>accepit secundum aug. sed deitas non posset communicari 
+        <lb ed="#V" n="84"/>filio per actum generationis: nisi potentia generandi 
+        <lb ed="#V" n="85"/>sit perfectio simpliciter infinita: igitur etc. Tertio: quia 
+        <lb ed="#V" n="86"/>non est bona consequentia: terminus productus non dicit 
+        perfecti<lb ed="#V" n="87" break="no"/>onem simpliciter: igitur nec potentia productiua: quia 
+        con<lb ed="#V" n="88" break="no"/>stat quod essentia creature: vt puta lapidis vel asini non 
+        <lb ed="#V" n="89"/>est perfectio simpliciter: et tamen potentia 
+        producti<lb ed="#V" n="90" break="no"/>ua ipsius est perfectio simpliciter: et potest sic 
+        redu<lb ed="#V" n="91" break="no"/>ci ratio: potentia productiua creature est perfectio 
+        sim<lb ed="#V" n="92" break="no"/>pliciter: non obstante quod creatura productiua non sit 
+        per<lb ed="#V" n="93" break="no"/>fectio simpliciter: igitur multo magis potentia 
+        produ<lb ed="#V" n="94" break="no"/>ctiua dei et creatoris erit perfectio simpliciter: 
+        eti<lb ed="#V" n="95" break="no"/>am supposito quod terminus productus non dicat 
+        perfe<lb ed="#V" n="96" break="no"/>ctionem simpliciter: igitur euacuatio nulla: et per 
+        con<lb ed="#V" n="97" break="no"/>sequens huiusmodi potentia vere est in filio. Et 
+        confir<lb ed="#V" n="98" break="no"/>matur: quia potentia generandi deo patri est essentia: 
+        <lb ed="#V" n="99"/>vel natura diuina: vt declarabitur quessione 
+        sequen<lb ed="#V" n="100" break="no"/>ti: igitur vere et realiter communicatur filio: et hec est 
+        ex<lb ed="#V" n="101" break="no"/>pressa sententia magistri. di. sequenti: et ideo 
+        pertrans<lb ed="#V" n="102" break="no"/>eo. 
+      </p>
+               <p xml:id="at8va9-e56778-d1e333">
+        Secunda conclusio est: quod filius in diuinis non 
+        <lb ed="#V" n="103"/>potest generare. 
+      </p>
+               <p xml:id="at8va9-e56778-d1e338">
+        Ista conclusio communis est omnibus: 
+        <lb ed="#V" n="104"/>sed modus probandi eam est difformis: quia quidam dicunt. 
+        <lb ed="#V" n="105"/>S Thomas parte prima. q. 41. ar. 6. 
+        <lb ed="#V" n="106"/>Quod filius non potest generare: quia potentia 
+        ge<lb ed="#V" n="107" break="no"/>nerandi non est in eo: sed isti deficiunt in supposito: 
+        <lb ed="#V" n="108"/>vt patet ex conclusione precedenti. Et ideo quidam 
+        <lb ed="#V" n="109"/>alii probant dictam conclusionem quadrupliciter. 
+        Pri<lb ed="#V" n="110" break="no"/>mo ex parte relationum: quibus persone divine 
+        distin<lb ed="#V" n="111" break="no"/>guuntur: quia cum persone divine sint ipse relationes 
+        <lb ed="#V" n="112"/>subsistentes non possent esse plures patres in 
+        diui<lb ed="#V" n="113" break="no"/>nis: nec plures filii nisi essent plures paternitates 
+        <lb ed="#V" n="114"/>et plures filiationes: hoc autem esse non posset nisi 
+        <lb ed="#V" n="115"/>secundum eorum materialem distinctionem: quia 
+        forme<lb ed="#V" n="116" break="no"/>vnius speciei non multiplicantur nisi secundum materiam 
+        <lb ed="#V" n="117"/>que non est in diuinis: vnde in dipinis non potest esse 
+        <lb ed="#V" n="118"/>nisi vna tantum filiatio per se subsistens sicut albedo sub 
+        <lb ed="#V" n="119"/>sistens non posset esse nisi vna. Secundo ex parte 
+        <lb ed="#V" n="120"/>processionum: quia deus omnia intelligit: et vult vno 
+        <lb ed="#V" n="121"/>simplici actu: vnde non potest esse nisi vna 
+        persona<lb ed="#V" n="122" break="no"/>procedens per modum verbi que est filius: et vna per 
+        <lb ed="#V" n="123"/>modum amoris que est spiritus sanctus. 
+        Tertio<lb ed="#V" n="124" break="no"/>ex modo procedendi: quia persone diuine procedunt 
+        na<lb ed="#V" n="125" break="no"/>turaliter: natura autem determinatur ad vnum. 
+        <lb ed="#V" n="126"/>Quarto ex perfectione diuinarum personarum: 
+        <lb ed="#V" n="127"/>et hoc est perfectus filius: quia tota filiatio 
+        diuina<lb ed="#V" n="128" break="no"/>in eo continetur: et quod est vnus tamntum filius. Sed licet 
+        con<lb ed="#V" n="129" break="no"/>clusio sit vera et omnino tenenda iste tamen ratio 
+        <lb ed="#V" n="130"/>nes non concludunt. 
+      </p>
+               <p xml:id="at8va9-e56778-d1e399">
+                  <lb ed="#V" n="131"/>Contra sanctum CThomam. 
+        <lb ed="#V" n="132"/>Non quidem prima: quia non concludit: nisi forte 
+        de<lb ed="#V" n="133" break="no"/>formis eductis de potentia materie cuiusmodi non 
+        <lb ed="#V" n="134"/>est filiatio in diuinis. Assumptum probatur. Primo auctoritate 
+        <lb ed="#V" n="135"/>trium articulorum condemnatorum perisius. Quorum primus dicit: 
+        <lb ed="#V" n="136"/>quod quia intelligentie non hanc materiam deus non posset 
+        <lb ed="#V" n="137"/>facere plures eiusdem speciei error. Secundus di¬
+        <pb ed="#V" n="95-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>cit: quod deus non possit multiplicare indiuidua sub vna 
+        <lb ed="#V" n="2"/>specie sine materia. error. Tertius dicit: quod 
+        for<lb ed="#V" n="3" break="no"/>me non recipiant diuisionem nisi per materiam: error: nisi in 
+        <lb ed="#V" n="4"/>telligatur de formis eductis de potentia men. Hoc 
+        <lb ed="#V" n="5"/>idem secundo probatur ratione: quia deus potest creare plures 
+        <lb ed="#V" n="6"/>animas rationales separatas: sicut et plures angelos 
+        <lb ed="#V" n="7"/>et tamen constat quod anime rationales omnes sunt in eadem 
+        <lb ed="#V" n="8"/>specie: quicquid sit de angelis et carent materia etiam se 
+        <lb ed="#V" n="9"/>cundum eos. Nec valet si dicatur quod hoc esset ex 
+        re<lb ed="#V" n="10" break="no"/>spectu vel habitudine ad corpus: propter duo. primo 
+        <lb ed="#V" n="11"/>quia anime sic create: cum non sint. nec fuerint in 
+        corpo<lb ed="#V" n="12" break="no"/>re non videntur habere respectum nec habitudinem ad 
+        <lb ed="#V" n="13"/>corpus. secundo quia respectus numquam distinguit suum 
+        fun<lb ed="#V" n="14" break="no"/>damentum. immo praesupponit ipsum esse distinctum in 
+        cre<lb ed="#V" n="15" break="no"/>aturis Secundo ratio etiam non valet. natura si non potest 
+        <lb ed="#V" n="16"/>esse nisi vna persona procedens per modum verbi: et vna 
+        <lb ed="#V" n="17"/>per modum amoris: quia deus omnia intelligit et vult vno 
+        <lb ed="#V" n="18"/>simplici actu: sequitur quod in diuinis non sunt due persone 
+        pro<lb ed="#V" n="19" break="no"/>ducte sed vna tantum: quia si ex vnitate actus concluditur 
+        vni<lb ed="#V" n="20" break="no"/>tas persone producte per actum: cum actus intelligendi: et 
+        vo<lb ed="#V" n="21" break="no"/>lendi in deo non sint duo actus: sed vnus simplex et in 
+        <lb ed="#V" n="22"/>distinctus omnino ex parte rei etiam per ente non poterit esse nisi 
+        <lb ed="#V" n="23"/>vna persona producta per illum actum: Nec valet si dicatur 
+        <lb ed="#V" n="24"/>quod actus intelligendi et volendi in deo distinguuntur 
+        ratio<lb ed="#V" n="25" break="no"/>ne: licet sint idem realiter. et ideo erunt due persone producte: 
+        <lb ed="#V" n="26"/>quia productio prosonarum in diuinis praecedit omnem 
+        distin<lb ed="#V" n="27" break="no"/>tionem rationis igitur earu distinctio non potest concludi ex 
+        dis<lb ed="#V" n="28" break="no"/>tinctione rationis. Et confirmatur: quia ex distinctione 
+        ratio<lb ed="#V" n="29" break="no"/>nis in principiis productis non potest concludi nisi distinctio 
+        <lb ed="#V" n="30"/>rationis in principiatis licet aliquin forte possit esse realis. 
+        <lb ed="#V" n="31"/>igitur ex distinctione rationis inter actum intelligendi et 
+        volen<lb ed="#V" n="32" break="no"/>di non potest concludi nisi distinctio rationis inter filium et 
+        <lb ed="#V" n="33"/>spiritum sanctum. Et vlterius si distinctio rationis in actu 
+        <lb ed="#V" n="34"/>productiuo sufficit ad realem distinctionem praedictorum 
+        di<lb ed="#V" n="35" break="no"/>cetur ei quod actus intelligendi in patre secundum rationem 
+        distin<lb ed="#V" n="36" break="no"/>guuntur ab actu intelligendi in filio vel spiritu sancto 
+        <lb ed="#V" n="37"/>poterit igitur filius vel spiritus sanctus per actum intelligendi pro uce 
+        <lb ed="#V" n="38"/>re verbum non obstante simplicitate et vnitate realis 
+        <lb ed="#V" n="39"/>actus praedicti. Tertia ratio non concludit: quia vel in 
+        <lb ed="#V" n="40"/>telligit quod natura sit determinata ad vnum 
+        productibi<lb ed="#V" n="41" break="no"/>le numero: vel ad vnum modum producendi: si detur primum 
+        <lb ed="#V" n="42"/>falsum est quod assumitur: quia oppositum patet etiam in 
+        natu<lb ed="#V" n="43" break="no"/>ra limitata: videmus enim quod vnus ignis per naturam 
+        <lb ed="#V" n="44"/>suam potest plures ignes producere. si detur secundum in 
+        diui<lb ed="#V" n="45" break="no"/>nis non esset duo modi procedendi sed vnus: cuius 
+        oppo<lb ed="#V" n="46" break="no"/>situm iste doctor intelligit et fides. Quarta ratio 
+        eti<lb ed="#V" n="47" break="no"/>am non concludit: quia ita potest dici: quod ex hoc est perfectum 
+        <lb ed="#V" n="48"/>productiuum in diuinis: quia tota productio diuina 
+        conti<lb ed="#V" n="49" break="no"/>netur in eo: et quia est vnum tantum: et sic non essent due persone 
+        produ<lb ed="#V" n="50" break="no"/>cte sed vna tantum. Et ideo diceretur quod si in diuinis essent 
+        <lb ed="#V" n="51"/>plures filii non essent magis perfecti quam vnus tantum: sicut 
+        <lb ed="#V" n="52"/>nec plures persone sunt magis perfecte quam vna tantum. 
+      </p>
+               <p xml:id="at8va9-e56778-d1e534">
+        Et 
+        <lb ed="#V" n="53"/>ideo quidam alii nouiores. 
+        <lb ed="#V" n="54"/>Ocham in primo di. 3. q. 3. ar. 3. 
+        <lb ed="#V" n="55"/>Dicunt quod magis tenendum est propter auctoritatem 
+        sa<lb ed="#V" n="56" break="no"/>cre scripture quod filius non possit generare quod propter 
+        ratio<lb ed="#V" n="57" break="no"/>nem. Adducunt autem tres rationes. Prima est: quod impossibile 
+        <lb ed="#V" n="58"/>est in eodem fundamento esse plures relationes omnino 
+        <lb ed="#V" n="59"/>eiusdem rationis: nisi per diuersitatem absolutorum in 
+        cre<lb ed="#V" n="60" break="no"/>aturis: patet inductiue: vt dicunt: sed in diuinis non 
+        <lb ed="#V" n="61"/>sunt diuersa absoluta: igitur nec diuerse tales 
+        relati<lb ed="#V" n="62" break="no"/>ones scilicet diuerse filiationes: vel diuerse paternitates. 
+      </p>
+               <p xml:id="at8va9-e56778-d1e558">
+                  <lb ed="#V" n="63"/>Preterea: idem agens et producens naturale et 
+        totale<lb ed="#V" n="64" break="no"/>de eodem non potest producere nisi vnum vnius ratio 
+        <lb ed="#V" n="65"/>nis: nec esse principium productiuum nisi vnius et eiusdem 
+        ra<lb ed="#V" n="66" break="no"/>tionis omnino: igitur essentia non potest esse tale 
+        producti<lb ed="#V" n="67" break="no"/>uum plurium personarum filiorum. 
+      </p>
+               <p xml:id="at8va9-e56778-d1e571">
+        Preterea: quando 
+        <lb ed="#V" n="68"/>aliqua sunt omnino eiusdem rationis: nihil est 
+        com<lb ed="#V" n="69" break="no"/>possibile vni quin aliquid simile sit compossibile al¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>teri: sicut nihil est compossibile isti calori: quin 
+        ali<lb ed="#V" n="71" break="no"/>quid sit vel fuerit compossibile alteri eiusdem 
+        ratio<lb ed="#V" n="72" break="no"/>nis: sed si filius generaret tunc illi paternitati esset 
+        <lb ed="#V" n="73"/>compossibilis filiatio: igitur alia filiatio esset 
+        compossibi<lb ed="#V" n="74" break="no"/>lis primo patri vel prime paternitati: et per consequens primus 
+        pa<lb ed="#V" n="75" break="no"/>ter esset filius: quod est impossibile: quia non esset tunc primus 
+        pa<lb ed="#V" n="76" break="no"/>ter. 
+      </p>
+               <p xml:id="at8va9-e56778-d1e596">
+        Ad rationes ocham. 
+        <lb ed="#V" n="77"/>Sed nec iste rationes concludunt. Non quidem primo: quia 
+        <lb ed="#V" n="78"/>multis videtur quod plures relationes omnino eiusdem rationis 
+        <lb ed="#V" n="79"/>ctiam in creaturis possunt esse in eodem fundamento sine 
+        <lb ed="#V" n="80"/>aliqua diuersitate absolutorum: sicut plures similitudines 
+        <lb ed="#V" n="81"/>in eodem albo respectu diuersorum eiusdem rationis: et etiam 
+        <lb ed="#V" n="82"/>plures paternitates in eodem patre respectu 
+        druer<lb ed="#V" n="83" break="no"/>sorum filiorum. Sed quia forte dicent quod huiusmodi relationes non 
+        <lb ed="#V" n="84"/>sunt alie res a rebus absolutis: vel quod eadem 
+        paterni<lb ed="#V" n="85" break="no"/>tate non diuersis idem pater refertur ad filios plures: et 
+        <lb ed="#V" n="86"/>sic de similitudine de qua alias. Iccirco contra maiorem 
+        <lb ed="#V" n="87"/>istam arguo ex dictis suis. Primo sic: non est maior re 
+        <lb ed="#V" n="88"/>pugnantia plures relationes omnino eiusdem rationis 
+        <lb ed="#V" n="89"/>esse in eodem fundamento quam plura accidentia absoluta 
+        <lb ed="#V" n="90"/>omnino eiusdem rationis esse simul omnino in vno 
+        subie<lb ed="#V" n="91" break="no"/>cto: patet de se: sed per eum in eadem questione in eadem 
+        vo<lb ed="#V" n="92" break="no"/>luntate sunt multi habitus omnino eiusdem rationis 
+        <lb ed="#V" n="93"/>absque diuersitate diuersorum absolutorum: quia voluntas 
+        <lb ed="#V" n="94"/>vt dicit simul diuersis habitibus afficitur ad 
+        diuer<lb ed="#V" n="95" break="no"/>sa etiam obiecta eiusdem specie: et per hoc probat quod forme 
+        <lb ed="#V" n="96"/>vnius speciei non necessario multiplicantur secundum numerum 
+        <lb ed="#V" n="97"/>ergo etc. 
+      </p>
+               <p xml:id="at8va9-e56778-d1e644">
+        Preterea: non sunt magis incompossibiles 
+        <lb ed="#V" n="98"/>relationes eiusdem rationis quam relationes opposite sicut 
+        <lb ed="#V" n="99"/>etiam in absolutis non sunt magis incompossibiles due 
+        <lb ed="#V" n="100"/>forme eiusdem rationis quam due forme opposite: vt paet de 
+        <lb ed="#V" n="101"/>albedine et nigredine: et duabus albedinibus: sed tamen 
+        <lb ed="#V" n="102"/>incompossibilitate non absolute in diuinis plures 
+        rela<lb ed="#V" n="103" break="no"/>tiones opposite sunt in eodem fundamento: absque 
+        diuer<lb ed="#V" n="104" break="no"/>sitate absolutorum per eum: igitur et plures relationes 
+        eius<lb ed="#V" n="105" break="no"/>dem rationis poterunt etc. Et confirmatur: quia vel intelligit 
+        <lb ed="#V" n="106"/>quod impossibile sit etc. solum de facto et secundum ordinem qua nunc est 
+        <lb ed="#V" n="107"/>vel de potentia dei absoluta. si primo modo nihil concludit: 
+        <lb ed="#V" n="108"/>quia hoc non obstante deus poterit oppositum de potentia 
+        <lb ed="#V" n="109"/>sui absoluta: et per consequens non sequitu propter hoc quod filius non 
+        <lb ed="#V" n="110"/>possit generare. Si secundo modo non videtur verum: quia si 
+        <lb ed="#V" n="111"/>ponatur in esse: non sequitur aliqua contradictio. Et 
+        vlte<lb ed="#V" n="112" break="no"/>rius si ponantur modi absoluti in diuinis: vt asserit 
+        do<lb ed="#V" n="113" break="no"/>ctor noster Iacobus de viterbio: minor assumpta non 
+        <lb ed="#V" n="114"/>erit vera: tales tamen modos reputat impossibiles. 
+        <lb ed="#V" n="115"/>Secunda ratio etiam non valet: quia maior est falsa: 
+        vide<lb ed="#V" n="116" break="no"/>mus enim quod idem ignis numero per vnum et eundem calorem 
+        <lb ed="#V" n="117"/>potest producerem plures ignes eiusdem rationis: et tamen constat quod 
+        <lb ed="#V" n="118"/>est agens naturale et totale supposita dei influentia 
+        gene<lb ed="#V" n="119" break="no"/>rali. Et confirmatur: quia vel repugnat principio 
+        producti<lb ed="#V" n="120" break="no"/>uo naturali et totali producere plura eiusdem rationis: vel quia 
+        <lb ed="#V" n="121"/>principium totale: vel quia naturale: non quia totale: quia constat quod 
+        <lb ed="#V" n="122"/>essentia diuina potest esse principium productiuum totale pluri 
+        <lb ed="#V" n="123"/>um creaturarum eiusdem rationis. Nec quia naturale per eum in 
+        ea<lb ed="#V" n="124" break="no"/>dem questione. Respondendo. Ad tertiam rationem scithome: 
+        <lb ed="#V" n="125"/>arguebat enim sanctus thomas sic: persone diuine 
+        proce<lb ed="#V" n="126" break="no"/>dunt naturaliter: natura autem determinatur ad vnum. Ad hoc respondet 
+        <lb ed="#V" n="127"/>dicit quod ex hoc non sequitur: nisi quod filius necessario producatur 
+        <lb ed="#V" n="128"/>non quia plures filii non producantur: quia natura sine omni 
+        diuersi<lb ed="#V" n="129" break="no"/>tate potest in plura: ideo patet per eum quod non repugnat eidem 
+        prin<lb ed="#V" n="130" break="no"/>cipio naturali producere plura omnino eiusdem rationis. 
+        Ter<lb ed="#V" n="131" break="no"/>tia ratio nihil concludit: quia per eam probaretur: quod nullus filiorum 
+        <lb ed="#V" n="132"/>adam potuit generare: quia si aliquis filiorum adam generauit 
+        ill<lb ed="#V" n="133" break="no"/>prnitati fuit compossibilis filiatio: igitur per rationem illam alia 
+        fi<lb ed="#V" n="134" break="no"/>liatio fuit compossibilis paternitati ipsius ada: et per consequens primus 
+        <lb ed="#V" n="135"/>pater interomnes esset filius: quod est impossibile: quia tunt 
+        <lb ed="#V" n="136"/>non esset primus pater. Et ideo quuis aliqua sint eius 
+        <lb ed="#V" n="137"/>dem rationis et nihil est compossibile vni quod non repugnet 
+        <lb ed="#V" n="138"/>alteri inquantum tale: potest tamen aliquid esse compossibi¬
+        <pb ed="#V" n="96-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>le vni: et repugnare alteri ratione alicuius adiuncti: si 
+        <lb ed="#V" n="2"/>cut in proposito: quia licet filiatio non repugnet primo 
+        homi<lb ed="#V" n="3" break="no"/>ni: quia pater vel inquantum pater: quia tunc repugnaret 
+        omni<lb ed="#V" n="4" break="no"/>patri. repugnat tamen sibi inquantum primus pater: et sic 
+        <lb ed="#V" n="5"/>suo modo diceretur in diuinis. et sic ratio sua nulla. 
+        <lb ed="#V" n="6"/>Dimissis igitur huiusmodi rationibus aliter posset 
+        <lb ed="#V" n="7"/>declarari propositum: pro cuius declaratione praemitto 
+        ali<lb ed="#V" n="8" break="no"/>quas propositiones. Prima est quod potentia generandi in 
+        <lb ed="#V" n="9"/>diuinis non est potentia respectu generationis 
+        acti<lb ed="#V" n="10" break="no"/>ue: sed solum respectu termini producti vel generati 
+        <lb ed="#V" n="11"/>hoc patet: quia omnis potentia quae sic est productiua 
+        ter<lb ed="#V" n="12" break="no"/>mini que non est elicitiua actus: sic est potentia 
+        respe<lb ed="#V" n="13" break="no"/>ctu termini producti quod tamen non est potentia respectu actus 
+        <lb ed="#V" n="14"/>sed potentia generandi in diuinis sic est productiua 
+        <lb ed="#V" n="15"/>termini quae non est elicitiua generationis actiue: vt 
+        pa<lb ed="#V" n="16" break="no"/>tet ex hiis que dicta sunt super 4 di. ergo. Secunda est quod 
+        <lb ed="#V" n="17"/>quicquid habet filius accepit a patre: hec est bea.e aug. 
+        <lb ed="#V" n="18"/>5. detri. c. 35. dicit quod quicquid habet filius nascendo 
+        acce<lb ed="#V" n="19" break="no"/>pit. Tertia est quod filius non accepit a patre illud in quo 
+        <lb ed="#V" n="20"/>opponitur patri: hec patet: quia quicquid filius accepit a 
+        <lb ed="#V" n="21"/>patre est idem filio. sed nihil in quo filius opponitur 
+        pa<lb ed="#V" n="22" break="no"/>tri est idem filio. igitur nihil in quo filius opponitur 
+        patri<lb ed="#V" n="23" break="no"/>filius accepit a patre. Quarta est: pater non communicat 
+        <lb ed="#V" n="24"/>filio generationem actiuam: hec sequitur ad praecedentem. 
+        <lb ed="#V" n="25"/>quia generatio actiua opponitur passiue. et per consequens 
+        pa<lb ed="#V" n="26" break="no"/>ter generatione actiua opponitur filio: de cuius ratione est 
+        <lb ed="#V" n="27"/>generatio passiua. sed filius non accepit a patre in quo 
+        <lb ed="#V" n="28"/>opponitur ei: vt patet in propositione praecedenti: igitur. 
+        <lb ed="#V" n="29"/>Quinta est quod filius non habet generationem actiuam 
+        <lb ed="#V" n="30"/>nec potest eam elicere. Ista propositio quantum ad primam 
+        par<lb ed="#V" n="31" break="no"/>tem patet: quia quicquid habet filius accepit a patre: vt 
+        <lb ed="#V" n="32"/>patet ex secuda: sed generationem actiuam non 
+        accepit<lb ed="#V" n="33" break="no"/>a patre vt patet ex quarta: quantum ad secundam partem 
+        <lb ed="#V" n="34"/>etiam patet: quia illud suppositum non potest elicere genera 
+        <lb ed="#V" n="35"/>tione actiua in quo non est potentia generationis 
+        acti<lb ed="#V" n="36" break="no"/>ue. oppositum predicati infert opppositum subiecti. sed 
+        <lb ed="#V" n="37"/>in filio non est potentia respectu generationis actiue: 
+        <lb ed="#V" n="38"/>quia si sic: hec esset potentia generandi: hec autem non est 
+        <lb ed="#V" n="39"/>potentia respectu generationis actiue: vt patet ex 
+        <lb ed="#V" n="40"/>prima propositione cum sic sit productiua termini quod non sit 
+        <lb ed="#V" n="41"/>elicitiua actus. ergo. Ex istis videtur sequi conclusio 
+        princi<lb ed="#V" n="42" break="no"/>palis scilicet quod filius in diuinis non potest generare: licet 
+        in<lb ed="#V" n="43" break="no"/>ipso sit potentia generandi. hec patet: quia illud non 
+        <lb ed="#V" n="44"/>potest generare quod non habet generationem actiuam: nec 
+        <lb ed="#V" n="45"/>potest eam elicere. patet ex terminis. sed filius in 
+        di<lb ed="#V" n="46" break="no"/>uinis non habet generationem actiuam. nec potest eam 
+        eli<lb ed="#V" n="47" break="no"/>cere: non obstante quod in ipso sit perfecta potentia 
+        gene<lb ed="#V" n="48" break="no"/>randi vt patet: ergo. Ideo tota ratio quare filius no potest 
+        <lb ed="#V" n="49"/>generare. licet in ipso sit potentia generandi est: quia non 
+        ha<lb ed="#V" n="50" break="no"/>bet generatione actiua: sine qua non est possibilis 
+        ge<lb ed="#V" n="51" break="no"/>neratio nec potest eam elicere: et idem omnino est dicendum de 
+        <lb ed="#V" n="52"/>spiritu sancto. 
+      </p>
+               <p xml:id="at8va9-e56778-d1e852">
+        Tertia conclusio est quod pater in 
+        diui<lb ed="#V" n="53" break="no"/>nis non potest alium filium generare. 
+      </p>
+               <p xml:id="at8va9-e56778-d1e857">
+        Istam conclusionem 
+        <lb ed="#V" n="54"/>quidam. Aureolus in i di. 7 q. 2. ar. 3. 
+        <lb ed="#V" n="55"/>Deducunt dicit quod praecisa ratio quare pater non potest genera 
+        <lb ed="#V" n="56"/>re alium filium: et quare filius in diuinis non potest 
+        multi<lb ed="#V" n="57" break="no"/>plicari est: quia filiatio est tota natura et tota quantitas 
+        <lb ed="#V" n="58"/>subsistens. sicut deitas est tota natura et tota quam 
+        <lb ed="#V" n="59"/>titas subsistens: et ideo multiplicari non potest. Et 
+        <lb ed="#V" n="60"/>perfirmatur: sic nulla res que est tota natura et tota quam 
+        <lb ed="#V" n="61"/>titas subsistens potest plurificari: sed filiatio in deo est 
+        <lb ed="#V" n="62"/>tota natura et tota quantitas subsistens: et similiter 
+        pa<lb ed="#V" n="63" break="no"/>ternitas et spiratio. ergo probatur minor: primo: quia quicquid 
+        <lb ed="#V" n="64"/>recipitur in aliquo recipitur per modum recipientis. vt 
+        <lb ed="#V" n="65"/>dicit commentator. 3 de anima commento 8. sed 
+        filiatio<lb ed="#V" n="66" break="no"/>paternitas et spiratio recipiuntur in diuinitate: et 
+        diui<lb ed="#V" n="67" break="no"/>nitas non est particularis res. sed natura simpliciter et 
+        <lb ed="#V" n="68"/>quantitas tota subsistens. igitur qualibet istarum proprie 
+        <lb ed="#V" n="69"/>tatum est quantitas simpliciter: et nullo modo particum¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>laris res. Secundo idem apparet per simile in 
+        ani<lb ed="#V" n="71" break="no"/>ma nostra: anima enim seipam dicens et in esse 
+        conspi<lb ed="#V" n="72" break="no"/>cuo ponens: non est dubium quod sistit: non enim illud esse 
+        con<lb ed="#V" n="73" break="no"/>spicuum ponit se in alio: et sic in infinitum: multo ergo 
+        <lb ed="#V" n="74"/>fortius pater seipsum dicendo sistit in vno verbo: quod 
+        <lb ed="#V" n="75"/>non esset si esset aliqua particularis res: igitur est tota enti 
+        <lb ed="#V" n="76"/>tas subsistens. 
+      </p>
+               <p xml:id="at8va9-e56778-d1e912">
+        Contra aureolum. 
+        <lb ed="#V" n="77"/>Sed illa ratio non concludit. Primo: quia si ratio esset e 
+        <lb ed="#V" n="78"/>bona sequeretur quod persona non posset in diuinis 
+        malti<lb ed="#V" n="79" break="no"/>plicari quod est falsum: consequentia patet: arguendo sic: nulla res 
+        <lb ed="#V" n="80"/>que est tota natura: et tota quantitas subsistens potest 
+        <lb ed="#V" n="81"/>plurificari: persona in diuinis est huiusmodi secundum eum: ergo etc. 
+        <lb ed="#V" n="82"/>Secundo: quia quod non est omnis entitas nec continet omnem 
+        <lb ed="#V" n="83"/>entitatem fornaliter nec virtualiter non est tota enti 
+        <lb ed="#V" n="84"/>tas subsistens: sed filiatio non est etc. quia non est 
+        paterni<lb ed="#V" n="85" break="no"/>tas: nec continet paternitatem formaliter nec 
+        virtua<lb ed="#V" n="86" break="no"/>liter: ergo etc. Nec valet si dicatur quod filiatio est omnis 
+        <lb ed="#V" n="87"/>entitas formaliter vel eminentur: non quia est filiatio: sed 
+        <lb ed="#V" n="88"/>quia est essentia: quia si sic dicatur non sequitur nisi quod filii in 
+        di<lb ed="#V" n="89" break="no"/>uinis non possunt plurificari in diuinitate: quod non est 
+        <lb ed="#V" n="90"/>ad propositum. Nec rationes sue concludunt No quidem 
+        pri<lb ed="#V" n="91" break="no"/>ma: quia per eam probaretur: quod filiatio esset perfectior 
+        simpli<lb ed="#V" n="92" break="no"/>citer: et ad se: et non ad aliud: et quicquid verificatur de 
+        <lb ed="#V" n="93"/>diuinitate si maior sit vniuersalis arguendo sic: quicquid 
+        <lb ed="#V" n="94"/>recipitur in aliquo recipitur per modum recipientis: sed 
+        <lb ed="#V" n="95"/>filiatio secundum eum recipitur in diuinitate et deitas est 
+        perfe<lb ed="#V" n="96" break="no"/>ctio simpliciter et ad se et non ad aliud: et sic de aliis: 
+        <lb ed="#V" n="97"/>igitur et filiatio. Si vero maior sit particularis patet 
+        <lb ed="#V" n="98"/>quod nihil probatur Nec secunda propter duo. Primo: quia 
+        <lb ed="#V" n="99"/>falsum est quod assumitur: vt in tertia di. fuit declaratum. 
+        <lb ed="#V" n="100"/>Secundo: quia si esset verum esset contra eum: quia si talia 
+        sup<lb ed="#V" n="101" break="no"/>posita intentionalia essent possibilia in eis procedere 
+        <lb ed="#V" n="102"/>tur in infinitum: vt in eadem di. fuit ostensum. 
+        Di<lb ed="#V" n="103" break="no"/>misso ergo isto modo dicendi et aliis quam plurimis: 
+        vi<lb ed="#V" n="104" break="no"/>detur mihi quod tota ratio quare pater non potest genera 
+        <lb ed="#V" n="105"/>re alium filiu est: quia potentia generandi in ipso est 
+        communi<lb ed="#V" n="106" break="no"/>cata actui sibi totaliter adequato: et ideo isto stante 
+        <lb ed="#V" n="107"/>non potest in alium. Et potest sic ratio formari: 
+        poten<lb ed="#V" n="108" break="no"/>tia generandi in patre est coniuncta actui generatio 
+        <lb ed="#V" n="109"/>nis sibi totaliter adequato et semper stante: igitur 
+        pa<lb ed="#V" n="110" break="no"/>ter non potest nisi vnum solum filium generare: antecedens patet: 
+        <lb ed="#V" n="111"/>quia si actus generationis in patre non esset adequatus potentie 
+        gene<lb ed="#V" n="112" break="no"/>randi id es filius genitus non esset adequitus patri in omnibus: et si non 
+        <lb ed="#V" n="113"/>semper staret filius posset non esse: quorum quodlibet est 
+        impos<lb ed="#V" n="114" break="no"/>sibile: consequentia probatur: quia si pater posset alium filium generare: 
+        <lb ed="#V" n="115"/>vel per istum actum: vel per alium: non per alium: quia isto stante non 
+        <lb ed="#V" n="116"/>potest habere alium aliter iste non esset adequatus: nec per istum: quia vel 
+        <lb ed="#V" n="117"/>producti filii essent equales patri: vel non: si non: non essent 
+        <lb ed="#V" n="118"/>dii: quod est impossibile: si sic: quilibet eorum adequaretur illi actui 
+        <lb ed="#V" n="119"/>et per consequens idem actus generandi haberet duos per se 
+        termi<lb ed="#V" n="120" break="no"/>nos: quorum quilibet esset ei adequatus: quod est impossibile. 
+        <lb ed="#V" n="121"/>Quarta conclusion e: quod in diuinis non possunt esse plures filii. 
+        <lb ed="#V" n="122"/>Et hoc sequitur ex praecedentibus: quia nec pater potest alium 
+        filiu<lb ed="#V" n="123" break="no"/>gnare: vt patet ex conclusione stati deducta: nec filius nec scilicet 
+        <lb ed="#V" n="124"/>sanctus vt patet ex illa: igitur etc. et hoc de secundo.
+      </p>
+            </div>
+            <div xml:id="at8va9-e56778-Dd1e1020">
+               <head xml:id="at8va9-e56778-Hd1e1022">Articuli 3 et 4</head>
+               <p xml:id="at8va9-e56778-d1e1024">
+                  <lb ed="#V" n="125"/>Tertius et quartus articulus. 
+        <lb ed="#V" n="126"/>QUantum ad tertium et quartum articulum simul mouenda et 
+        <lb ed="#V" n="127"/>dissoluenda sunt dubia contra conclusiones istas. 
+      </p>
+               <p xml:id="at8va9-e56778-d1e1033">
+        Et primo 
+        <lb ed="#V" n="128"/>contra primam conclusionem quidam doctor. 
+        <lb ed="#V" n="129"/>Garro in primo di. 7q. 3. ar. i. 
+        <lb ed="#V" n="130"/>Arguit ex secunda sic: filius non potest generare: ergo potentia 
+        <lb ed="#V" n="131"/>generadi non est in ipso: antecedens est secunda conclusio mea: et consequentiam 
+        <lb ed="#V" n="132"/>probat multipliciter. Primo sic: ratio potentie accipitur per 
+        co<lb ed="#V" n="133" break="no"/>parationem ad actum: sicut ratio paternitatis per 
+        compa<lb ed="#V" n="134" break="no"/>rationem ad filiationem: sed tollere comparationem 
+        pa<lb ed="#V" n="135" break="no"/>ternitatis ad filiationem est destruem paternitatem: igitur 
+        tollem<lb ed="#V" n="136" break="no"/>possibilitatem ad actum est destruere rationem potentie: igitur si 
+        <lb ed="#V" n="137"/>in filio non esset possibilitas ad actum 
+        generatio<lb ed="#V" n="138" break="no"/>nis: nec potentia generandi: vel si est in ipso potentia
+        <pb ed="#V" n="96-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>generandi erit in ipso possibilitas etc. 
+      </p>
+               <p xml:id="at8va9-e56778-d1e1066">
+        Preterea: 
+        con<lb ed="#V" n="2" break="no"/>mentator primo ce. et mum. c. 13. dicit quod natura fecisset 
+        <lb ed="#V" n="3"/>ens ociosum si esset sine actione. Et in. 2. c. 58. dicit 
+        <lb ed="#V" n="4"/>quod natura fecisset frustra stellas mobiles si non 
+        dedis<lb ed="#V" n="5" break="no"/>set eis instrumenta per que possent moueri. Ex hoc 
+        <lb ed="#V" n="6"/>arguitur sic: si potentia generadi esset in filio et non 
+        pos<lb ed="#V" n="7" break="no"/>set exire in actum: tunc esset ibi frustra: vt patet ex 
+        di<lb ed="#V" n="8" break="no"/>ctis: sed hoc est absurdum: igitur etc. 
+      </p>
+               <p xml:id="at8va9-e56778-d1e1084">
+        Preterea: phiosns 
+        <lb ed="#V" n="9"/>4. phisi. dicit: quod si non est numerans tamen potest esse 
+        numera<lb ed="#V" n="10" break="no"/>bile: tamen si impossibile est esse numerabile impossibile est quod sit 
+        <lb ed="#V" n="11"/>numerans: igitur eadem ratione: licet potentia possit fieri sine 
+        <lb ed="#V" n="12"/>actu tamen si impossibile est esse actum: impossibile est esse potentiam 
+        <lb ed="#V" n="13"/>sed per me potentia non potest exire in actum: ergo etc. 
+      </p>
+               <p xml:id="at8va9-e56778-d1e1098">
+        Prete 
+        <lb ed="#V" n="14"/>rea: potentia non includit alium respectum formaliter 
+        ad<lb ed="#V" n="15" break="no"/>complementum potentie: nisi respectum ad actum: 
+        remoue<lb ed="#V" n="16" break="no"/>re ergo a potentia talem respectamen est destruere ipsum: 
+        er<lb ed="#V" n="17" break="no"/>go etc. 
+      </p>
+               <p xml:id="at8va9-e56778-d1e1109">
+        Preterea: ad idem potest sic argui secundum aug. 7. 
+        <lb ed="#V" n="18"/>de tri. c. i. sicut se habet essentia ad esse: ita potentia 
+        <lb ed="#V" n="19"/>ad posse: et sapientia ad sapere: sed in quocumque est 
+        essen<lb ed="#V" n="20" break="no"/>tia illud habet esse: et in quocumque est sapientia illud 
+        ha<lb ed="#V" n="21" break="no"/>bet sapere: igitur in quocumque est potentia: illud habet posse: 
+        <lb ed="#V" n="22"/>sed in filio per me est potentia generandi: igitur poterit 
+        ge<lb ed="#V" n="23" break="no"/>nerare. 
+      </p>
+               <p xml:id="at8va9-e56778-d1e1125">
+        Responsio ad rationes Garronis. 
+        <lb ed="#V" n="24"/>Pro solutione istarum rationum distinguo de 
+        poten<lb ed="#V" n="25" break="no"/>tia: quia quedam est potentia in ordine ad actum et ad 
+        termi<lb ed="#V" n="26" break="no"/>num productum: et quedam solum in ordine ad term inum: sed 
+        <lb ed="#V" n="27"/>non in ordine ad actum. Ista distinctio patet ex 
+        praece<lb ed="#V" n="28" break="no"/>dentibus: quia potentia elicitiua sui actus dicitur potentia 
+        <lb ed="#V" n="29"/>in ordine ad actum et ad terminum productum: potentia 
+        ve<lb ed="#V" n="30" break="no"/>ro que non est elicitiua actus: sed productiua termini: 
+        <lb ed="#V" n="31"/>sic est potentia in ordine ad terminum: quod non est potentia in 
+        <lb ed="#V" n="32"/>ordine ad actum: de prima loquuntur physi communiter: non de 
+        <lb ed="#V" n="33"/>secunda: quia potentia secundo modo dicta non reperitur in 
+        <lb ed="#V" n="34"/>creaturis. His praemissis dico ad primum quod licet ratio 
+        po<lb ed="#V" n="35" break="no"/>tentie primo modo sumpte accipiatur per comparationem 
+        <lb ed="#V" n="36"/>ad actum: non tamen ratio potentie secundo modo dicte: et 
+        ta<lb ed="#V" n="37" break="no"/>lis est potentia in diuiuis: cum non sit elicitiua generatio 
+        <lb ed="#V" n="38"/>nis actiue. 
+      </p>
+               <p xml:id="at8va9-e56778-d1e1160">
+        Ad secundum dico quod potentia generandi est 
+        <lb ed="#V" n="39"/>ipsamet essentia diuina: vt declarabitur. q. sequenti: 
+        <lb ed="#V" n="40"/>et ideo non est frustra in filio: quia licet non possit exire in actum 
+        <lb ed="#V" n="41"/>generationis: quia non est in ipso coniucta generationi 
+        acti<lb ed="#V" n="42" break="no"/>ue: nec potest eam elicere: dat tamen sibi esse diuinum vt per 
+        <lb ed="#V" n="43"/>ipsam potest exire in actum creationis: igitur non est in 
+        eo<lb ed="#V" n="44" break="no"/>frustra: nec sine omni actione: nec natura humana esset 
+        <lb ed="#V" n="45"/>frustra in socrate et sine omni actione: posito quod sor. 
+        <lb ed="#V" n="46"/>non possit generare. Et ideo patet quod auctoritates non 
+        <lb ed="#V" n="47"/>sunt ad propositum. Non quide prima: quia potentia 
+        generan<lb ed="#V" n="48" break="no"/>di in filio non est sine omni actione: nec secuda: quia 
+        mobili<lb ed="#V" n="49" break="no"/>tas solum ordinatur ad motum: et ideo frustra esset in stellis 
+        <lb ed="#V" n="50"/>nisi possent moueri essentia autem diuina que est potentia 
+        <lb ed="#V" n="51"/>generandi non solum ordinatur ad actum generationis. 
+      </p>
+               <p xml:id="at8va9-e56778-d1e1191">
+        Ad 
+        <lb ed="#V" n="52"/>tertium patet quod procedit de potentia primo modo sumpta: quia 
+        <lb ed="#V" n="53"/>talis ordinatur ad actum: sicut numerans ad 
+        numerabi<lb ed="#V" n="54" break="no"/>le. 
+      </p>
+               <p xml:id="at8va9-e56778-d1e1200">
+        Ad quartum eodem modo: quia potentia secundo 
+        mo<lb ed="#V" n="55" break="no"/>do dicta non includit respectum ad actum: igitur rationes 
+        <lb ed="#V" n="56"/>equiuocant de potentia. Ad quintum etiam dico: quod 
+        be<lb ed="#V" n="57" break="no"/>atus augstino loquitur de potentia primo modo: quia illa se 
+        ha<lb ed="#V" n="58" break="no"/>bet ad agere: sicut essentia ad esse: et sapientia ad 
+        sa<lb ed="#V" n="59" break="no"/>pere: et ideo non est ad propositum. Contra secundam 
+        conclu<lb ed="#V" n="60" break="no"/>sionem posset argui ex prima: sicut contra primam argutum 
+        <lb ed="#V" n="61"/>fuit ex ipsa: verum quia ad hoc patet quid dicendum 
+        pos<lb ed="#V" n="62" break="no"/>set aliter argui. Primo per argumentum maximi hereti 
+        <lb ed="#V" n="63"/>ci: et ponitur in litera di. sequenti: queritur si filius non posset 
+        <lb ed="#V" n="64"/>generare: pater esset potentior eo consequens est erroneum: 
+        igi<lb ed="#V" n="65" break="no"/>tur et antecedens: consequentia probatur: quia stante supposito pater 
+        po<lb ed="#V" n="66" break="no"/>test quicquid post filius: et potest aliquid quod non potest 
+        fi<lb ed="#V" n="67" break="no"/>lius: quia pater potest generare filius autem non: ergo etc. Et 
+        <lb ed="#V" n="68"/>confirmatur: quia plus est posse generare filium quam posse 
+        <lb ed="#V" n="69"/>creare mundum: sed si filius non posset creare mundum non
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>esset omnipotens: igitur multo fortius si non posset genera 
+        <lb ed="#V" n="71"/>re filium non erit omnipotens: et per consequens pater erit omnipotenm 
+        <lb ed="#V" n="72"/>tior ipso: ergo etc. Item cuicumque persone communicatur 
+        gene<lb ed="#V" n="73" break="no"/>ratio actiua: illa potest generare: sed filio communicatur: er 
+        <lb ed="#V" n="74"/>go: maior patet: tum quia in quocumque est generatio 
+        acti<lb ed="#V" n="75" break="no"/>ua: illud potest generare: tum quia per me tota causa: 
+        qua<lb ed="#V" n="76" break="no"/>re filius non potest generare est: quia non habet 
+        generatio<lb ed="#V" n="77" break="no"/>nem actiuam: nec potest eam elicere: minor probatur: quia si 
+        ge<lb ed="#V" n="78" break="no"/>neratio actiua non communicaretur filio: aut hoc esset: quia in 
+        fi<lb ed="#V" n="79" break="no"/>lio esset opposita relatio: aut quia de se esset 
+        incommunicabi<lb ed="#V" n="80" break="no"/>lis: si det primum sequitur quod communicaretur spiritui sancto: cum 
+        <lb ed="#V" n="81"/>in ipso non sit opposita relatio: et per consequens spiritus sanctus posset 
+        ge<lb ed="#V" n="82" break="no"/>nerare: et si spiritus sanctuis et filius: quod est propositum. Si detur secun 
+        <lb ed="#V" n="83"/>dum: pari ratione spiratio actiua esset de se incommunicabilis: 
+        <lb ed="#V" n="84"/>quod est erroneum: consequentia patet: quia non videtur quod plus 
+        repu<lb ed="#V" n="85" break="no"/>gnet generationi actiue de se communicari: quam spirati 
+        <lb ed="#V" n="86"/>oni actiue: ergo etc.
+      </p>
+               <p xml:id="at8va9-e56778-d1e1275">
+        Preterea: illud non est ne gandum 
+        <lb ed="#V" n="87"/>a filio in creato quod est signum perfectionis in creato: aliter 
+        <lb ed="#V" n="88"/>filius increatus non esset simpliciter et vniversaliter perfectus: 
+        <lb ed="#V" n="89"/>quod est euidenter falsum: sed posse generare est signum per 
+        <lb ed="#V" n="90"/>fectionis in filio quocumque creato: quia secundum philosophum signum 
+        <lb ed="#V" n="91"/>perfectionis est posse generare vel producere sibi simile: 
+        <lb ed="#V" n="92"/>tunc enim vnuquodque perfectum esse dicimus etc. igitur etc. 
+      </p>
+               <p xml:id="at8va9-e56778-d1e1291">
+                  <lb ed="#V" n="93"/>Preterea: in omni perfecta intellectione debet 
+        ema<lb ed="#V" n="94" break="no"/>nare verbum: sed constat quod intellectio filii est perfecta: 
+        im<lb ed="#V" n="95" break="no"/>mo perfectissima: igitur filius intelligendo producet 
+        ver<lb ed="#V" n="96" break="no"/>bum: et per consequens generabit filium. Et confirmatur: quia pater 
+        <lb ed="#V" n="97"/>intelligendo se producit verbum: cum igitur ita perfectu 
+        intel<lb ed="#V" n="98" break="no"/>ligere sit in filio sicut in patre: sequitur quod filius 
+        intel<lb ed="#V" n="99" break="no"/>ligendo se producet verbum. Et similiter potest argui de 
+        <lb ed="#V" n="100"/>spiritus sanctus Istis tamen et similibus sophismatibus non obstam 
+        <lb ed="#V" n="101"/>tibus dicendum est absolute: quod filius non potest generare 
+        <lb ed="#V" n="102"/>quia si sic: pari ratione et filius filii posset generare: et sic in 
+        <lb ed="#V" n="103"/>infinintum: quod est impossibile: sicut deducit be. aug. 
+        con<lb ed="#V" n="104" break="no"/>tra maximum libro. 3. c. 13. 
+      </p>
+               <p xml:id="at8va9-e56778-d1e1320">
+        Ad primam igitur nego conse 
+        <lb ed="#V" n="105"/>quentiam. Et ad probationem dico: quod si filius non posset 
+        <lb ed="#V" n="106"/>generare: quia in ipso non esset potentia generandi: bene se 
+        <lb ed="#V" n="107"/>queretur quod non esset omnipotens: et quod pater esset potentior ipso 
+        <lb ed="#V" n="108"/>sicut fuit ostensum in deductione prime conclusionis: sed 
+        <lb ed="#V" n="109"/>illud non est verum: vt patet ex eadem conclusione: sed si 
+        <lb ed="#V" n="110"/>filius non potest generare: quia non habet generationem 
+        <lb ed="#V" n="111"/>actiuam: nec potest eam elicere: vt patet ex secunda 
+        con<lb ed="#V" n="112" break="no"/>clusione non sequitur quod pater sit potentior ipso: quia 
+        gene<lb ed="#V" n="113" break="no"/>ratio actiua non est aliqua potentia. Et per hoc patet 
+        <lb ed="#V" n="114"/>quid dicendum ad formam: quia non sequitur pater potest 
+        <lb ed="#V" n="115"/>quicquid filius potest: et aliquid quod non potest filius: 
+        <lb ed="#V" n="116"/>igitur est potentior filio nisi posse negaretur a filio propter 
+        <lb ed="#V" n="117"/>negationem vel carentiam alicuius potentie quae non negatur 
+        <lb ed="#V" n="118"/>a patre: vel qua non caret pater: quod in proposito dici 
+        <lb ed="#V" n="119"/>non potest: sicut patet ex dictis. Et per hoc patet etiam 
+        <lb ed="#V" n="120"/>quid dicendum ad confirmationem: quia posse creare 
+        mumn<lb ed="#V" n="121" break="no"/>dum non posset negari a filio: nisi quia carent potentia 
+        cre<lb ed="#V" n="122" break="no"/>andi: quia creatio actiua non magis repugnat vni 
+        per<lb ed="#V" n="123" break="no"/>sone: quam alteri quantum est ex se: posse vero generare 
+        <lb ed="#V" n="124"/>potest negari: vel quia caret potentia generandi: vel quia 
+        <lb ed="#V" n="125"/>non habet generationem actiuam: nec potest eam elicere: 
+        <lb ed="#V" n="126"/>igitur bene sequitur filius non potest creare mundum: er 
+        <lb ed="#V" n="127"/>go non est omnipotens: sed non sequitur non potest generare: 
+        <lb ed="#V" n="128"/>igitur non est omnipotens. 
+      </p>
+               <p xml:id="at8va9-e56778-d1e1375">
+        Ad secundum nego minorem. 
+        <lb ed="#V" n="129"/>Et ad probationem concedo quod generatio actiua non 
+        communi<lb ed="#V" n="130" break="no"/>catur filio: quia in ipso est opposita relatio: vt patet ex de 
+        <lb ed="#V" n="131"/>ductione secunde conclusionis. Et quando dicitur quod tunc 
+        communica<lb ed="#V" n="132" break="no"/>retur spiritui sancto: cum in ipsa non sit opposita relatio. 
+        <lb ed="#V" n="133"/>nego quia non est eadem relatio vtrobique filio enim non 
+        communi<lb ed="#V" n="134" break="no"/>cat propter causam praedictam: sed de spitum sancto est alia 
+        <lb ed="#V" n="135"/>ratio: quia spiritus sanctus non procedit a solo patre: sed a patre 
+        si<lb ed="#V" n="136" break="no"/>mul et filio: et ideo nihil potest sibi communicari: nisi illud sit 
+        <lb ed="#V" n="137"/>in filio: et quia generatio actiua non est in filio: non potest 
+        <lb ed="#V" n="138"/>communicari spiritui sancto. 
+      </p>
+               <p xml:id="at8va9-e56778-d1e1399">
+        Ad tertium dico: quod posse¬
+        <pb ed="#V" n="97-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>enerare simile est in filio creato: est enim signum 
+        <lb ed="#V" n="2"/>perfectionis secundum quid non autem simpliciter: est enim signum 
+        <lb ed="#V" n="3"/>perfectionis supplentis imperfectionem: quod patet 
+        <lb ed="#V" n="4"/>etiam per philosophum: quia philons non posuit hoc nisi in his: quae 
+        <lb ed="#V" n="5"/>non possunt permanere semper in proprio esse 
+        natu<lb ed="#V" n="6" break="no"/>rali: et ideo ad supplendam illam perfectionem 
+        preui<lb ed="#V" n="7" break="no"/>dit natura vt in talibus illud quod producitur possit producem sibi 
+        si<lb ed="#V" n="8" break="no"/>mile vt saltem maneat in suo simili: quod non potest in se 
+        <lb ed="#V" n="9"/>permanere. Et ideo non sequitur ex dictis phsi: quod hoc 
+        <lb ed="#V" n="10"/>non possit negari a filio increato sine imperfectione 
+        <lb ed="#V" n="11"/>quia filius increatus semper manet in suo esse: cum 
+        <lb ed="#V" n="12"/>sit necesse esse. Ad formam: igitur dico: quod illud non est 
+        <lb ed="#V" n="13"/>negandum a filio increato: quod est signum 
+        imperfe<lb ed="#V" n="14" break="no"/>ctionis simpliciter: et ab solute in filio creato: illud tamen 
+        po<lb ed="#V" n="15" break="no"/>test negari a filio creato quod est signum perfectionis 
+        <lb ed="#V" n="16"/>in filio creato secundum quid et supplentis imperfectio 
+        <lb ed="#V" n="17"/>nem vt declaratum est in proposito. 
+      </p>
+               <p xml:id="at8va9-e56778-d1e1443">
+        Ad quartum 
+        <lb ed="#V" n="18"/>dico: quod ratio bene concluderet si intellectio fslii esset 
+        <lb ed="#V" n="19"/>alia ab intellectione patris: sed quia in diuinis non est 
+        <lb ed="#V" n="20"/>nisi vnica persecta intellectio: que communis est. pa. fi. et 
+        <lb ed="#V" n="21"/>spi. san. sic non est nisi vnicum verbum: et posset 
+        po<lb ed="#V" n="22" break="no"/>ni exemplum adhuc quod emanat a solo patre: licet 
+        obicia<lb ed="#V" n="23" break="no"/>tur omnibus tribus. Et per hec patet quid 
+        dicen<lb ed="#V" n="24" break="no"/>dum ad confirmationem: quia licet in filio sit perfectum 
+        <lb ed="#V" n="25"/>intelligere: tamen quia non est nisi vnicum intelligere non 
+        <lb ed="#V" n="26"/>erit nisi vnicum verbum. Et posset poni exemplum 
+        <lb ed="#V" n="27"/>adhuc: quia si potentia visiua creature per actum 
+        vi<lb ed="#V" n="28" break="no"/>dendi sibi totaliter adequatum aliquid produceret: et 
+        <lb ed="#V" n="29"/>actus ille semper staret quantumcumque alteri communicare 
+        <lb ed="#V" n="30"/>tur eadem potentia: visiua illud non posset per actum 
+        <lb ed="#V" n="31"/>videndi aliud producere: ratio huias est: quia non 
+        habe<lb ed="#V" n="32" break="no"/>ret nisi vnum actum videndi. Et sic suo modo est 
+        <lb ed="#V" n="33"/>in deo: filius enim siue verbum producitur per actum 
+        <lb ed="#V" n="34"/>intellectionis sibi totaliter adequatum: cum igitur ille 
+        <lb ed="#V" n="35"/>actus semperstet: et idem intellectus communicetur filio 
+        <lb ed="#V" n="36"/>impossibile erit filium per illum actum aliud verbum 
+        produ<lb ed="#V" n="37" break="no"/>cere. 
+      </p>
+               <p xml:id="at8va9-e56778-d1e1490">
+        Contra tertiam et quartam: conclusiones posset 
+        <lb ed="#V" n="38"/>argui: sed quia non sunt opiniabiles sed necessario 
+        te<lb ed="#V" n="39" break="no"/>nende et difficiliora que circa illam materiam possunt 
+        <lb ed="#V" n="40"/>adduci sunt aliqualiter facta. pertrauseo pro nunc. 
+      </p>
+               <p xml:id="at8va9-e56778-d1e1499">
+                  <lb ed="#V" n="41"/>Ad rationes principales. 
+        <lb ed="#V" n="42"/>Ad primam: nego antecedens: oppsitum enim patet ex 
+        <lb ed="#V" n="43"/>et secunda conclusione: Et ad probationem respondet mgiter di. 
+        <lb ed="#V" n="44"/>sequenti. dicit quod non: quia non potuit est dictum quod non ex 
+        <lb ed="#V" n="45"/>impotentia fuit: quod concedo: quia potentia 
+        generan<lb ed="#V" n="46" break="no"/>di est in filio vt patet ex dictis: Secundam concedo et 
+        <lb ed="#V" n="47"/>credo eam concludere: etc. 
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

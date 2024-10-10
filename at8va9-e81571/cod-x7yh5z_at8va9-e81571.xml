@@ -1,0 +1,1007 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#AlphonsusVargas">Alphonsus Vargas Toletanus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2024-10-10">October 10, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-x7yh5z">Venice, 1490</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="132-v"/>
+            <cb ed="#V" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="at8va9-e81571"><!-- l1d19-20q1 -->
+            <head xml:id="at8va9-e81571-Hd1e101">Quaestio 1</head>
+            <head xml:id="at8va9-e81571-Hd1e103" type="question-title">Utrum per se et proximum fundamentum receptivum equalitatis in creaturis sit natura specifica vel mutabilis</head>
+            <p xml:id="at8va9-e81571-d1e106">
+               <lb ed="#V" n="34"/>NUnc postquam Coeternitatem personarum: etc. 
+      <lb ed="#V" n="35"/>Circa di. ista. 10. et sequente: in quibus magister 
+      <lb ed="#V" n="36"/>agit de equalitate diuinarum personarum. Que 
+      <lb ed="#V" n="37"/>ro primo ad clariorem intellectum 
+      questio<lb ed="#V" n="38" break="no"/>nis sequentis: vtrum per se et proximum 
+      fun<lb ed="#V" n="39" break="no"/>damentum receptiuum equalitatis in creaturi sit natura 
+      specifi<lb ed="#V" n="40" break="no"/>ca vel mutabilis. 
+    </p>
+            <p xml:id="at8va9-e81571-d1e124">
+      et videtur primo quod specifica: quia sicut se habet 
+      <lb ed="#V" n="41"/>identitas ad substantiam sic equalitas ad quantitatem: vt pat 
+      <lb ed="#V" n="42"/>5. meta. sed constat quod identitas duorum indiuiduorum eiusdem 
+      <lb ed="#V" n="43"/>specie non fundatur super hac vel illa substantia siue natura singulari: quia 
+      <lb ed="#V" n="44"/>duo indiuidua eiusdem specie in suis propriis naturis 
+      singu<lb ed="#V" n="45" break="no"/>gularibus non sunt idem sed distinguuntur: igitur equalitas 
+      <lb ed="#V" n="46"/>duorum indiuiduorum eiusdem speciei: vt puto duarum linearum 
+      <lb ed="#V" n="47"/>non fundantur super hac vel illa quantitate singulari: et 
+      <lb ed="#V" n="48"/>per consequens fundatur super quantitate vniversali: quo posito sequitur 
+      <lb ed="#V" n="49"/>quod proximum fundamentum receptiuum ipsius est natura 
+      specifica<lb ed="#V" n="50" break="no"/>non numeralis. 
+    </p>
+            <p xml:id="at8va9-e81571-d1e148">
+      Contra: nulla forma singularis fundatur 
+      su<lb ed="#V" n="51" break="no"/>per fundamentum vniversale: quia accidens singulare requirit 
+      su<lb ed="#V" n="52" break="no"/>biectum singulare: sed omnis equalitas in creaturis est forma quadam 
+      <lb ed="#V" n="53"/>singularis: igitur nulla equaiitas fundatur super fundaentum vniversale. 
+      <lb ed="#V" n="54"/>quo posito sequitur quod per se fundamentum cuiuslibet sit 
+      <lb ed="#V" n="55"/>naura. In ista quaestione ad istum intellectum tituli. Primo 
+      <lb ed="#V" n="56"/>ponam vnicam distinctionem. Secundo quadruplicem conclusionem. 
+      <lb ed="#V" n="57"/>Tertio mouebo dubia. Quarto respondebo. 
+    </p>
+            <div xml:id="at8va9-e81571-Dd1e167">
+               <head xml:id="at8va9-e81571-Hd1e169">Articulus 1</head>
+               <p xml:id="at8va9-e81571-d1e171">
+        Primus ar. 
+        <lb ed="#V" n="58"/>QUantum ad primum: distinguo de equalitate: quia vno 
+        <lb ed="#V" n="59"/>modo potest accipi stricte: et sic condiuiditur identitati et 
+        <lb ed="#V" n="60"/>similitudini: dicente arist. 5 meta. c. de adaliquid: quod 
+        ea<lb ed="#V" n="61" break="no"/>dem dicuntur: quorum substantia est vna: similia vero: quorum qualitas est 
+        <lb ed="#V" n="62"/>vna: equalia autem: quorum quantitas est vna. Alio modo 
+        <lb ed="#V" n="63"/>large et sic quecumque non se excedunt siue in substantia siue in 
+        <lb ed="#V" n="64"/>quatitate: siue in qualitate dicentur equalia: et equalitas sic sum 
+        <lb ed="#V" n="65"/>pta non contradiuiditur identitati seu similitudim. Questionem 
+        propo<lb ed="#V" n="66" break="no"/>sita intelligo de equalitate proprie dicta: quia de equalitate large 
+        <lb ed="#V" n="67"/>accepta agetur in sequenti: et hoc de primo. 
+      </p>
+            </div>
+            <div xml:id="at8va9-e81571-Dd1e196">
+               <head xml:id="at8va9-e81571-Hd1e198">Articulus 2</head>
+               <p xml:id="at8va9-e81571-d1e200">
+        Articulus secundus. 
+        <lb ed="#V" n="68"/>QUantum ad secundum arti. pono aliquis conclusiones. 
+        Pri<lb ed="#V" n="69" break="no"/>ma conclusio est: quod equalitas proprie dicta in creaturis 
+        <lb ed="#V" n="70"/>est relatio realis: hanc probo: Primo sicut: equalitas sic
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="71"/>sumpta in creaturis est formaliter relatio et non rationis: igitur 
+        <lb ed="#V" n="72"/>relatio realis: consequentia patet: quia sicut ens reale et rationis 
+        suffi<lb ed="#V" n="73" break="no"/>cienter diuidunt ens: quia sequitur demonstrato quocunque 
+        <lb ed="#V" n="74"/>hoc est aliquid et ens: et non est ens rationis: igitur ens reale: ita 
+        <lb ed="#V" n="75"/>relatio realis et rationis sufficientur diuidunt relationem: 
+        <lb ed="#V" n="76"/>et ideo sequitur demonstrato quocumque: hoc est formaliter 
+        relatio<lb ed="#V" n="77" break="no"/>etc. antecedens patet quantum ad primam partem per philosoeum. 5 meta. c. 
+        <lb ed="#V" n="78"/>de ad aliquid: et vniversaliter ab omnibus est concedendum: quantum ad secum 
+        <lb ed="#V" n="79"/>dam partem probatur: quia nulla relatio rationis manet in 
+        re<lb ed="#V" n="80" break="no"/>circumscripto opere intellectus: sed equalitas in creatur manet: 
+        <lb ed="#V" n="81"/>in re circuscripto opere intellectus: vt docet experientia: igitur 
+        <lb ed="#V" n="82"/>etc. Et confirmatur: quia circumscripto omni opere intellectus et stan 
+        <lb ed="#V" n="83"/>te generali influentia dei: due linee bipedales 
+        forma<lb ed="#V" n="84" break="no"/>liter sunt equales: itus earum equalitas est realis. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e242">
+        Secundo: omnis 
+        re<lb ed="#V" n="85" break="no"/>latio: cuius immediatum fundamentum est vera res extra animam 
+        <lb ed="#V" n="86"/>est relatio realis: hoc patet: quia ens rationis non fundatur 
+        imme<lb ed="#V" n="87" break="no"/>diate in aliqua re extra animam: sed immediatum fundamentum 
+        equali<lb ed="#V" n="88" break="no"/>tatis est vera res extra animam prout in conclusionibus sequentibus 
+        appa<lb ed="#V" n="89" break="no"/>rebit. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e255">
+        Tertio sic inequalitas in creaturis est relatio realis 
+        <lb ed="#V" n="90"/>igitur et equalitas: consequentia patet: quia equalitas et inequalitas sunt contrariam: et 
+        <lb ed="#V" n="91"/>cuius contrarium est realiter extra animam: et actualiter et ipse est 
+        rea<lb ed="#V" n="92" break="no"/>liter et actualiter extra: et antecedens probatur: quia sicut linea 
+        <lb ed="#V" n="93"/>bipedalis realiter distinguitur a pedali: ita realiter est inequa 
+        <lb ed="#V" n="94"/>lis illi: sed quia linea bipedalis realiter distinguitur a 
+        peda<lb ed="#V" n="95" break="no"/>li: igitur earum diuersitas est realis: ergo etc. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e271">
+        Quarto sic: illud 
+        <lb ed="#V" n="96"/>quod est de per se consideratione artificis reale: tamquam 
+        pro<lb ed="#V" n="97" break="no"/>pria passio sui subiecti: est aliquid reale: equalitas et inequali 
+        <lb ed="#V" n="98"/>tas in creaturi sunt huiusmodi: ergo: maior patet: quia vnum 
+        <lb ed="#V" n="99"/>ens rationis est sic de per se consideratione artificis 
+        reale<lb ed="#V" n="100" break="no"/>minor probatur: quia geometria per se considerat equalitatem 
+        <lb ed="#V" n="101"/>et inequalitatem. circa quantitate continuam tamquam passio ipsius 
+        <lb ed="#V" n="102"/>per se. Confirmatur: quia passio entis realis est verum ens 
+        <lb ed="#V" n="103"/>reale: sed equalitas est passio entis realis: ergo est verum ens 
+        <lb ed="#V" n="104"/>reale: minor est nota: quia passio entis realis manet in re 
+        <lb ed="#V" n="105"/>circum scripto opere intellectus: et omne tale ens est verum 
+        reale<lb ed="#V" n="106" break="no"/>ens: et minor est phiysi in praesentis: et 5 meta. dicit quod proprium est 
+        <lb ed="#V" n="107"/>quantitati secundum ea equale vel inequale dici: quantitas autem est 
+        <lb ed="#V" n="108"/>vera res secundum omnes: igitur etc. Ex ista conclusione infero 
+        du<lb ed="#V" n="109" break="no"/>as propositiones correlarias. Prima est quod similitudo 
+        <lb ed="#V" n="110"/>proprinme dicta in creaturis est realis relatio: deductio huius 
+        <lb ed="#V" n="111"/>copoitonis est euidens: quia similitudo non est minoris entitatis: 
+        <lb ed="#V" n="112"/>quam equalitas: igitur si equalitas est relatio realis et similitudo: 
+        ratio<lb ed="#V" n="113" break="no"/>nes ex facte possunt formari de similitudine. ita bene sicut 
+        <lb ed="#V" n="114"/>de equalitate. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e316">
+        Secunda propositio est: quod equalitas et similitudo sunt actu 
+        <lb ed="#V" n="115"/>in rebus omni apprehensione anime circumscripta: deductio videntdr 
+        <lb ed="#V" n="116"/>nota. quia relatio quae non est in actu nisi per aliquam anime 
+        ap<lb ed="#V" n="117" break="no"/>prehensionem non est relatio realis: sed rationis tantum: hoc patet: 
+        <lb ed="#V" n="118"/>quia cum relatio sit inferior ad ens: sicut homo ad animal: quod 
+        <lb ed="#V" n="119"/>non est ens reale non est relatio realis: sicut quod non est animal realiter 
+        <lb ed="#V" n="120"/>non est homo realiter: sed quod non est in actu nisi per aliquam 
+        appt<lb ed="#V" n="121" break="no"/>hensionem anime non est ens reale sed rationis tantum: igitur quod non 
+        <lb ed="#V" n="122"/>est in actu: nisi per aliquam apprehensionem anime non est realis 
+        <lb ed="#V" n="123"/>sed rationis tantum: sed equalitas et similitudo in creaturis sunt 
+        rela<lb ed="#V" n="124" break="no"/>tiones reales. vt patet ex dictis: ergo etc. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e340">
+        Secunda conclusio est 
+        <lb ed="#V" n="125"/>quod per se et proximum fundamentu receptiuum equaliter in 
+        creatu<lb ed="#V" n="126" break="no"/>ris non est natura specifica rerum equalium: prout qubusdam 
+        do<lb ed="#V" n="127" break="no"/>cto. videtur. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e349">
+        Hac probo: primo sic: per se fundamentum receptiuum 
+        <lb ed="#V" n="128"/>equalitatis est vnum vnnitate reali: hec patet: quia equalitas 
+        <lb ed="#V" n="129"/>est relatio realis: ex conclusione precedenti. sed natura 
+        spe<lb ed="#V" n="130" break="no"/>cifica non est vna vnitate reali: vt patet per commentatorem 
+        <lb ed="#V" n="131"/>primo de anima comento. 8. et per damascenum libro 1. c. 11. et declarabitur 
+        <lb ed="#V" n="132"/>alias a proposito deo dante. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e362">
+        Secundo sic: impossibile est 
+        <lb ed="#V" n="133"/>relationes oppositas realiter fundari in eodem per se 
+        <lb ed="#V" n="134"/>fundamento: aliter paternitas et filatio: que sunt 
+        opposita<lb ed="#V" n="135" break="no"/>possent in eodem fudamento per se fundari: quod rationi 
+        repu<lb ed="#V" n="136" break="no"/>gnat: igitur impossibile est: quod per se fundamentum equalitatis sit 
+        <lb ed="#V" n="137"/>natura specifica: siue talis sit vna vnitate reali siue non: 
+        <lb ed="#V" n="138"/>consequentia patet: quia equalitas vnius linee opponitur relatiue 
+        <lb ed="#V" n="139"/>equalitati alterius. vel ergo ambe fundantur in cadem 
+        <lb ed="#V" n="140"/>natura specifica vel nulla vel aliqua sit: et aliqua
+        <pb ed="#V" n="133-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>non: si detur primum patet consequentia: si detur secundum habetur 
+        pro<lb ed="#V" n="2" break="no"/>positum principale: si detur tertium: est loqui ad placitum: quia 
+        <lb ed="#V" n="3"/>certum est quod non est maior ratio de vna quam de alia: ergo 
+        <lb ed="#V" n="4"/>etc. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e395">
+        Tertio sic: per se fundamentum equalitatis 
+        natu<lb ed="#V" n="5" break="no"/>raliter distinguitur a per se fundamento identitatis: hoc 
+        pa<lb ed="#V" n="6" break="no"/>tet: quia relationes alterius et alterius rationis 
+        requi<lb ed="#V" n="7" break="no"/>runt fundamenta alterius et alterius rationis in 
+        creatu<lb ed="#V" n="8" break="no"/>ris: hic autem loquitur de equalitate vt condistinguitur 
+        <lb ed="#V" n="9"/>identitati: sed natura specifica est per se fundamentum 
+        <lb ed="#V" n="10"/>identitatis: quia duo indiuidua eiusdem speciei sunt idem 
+        <lb ed="#V" n="11"/>realiter in natura specifica: ergo talis natura non 
+        <lb ed="#V" n="12"/>esset per se fundamentum equalitatis. Et confirmatur: quia 
+        <lb ed="#V" n="13"/>due linee non sunt minus idenspecifice in natura 
+        spe<lb ed="#V" n="14" break="no"/>cifica linee: linea autem communis est vtrique quam duo 
+        ho<lb ed="#V" n="15" break="no"/>mines in natura specifica hominis: et per consequens due 
+        li<lb ed="#V" n="16" break="no"/>nee non magis erunt equales nec minus idem in 
+        natu<lb ed="#V" n="17" break="no"/>ra specifica linee quam duo homines in natura 
+        huma<lb ed="#V" n="18" break="no"/>na. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e428">
+        Quarto sic: illud non est proximum fundamentum 
+        re<lb ed="#V" n="19" break="no"/>ceptiuum equalitatis quo manente: et manente 
+        termi<lb ed="#V" n="20" break="no"/>no non manet equalitas: hoc patet: quia positis 
+        fun<lb ed="#V" n="21" break="no"/>damentis et termino ponitur relatio: state generali 
+        in<lb ed="#V" n="22" break="no"/>fluentia dei: sed manente vnitate specifica: et manem 
+        <lb ed="#V" n="23"/>te termino equalitatis: non manet equalitas: igitur 
+        pro<lb ed="#V" n="24" break="no"/>batur minor: quia si ponantur due linee pedales: quarum 
+        <lb ed="#V" n="25"/>vna per augmentum fiat bipedalis altera manente 
+        peda<lb ed="#V" n="26" break="no"/>li sicut prius: patet quod non manet equalitas ex aliqua 
+        <lb ed="#V" n="27"/>parte: et tamen manet vnitas specifica: et terminus ex vna 
+        <lb ed="#V" n="28"/>parte. Et conformiter est dicendum de simile: vt patet ex 
+        conclu<lb ed="#V" n="29" break="no"/>sione praecedenti: sequitur quod per se et proximum fundamentum 
+        simili<lb ed="#V" n="30" break="no"/>tudinis non est natura specifica rerum similium. Et 
+        po<lb ed="#V" n="31" break="no"/>test confirmari ex fundamentis tenentium conclusionem 
+        <lb ed="#V" n="32"/>oppositam: quia in quocumquem repitur formaliter immediatum 
+        fu<lb ed="#V" n="33" break="no"/>damentum huius similitudinis repitur et hec similitudo: 
+        <lb ed="#V" n="34"/>sed albedo in communi reperitur formaliter in qualibet 
+        albe<lb ed="#V" n="35" break="no"/>dine singulari secundum eos: cum eius entitas sit vere 
+        re<lb ed="#V" n="36" break="no"/>alis vt dicunt: igitur si hec similitudo immediate funda 
+        <lb ed="#V" n="37"/>in albedine in communi: hec similitudo numero reperitur inqe 
+        <lb ed="#V" n="38"/>libet albedine singulari: et sic similitudo singularis 
+        <lb ed="#V" n="39"/>qua petrus albus similis est paulo albo: repritur in 
+        pau<lb ed="#V" n="40" break="no"/>lo et in quolibet habente formaliter albedinem: quod est omnino 
+        in<lb ed="#V" n="41" break="no"/>possibile et absurdum: et sicut argutum est de similitudine 
+        <lb ed="#V" n="42"/>potest argui de equalite: et econuerso. Tertia 
+        con<lb ed="#V" n="43" break="no"/>clusio est: quod equalitas proprie dicta in creaturis non ex 
+        <lb ed="#V" n="44"/>igit tamquam per se et proximum fundamentum: nec tamquam medium 
+        <lb ed="#V" n="45"/>conectens extrema aliquam realem vnitatem mediam inter 
+        <lb ed="#V" n="46"/>vnitatem specificam et numeralem: prout videtur quibusdam 
+        <lb ed="#V" n="47"/>cuius gra est aduertendum: quod vnitas communis aliquibus: vt 
+        <lb ed="#V" n="48"/>videtur quibusdam: est duplextur scilicet quedam que attenditur per 
+        <lb ed="#V" n="49"/>nes quiditatem seu essentiam rei: et talis est vnitas 
+        speci<lb ed="#V" n="50" break="no"/>fica: quia species dicit essentiam indiuiduorum: et super talem 
+        vni<lb ed="#V" n="51" break="no"/>tatem fundantur identitates: quedam est vnitas que atten 
+        <lb ed="#V" n="52"/>ditur penes gradum nature vel essentie: non quidem quidita 
+        <lb ed="#V" n="53"/>tiuum sed quantintatiuum et super talem vnitatem: vt dicunt 
+        fun<lb ed="#V" n="54" break="no"/>datur equalitas: et talis vnitas vt dicunt est media inter 
+        <lb ed="#V" n="55"/>vnitatem specificam et numeralem signatam et 
+        determina<lb ed="#V" n="56" break="no"/>ta: et subiectum proximum talis vnitatis est medium proprium 
+        <lb ed="#V" n="57"/>equalitatis. Et si dicatur eis: quod inter speciem et 
+        indiui<lb ed="#V" n="58" break="no"/>duum non est aliquod medium essentiale: respondent dicit quod verum est 
+        <lb ed="#V" n="59"/>de medio quiditatiuo quod dicit gradum quiditatiuum rei: 
+        <lb ed="#V" n="60"/>non autem quoditatiuo: quod dicit gradum quantitat iuum reis 
+        <lb ed="#V" n="61"/>quia tale no habet propriam rationem vniversalis nisi secundum quid: quia non est 
+        con<lb ed="#V" n="62" break="no"/>mune omnibus contentis sub specie sicut debet esse 
+        vni<lb ed="#V" n="63" break="no"/>uersale: sed tantum commune aliquibus scilicet habentibus equaliter 
+        gra<lb ed="#V" n="64" break="no"/>dum quantitatiuum quiditatis et essentie. Et contra 
+        opini<lb ed="#V" n="65" break="no"/>onem istam est posita conclusio: quam probo primo sic. 
+        Impos<lb ed="#V" n="66" break="no"/>sibile est esse aliquam vnitatem realem mediam inter 
+        vni<lb ed="#V" n="67" break="no"/>tatem specificam et numeralem: ergo equalitas non 
+        counex<lb ed="#V" n="68" break="no"/>igit tanquam per se et proximum fundamentum aliquam talem 
+        vni<lb ed="#V" n="69" break="no"/>tatem: consequentia patet: antecedens probatur primo sic: quia vnitas specifi¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>ca non est vnitas realis: vt suppono pro nunc: igitur nec 
+        <lb ed="#V" n="71"/>aliqua media inter specificam et numeralem: consequentia patet: per 
+        te<lb ed="#V" n="72" break="no"/>nentea oppositam conclusionem: quia si vnitas que attenditur 
+        <lb ed="#V" n="73"/>penes vnitatem. quiditatem. et essentiam rei non est 
+        rea<lb ed="#V" n="74" break="no"/>lis: nec vnitas attendatur penes quiditatem et essentiam 
+        <lb ed="#V" n="75"/>sed per eos vnitas specifica attenditur penes quoditatem et 
+        <lb ed="#V" n="76"/>essentiam et vnitas media penes ergodum. igitur. Secundo: quia 
+        <lb ed="#V" n="77"/>si talis vnitas media quae attenditur penes gradum 
+        quam<lb ed="#V" n="78" break="no"/>titatiuum quiditatis esset vere realis: sequitur quod 
+        inter<lb ed="#V" n="79" break="no"/>vnitatem specificam et numeralem essent vnitates 
+        <lb ed="#V" n="80"/>reales infinite quod est absurdum: consequentia pateti quia huiusmodi 
+        <lb ed="#V" n="81"/>gradus sunt infiniti secundum infinitas proportiones 
+        nume<lb ed="#V" n="82" break="no"/>rorum: et bicubitum tricubitum et huiusmodi: ergo. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e572">
+        Secundo ad 
+        <lb ed="#V" n="83"/>principale sic: capio medium illud. quantitatiuum: quod 
+        isti<lb ed="#V" n="84" break="no"/>doc. fingunt int speciem et indiuiduum: et quaero an praedicetur 
+        <lb ed="#V" n="85"/>de pluribus differentibus numero essentialiter et in quid 
+        <lb ed="#V" n="86"/>vel non. Si non: sequitur quod non sit medium essentiale inter 
+        spe<lb ed="#V" n="87" break="no"/>ciem et indiuiduum: cuius oppositum dicunt expresse. Si 
+        di<lb ed="#V" n="88" break="no"/>catur quod sic. sicut oportet eos concedere: sequitur quod vere et 
+        pro<lb ed="#V" n="89" break="no"/>prie habet rationem speciei: quia cuicumque competit 
+        diffint<lb ed="#V" n="90" break="no"/>tio: et diffinitum. sed praedicari de pluribus differentibus 
+        <lb ed="#V" n="91"/>numero essentialiter et in quid est diffinitio. speciei: 
+        er<lb ed="#V" n="92" break="no"/>go et si tale medium vere et proprie habet ratione specieciei: 
+        <lb ed="#V" n="93"/>sequitur quod eius vnitas non sit media inter vnitatem 
+        spe<lb ed="#V" n="94" break="no"/>cificam et numeralem: sed vera vnitas specifica: cuius 
+        <lb ed="#V" n="95"/>oppositum intendunt Nec valet si dicatur quod licet medium illud 
+        <lb ed="#V" n="96"/>podicetur de pluribus differentibus numero essentialiter et 
+        <lb ed="#V" n="97"/>in quid: non tamen de omnibus contentis sub specie. et ideo 
+        <lb ed="#V" n="98"/>non habet rationem speciei. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e609">
+        Primo: quia pari ratione qua vellet: 
+        <lb ed="#V" n="99"/>posset dicere quod homo non habet proprie ratione speciei 
+        <lb ed="#V" n="100"/>primo: sed animal: quia licet homo praedicetur de pluribus 
+        diffe<lb ed="#V" n="101" break="no"/>rentibus numero in eo quod quid: non tamen de omnibus sub 
+        spe<lb ed="#V" n="102" break="no"/>cie animalis contentis. et sic periret omnis via ad probandum 
+        <lb ed="#V" n="103"/>aliquid habere ratione speciei. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e622">
+        Secundo: quia 
+        possi<lb ed="#V" n="104" break="no"/>bile est quod tale medium si ponatur praedicetur de omnibus 
+        con<lb ed="#V" n="105" break="no"/>tentis sub specie: quia possibile est omnes lineas esse 
+        <lb ed="#V" n="106"/>equales: et per consequens possibile est illud medium vere et 
+        pro<lb ed="#V" n="107" break="no"/>prie habere ratione speciei. quo posito in esse eius 
+        vni<lb ed="#V" n="108" break="no"/>tas esset specifica et non media inter specificam et nume 
+        <lb ed="#V" n="109"/>ralem: et tunc quero aritalis vnitas sit per se et proximum 
+        <lb ed="#V" n="110"/>fundamentum equalitatis: an non. Si dicatur quod non: quaro 
+        <lb ed="#V" n="111"/>quid tunc esset immediatum fundamentum equalitatis: et 
+        <lb ed="#V" n="112"/>quicquid detur: dabitur nunc: et per consequens non oportet 
+        finge<lb ed="#V" n="113" break="no"/>re talem vnitatem mediam. Si dicatur quod sic: sequitur quod 
+        iden<lb ed="#V" n="114" break="no"/>titas et equalitas habebunt idem proximum 
+        fundamen<lb ed="#V" n="115" break="no"/>tum: quia vnitas illa specifica erit proximum fundamentum 
+        <lb ed="#V" n="116"/>identitatis: hoc autem est impossibile: vt patet. 5 
+        me<lb ed="#V" n="117" break="no"/>taphi. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e655">
+        Tertio sic: in quocumque repitur immediate 
+        essen<lb ed="#V" n="118" break="no"/>tialiter immediatum fundamentum huius equalitatis 
+        sin<lb ed="#V" n="119" break="no"/>gularis: et hec equalitas singularis: sed medium istud 
+        <lb ed="#V" n="120"/>quantitatiuum quod isti doc. fingut secundum eos repitur in omnibus 
+        <lb ed="#V" n="121"/>indiuiduis habentibus equalem gradum quantitatiuum: igitur 
+        <lb ed="#V" n="122"/>si huiusmodi medium sit immediatum fundamentum alicuius 
+        equali<lb ed="#V" n="123" break="no"/>tatis singularis: sequitur quod equalitas illa singularis 
+        <lb ed="#V" n="124"/>reperitur formaliter in omnibus indiuiduis habentibus equalem 
+        <lb ed="#V" n="125"/>gradum quantitatiuum: quod tamen est salsum: aliter equalitas quo 
+        <lb ed="#V" n="126"/>vna linea pedalis est equalis ceteris lineis pedalibus 
+        <lb ed="#V" n="127"/>repritur formaliter in qualibet linea pedali: quod nullus 
+        di<lb ed="#V" n="128" break="no"/>ceret. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e681">
+        Preterea: si ista positio esset vera sequitur quod 
+        re<lb ed="#V" n="129" break="no"/>lationes opposite realiter fundarentur in eodem per se fundato 
+        <lb ed="#V" n="130"/>sequitur etiam quod manente fundamento: et termino equalitatis possit 
+        <lb ed="#V" n="131"/>equalitas non esse: quorum quodlibet est impossibile: saltem naturaliter: 
+        pri<lb ed="#V" n="132" break="no"/>ma consequentia patet ex secunda ratione probante conclusionem praecedentem: et secunda 
+        <lb ed="#V" n="133"/>patet ex quarta: possunt enim rationes ille fieri pro conclusione ista: sicut et 
+        <lb ed="#V" n="134"/>pro conclusione praecedenti: sicut patet intelligenti. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e697">
+        Quarta 
+        conusi<lb ed="#V" n="135" break="no"/>et: quod per se et proxrimum fundamentum equalitatis proprie dicte in 
+        <lb ed="#V" n="136"/>creaturis est natura ipsa singularss: que non est vna in ex 
+        <lb ed="#V" n="137"/>tremis equalibus: sed numeraliter plures: hanc probo. et 
+        pro<lb ed="#V" n="138" break="no"/>mo ex praecedentibus: quia vel prae se et protimum fundamentum
+        <pb ed="#V" n="133-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>ipsius est natura specifica. rerum equalium vel aliqua media. 
+        <lb ed="#V" n="2"/>inter specifica et numeralem. vel natura ipsa singularis quae 
+        <lb ed="#V" n="3"/>non est vna in extremis equalibus: patet per 
+        sufficien<lb ed="#V" n="4" break="no"/>tem diuisionem. non natura specifica. vt patet ex. secunda 
+        <lb ed="#V" n="5"/>conclusione: nec aliqui media vt patet ex tertia: igitur. 
+        <lb ed="#V" n="6"/>Secundo ad idem sic: per se et proximum fundamentum 
+        forme<lb ed="#V" n="7" break="no"/>singularis siue particularis est singulare siue 
+        particu<lb ed="#V" n="8" break="no"/>lare: et per consequens vnum vnitate numerali: relatio 
+        equali<lb ed="#V" n="9" break="no"/>tatis inter duo equalia est forma singularis et particularis. 
+        <lb ed="#V" n="10"/>ergo etc. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e735">
+        Tertio sic: sicut se habet equalitas in communi ad 
+        <lb ed="#V" n="11"/>quantitatem in communi: sic equalitas singularis ad 
+        quan<lb ed="#V" n="12" break="no"/>titatem singularem. sed equalitas in communifundatur super quanti 
+        <lb ed="#V" n="13"/>tatem in communi: ergo equalitas singularis super quantitatem 
+        sin<lb ed="#V" n="14" break="no"/>gularem. Et confirmatur quia aliud est equalitas. aliud hec 
+        <lb ed="#V" n="15"/>equalitas: sicut aliud et quatitas: et aliud hec quanti 
+        <lb ed="#V" n="16"/>tas: ergo aliud est fundamentum equalitatis: et aliud 
+        hu<lb ed="#V" n="17" break="no"/>ius equalitatis et quia secundum diuersitatem relationum est 
+        di<lb ed="#V" n="18" break="no"/>uersitas. fundamenti. sed fundatum equalitatis est 
+        quam<lb ed="#V" n="19" break="no"/>titas: ergo huius equalitatis est hec quantitas. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e757">
+        Quarto 
+        <lb ed="#V" n="20"/>sic: ex dictis ab aduersariis: qualis est conuenientia 
+        ali<lb ed="#V" n="21" break="no"/>quorum in relatione: talis est conuenientia eorum in ratione ab 
+        <lb ed="#V" n="22"/>soluta. sed due linee equales non conueniunt. nec 
+        refe<lb ed="#V" n="23" break="no"/>runtur aliqua relatione communi reali. sed duabus 
+        singulari<lb ed="#V" n="24" break="no"/>bus distinctis numeraliter. ergo non conueniunt in aliqua 
+        ratio<lb ed="#V" n="25" break="no"/>ne absoluta communi communitate reali: sed in duabus. singulari 
+        <lb ed="#V" n="26"/>bus. que sunt per se duo fundamenta istarum duarum equali 
+        <lb ed="#V" n="27"/>tatum: Unde sicut est duplex equalitas inter duas 
+        <lb ed="#V" n="28"/>lineas equales sic sunt fundamenta duo: quia equalitas 
+        <lb ed="#V" n="29"/>vna fundatur in vna istarum linearum et terminatur ad 
+        al<lb ed="#V" n="30" break="no"/>teram et equalitas altera econtra. et idem dico de 
+        simi<lb ed="#V" n="31" break="no"/>litudine. Ex his sequitur quod equalitas proprie dicta. est 
+        <lb ed="#V" n="32"/>habitudo quantitatis non ad se: sed ad alia quantitatem 
+        <lb ed="#V" n="33"/>deductio est euidens: quia equalitas vt patet ex dictis est 
+        <lb ed="#V" n="34"/>vnius quantitatis singularis tanquam fundamenti: et 
+        alte<lb ed="#V" n="35" break="no"/>rius tanquam termini. ergo est habitudo quantitatis non 
+        <lb ed="#V" n="36"/>ad se sed ad aliam quantitatem. et potest confirmari. quia 
+        eius<lb ed="#V" n="37" break="no"/>dem quantitatis ad se ipsam est identitas huiusmodi: hic autem 
+        <lb ed="#V" n="38"/>accipitur equalitas vt condiuiditur identitati. Item 
+        loquen<lb ed="#V" n="39" break="no"/>do proprie nihil est simile: nec equale sibipsi: igitur 
+        equa<lb ed="#V" n="40" break="no"/>litas non est habitudo quantitatis ad seipsam: sed ad 
+        <lb ed="#V" n="41"/>aliam quantitatem: et hoc de secundo articulo. 
+      </p>
+            </div>
+            <div xml:id="at8va9-e81571-Dd1e808">
+               <head xml:id="at8va9-e81571-Hd1e810">Articuli 3 et 4</head>
+               <p xml:id="at8va9-e81571-d1e812">
+                  <lb ed="#V" n="42"/>Tertius et quartus articulus. 
+        <lb ed="#V" n="43"/>QUantum ad tertium et quartum articulos simul 
+        con<lb ed="#V" n="44" break="no"/>tra conclusiones istas mouenda et 
+        dissoluenda<lb ed="#V" n="45" break="no"/>sunt dubia: et primo contra primam conclusionem et 
+        propositi<lb ed="#V" n="46" break="no"/>ones: quas ex ipsa intuli correlarie: sunt due opinio 
+        <lb ed="#V" n="47"/>s nes.
+      </p>
+               <p xml:id="at8va9-e81571-d1e828">
+        Durandus primo di. 3. q. 2. ar. 2. 
+        <lb ed="#V" n="48"/>Quarum prima ponit quod equalitas et similitudo in 
+        cre<lb ed="#V" n="49" break="no"/>aturis non sunt relationes realiter: sed rationis tantum: et 
+        <lb ed="#V" n="50"/>hec opponitur directe conclusioni et prime propositioni. 
+        Se<lb ed="#V" n="51" break="no"/>cunda vero ponit quod licet equalitas et similitudo in 
+        crea<lb ed="#V" n="52" break="no"/>turis debeant dici relationes reales in actu: non sunt 
+        <lb ed="#V" n="53"/>tamen in rebus actu: sed earum reductio in actu fit per aliquam 
+        <lb ed="#V" n="54"/>apprehensionem anime: et hec opponitur secunde 
+        proposi<lb ed="#V" n="55" break="no"/>a tioni.
+      </p>
+               <p xml:id="at8va9-e81571-d1e848">
+        Aureolus in primo di. 31. q. i. ar. i. 
+        <lb ed="#V" n="56"/>Pro prima opinione arguit quidam doc. Primo sic: 
+        <lb ed="#V" n="57"/>relationes reales habeunt fundamenta se inuicem realiter 
+        <lb ed="#V" n="58"/>coexigentia: sed equalitas et similitudo in creaturis 
+        <lb ed="#V" n="59"/>non habent fundamenta se inuicem realiter coexingentia: 
+        igi<lb ed="#V" n="60" break="no"/>tur minor est euidens: quia constat quod fundamenta istarum 
+        <lb ed="#V" n="61"/>relationum non exigunt se inuicem realiter ad sui 
+        existen<lb ed="#V" n="62" break="no"/>tiam: nullum enim album non coexigit aliud album realiter 
+        <lb ed="#V" n="63"/>ad sui existentiam: nec vna linea aliam lineam: maior autem 
+        <lb ed="#V" n="64"/>probatur: quia sicut se habet modus essendi in illo ad suum 
+        <lb ed="#V" n="65"/>fundamentum: ita modus essendi ad aliud se habet 
+        ad<lb ed="#V" n="66" break="no"/>suum. Sed modus essendi in alio: si sit realis habet 
+        fun<lb ed="#V" n="67" break="no"/>damentum quod per naturam suam realiter coexigit 
+        termi<lb ed="#V" n="68" break="no"/>num: natura accidens per naturam dependet a subiecto 
+        reali<lb ed="#V" n="69" break="no"/>ter et coexigit ipsum: ergo modus qui est esse ad aliud
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>si sit realis: oportet quod habeat fundamentum quod per 
+        na<lb ed="#V" n="71" break="no"/>turam suam dependeat a termino: et conexigat realiter 
+        <lb ed="#V" n="72"/>ipsum: ergo etc. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e890">
+        Preterea: ille relationes non sunt 
+        rea<lb ed="#V" n="73" break="no"/>les: quarum per se fundamenta sunt entia rationis: patet de se 
+        <lb ed="#V" n="74"/>sed per se fundamenta istarum relationum sunt entia rationis: 
+        <lb ed="#V" n="75"/>igitur etc. probatur minor: quia equalitas et similitudo 
+        fun<lb ed="#V" n="76" break="no"/>dantur super vnitate specifica: dicente arist. 5. meta. quod 
+        <lb ed="#V" n="77"/>equalia sunt: quorum quantitas est vna: et similia quorum 
+        qua<lb ed="#V" n="78" break="no"/>litas est vna: quod verificari non potest nisi de qualitate 
+        <lb ed="#V" n="79"/>vel quantitate specifica: vnitas autisspecifica non est 
+        <lb ed="#V" n="80"/>realis: sed rationis tantum: ergo etc. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e911">
+        Preterea: idem iudi 
+        <lb ed="#V" n="81"/>cium videtur esse de identitate: qua duo indiuidua eiusdem 
+        <lb ed="#V" n="82"/>specie formaliter sunt idem: et de similitudine et equalitate: 
+        <lb ed="#V" n="83"/>sed identitas vt communiter dicitur non est relatio realis: 
+        igi<lb ed="#V" n="84" break="no"/>tur nec similitudo vel equalitas. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e922">
+        Preterea: ad idem 
+        <lb ed="#V" n="85"/>potest argui ex fundamentis arist. Primo sic: omnis 
+        <lb ed="#V" n="86"/>forma accidentalis extenditur ad extensionem subiecti 
+        <lb ed="#V" n="87"/>in quo est realiter: patet hoc: quia nulla forma 
+        acciden<lb ed="#V" n="88" break="no"/>talis immaterialis est realiter in subiecto: aliter 
+        acci<lb ed="#V" n="89" break="no"/>dens esset nobilius subiecto: sed equalitas duarum line 
+        <lb ed="#V" n="90"/>arum non extenditur ad extensionem subiecti: igitur non est 
+        re<lb ed="#V" n="91" break="no"/>aliter in subiecto: et per consequens non est relatio realis: 
+        pro<lb ed="#V" n="92" break="no"/>batur minor: quia omnis forma que extenditur ad extensionem 
+        <lb ed="#V" n="93"/>subiecti saluatur in qualibet parte subiecti eius: sed 
+        <lb ed="#V" n="94"/>equalitas linee equalis alteri non saluatur: quia nulla 
+        <lb ed="#V" n="95"/>pars linee equalis alteri est equalis: sed minor: quia 
+        <lb ed="#V" n="96"/>quaelibet pers llinee equalis alteri est minor: altera: 
+        igi<lb ed="#V" n="97" break="no"/>turequalitas linee non extenditur ad extensionem 
+        subie<lb ed="#V" n="98" break="no"/>cti Confirmatur: quia omnis forma que extenditur ad 
+        extenfi<lb ed="#V" n="99" break="no"/>onem subiecti diuiditur diuisione subiecti: et pers 
+        forme<lb ed="#V" n="100" break="no"/>est in parte subiecti: sed equalitas non diuiditur etc. 
+        er<lb ed="#V" n="101" break="no"/>go non diuiditur etc. probatur minor: quia si due 
+        li<lb ed="#V" n="102" break="no"/>nee sint equales: vna earum diuidatur non remanet: 
+        <lb ed="#V" n="103"/>in aliqua ipsarum equalitas ad lineam: quae remansit in 
+        di<lb ed="#V" n="104" break="no"/>uisa nec remanet in aliqua ipsarum pers equalitatis quae 
+        pri<lb ed="#V" n="105" break="no"/>us erat in tota linea. ante diuisione. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e970">
+        Preterea: omnis 
+        <lb ed="#V" n="106"/>relatio realis intenditur realiter ad intensionem amborum 
+        <lb ed="#V" n="107"/>extremorum. ergo non est relatio realis. maior patet: quia 
+        qui<lb ed="#V" n="108" break="no"/>libet effectus intenditur ad intensionem omnium causarum: 
+        ali<lb ed="#V" n="109" break="no"/>ter sequeretur quod cause imperfectiores: haberent effectum 
+        <lb ed="#V" n="110"/>eque perfectum sicut perfectiores. probatur minor: quia duo 
+        <lb ed="#V" n="111"/>alba in summo non sunt magis equalia in albedine quam duo 
+        <lb ed="#V" n="112"/>alba in medio vel in minima: sicut nec due linee 
+        bi<lb ed="#V" n="113" break="no"/>pedales sunt magis equales intensiue quam due linee per 
+        <lb ed="#V" n="114"/>dales. igitur. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e992">
+        Preterea: si equalitas. vel 
+        similitu<lb ed="#V" n="115" break="no"/>do est realis relatio: quaro a quo causatur effectiue: quia 
+        <lb ed="#V" n="116"/>vel ab opposito vel a fundamento vel ab vtroque 
+        si<lb ed="#V" n="117" break="no"/>mul. Non ab obiecto propter. tria. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e1001">
+        Primo: quia omne 
+        <lb ed="#V" n="118"/>agens limitatum: et actu finitum concernit determinatam 
+        <lb ed="#V" n="119"/>distantiam passi: vltra quam non potest agere hec patet: 
+        <lb ed="#V" n="120"/>quia cum posse producere effectum in passo magis distante 
+        <lb ed="#V" n="121"/>sit maioris virtutis quod posse eundem effectum producere 
+        <lb ed="#V" n="122"/>in passo minus distante: sequitur quod si sit aliquod agens 
+        <lb ed="#V" n="123"/>quod possit producere effectu in passo quantumcumque distante 
+        <lb ed="#V" n="124"/>etiam si distet in infinitum: illud agens erit virtutis 
+        infini<lb ed="#V" n="125" break="no"/>te: sed constat quod vnum simile vel equale non concernit aliquod simile 
+        <lb ed="#V" n="126"/>vel equale secundum determinatam distantiam: igitur similitudo 
+        <lb ed="#V" n="127"/>et equalitas non causantur effectiue in vno extremo ab 
+        <lb ed="#V" n="128"/>alio. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e1027">
+        Secundo: quia agens finite virtutis determinatur simul 
+        <lb ed="#V" n="129"/>ad certum numerum effectuum vltra quem numerum non posset 
+        <lb ed="#V" n="130"/>simuil producere plures effectus: licet posset successiue: sed 
+        nul<lb ed="#V" n="131" break="no"/>lum simile vel equale non determinatur ad certum numerum similium 
+        <lb ed="#V" n="132"/>vel equalium: quia numquam est tot simile vel equale quin possit esse pluri 
+        <lb ed="#V" n="133"/>bus: ergo similitudo et essentialitas non causantur ab obiecto. 
+        <lb ed="#V" n="134"/>Tertio: quia omne agens limitatum habens multas actiones 
+        <lb ed="#V" n="135"/>dispatas non habentes ordinem remittitur in vna actione 
+        pro<lb ed="#V" n="136" break="no"/>pter aliam: sed vnum simile non remittitur in vna similitudine vel 
+        <lb ed="#V" n="137"/>equalitate propter alium: etiam si simul fierent infinita 
+        si<lb ed="#V" n="138" break="no"/>milia vel equalia: ergo non causantur ab obiecto: nec potest
+        <pb ed="#V" n="134-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>dici quod causaretur a fundamento proptersecundam et 
+        ter<lb ed="#V" n="2" break="no"/>tiam rationem iam adductam: nec potest dici quod ab vtropr 
+        <lb ed="#V" n="3"/>quam simul propter easdem rationes: igitur etc. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e1063">
+                  <lb ed="#V" n="4"/>Aureolus vbi supra. 
+        <lb ed="#V" n="5"/>Pro secunda opinione arguit quidam doc. sic: si equa 
+        <lb ed="#V" n="6"/>litas esset res in actu sequeretur quod inum et rales 
+        reali<lb ed="#V" n="7" break="no"/>tates essent in vno subiecto. Nam vnus homo 
+        inequa<lb ed="#V" n="8" break="no"/>lis est omnibus foliis et floribus et herbis: et sic de aliis in 
+        <lb ed="#V" n="9"/>numeralibus rebus: et ita imnuumerabiles realitates 
+        <lb ed="#V" n="10"/>essent in vno homine: si ergo quaelibet sit res in actu 
+        <lb ed="#V" n="11"/>erit vnus homo imnumeralibus realitatibus onera 
+        <lb ed="#V" n="12"/>tus: similiter cum facies cuiuslibet hominis faciebus 
+        omni<lb ed="#V" n="13" break="no"/>um hominum sit difformis: esset onerata facies 
+        cu<lb ed="#V" n="14" break="no"/>iuslibet hominis infinitis realitatibus: quia quot sunt 
+        <lb ed="#V" n="15"/>homines tot habebunt reales dissimilitudines et 
+        dif<lb ed="#V" n="16" break="no"/>formitates in facie subiectiue: similiter etiam si sint. io. 
+        <lb ed="#V" n="17"/>albedines erunt in qualibet. 7. albedines similes 
+        ad<lb ed="#V" n="18" break="no"/>3. similitudines: habet enim quaelibet albedo. o. 
+        similitudi<lb ed="#V" n="19" break="no"/>nes ad o. albedines. et resultabunt in vniuerso. o. 
+        <lb ed="#V" n="20"/>vel si fuerint. ioo. albedines: necesse est enim in actu 
+        <lb ed="#V" n="21"/>poni. io. milia realitates: vnde cum talis rerum infinitas 
+        <lb ed="#V" n="22"/>omnino irrationabilis sit: non debet in mentem alicuius 
+        <lb ed="#V" n="23"/>venire: quod equalitas vel inequalitas sint in rebus: 
+        nisi<lb ed="#V" n="24" break="no"/>in potentia: et quod tunc fiant in actu dum anima illas reducit. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e1111">
+                  <lb ed="#V" n="25"/>Idem di. 2. q. i. ar. 2. 
+        <lb ed="#V" n="26"/>Preterea: si similitudo esset res existens in albo: 
+        posi<lb ed="#V" n="27" break="no"/>to alio albo: aut si equalitas sit res existens in linea: 
+        po<lb ed="#V" n="28" break="no"/>sita linea alia quantitatis eiusdem forme: sequeretur quod 
+        <lb ed="#V" n="29"/>omnipotens sine contradcitione posset duas albedines 
+        <lb ed="#V" n="30"/>conseruare: annihilando rem similitudinis: et conseruare 
+        <lb ed="#V" n="31"/>duas lineas annihilando re equalitatis: sed 
+        manife<lb ed="#V" n="32" break="no"/>stum est: quod deus facere non potest: quia dato realitatem 
+        equa<lb ed="#V" n="33" break="no"/>litatis aut similitudinis deus deleat: adhuc 
+        intelle<lb ed="#V" n="34" break="no"/>ctus considerans duas albedines eque inueniet eas 
+        <lb ed="#V" n="35"/>similes sicut ante: ergo superfluum est: et impossibile quod 
+        rea<lb ed="#V" n="36" break="no"/>litas aliqua addatur albedinibus que appellautur 
+        simili<lb ed="#V" n="37" break="no"/>tudo: aut quantitatibus que dicatur equalitas. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e1142">
+                  <lb ed="#V" n="38"/>Responsio ad rationes durandi. 
+        <lb ed="#V" n="39"/>Ad primam nego maiorem: quia constat quod paternitas et 
+        <lb ed="#V" n="40"/>filiatio sunt relationes reales: et tamen no habent 
+        funda<lb ed="#V" n="41" break="no"/>menta ad sui existentiam se inuicem realiter coexigentia: quia 
+        <lb ed="#V" n="42"/>licet pater inquantum pater non sit prior filio: saltem 
+        duratio<lb ed="#V" n="43" break="no"/>ne: absolutum tamen patris quod est fundamentum paternitatis 
+        <lb ed="#V" n="44"/>etiam duratione praecedit filium in creaturis. Et ad 
+        proba<lb ed="#V" n="45" break="no"/>tionem dico: quod maior sicut assumitur non est simpliciter 
+        re<lb ed="#V" n="46" break="no"/>ra: quia licet quantum ad aliqua sit simile de modo essendi 
+        in<lb ed="#V" n="47" break="no"/>alio et de modo essendi ad aliud: non tamen quantum ad omnia: 
+        prie<lb ed="#V" n="48" break="no"/>serti quantum ad illud dequo nunc agitur: non est simile: quia 
+        <lb ed="#V" n="49"/>non oportet quod fundamentum illius modi: qui est aliquid sit 
+        <lb ed="#V" n="50"/>natura diminuta et dependens a termino: sicut 
+        fundamen<lb ed="#V" n="51" break="no"/>tum illius modi qui est: quia absolutum fundans paternitatem 
+        <lb ed="#V" n="52"/>que est modus essendi ad aliud: secundum modum loquendi istius 
+        <lb ed="#V" n="53"/>doc. potest in creaturis naturaliter esse sine termino: immo de 
+        <lb ed="#V" n="54"/>necessitate praecedit terminum: et tamen naturaliter non est possibile 
+        <lb ed="#V" n="55"/>accidens esse sine subiecto. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e1184">
+        Ad secundum nego 
+        mino<lb ed="#V" n="56" break="no"/>rem: et ad probationem dico: quod equalitas et similitudo 
+        <lb ed="#V" n="57"/>non fundantur super vnitate specifica: sed super 
+        vnita<lb ed="#V" n="58" break="no"/>te et entitate singulari: quia per se fundamentum illius 
+        <lb ed="#V" n="59"/>singularis similitudinis non est equalitas 
+        specifica<lb ed="#V" n="60" break="no"/>sed hec quantitas singularis per se fundamentum 
+        <lb ed="#V" n="61"/>huius equalitatis singularis: non est quantitas 
+        spe<lb ed="#V" n="62" break="no"/>cifica: sed hec quantitas singularis: vt patet ex 
+        ar<lb ed="#V" n="63" break="no"/>ticulo precedenti. Et quando dicitur quod equalia sunt 
+        <lb ed="#V" n="64"/>quorum quantitas est vna etc. non est intelligendum quod 
+        <lb ed="#V" n="65"/>eorum sit vna quantitas communis que sit fundamentum 
+        <lb ed="#V" n="66"/>receptiuum equalitatis: quia hoc est impossitu ile: vt 
+        <lb ed="#V" n="67"/>patet ex dictis. Sed debet intelligi quod cuiuslibet 
+        eo<lb ed="#V" n="68" break="no"/>rum sit vna quantitas non excedens quantitate 
+        alte<lb ed="#V" n="69" break="no"/>rius: et econuerso: et talis est particularis quantitas:
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>timnediatum fundamnentum equalitatis. Et 
+        conformi<lb ed="#V" n="71" break="no"/>ter et dicendum desimilitudine suo modo. Ad 
+        ter<lb ed="#V" n="72" break="no"/>tiam: multi negarent minorem ego tamen concessa 
+        <lb ed="#V" n="73"/>minori: nego maiorem: quia non est simile de identitate 
+        <lb ed="#V" n="74"/>et similitudine vel equalitate: prout declarabitur. q. 
+        <lb ed="#V" n="75"/>sequenti. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e1232">
+        Ad quartum: et omnia sequentia potest 
+        <lb ed="#V" n="76"/>faciliter responderi si dicatur sicut multis et magnis 
+        <lb ed="#V" n="77"/>doc. videtur: quod relatio etiam in creaturis non est res 
+        <lb ed="#V" n="78"/>distincta a rebus absolutis. Sed quia credo 
+        opposi<lb ed="#V" n="79" break="no"/>tum esse verum: vt apparebit di. 30 Dico aliter. Et 
+        <lb ed="#V" n="80"/>quicquid sit de maiori. nego minor:: et ad probationem 
+        <lb ed="#V" n="81"/>nego maiorem: quia forma circuli extenditur extensione 
+        <lb ed="#V" n="82"/>subiecti cum sit forma accidentalis existens realiter extra 
+        <lb ed="#V" n="83"/>animam: et tamen constat quod forma circuli non saluatur 
+        reali<lb ed="#V" n="84" break="no"/>ter in qualibet parte subiecti: quia nulla pars circuli 
+        <lb ed="#V" n="85"/>est circulus. Similiter potest dici de equalitate 
+        cui<lb ed="#V" n="86" break="no"/>gratia est aduertendum quod forme sunt in triplici 
+        diffe<lb ed="#V" n="87" break="no"/>rentia: quia quedam et tota in toto et tota in quolibet 
+        <lb ed="#V" n="88"/>parte: sicut anima intellectiua: et talis non 
+        extendi<lb ed="#V" n="89" break="no"/>tur extensione subiecti: nec diuiditur diuisione ipsius. 
+        <lb ed="#V" n="90"/>Quedam est tota in toto et pars in parte subiecti sic quod 
+        <lb ed="#V" n="91"/>omnes partes sunt eiusdem rationis inter se et cum tota 
+        for<lb ed="#V" n="92" break="no"/>ma: sicut est albedo: quia tots albedo est in toto subiecto: 
+        <lb ed="#V" n="93"/>et pars in parte: et quaelibet pars albedinis est 
+        albe<lb ed="#V" n="94" break="no"/>do: et talis extenditur extensione subiecti: et saluatur in 
+        <lb ed="#V" n="95"/>qualibet parte subiecti. Quidam est tota in toto 
+        subi<lb ed="#V" n="96" break="no"/>cto sic tamen: quod nec ipsa tota: nec aliqua pars eius 
+        que<lb ed="#V" n="97" break="no"/>sit eiusdem rationis cum ipsa: est in aliqua parte subiecti 
+        <lb ed="#V" n="98"/>sicut est forma circuli: quia tota forma circuli sic est 
+        in<lb ed="#V" n="99" break="no"/>tota linea ad seipsam recuruata recuruatione 
+        comple<lb ed="#V" n="100" break="no"/>ta: tanquam in subiecto quod nec ipsa nec aliqua pars eius: 
+        <lb ed="#V" n="101"/>que sit eiusdem rationis cum tota forma circuli est 
+        in<lb ed="#V" n="102" break="no"/>aliqua parte huius linee: quia in nulla parte illius 
+        <lb ed="#V" n="103"/>linee est tota forma circuli: nec aliqua pars eius est 
+        <lb ed="#V" n="104"/>vere circulus: et talis forma licet vere extendatur ex 
+        <lb ed="#V" n="105"/>tensione subiecti: non tamen saluatur in qualibet 
+        par<lb ed="#V" n="106" break="no"/>te subiecti: et quod de numero talium formarum est 
+        equa<lb ed="#V" n="107" break="no"/>litas: et multe alie relationes: vt duplicitas etc. Et 
+        <lb ed="#V" n="108"/>ad confirmationem potest negari similiter maior: 
+        <lb ed="#V" n="109"/>quia non oportet quod omnis forma que extenditur ex 
+        <lb ed="#V" n="110"/>tensione subiecti: diuidatur diuisione eius: quia omnis 
+        <lb ed="#V" n="111"/>anima alia ab intellectiua extenditur extensione 
+        sub<lb ed="#V" n="112" break="no"/>iecti vt multis et magnis doctoribus videtur: et 
+        ta<lb ed="#V" n="113" break="no"/>men non omnis est diuisibilis ad diuisionem subiecti: 
+        <lb ed="#V" n="114"/>sed solum anime illorum animalium: que decisa viuunt: 
+        <lb ed="#V" n="115"/>vt patet secundo de anima. Notest etiam dici: vt 
+        <lb ed="#V" n="116"/>patet ex dictis: quod non omnis forma que extenditur 
+        <lb ed="#V" n="117"/>extensione subiecti diuiditur diuisione ipsius: sic quod 
+        <lb ed="#V" n="118"/>in qualibet parte subiecti sit aliqua pars forme 
+        que<lb ed="#V" n="119" break="no"/>sit eiusdem rationis cum tota forma: sic patet de 
+        for<lb ed="#V" n="120" break="no"/>ma circuli: et sic est in proposito: et ideo non oportet quod 
+        <lb ed="#V" n="121"/>in aliqua parte linee sit pars equalitatis que sit 
+        equa<lb ed="#V" n="122" break="no"/>litas. Ad quintum dico: quod quedam relationes 
+        co<lb ed="#V" n="123" break="no"/>sistunt in esse punctuali: et talibus repugnat 
+        suscipe<lb ed="#V" n="124" break="no"/>re magis et minus de numero talium est equalitas: 
+        <lb ed="#V" n="125"/>sicut patet. Quedam non considerent in esse punctua 
+        <lb ed="#V" n="126"/>li: et talibus non repugnat suscipere magis et minus 
+        <lb ed="#V" n="127"/>His premissis nego maiorem vniuersaliter: vt 
+        <lb ed="#V" n="128"/>assumitur: quia non est vniuersaliter verum: quod 
+        re<lb ed="#V" n="129" break="no"/>latio realis intendatur ad intentionem amborum ex 
+        <lb ed="#V" n="130"/>tremorum: nisi sit talis relatio: quod sibi non repugnet 
+        <lb ed="#V" n="131"/>intendi. Et ad probationem quando dicitur quod omnis 
+        <lb ed="#V" n="132"/>effectus intenditur ad intentionem omnium causarum 
+        <lb ed="#V" n="133"/>veram est si sit intensibilis: non aliter. Et si dicatur 
+        <lb ed="#V" n="134"/>quod eoipso quod omnes cause sunt intensibiles: oportet 
+        <lb ed="#V" n="135"/>quod effectus sit intensibilis: dico quod verum est de 
+        <lb ed="#V" n="136"/>causis intrinsecis non de extrinsecis: sicut est 
+        in<lb ed="#V" n="137" break="no"/>proposito: quia albedines et linee sunt cause 
+        rela<lb ed="#V" n="138" break="no"/>tionum extrinsece: non intrinsece. Ad sextam
+        <pb ed="#V" n="134-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>dupliciter potest responderi. Primo concedendo quod talis 
+        <lb ed="#V" n="2"/>relatio causatur ab obiecto: quia si sit verum album praecise 
+        <lb ed="#V" n="3"/>et causetur nouitur aliud album. potest dici quod illud album 
+        no<lb ed="#V" n="4" break="no"/>uiter causatum sit causa similitudinis qua refertur 
+        ad<lb ed="#V" n="5" break="no"/>album praeexistens et similitudinis qua album preexistens 
+        re<lb ed="#V" n="6" break="no"/>fertur ad ipsum. Et ad probationem in contrarium dico ad 
+        <lb ed="#V" n="7"/>primam: quod vbi agere in maiori distantia est maioris 
+        per<lb ed="#V" n="8" break="no"/>fectionis quam agere in minori: ibi agens limitatum 
+        actu<lb ed="#V" n="9" break="no"/>finitum concernit determinatam distantiam. vltra quam non 
+        <lb ed="#V" n="10"/>posset agere. sed vbi agere in maiori distantia non est 
+        <lb ed="#V" n="11"/>maioris virtutis quam agere in minori non oportet: quod 
+        <lb ed="#V" n="12"/>agens finitum concernat determinatam distantiam: immo 
+        <lb ed="#V" n="13"/>posset agere in passum quantucumque distans: etiam si 
+        dis<lb ed="#V" n="14" break="no"/>taret in infinitum. sic est in proposito: quia non sequitur maior 
+        <lb ed="#V" n="15"/>virtus ad producendum similitudinem vel equalitatem in 
+        ali<lb ed="#V" n="16" break="no"/>quo distante per duos pedes: quam ad producendum in aliquo 
+        <lb ed="#V" n="17"/>distante per vnum tantum. et patet quod probatio est nulla: quia non 
+        <lb ed="#V" n="18"/>semper est maioris virtutis posse producere effectum in 
+        pas<lb ed="#V" n="19" break="no"/>so et magis distans: quam posse eundem effectum 
+        produce<lb ed="#V" n="20" break="no"/>re in passum quod est minus distans: vt patet ex dictis.
+      </p>
+               <p xml:id="at8va9-e81571-d1e1419">
+                  <lb ed="#V" n="21"/>Ad secundam potest dici dupliciter. Primo quod in his in qubus 
+        <lb ed="#V" n="22"/>posse simul et pro simul producere plura est maioris per 
+        <lb ed="#V" n="23"/>fectionis: quam posse producere pauciora vel vnum tantum. 
+        <lb ed="#V" n="24"/>vbi agens finite virtutis necessario determinatur 
+        <lb ed="#V" n="25"/>ad certum numerum effectiuum: sed vbi posse simuil producere 
+        plu<lb ed="#V" n="26" break="no"/>ra. non est maioris perfectionis quam posse producere 
+        pau<lb ed="#V" n="27" break="no"/>ciora. vel vnum tantum non oportet: sic est in proposito: quia non 
+        <lb ed="#V" n="28"/>est maioris virtutis producere duas similitudines 
+        <lb ed="#V" n="29"/>in duobus albis: quam producere vnam tantum in vno. 
+        Secumn<lb ed="#V" n="30" break="no"/>do potest concedi maior: sed ex hoc non sequitur quod 
+        similitu<lb ed="#V" n="31" break="no"/>do non causetur ab obiecto: quia sicut statim 
+        declarabi<lb ed="#V" n="32" break="no"/>tur vnum album vnica similitudine est simile omnibus 
+        <lb ed="#V" n="33"/>albis etiam si essent infinita: et et iam si plura praeexistant et 
+        <lb ed="#V" n="34"/>aliquod album de nouo causetur: non causatur similitudo 
+        <lb ed="#V" n="35"/>nisi in illo tantum: 
+      </p>
+               <p xml:id="at8va9-e81571-d1e1455">
+        Ad tertiam potest etiam dupliciter re 
+        <lb ed="#V" n="36"/>sponderi. Primo: quia nullum agens remittitur in vna 
+        acti<lb ed="#V" n="37" break="no"/>one propter aliam: nisi in illis in quibus posse simul 
+        plu<lb ed="#V" n="38" break="no"/>res elicere: est maioris perfectionis quam posse pauciores. 
+        <lb ed="#V" n="39"/>vnde si corpus: quod ridetur esse causa visionis: vt videtur multis: non 
+        <lb ed="#V" n="40"/>omnem quod remittatur ad causandum actum videndi in vno 
+        <lb ed="#V" n="41"/>oculo si causat actum videndi in alio: quia non requiritr 
+        <lb ed="#V" n="42"/>maior virtus ad causandum actum videndi in vtroque quam in 
+        <lb ed="#V" n="43"/>vno tantum: et sic est in proposito. Secundo potest dici: quod 
+        <lb ed="#V" n="44"/>etiam si admittatur maior nihil concludit: quia vna 
+        albe<lb ed="#V" n="45" break="no"/>do: vna tantum similitudine et non pluribus refertur ad omnia 
+        <lb ed="#V" n="46"/>alba: vt dictum est. Secundo potest dici ad rationem 
+        <lb ed="#V" n="47"/>principalem: quia talis relatio causatura fundamento: et 
+        <lb ed="#V" n="48"/>ista videtur intentio anshel. mono. c. 3. dicit ita 
+        ratio<lb ed="#V" n="49" break="no"/>nalis cogitatio est vt aliqua res sit per illud cui dat esse: 
+        <lb ed="#V" n="50"/>nam nec ipsa relatiua sunt sic per inuicem. Cum enim dominus et 
+        <lb ed="#V" n="51"/>seruus referantur inuicem: et ipsi homines qui 
+        refe<lb ed="#V" n="52" break="no"/>rantur omnino non sunt per inuicem: et ipse relationes 
+        qua<lb ed="#V" n="53" break="no"/>bus referuntur non sunt perinuicem: quia eedem sunt per substam 
+        <lb ed="#V" n="54"/>tiam: et loquitur ex intentione de causalitate effectiua: 
+        <lb ed="#V" n="55"/>igitur secundum intentionem anshel. relationes causantur 
+        effe<lb ed="#V" n="56" break="no"/>ctiue a suis subiectis vel fundamentis: nec rationes 
+        pro<lb ed="#V" n="57" break="no"/>bantest opppositum aliquid concludunt: vt patet ex dicti: 
+        <lb ed="#V" n="58"/>tum quia agens non determinatur ad certum numerum 
+        effe<lb ed="#V" n="59" break="no"/>ctuum nec remittitur in vna actione propter aliam: nisi vbi 
+        pro<lb ed="#V" n="60" break="no"/>ductio plurium est maioris virtutis: quam vnius tantum: quod in 
+        <lb ed="#V" n="61"/>proposito non est verum: tum quia non oportet quod fundamen 
+        <lb ed="#V" n="62"/>tum relationis sit productiuum relationum plurium sed vnius 
+        <lb ed="#V" n="63"/>tantum: ex quo vnica similitudine vel equalitate refertur 
+        <lb ed="#V" n="64"/>ad omnia similia vel equalia. Tertio potest dici: 
+        <lb ed="#V" n="65"/>quod tales relationes causantur ab vtroque simul: et potest 
+        <lb ed="#V" n="66"/>rsponderi ad rationes eo modo quo dictum est. Quarto potest 
+        <lb ed="#V" n="67"/>dici et satis rationabiliter sicut multis videtur: quod aliqui re 
+        <lb ed="#V" n="68"/>latio causatur per accidens: aliqua vero accidentaliter per 
+        <lb ed="#V" n="69"/>accidens: verbi gratia: ponatur quod in vniuerso non sit nisi¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>vnum album: et nouiter alterum produncatur: ad per se generati 
+        <lb ed="#V" n="71"/>onem nouiter albi producti causatur similitudo que est 
+        in<lb ed="#V" n="72" break="no"/>ipso: non quidem per se: quia relatio non est per se principium nec 
+        <lb ed="#V" n="73"/>terminus actionis. 5. phisi. sed per accidens. Et in alqet 
+        <lb ed="#V" n="74"/>bo praeexistenti causatur similitudo accidentaliter per accidens: 
+        <lb ed="#V" n="75"/>quia causatur ad causationem relationis opposite que per 
+        <lb ed="#V" n="76"/>accidens potest causari: et ita videtur intentio 
+        simplicu<lb ed="#V" n="77" break="no"/>super praedicamenta. dicit quod aliqui errant circa generationem 
+        <lb ed="#V" n="78"/>relationis et corruptionem: quia non generatur nec 
+        corrupi<lb ed="#V" n="79" break="no"/>tur: nisi in comperatione ad aliud id est ad generationem vel 
+        <lb ed="#V" n="80"/>corruptionem alterius: sic patet rationem non valere. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e1557">
+                  <lb ed="#V" n="81"/>Responsio ad rationes aureoli. 
+        <lb ed="#V" n="82"/>Ad primam alterius doc. multis non videtur 
+        inconueni<lb ed="#V" n="83" break="no"/>ens: quod in relationibus etiam realibus sit processus in 
+        in<lb ed="#V" n="84" break="no"/>finitum: quia nec multis videtur inconueniens quod in rebus ab 
+        <lb ed="#V" n="85"/>solutis sit talis processus: cum dicant in quolibet continuo 
+        <lb ed="#V" n="86"/>esse partes infinitas: quarum vna non est alia: et si sic 
+        di<lb ed="#V" n="87" break="no"/>catur: potest concedi: quod numerales realitates 
+        re<lb ed="#V" n="88" break="no"/>latiue possunt esse in eodem subiecto: mihi autem videtur 
+        <lb ed="#V" n="89"/>quod in relationibus realibus non est processus in infinitum 
+        <lb ed="#V" n="90"/>nisi ponatur talis processus in absolutis: et ideo quicquid 
+        <lb ed="#V" n="91"/>sit de consequente: nego consequentiam: et ad probationem premitto: quod 
+        <lb ed="#V" n="92"/>sicut vnum album vna albedine fundamentaliter est 
+        si<lb ed="#V" n="93" break="no"/>mile omni albo et dissimile omni nigro: et vna 
+        simi<lb ed="#V" n="94" break="no"/>litudine formaliter esse simile omni albo et iam si essent in e 
+        <lb ed="#V" n="95"/>finita: et vna dissimilitudine dissimile omni nigro: et 
+        <lb ed="#V" n="96"/>idem dico de equalitate et similibus. His praemissis 
+        <lb ed="#V" n="97"/>patet: quod deductio est nulla: quia vnus homo vna 
+        ine<lb ed="#V" n="98" break="no"/>qualitate et no diuersis est inequalis omnibus: et idem 
+        <lb ed="#V" n="99"/>de similitudine. Sed contra istam solutionem quam iste 
+        <lb ed="#V" n="100"/>doc. praeuidit arguitur sic: vna difformitate siue diffimli: 
+        <lb ed="#V" n="101"/>tudine transeunte per corruptionem alicuius ex 
+        aliis<lb ed="#V" n="102" break="no"/>facientibus: adhuc remanent cetere dissimilitudines: 
+        <lb ed="#V" n="103"/>igitur non sunt idem: hic dico: quod per corruptionem alicuius 
+        <lb ed="#V" n="104"/>ex aliis faciebus nulla difformitas corrumpitur in 
+        fa<lb ed="#V" n="105" break="no"/>cie hominis remanente: quia in ipsa non erat nisi vna: et 
+        <lb ed="#V" n="106"/>illa manet: et licet non terminetur ad faciem corruptam: 
+        ter<lb ed="#V" n="107" break="no"/>minatur tamen ad facies alias remanentes: et hoc est 
+        <lb ed="#V" n="108"/>bene poss bile: quia relatio de natura sua requirit 
+        ter<lb ed="#V" n="109" break="no"/>minum non istum vel illum determinate. Et si dicatur 
+        <lb ed="#V" n="110"/>quod relatiua posita se ponunt et perempta se perimunt 
+        <lb ed="#V" n="111"/>dico quod dupliciter potest intelligi illud dictu philosi. Uno 
+        <lb ed="#V" n="112"/>modo: quod ad corruptionem illius relationis in vno 
+        ter<lb ed="#V" n="113" break="no"/>mino necessario corrum patur aliqua relatio in alio: 
+        <lb ed="#V" n="114"/>et hic intellectus falsus est. Alio modo: quod ad 
+        corru<lb ed="#V" n="115" break="no"/>ptione omnium relatiuorum: vt pote aliarum facierum 
+        <lb ed="#V" n="116"/>corrumpatur difformitas in facie: vnica 
+        remanen<lb ed="#V" n="117" break="no"/>te: et hic iutellectus verus est: sed non ad propositum: 
+        <lb ed="#V" n="118"/>Ad secundum: multi concederent consequens. Et 
+        <lb ed="#V" n="119"/>quando dicitur quod dato quod realitatem equalitatis vel 
+        <lb ed="#V" n="120"/>similitudinis deus deleret: adhuc intellectus 
+        con<lb ed="#V" n="121" break="no"/>siderans duas albedines eque inueniebat eas 
+        simi<lb ed="#V" n="122" break="no"/>les non solum fundamentaliter sed etiam formaliter: nunc 
+        au<lb ed="#V" n="123" break="no"/>tem fundamentaliter tantum: sed quicquid sit de 
+        consequen<lb ed="#V" n="124" break="no"/>te: potest negari consequentia: quia multa sunt 
+        re<lb ed="#V" n="125" break="no"/>aliter distincta: quorum vnum non potest esse sine alio 
+        <lb ed="#V" n="126"/>absque contradictione: quia duo correlatiua sunt 
+        rea<lb ed="#V" n="127" break="no"/>liter distincta: et tamen vnum non potest esse sine 
+        alio<lb ed="#V" n="128" break="no"/>absque contradictione: vnde: quod pater sit: et filius non 
+        <lb ed="#V" n="129"/>sit: vel paternitas sit: et filiatio non sit: non est 
+        possi<lb ed="#V" n="130" break="no"/>bile sine contradictione: et sic est in proposito: quia ad 
+        <lb ed="#V" n="131"/>positionem duorum alborum necessario necessitate in 
+        <lb ed="#V" n="132"/>euitabiliter sequitur similitudo non minus quam ad 
+        po<lb ed="#V" n="133" break="no"/>sitionem paternitatis sequitur filiatio: vel 
+        econuer<lb ed="#V" n="134" break="no"/>so. Nec valet si dicatur quod tunc deus necessitatur ad 
+        <lb ed="#V" n="135"/>producendum vel conseruandum aliquid extra se: quia 
+        <lb ed="#V" n="136"/>quaedam est necessitas simpliciter: quedam ex suppoitone: 
+        <lb ed="#V" n="137"/>vel per alia verba: quedam est necessitas antecedens: 
+        quada<lb ed="#V" n="138" break="no"/>consequens. Primo modo non necessitatur: quia totum potest an¬
+        <pb ed="#V" n="135-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>nihilare quicquid est extra ipsum tam absoluntum quam 
+        re<lb ed="#V" n="2" break="no"/>latiuum: sed secundo modo non: et hoc nullum est 
+        inconueni<lb ed="#V" n="3" break="no"/>ens. Et si dicatur vlterius sicut mordicacitur dicunt: quod 
+        <lb ed="#V" n="4"/>tunc velit nolit non potest non conseruare: dico quod ibi est 
+        <lb ed="#V" n="5"/>velle sine nolle: quia ex quo vult conseruare duo alba: 
+        <lb ed="#V" n="6"/>vult etiam similitudinem inter illa: sicut quando vult quod aliquis 
+        <lb ed="#V" n="7"/>diligat vult quod etiam cognoscat: quia nullus potest 
+        dilige<lb ed="#V" n="8" break="no"/>re nisi cognoscat: igitur etc. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e1707">
+                  <lb ed="#V" n="9"/>Scotus in primo di. 31. q. 1. ar. 1. et. 2. et in quodlibet. q 6. 
+        <lb ed="#V" n="10"/>Contra conclusionem secundam est quedam opinio qua 
+        po<lb ed="#V" n="11" break="no"/>nit quod per se et proximum fundamentum equalitatis in 
+        creatu<lb ed="#V" n="12" break="no"/>ris est vnitas specifica rerum equalium Similitudinis vero 
+        vni<lb ed="#V" n="13" break="no"/>tas specifica rerum similium: quae secundum istam opinionem realis 
+        <lb ed="#V" n="14"/>est in vtrisque. Pro ista opinione ex fundamentis 
+        opi<lb ed="#V" n="15" break="no"/>nantium multipliciter arguitur. primo sic: istud est per se ex et 
+        <lb ed="#V" n="16"/>proximum fundamentum similitudinis rerum similium in quo 
+        <lb ed="#V" n="17"/>sibi inuicem sunt similia. sed in qualitate in communi et non in 
+        ali<lb ed="#V" n="18" break="no"/>qua qualitate singulari. quacunque similia sibi inuicem sunt 
+        <lb ed="#V" n="19"/>similia: et maior probatur: supponitur minor: quia quae sunt similia non 
+        <lb ed="#V" n="20"/>sunt similia in eo quod est proprium similitudini alteri 
+        simi<lb ed="#V" n="21" break="no"/>lium. sed in eo quod est commune vtrisque. Sed hec albedo 
+        nume<lb ed="#V" n="22" break="no"/>ro. est propria huic. et illa illi igitur. duo alba non sunt 
+        simi<lb ed="#V" n="23" break="no"/>lia in hac vel in illa albedine. sed in albedine in communi. 
+        <lb ed="#V" n="24"/>Similiter potest argui de ceteris similibus quibuscumque 
+      </p>
+               <p xml:id="at8va9-e81571-d1e1744">
+                  <lb ed="#V" n="25"/>Preterea vnitas relationis oriter ex vnitate 
+        alicu<lb ed="#V" n="26" break="no"/>ius absoluti preuii sed similitudo in duobus similibus 
+        <lb ed="#V" n="27"/>est eiusdem rationis in extremis igitur. hec vnitas 
+        simili<lb ed="#V" n="28" break="no"/>tudinis oritur ex vnitate eiusdem rationis alicuius 
+        abso<lb ed="#V" n="29" break="no"/>luti praeuiii: sed illud absolutum praeuium eiusdem rationis. non est 
+        <lb ed="#V" n="30"/>hec albedo vel illa numero: quia neutra est communis alteri. 
+        <lb ed="#V" n="31"/>igitur albedo in communi. et per consequens relationes equiparantie 
+        <lb ed="#V" n="32"/>qualis: est similitudo praeter extrema singularia requirit 
+        ali<lb ed="#V" n="33" break="no"/>quod commune: quod sit fundamentum ipsius: et a quo habeat 
+        <lb ed="#V" n="34"/>quod sit eiusdem rationis in extremis. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e1768">
+        Preterea: si 
+        similitu<lb ed="#V" n="35" break="no"/>do non fundatur super vnitate specifica. sed super hac 
+        albe<lb ed="#V" n="36" break="no"/>dine et illa numerali: pari ratione posset super hac albedine et 
+        <lb ed="#V" n="37"/>et hac nigredine numeraliter distinctis: consequens falsum. 
+        igi<lb ed="#V" n="38" break="no"/>tur et antecedens. consequentia probatur: quia non potest assignari ratio quare 
+        <lb ed="#V" n="39"/>hec albedo et illa sunt similes. hec autem albedo et 
+        ni<lb ed="#V" n="40" break="no"/>gredo non similes nisi quia duo albedines numerales 
+        <lb ed="#V" n="41"/>non sunt eiusdem speciei: sed hoc non esset nisi vnitas 
+        spe<lb ed="#V" n="42" break="no"/>cifica esset per se fundamentum similitudinis. Et similiter 
+        po<lb ed="#V" n="43" break="no"/>test argui de qualitate et ceteris.
+      </p>
+               <p xml:id="at8va9-e81571-d1e1790">
+                  <lb ed="#V" n="44"/>Ad rationes Scoti. 
+        <lb ed="#V" n="45"/>ad primam: nego minorem. et ad probationem nego 
+        ma<lb ed="#V" n="46" break="no"/>iorem: quia sicut duo alba sunt formaliter similia suis propriis 
+        <lb ed="#V" n="47"/>similitudinibus et non similitudine communi sic sunt 
+        fundamen<lb ed="#V" n="48" break="no"/>taliter similia: suis propriis equalitatibus seu albedinibus 
+        <lb ed="#V" n="49"/>et non albedine communi. Et vlterius similitudo proprie 
+        di<lb ed="#V" n="50" break="no"/>cta non est nisi inter distincta vt distincta sunt: due 
+        au<lb ed="#V" n="51" break="no"/>tem albedines in albedine communi non distinguuntur. igitur nec 
+        <lb ed="#V" n="52"/>assimilantur in ipsa. Item albedo in communi est 
+        fundamen<lb ed="#V" n="53" break="no"/>tum identitatis huius albedinis. et illius. igitur non est 
+        funda<lb ed="#V" n="54" break="no"/>mentum similitudinis vt condiuiditur identitati: sicut nunc 
+        loqui<lb ed="#V" n="55" break="no"/>mur. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e1820">
+        Ad secundam dico: quod ratio soluit seipsam: quia si 
+        vni<lb ed="#V" n="56" break="no"/>tas relationis venit ex vnitate fundamenti: vt isti doc. 
+        <lb ed="#V" n="57"/>imaginantur: omnem quod talis sit vnitas fundamenti: qualis 
+        <lb ed="#V" n="58"/>est vnitas relationis: nunc autem ita est quod inter duo alba non 
+        <lb ed="#V" n="59"/>est vna similitudo communis: sed due particulares: igitur non omne 
+        quae<lb ed="#V" n="60" break="no"/>rere vnum fundamentum commune: sed duo particularia: et sic 
+        con<lb ed="#V" n="61" break="no"/>cedo: quod sicut in duobus albis sunt due similitudines 
+        <lb ed="#V" n="62"/>eiusdem rationis: ita fundatur in duabus albedinibus eiusdem 
+        <lb ed="#V" n="63"/>rationis. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e1840">
+        Ad tertiam nego consequentiam: et ad probationem dico: 
+        <lb ed="#V" n="64"/>quod accipit non causam pro causa: quia quod due albedines sint 
+        simi<lb ed="#V" n="65" break="no"/>les: et albedo et nigredo non sunt similes: non prouenit ex 
+        <lb ed="#V" n="66"/>hoc quod vnitas specifica albedinum illarum fundat 
+        similitu<lb ed="#V" n="67" break="no"/>dinem: sicut illa ratio videtur imaginari: sufficit enim ad 
+        <lb ed="#V" n="68"/>hoc quod quelibet earum per naturam suam sit vera albedo: 
+        <lb ed="#V" n="69"/>non est alia causa querenda: vnde sicut non est querenda causa qua¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>re ab hac albedine et ab illa intellectus abstrahit 
+        con<lb ed="#V" n="71" break="no"/>ceptum specificum et non ab hac albedine et ab hac 
+        nigre<lb ed="#V" n="72" break="no"/>dine: nisi quia quilibet particularis albedo per suam naturam 
+        parti<lb ed="#V" n="73" break="no"/>cularem est vere albedo: et ideo ab eis potest abstrahi 
+        con<lb ed="#V" n="74" break="no"/>ceptus eiusdem rationis: sic et in proposito suo modo. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e1869">
+                  <lb ed="#V" n="75"/>Franciscus de marchia vbi supra. 
+        <lb ed="#V" n="76"/>Contra tertiam conclusionem est opinio cuiusdam doc: 
+        <lb ed="#V" n="77"/>que fuit superius recitata: pro qua ipse arguit. Primo 
+        <lb ed="#V" n="78"/>sic: quod aliqua magis conueniat in relatione quam alia: hoc 
+        <lb ed="#V" n="79"/>non est nisi quia magis conueniunt in ratione absoluta: sed due 
+        <lb ed="#V" n="80"/>linee equales magis in relatione conueniunt: siue in 
+        vni<lb ed="#V" n="81" break="no"/>tate relatiua quam due linee inequales: igitur magis 
+        con<lb ed="#V" n="82" break="no"/>ueniunt in aliqua ratione absoluta praeuia: sed illa ratio non 
+        <lb ed="#V" n="83"/>est species linee: quia species linee est communis omnibus lineis 
+        equali<lb ed="#V" n="84" break="no"/>bus et inequalibus: igitur ista est ratio absoluta communis infra 
+        <lb ed="#V" n="85"/>naturam speciei: et sic media inter vnitatem specificam et 
+        <lb ed="#V" n="86"/>numeralem. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e1898">
+        Preterea: relatio vnius in extremis 
+        <lb ed="#V" n="87"/>praesupponit extrema vnius rationis inter se: sed 
+        equali<lb ed="#V" n="88" break="no"/>tas est relatio vnius rationis in extremis: igitur 
+        praesuppo<lb ed="#V" n="89" break="no"/>nit extrema vnius rationis inter se: sed extrema propria 
+        <lb ed="#V" n="90"/>equalitatis: non sunt vnius rationis: in specie linee 
+        <lb ed="#V" n="91"/>plus quam extrema inequalitatis: quia inequalia sunt in 
+        <lb ed="#V" n="92"/>specie sicut equalia. ergo sunt vnius rationis infra speciem: 
+        <lb ed="#V" n="93"/>et tale medium vnius rationis infra speciem et supra 
+        indiui<lb ed="#V" n="94" break="no"/>duum est proprium fundamentum et medium equalitatis. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e1918">
+                  <lb ed="#V" n="95"/>Responsio ad rationes francisci. 
+        <lb ed="#V" n="96"/>Ad primum istorum dico quod due liniee equales magis 
+        <lb ed="#V" n="97"/>conueniant quam due inequales: potest dupliciter intelligi. Uno 
+        <lb ed="#V" n="98"/>modo quod conueniat in aliquo communi realiter in quo non conueniant: 
+        <lb ed="#V" n="99"/>alie. et hic sensus falsus est: aliter oporteret dicere 
+        <lb ed="#V" n="100"/>quod duo fratres conueniunt in aliquo communi: reali: quia 
+        ma<lb ed="#V" n="101" break="no"/>gis conueniunt: quam vnus frater et vnus secularis. Alio modo 
+        <lb ed="#V" n="102"/>quia quaelibet earum participat quantitatem in tanto gradu: 
+        <lb ed="#V" n="103"/>quod alie non faciunt: cum vna sit maior alia. et hic 
+        intelle<lb ed="#V" n="104" break="no"/>ctus verus est. sed ex hoc nihil probatur. vt patet. Ad 
+        <lb ed="#V" n="105"/>secundum concedo quod equalitas praesupponit extrema vnius 
+        ratio<lb ed="#V" n="106" break="no"/>nis inter se: et concedo vlterius quod extrema propria 
+        equa<lb ed="#V" n="107" break="no"/>litatis non sunt vnius rationis in specie linee plus quam 
+        ex<lb ed="#V" n="108" break="no"/>trema inequalitatis. sed ex hoc non sequitur quod sint vnius 
+        <lb ed="#V" n="109"/>rationis infra speciem linee: et supra indiuiduum. Et si 
+        <lb ed="#V" n="110"/>dicatur: cur ergo iste linee sunt equales et ille inequales. 
+        <lb ed="#V" n="111"/>dicitur quod vna istarum non excedit. nec exceditur ab 
+        alte<lb ed="#V" n="112" break="no"/>ra. et istud sufficit. nec propter hoc oportet ponere tale 
+        me<lb ed="#V" n="113" break="no"/>dium fictum. quale ponit iste doc. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e1962">
+        Contra quartam 
+        con<lb ed="#V" n="114" break="no"/>clusionem possit argui ex fundamentis tenentium 
+        con<lb ed="#V" n="115" break="no"/>clusionem opposita. sed quia rationes eorum principales 
+        <lb ed="#V" n="116"/>sunt adducte contra conclusiones precedentes: super 
+        <lb ed="#V" n="117"/>sed eo de multitudine rationum. 
+      </p>
+               <p xml:id="at8va9-e81571-d1e1974">
+                  <lb ed="#V" n="118"/>Ad rationes principales. 
+        <lb ed="#V" n="119"/>Ad primam dictum est supra: quod est non simile de 
+        iden<lb ed="#V" n="120" break="no"/>titate et equalitate: vt declarabitur questione 
+        sequen<lb ed="#V" n="121" break="no"/>ti. Secundam vero concedo: et credo eam 
+        omni<lb ed="#V" n="122" break="no"/>no concludere. 
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

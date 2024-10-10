@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Praeambulum</title>
+            <author ref="#AlphonsusVargas">Alphonsus Vargas Toletanus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Praeambulum</title>
+               <date when="2024-10-10">October 10, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-x7yh5z">Venice, 1490</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="9-r"/>
+            <cb ed="#V" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="at8va9-e00003"><!-- l1prae -->
+            <head xml:id="at8va9-e00003-Hd1e101">Praeambulum</head>
+            <p xml:id="at8va9-e00003-d1e103">
+               <pb ed="#V" n="9-r"/>
+               <cb ed="#V" n="a"/>
+            </p>
+            <p xml:id="at8va9-e00003-d1e110">
+               <lb ed="#V" n="1"/>¶ Incipit lectura super primum sententiarum edita 
+      <lb ed="#V" n="2"/>ab ex imio doctore fratre Alfonso de toleto ac 
+      sa<lb ed="#V" n="3" break="no"/>cre theologie magistro famosissimo et hispan. 
+      ar<lb ed="#V" n="4" break="no"/>chiepiscopo dignissimo ordinis fratrum 
+      heremi<lb ed="#V" n="5" break="no"/>tarum sancti et gloriosi doctoris Aurelii Augustini. 
+    </p>
+            <p xml:id="at8va9-e00003-d1e123">
+    </p>
+            <p xml:id="at8va9-e00003-d1e125">
+               <lb ed="#V" n="6"/>¶ Gosum alpha et w. 
+      <lb ed="#V" n="7"/>Apoc. primo Doctor ille gloriosus. 
+      <lb ed="#V" n="8"/>Isidorus hispaniensis qui 
+      in<lb ed="#V" n="9" break="no"/>ter ceteros hispanie 
+      philoso<lb ed="#V" n="10" break="no"/>phos et doctores velut flos 
+      flo<lb ed="#V" n="11" break="no"/>rum floruit et etymolog. libro primo 2o. 
+      <lb ed="#V" n="12"/>ca. Uenustate pudicitie: 
+      elo<lb ed="#V" n="13" break="no"/>quentie pulchritudine: et 
+      sapi<lb ed="#V" n="14" break="no"/>entie plenitudine: sapientiam. increatam dei filium 
+      bene<lb ed="#V" n="15" break="no"/>dictum litteris comparat preassumptis. d. filius dei est 
+      al<lb ed="#V" n="16" break="no"/>pha et w: Alpha. enim nulla littera praecedit: prima enim est 
+      lit<lb ed="#V" n="17" break="no"/>terarum: sic et filius dei ipse prinicipium se esse 
+      interrogan<lb ed="#V" n="18" break="no"/>tibus iudeis respondit. vnde et Iohns in apoc. proprie litteram 
+      <lb ed="#V" n="19"/>ponens ait. Ego sum alpha et w primus et nouissimus. 
+      <lb ed="#V" n="20"/>hec Isidorus. Ex quibus verbis euidenter apparet 
+      <lb ed="#V" n="21"/>hanc litteram alpha omnium litterarum esse primam et hanc 
+      <lb ed="#V" n="22"/>litteram w in alphabeto grecorum omnium esse nouissimam. 
+      <lb ed="#V" n="23"/>Et sicut alpha est omnium literarum prima littera: w vero 
+      <lb ed="#V" n="24"/>nouissima: sic et scriptura sacra nobis diuinitus 
+      in<lb ed="#V" n="25" break="no"/>spirata est omnium scientiarum et vniuersaliter omnium 
+      scri<lb ed="#V" n="26" break="no"/>pturarum et per consequens litterarum prima: pariter et nouissima. 
+    </p>
+            <p xml:id="at8va9-e00003-d1e174">
+               <lb ed="#V" n="27"/>Prima quidem.
+      <lb ed="#V" n="28"/>Primitate duratiua: omnes alias: praecedit duratione. 
+      <lb ed="#V" n="29"/>Primitate perfectiua. Excedit perfectione. 
+      <lb ed="#V" n="30"/>Primitate directiua. Dirigit regulariter 
+      <lb ed="#V" n="31"/>Primitate correctiua Corrigit paternaliter 
+    </p>
+            <p xml:id="at8va9-e00003-d1e187">
+               <lb ed="#V" n="32"/>¶ Est ergo sacramenta scriptura: ceteris scientiis 
+      quadru<lb ed="#V" n="33" break="no"/>pliter prior. Primo promititate durationis: ipsa de seipsa 
+      <lb ed="#V" n="34"/>dicente. Ecc. 24. Ego ex ore altissimi prodii 
+      primoge<lb ed="#V" n="35" break="no"/>nita ante omnem creaturam: Ideo puri et purissimi 
+      fru<lb ed="#V" n="36" break="no"/>ctus eius. prouer. 3o / Secundo primitate perfectionis ipsa 
+      <lb ed="#V" n="37"/>etiam de seipsa dicente. Ecc. 24. Ego in altissimis 
+      ha<lb ed="#V" n="38" break="no"/>bito et tronus meus in columna nubis. Ideo 
+      precio<lb ed="#V" n="39" break="no"/>siorem cunctis opibus: et omnia que desiderantur huic non 
+      <lb ed="#V" n="40"/>valent comparari. prouer. 3o.
+    </p>
+            <p xml:id="at8va9-e00003-d1e209">
+      ¶ Tertio: primitate 
+      di<lb ed="#V" n="41" break="no"/>rectionis: quia si intrauerit sapientia cortuum et scientia 
+      ani<lb ed="#V" n="42" break="no"/>me tue placuerit: consilium custodiet te: et prudentia 
+      <lb ed="#V" n="43"/>diriget te: vt eruaris de via mala. Et ab homine 
+      <lb ed="#V" n="44"/>qui peruersa loquitur. prouer 2o. Et ideo dauid propheta 
+      <lb ed="#V" n="45"/>per ipsam regulari et dirigi postulabat psalmo 118o.  
+      <lb ed="#V" n="46"/>d. Gressus meos dirige secundum eloquium tuum: vt non 
+      <lb ed="#V" n="47"/>dominetur mei omnis iniustitia.
+    </p>
+            <p xml:id="at8va9-e00003-d1e227">
+      ¶ Quarto: primitate 
+      <lb ed="#V" n="48"/>correctionis: quia sapientia foris predicat: et in capite 
+      <lb ed="#V" n="49"/>turbarum clantitat: vsquequo paruuli diligitis infantiam 
+      <lb ed="#V" n="50"/>et stulti ea quae sunt noxima cupitis. Conuertimini ad 
+      <lb ed="#V" n="51"/>correctione meam: et proferam vobis spiritum meum et 
+      <lb ed="#V" n="52"/>ostendam verba mea. puer. primo. Et hoc ideo: quia 
+      scri<lb ed="#V" n="53" break="no"/>pta sunt ad correctionem nostram. prima ad corin 4o 
+    </p>
+            <p xml:id="at8va9-e00003-d1e243">
+               <lb ed="#V" n="54"/>¶ Iste 4 conditiones primitatem huius sacre 
+      scriptu<lb ed="#V" n="55" break="no"/>re: seu doctrine merito declarantes: sunt. 4. illa 
+      ca<lb ed="#V" n="56" break="no"/>pita fluminis egredientes de loco voluptatis: quibus 
+      <lb ed="#V" n="57"/>paradisus intellectus creati: tam angelici quam 
+      huma<lb ed="#V" n="58" break="no"/>ni quadriformiter irrigantur. gen. 2o. Sunt. 4. illi 
+      <lb ed="#V" n="59"/>circuli aurei per 4 angulos arche: quibus archa 
+      <lb ed="#V" n="60"/>scripture sacre multiformiter decoratur. Exo. 25 
+      <lb ed="#V" n="61"/>Sunt. 4. illa deambulatoria inter columnas 
+      cedri<lb ed="#V" n="62" break="no"/>nas: quibus domus quam sibi sapientia edificauit 
+      pul<lb ed="#V" n="63" break="no"/>chriformiter ornatur. 3o. reg. 7o. Sunt 4 ille rote 
+      iu<lb ed="#V" n="64" break="no"/>xta cherubin: quibus angelus vel anima humilis et 
+      deuo<lb ed="#V" n="65" break="no"/>ta deiformiter eleuatur. Eze primo.
+    </p>
+            <p xml:id="at8va9-e00003-d1e272">
+      ¶ Merito ergo hec 
+      sa<lb ed="#V" n="66" break="no"/>cratissima doctrina omnium scientiarum dicitur esse prima: et 
+      <lb ed="#V" n="67"/>ideo prior omnium creata est sapientia. Ecc. primo. Quod 
+      <lb ed="#V" n="68"/>pulchre deducit beatissimus augu. super gen. ad litte¬
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="69"/>ram. ca. xxi. vbi vult ipsam intelligi per lucem perfectam 
+      <lb ed="#V" n="70"/>in opere prime diei. dicit. Si autem spiritalis lux facta est: 
+      <lb ed="#V" n="71"/>cum dixit fiat lux: non illa vera patri coeterna 
+      intelli<lb ed="#V" n="72" break="no"/>genda est: per quem facta sunt omnia et que illuminat omnem 
+      <lb ed="#V" n="73"/>hominem: sed illa de qua dicitur: prior omnium creata est 
+      sapien<lb ed="#V" n="74" break="no"/>tia. Cum. n. eterna illa et incommutabilis que non est 
+      <lb ed="#V" n="75"/>facta sed genita sapientia in spiritales: atque 
+      rationa<lb ed="#V" n="76" break="no"/>les creaturam: sicut in anima sancta se transfert: vt 
+      <lb ed="#V" n="77"/>illuminate lucere possit in eis quedam luculentie rationis 
+      <lb ed="#V" n="78"/>affectio: quae potest accipi facta lux: cum diceret deus 
+      fi<lb ed="#V" n="79" break="no"/>at lux. hec Aug. Igitur prior omni creatura est sapientia 
+    </p>
+            <p xml:id="at8va9-e00003-d1e308">
+               <lb ed="#V" n="80"/>¶ Sed dixi vlterius secundo: quod ipsa omnium scientiarum 
+      nouis<lb ed="#V" n="81" break="no"/>sima est. Nouissimia quidem: quia finis omnium: finis inquam 
+      <lb ed="#V" n="82"/>Pulchriter prospiciens. Splendors claritate. 
+      <lb ed="#V" n="83"/>Suauiter alliciens. Candoris puritate. 
+      <lb ed="#V" n="84"/>Dulciter reficiens. Dulcoris varietate. 
+      <lb ed="#V" n="85"/>Totaliter sufficiens. Ualoris dignitate. 
+      <lb ed="#V" n="86"/>Claritate clarior. Cunctis clarificatis. 
+      <lb ed="#V" n="87"/>Puritate purior. Cunctis purificatis. 
+      <lb ed="#V" n="88"/>Ueritate verior. Cuctis verificatis. 
+      <lb ed="#V" n="89"/>Dignitate dignior. Cunctis dignificatis. 
+      <lb ed="#V" n="90"/>Ipsa enim est finis ad quem non solum omnis scientia humanitus ad 
+      <lb ed="#V" n="91"/>inuenta: sed et omnes actus nostri finaliter ordinantur. Est 
+      <lb ed="#V" n="92"/>igitur sacra scriptura omnium scientiarum finis. 4r 
+    </p>
+            <p xml:id="at8va9-e00003-d1e339">
+      Primo 
+      <lb ed="#V" n="93"/>quia finis pulchriter prospiciens splendoris claritate. 
+      <lb ed="#V" n="94"/>sap. 6o Clara est quae nunquam marcescit sapientia et facile 
+      <lb ed="#V" n="95"/>videtur ab hiis qui quarunt illam. Et ideo super salutem omnem et 
+      spe<lb ed="#V" n="96" break="no"/>ciem dilexi eam: et proposui pro luce habere illam: quoniam 
+      inex<lb ed="#V" n="97" break="no"/>tinguibile est lumen illius. sapientie. 7o.
+    </p>
+            <p xml:id="at8va9-e00003-d1e352">
+      ¶ Secundo: quia finis 
+      <lb ed="#V" n="98"/>suauiter alliciens candoris puritate. Candor est enim 
+      <lb ed="#V" n="99"/>lucis eterne et speculum sine macula dei maiestatis. 
+      <lb ed="#V" n="100"/>igitur imago bonitatis illius. sap. 7. Et ideo 
+      pulchritudi<lb ed="#V" n="101" break="no"/>nem candoris eius admirabitur oculus. Ecc. 43.
+    </p>
+            <p xml:id="at8va9-e00003-d1e363">
+      ¶ 
+      Ter<lb ed="#V" n="102" break="no"/>tio: quia finis dulciter reficiens dulcoris varietate: 
+      <lb ed="#V" n="103"/>ipsa de seipsa dicente. Ecc. 24. Transite ad me omnes 
+      <lb ed="#V" n="104"/>qui concupiscitis me: et a generationibus meis 
+      adimple<lb ed="#V" n="105" break="no"/>mini. spiritus enim meus super mel dulcis: et hereditas mea 
+      <lb ed="#V" n="106"/>super mel et fauum. Et ideo accepi librum de manu 
+      an<lb ed="#V" n="107" break="no"/>geli: et cum deuorassesm eum erat in ore meo tanquam mel 
+      <lb ed="#V" n="108"/>dulce. Apoc. 10.
+    </p>
+            <p xml:id="at8va9-e00003-d1e381">
+      ¶ Quarto quia finis totaliter 
+      suffi<lb ed="#V" n="109" break="no"/>ciens valoris dignitate: quia non sumus sufficientes 
+      cogi<lb ed="#V" n="110" break="no"/>tare aliquid a nobis quasi ex nobis: sed sufficientia 
+      no<lb ed="#V" n="111" break="no"/>stra ex deo est. 2o. ad cori. 3o. Et ideo beatus homo 
+      <lb ed="#V" n="112"/>qui inuenit sapientiam et qui affluit prudentia. prouer. 3o 
+    </p>
+            <p xml:id="at8va9-e00003-d1e392">
+               <lb ed="#V" n="113"/>¶ Iste. 4. conditiones: quibus sacratissima theologia 
+      <lb ed="#V" n="114"/>omnium scientiarum conuincitur esse nouissima: sunt ille. 4. 
+      <lb ed="#V" n="115"/>hydrie aque effuse super holocaustum et super ligna 
+      <lb ed="#V" n="116"/>quibus holocaustum voluntatis antecedente igne 
+      sera<lb ed="#V" n="117" break="no"/>phico: seraphice deuoratur 3o. reg. 18.
+    </p>
+            <p xml:id="at8va9-e00003-d1e406">
+      ¶ Sunt 
+      il<lb ed="#V" n="118" break="no"/>la 4 minima terre: quibus fastus mundane sapientie 
+      <lb ed="#V" n="119"/>scire mirifico: mirifice superatur. prouer. 3o.
+    </p>
+            <p xml:id="at8va9-e00003-d1e413">
+      ¶ Sunt 
+      <lb ed="#V" n="120"/>illi. 4. ordines lapidum in quibus parietum magnalia: 
+      <lb ed="#V" n="121"/>opere magnifico: magnifice demonstrantur. sap. 18. 
+    </p>
+            <p xml:id="at8va9-e00003-d1e420">
+               <lb ed="#V" n="122"/>¶ Sunt illi. 4. angeli stantes super 4 angulos terre 
+      <lb ed="#V" n="123"/>quibus venti prauitatis heretice posse deifico: 
+      deifi<lb ed="#V" n="124" break="no"/>ce cathenantur. apoca. 7o.
+    </p>
+            <p xml:id="at8va9-e00003-d1e429">
+      ¶ Merito igitur hec 
+      do<lb ed="#V" n="125" break="no"/>ctrina fidelissima est omnium scientiarum finis: ideo 
+      acce<lb ed="#V" n="126" break="no"/>de ad sapientiam et in omni virtute tua serua vias eius. 
+      <lb ed="#V" n="127"/>in nouissimis inuenies requiem in ea. Ecc. 5o. quia non 
+      <lb ed="#V" n="128"/>solum temporalem sed eternam. quod pulchre deducit gloria dicit 
+      <lb ed="#V" n="129"/>Sapientie noticia facit hominem proximum deo: et vite 
+      <lb ed="#V" n="130"/>perpetue possessorem: et facit peruenire ad 
+      immortali<lb ed="#V" n="131" break="no"/>tatis stolam: et glorie coronam per agnitionem 
+      sapien<lb ed="#V" n="132" break="no"/>tie quae est sanctorum beatitudo: contemplatio dei et 
+      perce<lb ed="#V" n="133" break="no"/>ptio veritatis. Patet igitur ex praedictis quod 
+      sacratissi<lb ed="#V" n="134" break="no"/>ma theologia est omnium scientiarum principium et finis. 
+      pri<lb ed="#V" n="135" break="no"/>ma pariter et nouissima: iuxta deductionem beati 
+      <lb ed="#V" n="136"/>Isidori praeassumptam. Sic et sapientia increata 
+      <lb ed="#V" n="137"/>per quandam similitudinem possit nobis dicere de
+      <pb ed="#V" n="9-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>seipsa. Ego sum alpha et w. In quibus quidem 
+      ver<lb ed="#V" n="2" break="no"/>bia ad commendationem huius sacratissime doctrine. 
+      <lb ed="#V" n="3"/>generaliter: et contente in quatuor libris sententiarum specialiter 
+      <lb ed="#V" n="4"/>4. eius magnalia iuxta. 4 librorum materias 
+      ma<lb ed="#V" n="5" break="no"/>gnifice demonstrantur: videlicet. 
+      <lb ed="#V" n="6"/>Perfectio entitatis qua totum esse cum auctore: tamen 
+      <lb ed="#V" n="7"/>ex valore clauditur. 
+      <lb ed="#V" n="8"/>Expressio potestatis: qua totum posse cum decore: 
+      <lb ed="#V" n="9"/>tamen ex dulcore panditur. 
+      <lb ed="#V" n="10"/>Coniunctio pietatis: qua deus homo cum stupore: 
+      <lb ed="#V" n="11"/>tamen ex amore nascitur. 
+      <lb ed="#V" n="12"/>Conclusio sanctitatis: qua verus homo cum honore: 
+      <lb ed="#V" n="13"/>tamen ex labore trahitur. 
+      <lb ed="#V" n="14"/>Interius perfectionem entitatis probat eternalis 
+      per<lb ed="#V" n="15" break="no"/>manentia: quo ad materiam primi libri cum premittitur 
+      <lb ed="#V" n="16"/>Ego sum qui sum ait dominus Exo. 3o. Exterius 
+      Expres<lb ed="#V" n="17" break="no"/>sionem potestatis: probat generalis influentia: quo ad materiam 
+      <lb ed="#V" n="18"/>secundi libri cum subiungitur alpha quod est principium. Ego 
+      <lb ed="#V" n="19"/>principium qui et loquor vobis. Io. 6o Inferius 
+      Con<lb ed="#V" n="20" break="no"/>iunctione pietatis: probat copularis colligantia: quo 
+      <lb ed="#V" n="21"/>ad materiam 3i libri cum annectitur verbum caro factum 
+      <lb ed="#V" n="22"/>est et habitauit in nobis Io. primo. Superius. 
+      Con<lb ed="#V" n="23" break="no"/>clusionem sanctitatis: probat finalis refulgentia: quo ad 
+      <lb ed="#V" n="24"/>materiam 4 libri. cum concluditur w. quod est finis. 
+      Attin<lb ed="#V" n="25" break="no"/>git enim a fine vsque ad finem fortiter: et disponit omnia 
+      <lb ed="#V" n="26"/>suauiter sap. 8. de. 2. 3. et 4 disseram suis eugo lociget domino 
+      <lb ed="#V" n="27"/>concedente. Dico igitur primo quod in auctoritate 
+      propo<lb ed="#V" n="28" break="no"/>sita: nobis ostenditur huius sanctissime doctrine 
+      per<lb ed="#V" n="29" break="no"/>fectio entitatis quam probat eternalis permanentia 
+      <lb ed="#V" n="30"/>cum premittitur. Ego sum: vbi expresse tangitur materia 
+      pri<lb ed="#V" n="31" break="no"/>mi libri. Cuius gratia notandum est: quod istud verbum 
+      <lb ed="#V" n="32"/>ego sum absolute sumptum nulla potest dicere creatura 
+      <lb ed="#V" n="33"/>cum sit mutabilis non eterna: solus ergo deues potest 
+      dice<lb ed="#V" n="34" break="no"/>re ego sum: quia est incommutabilis et eternus: quod 
+      pul<lb ed="#V" n="35" break="no"/>chre deducit beatus Hieronymus scribens ad 
+      mar<lb ed="#V" n="36" break="no"/>cellam de. 10. dei nominibus. et habetur in gloria. Exo. 3o. 
+      <lb ed="#V" n="37"/>super illo verbo: qui est. misit me ad vos. dicens. 
+      De<lb ed="#V" n="38" break="no"/>us solus quo exordium non habet vere essentie nomen 
+      <lb ed="#V" n="39"/>tenuit: quod per angelum dictum est moysi nomen eius 
+      queren<lb ed="#V" n="40" break="no"/>ti: quia in eius comparatione qui vere est: quia 
+      incommuta<lb ed="#V" n="41" break="no"/>bilis est quasi non sunt quae mutabilia sunt: quod enim dicitur 
+      <lb ed="#V" n="42"/>fuit: non est: et quod dicitur erit nondum est deus autem tantum 
+      <lb ed="#V" n="43"/>est: qui non nouit fuisse vel futurum esse. Solus ergo pater 
+      <lb ed="#V" n="44"/>cum filio et spiritu sancto vere est cuius essentie 
+      compa<lb ed="#V" n="45" break="no"/>ratum nostrum esse non est. hec Hiero. Ex quibus verbis 
+      eui<lb ed="#V" n="46" break="no"/>denter apparet: quod solus deus potest absolute dicere 
+      <lb ed="#V" n="47"/>ego sum. et per consequens cum in auctoritate praemittitur. Ego 
+      <lb ed="#V" n="48"/>sum: expresse ponitur siue tangitur materia primi libri. vbi 
+      <lb ed="#V" n="49"/>agitur de deo secundum rationem sue naturalis et intrinsice 
+      perfe<lb ed="#V" n="50" break="no"/>ctionis: ratione cuius ipse de seipso dicit Exo 3o 
+      <lb ed="#V" n="51"/>Ego sum qui sum. Et apoc. primo. Ego sum alpha et 
+      <lb ed="#V" n="52"/>w. principium et finis: cuius finis participes nos 
+      faci<lb ed="#V" n="53" break="no"/>at qui sine fine viuit et regnat Amen.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

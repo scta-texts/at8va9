@@ -1,0 +1,1860 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 3</title>
+            <author ref="#AlphonsusVargas">Alphonsus Vargas Toletanus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 3</title>
+               <date when="2024-10-10">October 10, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-x7yh5z">Venice, 1490</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="122-v"/>
+            <cb ed="#V" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="at8va9-e75236"><!-- l1d17q3 -->
+            <head xml:id="at8va9-e75236-Hd1e101">Quaestio 3</head>
+            <head xml:id="at8va9-e75236-Hd1e103" type="question-title">Utrum charitas augeatur per additionem partis ad partem, utraque parte remanente</head>
+            <p xml:id="at8va9-e75236-d1e106">
+               <lb ed="#V" n="106"/>TErtio quero: vtrum charitas augeatur 
+      <lb ed="#V" n="107"/>per additionem partis ad partem: 
+      <lb ed="#V" n="108"/>vtraque parte remanente:
+    </p>
+            <p xml:id="at8va9-e75236-d1e115">
+      et videtur 
+      pri<lb ed="#V" n="109" break="no"/>mo quod non: quia si charitas sic 
+      augere<lb ed="#V" n="110" break="no"/>tur per additionem partis ad partem 
+      <lb ed="#V" n="111"/>vtraque remanente sequeretur quod charitas non augeretur 
+      <lb ed="#V" n="112"/>et sic augeretur et non augeretur: quod est aperta 
+      contra<lb ed="#V" n="113" break="no"/>dictio: consequentia probatur: quia non augeret pars 
+      prece<lb ed="#V" n="114" break="no"/>dens: quia illa non fit maior quam primo fuerit: ex hoc 
+      <lb ed="#V" n="115"/>enim quod aliquid additur alteri non fit cui additur maius 
+      <lb ed="#V" n="116"/>quam prius nec augeretur pars sequens: quia non 
+      pre<lb ed="#V" n="117" break="no"/>fuit in principio augmentationis: nec fuit mota 
+      au<lb ed="#V" n="118" break="no"/>gmentatione: nec augeretur aggregatum ex vtrisque 
+      <lb ed="#V" n="119"/>propter eandem rationem: nec quia fuit in principio 
+      <lb ed="#V" n="120"/>augmentationis: sicut nec pars sequens: nec in 
+      to<lb ed="#V" n="121" break="no"/>ta augmentatione: et per consequens charitas non augeretur 
+    </p>
+            <p xml:id="at8va9-e75236-d1e146">
+               <lb ed="#V" n="122"/>Contra: quia sicut est in augmento quantitatiuo: ita 
+      <lb ed="#V" n="123"/>videtur esse in augmento qualitatiuo: sed 
+      augmen<lb ed="#V" n="124" break="no"/>tum quantitatiuum fit per additionem partis ad 
+      par<lb ed="#V" n="125" break="no"/>tem vtraque parte remanente: ergo et augmentum 
+      <lb ed="#V" n="126"/>qualitatiuum cuiusmodi est augmentum charitatis: 
+      <lb ed="#V" n="127"/>vel cuiuscunque forme intensibilis fit per additionem 
+      <lb ed="#V" n="128"/>partis ad partem: vtraque parte remanente: maior 
+      vi<lb ed="#V" n="129" break="no"/>detur nota: et minor apparet: nam augmentum 
+      quanti<lb ed="#V" n="130" break="no"/>tatiuum fit corporeo adueniente vt patet: primo de 
+      <lb ed="#V" n="131"/>generatione: cum ergo corpus magnum augeatur per 
+      <lb ed="#V" n="132"/>additionem parue quantitatis: vt puta per additionem 
+      <lb ed="#V" n="133"/>vnius grani milii. vel quantitas precedens manet 
+      <lb ed="#V" n="134"/>vel corrumpitur: si manet habetur propositum scilicet quod 
+      au<lb ed="#V" n="135" break="no"/>gmentum quantitatiuum fit per additionem partis ad 
+      <lb ed="#V" n="136"/>partem vtraque parte remanente. Si vero detur: quod 
+      <lb ed="#V" n="137"/>corrumpatur sequitur: quod cum corpus magnum au¬
+      <pb ed="#V" n="123-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>getur per quantitatem vnius granis milii quod 
+      tota<lb ed="#V" n="2" break="no"/>quantitas praecedens destruitur et non manet nisi 
+      quan<lb ed="#V" n="3" break="no"/>titas vnius grani milii. Sed cum magnum 
+      trans<lb ed="#V" n="4" break="no"/>mutatur a quantitate magna ad quantitatem vnius 
+      <lb ed="#V" n="5"/>grani milii: tunc non augetur sed minuit: igitur si in 
+      augmen<lb ed="#V" n="6" break="no"/>to quantitatiuo: quantitas precedens corrumperetur 
+      <lb ed="#V" n="7"/>sequitur: quod illud quod augeretur non augeretur: sed magis 
+      <lb ed="#V" n="8"/>diminueretur: quod est euidenter falsum. 
+    </p>
+            <p xml:id="at8va9-e75236-d1e206">
+      In ista quae 
+      <lb ed="#V" n="9"/>stione erunt quattuor articuli. Primo ponam dubita 
+      <lb ed="#V" n="10"/>tionis materiam et occasionem. Secundo quattuor 
+      con<lb ed="#V" n="11" break="no"/>clusiones. Tertio mouebo dubia. Quarto respondebo 
+    </p>
+            <div xml:id="at8va9-e75236-Dd1e215">
+               <head xml:id="at8va9-e75236-Hd1e217">Articulus 1</head>
+               <p xml:id="at8va9-e75236-d1e219">
+                  <lb ed="#V" n="12"/>Articulus primus. 
+        <lb ed="#V" n="13"/>¶ AD primum estaduertendum: quod dupliciter potest 
+        in<lb ed="#V" n="14" break="no"/>Ctelligi: charitatem vel aliam formam 
+        intensi<lb ed="#V" n="15" break="no"/>¶bilem augeri per additionem partis ad partem: 
+        <lb ed="#V" n="16"/>Uno modo: quia pars additur parti sicut in 
+        augmen<lb ed="#V" n="17" break="no"/>to vini: vel aque: videmus sensibiliter: quod vna pars 
+        <lb ed="#V" n="18"/>alteri additur. Alio modo quia pars addit ad partenm 
+        <lb ed="#V" n="19"/>indest supra partem: sicut videmus in augmento 
+        di<lb ed="#V" n="20" break="no"/>erum quod dies additur ad diem idest supra diem: quia 
+        <lb ed="#V" n="21"/>dies vna est maior alia. Et iuxta membra huius 
+        <lb ed="#V" n="22"/>distinctionis sunt circa materiam istam due 
+        solen<lb ed="#V" n="23" break="no"/>nes oppositiones: que reddunt questionem illam me 
+        <lb ed="#V" n="24"/>rito dubitabilem Dicunt enim aliqui: quod charitas et 
+        vni<lb ed="#V" n="25" break="no"/>uersaliter omnis forma intensibilis augetur: quia 
+        <lb ed="#V" n="26"/>pars additur parti: sic quod ex vtraque parte simul vna 
+        <lb ed="#V" n="27"/>forma perfectior: siue maior intensiue: sicut videmus 
+        <lb ed="#V" n="28"/>aquam augeri: quia ex duabus aquis: quarum vna 
+        <lb ed="#V" n="29"/>additur alteri fit vna extensiue: et secundum istam 
+        opi<lb ed="#V" n="30" break="no"/>nionem charitas et vniuersaliter omnis forma 
+        in<lb ed="#V" n="31" break="no"/>tensibilis augetur peradditionem partis ad partem: 
+        <lb ed="#V" n="32"/>vtraque remanente. Quidam vero dicunt quod nec 
+        cha<lb ed="#V" n="33" break="no"/>ritas nec aliqua forma intensibilis augetur: quia 
+        <lb ed="#V" n="34"/>pars additur parti: sed pars addit supra partem: 
+        <lb ed="#V" n="35"/>idest quia pars siue gradus forme perfectior 
+        succe<lb ed="#V" n="36" break="no"/>dit in subiecto parti: siue gradui forme minus 
+        per<lb ed="#V" n="37" break="no"/>fecto: sicut videmus dies augeri: quia maior 
+        succe<lb ed="#V" n="38" break="no"/>dit minori: et secundum istam opinione nulla forma 
+        intensi<lb ed="#V" n="39" break="no"/>bilis augetur per additionem partis ad partem vtraque 
+        <lb ed="#V" n="40"/>parte remanente: quia in augmento cuiuslibet 
+        tota<lb ed="#V" n="41" break="no"/>forma prima corrum pitur: et alia perfectior genera 
+        <lb ed="#V" n="42"/>tur: Primam continens in virtute: diuersitas igitur 
+        <lb ed="#V" n="43"/>harum opinionum et difficilia motiua eorum: que in 
+        <lb ed="#V" n="44"/>ferius adducentur reddunt questionem propositam non 
+        <lb ed="#V" n="45"/>solum dubiam: sed valde difficilem.
+      </p>
+            </div>
+            <div xml:id="at8va9-e75236-Dd1e296">
+               <head xml:id="at8va9-e75236-Hd1e298">Articulus 2</head>
+               <p xml:id="at8va9-e75236-d1e300">
+                  <lb ed="#V" n="46"/>Secundus articulus. 
+        <lb ed="#V" n="47"/>QUantum ad secundum: Prima conclusio est: quod 
+        in<lb ed="#V" n="48" break="no"/>augmento charitatis non corrumpitur chari. 
+        <lb ed="#V" n="49"/>tas preexistens: nec in augmento bonitatis: 
+        boni<lb ed="#V" n="50" break="no"/>tas preexistens: et sic de ceteris formis permanem: 
+        <lb ed="#V" n="51"/>tibus intensibilibus: quibuscumque: istam conclusionem 
+        de<lb ed="#V" n="52" break="no"/>duco: primo de aliis formis a charitate. secundo de 
+        cha<lb ed="#V" n="53" break="no"/>ritate: de aliis arguo: Primo sic: Si in augmento 
+        <lb ed="#V" n="54"/>charitatis corrumpetur calor precedens: sequitur quod 
+        <lb ed="#V" n="55"/>ignis vnius gradus posset causare calorem in quo 
+        <lb ed="#V" n="56"/>cumque gradu: vel quod augmentum caloris non esset 
+        au<lb ed="#V" n="57" break="no"/>gmentum caloris: quorum quodlibet est 
+        impossibi<lb ed="#V" n="58" break="no"/>le et euidenter falsum: consequentiam deduco pro cuius 
+        de<lb ed="#V" n="59" break="no"/>ductione pono quod ignis. 10. graduum causet calorem 
+        <lb ed="#V" n="60"/>10. graduum in aliquo subiecto: et quod ignis vnius 
+        gra<lb ed="#V" n="61" break="no"/>dus augmentet calorem illum per vnum gradum: 
+        <lb ed="#V" n="62"/>quod est bene possibile: isto casu possibili posito: que 
+        <lb ed="#V" n="63"/>ro an calor ille preexistens. 10. graduum corrumpater 
+        <lb ed="#V" n="64"/>vel non: si non: habetur propositum principale: quod 
+        <lb ed="#V" n="65"/>in augmento caloris non corrumpiter calor 
+        prece<lb ed="#V" n="66" break="no"/>dens: si sic: quero vlterius: an in subiecto illo posito 
+        <lb ed="#V" n="67"/>casu dato: sit calor. x1. graduum: autem non si sic: 
+        sequi<lb ed="#V" n="68" break="no"/>tur quod ignis vnius gradus causauerit calorem. xi. 
+        <lb ed="#V" n="69"/>graduu. ista consequentia patet: quia calor ille. xi. gra¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>duum quo nunc conceditur esse in subiecto illo est noui: 
+        <lb ed="#V" n="71"/>ter causatus ex quo primus fuit totaliter corruptusc. 
+        <lb ed="#V" n="72"/>et non nisi ab igne vnius gradus: quia pono quod pro 
+        <lb ed="#V" n="73"/>tunc nil aliud causauerit calorem in illo subiecto 
+        <lb ed="#V" n="74"/>et per consimilem rationem probabitur quod ignis ille 
+        po<lb ed="#V" n="75" break="no"/>terit causare calorem in quocumque gradu: que fuit 
+        primo<lb ed="#V" n="76" break="no"/>ma pars consequentis: si vero dicatur: quod casu isto posito: 
+        ca<lb ed="#V" n="77" break="no"/>lor ille non erit. xi. graduum: patet: quod calor ille non 
+        <lb ed="#V" n="78"/>fuit augmentatus. quia primo erat. 10. graduum: et 
+        <lb ed="#V" n="79"/>per consequens augmentum caloris non erit augmen 
+        <lb ed="#V" n="80"/>tum caloris que erat secunda pars consequentis: et vl 
+        <lb ed="#V" n="81"/>terius pari ratione: qua calor ille non esset. 11. graduum 
+        <lb ed="#V" n="82"/>nec. 10. quia sicut repugnat igni vnius gradus 
+        cau<lb ed="#V" n="83" break="no"/>sare calorem 11. graduum: ita repugnat sibi causare 
+        ca<lb ed="#V" n="84" break="no"/>lorem. 10. graduum: et per consequens 
+        augmentatio<lb ed="#V" n="85" break="no"/>caloris non solum non esset augmentatio immo esset 
+        di<lb ed="#V" n="86" break="no"/>minutio caloris: quod est contradictio manifesta. Et 
+        <lb ed="#V" n="87"/>confirmatur: quia si in augmento caloris non 
+        ma<lb ed="#V" n="88" break="no"/>net gradus precedens: sequitur: quod ignis. 10. graduum 
+        <lb ed="#V" n="89"/>immo. c. vel mille non posset causare calorem ita 
+        perfe<lb ed="#V" n="90" break="no"/>ctum: quin ignis vnius gradus posset causare per 
+        <lb ed="#V" n="91"/>fectiorem. quod nullus sane mentis dicet: consequentiam probo: 
+        <lb ed="#V" n="92"/>vt prius vno addito: pono namque: quod ignis. 10. 
+        gra<lb ed="#V" n="93" break="no"/>duum causet calorem perfectiorem quam potest: et sit 
+        ca<lb ed="#V" n="94" break="no"/>lor ille. 10. graduum gratia exempli et quod ignis vnius 
+        <lb ed="#V" n="95"/>gradus augmentet illum calorem per vnum gradum: 
+        <lb ed="#V" n="96"/>vt prius: quo posito: sequitur per deductionem 
+        prece<lb ed="#V" n="97" break="no"/>dentem: quod ignis vnius gradus causauerit calorem. xi. 
+        <lb ed="#V" n="98"/>graduum: vel quod calor non sit augmentatus: quod est 
+        con<lb ed="#V" n="99" break="no"/>tra positum: et per consequens ignis. 10. graduum non potuit 
+        <lb ed="#V" n="100"/>causare calore ita perfectum: quin ignis vnius 
+        gra<lb ed="#V" n="101" break="no"/>dus causauerit perfectiorem: et similiter potest argui de 
+        <lb ed="#V" n="102"/>igne. c. vel mille graduum ergo etc. Secundo ad 
+        principale<lb ed="#V" n="103" break="no"/>sic. in remissione forme non corrumpitur tota 
+        forma<lb ed="#V" n="104" break="no"/>precedens igitur nec in eius intensione et si in 
+        intten<lb ed="#V" n="105" break="no"/>sione non corrumpitur tota forma precedens euidens 
+        <lb ed="#V" n="106"/>est quod nec aliquid eius: et per consequens tota manet: prima 
+        <lb ed="#V" n="107"/>consequentia patet: quia non minus manet tota forma precedens 
+        <lb ed="#V" n="108"/>in intensione quam in eius remissione: etiam pertenentes 
+        <lb ed="#V" n="109"/>conclusionem oppositam: antecedens vero a quo dependet 
+        tota<lb ed="#V" n="110" break="no"/>deductio probatur. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e446">
+        Primo sic: ponatur quod vna 
+        forma<lb ed="#V" n="111" break="no"/>contraria remittat aliam: vt pote calor frigiditatem in 
+        <lb ed="#V" n="112"/>vno gradu: vel duobus: et tunc quero an tota frigidi 
+        <lb ed="#V" n="113"/>tas illa corrumpatur aut non: si non: patet: quod in remit 
+        <lb ed="#V" n="114"/>sione forme non corrumpitur forma precedens: quod 
+        fu<lb ed="#V" n="115" break="no"/>it antecedens declarandum: si sic quero vlterius: an nouiter 
+        <lb ed="#V" n="116"/>causetur aliqua frigiditas vel non: si non: sequitur quod 
+        <lb ed="#V" n="117"/>remissio frigiditatis in vno gradu vel duobbus non 
+        <lb ed="#V" n="118"/>erit remissio frigiditatis: sed totalis corruptio et 
+        a<lb ed="#V" n="119" break="no"/>motio ipsius a subiecto: et per consequens frigidum nunquam 
+        po<lb ed="#V" n="120" break="no"/>terit remitti in aliquo gradu: quin totaliter 
+        desi<lb ed="#V" n="121" break="no"/>nat esse frigidum: cuius oppositum experientia 
+        ma<lb ed="#V" n="122" break="no"/>nifestat: si sic cum illa frigiditas nouiter causata non 
+        <lb ed="#V" n="123"/>causetur a deonec a celo: nec ab aliquo alior quia 
+        po<lb ed="#V" n="124" break="no"/>no: quod pro tunc nil aliud a colore causet frigiditatem 
+        se<lb ed="#V" n="125" break="no"/>quitur: quod calor oppositus per se causabit frigiditatem: 
+        <lb ed="#V" n="126"/>quod est omnino impossibile. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e483">
+        Secundo sic: possibile est 
+        volun<lb ed="#V" n="127" break="no"/>tatem per actum suum remittere actum intellectui: hoc 
+        <lb ed="#V" n="128"/>patet: quia potest ipsum totaliter corrumpere ammo 
+        <lb ed="#V" n="129"/>uendo intellectum ab eo: ponatur ergo inesse de facto: 
+        <lb ed="#V" n="130"/>et arguo sic: hec volitio remissiua intellectionis 
+        ne<lb ed="#V" n="131" break="no"/>cessario presupponit intelleetionem aliquam priorem. 
+        <lb ed="#V" n="132"/>igitur intellectio illa: que ponitur remitti per eam non 
+        <lb ed="#V" n="133"/>corrumpitur tota: consequentia est elara: quia talis volitio non 
+        <lb ed="#V" n="134"/>necessario pre supponit aliquam intellectionem 
+        prio<lb ed="#V" n="135" break="no"/>rem: aliam ab intellectione que remittitur per 
+        <lb ed="#V" n="136"/>ipsam. antecedens vero probatur: quia hec volitio necessa 
+        <lb ed="#V" n="137"/>rio praesupponit aliquam intellectionem: aliter voluntas 
+        <lb ed="#V" n="138"/>posset ferri in incognitum: quod est contra. b. Aug. 1o.
+        <pb ed="#V" n="123-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>de tri. per totum: nec aliquam posteriorem que 
+        sequa<lb ed="#V" n="2" break="no"/>tur ipsam: patet de se ergo aliquam priorem que 
+        prece<lb ed="#V" n="3" break="no"/>dit. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e522">
+        Tertio ad principale sic: sensibililiter 
+        appa<lb ed="#V" n="4" break="no"/>ret: quod si vna candela illuminante aerem alicuius 
+        <lb ed="#V" n="5"/>domus: apponatur alia: fit lumen intensius: ponatur 
+        <lb ed="#V" n="6"/>quod aliqua candela illuminante aerem ponatur alia 
+        tan<lb ed="#V" n="7" break="no"/>te virtutis precise ad illuminandum aerem sicut prima 
+        <lb ed="#V" n="8"/>vel minoris: et quero an lumen preexistens causatum 
+        <lb ed="#V" n="9"/>a prima candela corrumpatur: vel non: si non: 
+        proposi<lb ed="#V" n="10" break="no"/>tum: quia sequitur: quod ex intensione luminis non corrum 
+        <lb ed="#V" n="11"/>pitur lumen preexistens: si sic: sequuntur duo inconue 
+        <lb ed="#V" n="12"/>nientia manisesta. Primum est: quod opposita secunda 
+        causa<lb ed="#V" n="13" break="no"/>dela lumen non esset intensius: quod est contra 
+        posi<lb ed="#V" n="14" break="no"/>tum et contra sensum: consequentia patet: quia secunda 
+        cande<lb ed="#V" n="15" break="no"/>la non causat nec causare potest perfectius 
+        lumen<lb ed="#V" n="16" break="no"/>quam prima: cum sit tante virtutis. precise: ex 
+        supposi<lb ed="#V" n="17" break="no"/>to: vel minoris: igitur si lumen preexistens causatum 
+        <lb ed="#V" n="18"/>a prima eorum pariter secunda illuminante aerem 
+        eui<lb ed="#V" n="19" break="no"/>dens est: quod lumen non erit intensius quam prius erat: 
+        <lb ed="#V" n="20"/>Secundum est: quod subtracta candela manete tamtum secunda 
+        <lb ed="#V" n="21"/>lumen non esset remissius: cuius oppositum patet 
+        <lb ed="#V" n="22"/>ad sensum: consequentia est clara: quia si lumen causatum a 
+        <lb ed="#V" n="23"/>prima candela corrumpitur adueniente secunda ad ammo 
+        <lb ed="#V" n="24"/>tionem non sequitur remissio luminis: patet igitur 
+        <lb ed="#V" n="25"/>assumpta conclusio de aliis formis a charitate: de 
+        <lb ed="#V" n="26"/>charitate vero probo conclusionem: Primo sic: 
+        possi<lb ed="#V" n="27" break="no"/>bile est charitatem augeri priori charitate manente: 
+        <lb ed="#V" n="28"/>igitur credendum est ipsam sic augeri de facto: antecedens 
+        <lb ed="#V" n="29"/>patet: quia charitas potest augeri: sieust cetere forme: 
+        <lb ed="#V" n="30"/>que vt patet ex dictis augetur priori forma manem 
+        <lb ed="#V" n="31"/>te: consequentia probatur: quia cum deus et na nil 
+        faci<lb ed="#V" n="32" break="no"/>ant frustra. non est credendum in augmento chari 
+        <lb ed="#V" n="33"/>tatis deum facere aliquid frustra: sed frustra anichlaret 
+        <lb ed="#V" n="34"/>charitatem praecedentem: si charitas potest augeri ipsa 
+        <lb ed="#V" n="35"/>manente: ergo etc. Et confirmatur: quia si charitas 
+        po<lb ed="#V" n="36" break="no"/>test augeri: sicut cetere forme priores charitate 
+        ma<lb ed="#V" n="37" break="no"/>nente: cum ratio non conuincat oppositum nec auctoritas: 
+        <lb ed="#V" n="38"/>credendum est sic fieri. Secundo sic: impossibile est qui 
+        <lb ed="#V" n="39"/>in eodem instanti in quo viator per actum 
+        chari<lb ed="#V" n="40" break="no"/>tatis meretur sue charitatis augmentum: augetur 
+        sibi<lb ed="#V" n="41" break="no"/>charitas: quo posito quero: an charitas praeexistens 
+        <lb ed="#V" n="42"/>desinat esse pro eodem instanti vel non: Si non: 
+        <lb ed="#V" n="43"/>propositum: quia sequitur: quod gradus charitatis ad 
+        <lb ed="#V" n="44"/>ueniens et precedens sunt simul pro eodem in stam 
+        <lb ed="#V" n="45"/>ti et pari ratione poterunt simul esse pro toto 
+        tempo<lb ed="#V" n="46" break="no"/>re. si sic: cum actus ille quo meretur non sit merito 
+        <lb ed="#V" n="47"/>rius: nisi per charitatem precedentem: si in illo instam 
+        <lb ed="#V" n="48"/>ti non sit charitas precedes actus ille qui ponitur 
+        <lb ed="#V" n="49"/>meritorius non esset meritorius: quod 
+        contradictio<lb ed="#V" n="50" break="no"/>nem implicat: forte dicetur ad istam rationem: quod deus 
+        <lb ed="#V" n="51"/>non potest augere charitatem in illo instati: in quo 
+        <lb ed="#V" n="52"/>habetur actus meritorius: quo quis meretur sue 
+        cha<lb ed="#V" n="53" break="no"/>ritatis augmentum. Sed ad veritatem hec 
+        euacua<lb ed="#V" n="54" break="no"/>tio est nulla: quia dicere quod deus non potest augere 
+        <lb ed="#V" n="55"/>charitatem pro illo instanti: est ad placitum: et sine 
+        ratio<lb ed="#V" n="56" break="no"/>ne dictum: quia si ponatur in esse: nulla sequitur contra 
+        <lb ed="#V" n="57"/>dictio: nisi aliquis vellet pro libito voluntatis fingere 
+        <lb ed="#V" n="58"/>contradictionem. Et confirmatur: quia si augmentum 
+        cha<lb ed="#V" n="59" break="no"/>ritatis fiat in instanti: et deus non possit augere 
+        cha<lb ed="#V" n="60" break="no"/>ritatem in illo instanti in quo quis meretur sue 
+        chari<lb ed="#V" n="61" break="no"/>tatis augmentum: sequitur quod in alio: et cum inter 
+        qua<lb ed="#V" n="62" break="no"/>cumque duo instantia sit tempus medium: sequiture 
+        <lb ed="#V" n="63"/>deus non poterit augere charitatem illius: quin 
+        nece<lb ed="#V" n="64" break="no"/>sario transierit aliquod tempus: quod non videtur 
+        bene<lb ed="#V" n="65" break="no"/>dictum. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e660">
+        Secunda conclusio est: quod charitas: et vniversaliter 
+        <lb ed="#V" n="66"/>omnis forma intensibilis augetur per acquisitione 
+        <lb ed="#V" n="67"/>noue realitatis: siue noue partis eiusdem forme. Ista 
+        <lb ed="#V" n="68"/>conclusionem deduco. Primo sic: terminus ad quem 
+        <lb ed="#V" n="69"/>cuiusiibet motus realis est aliquid reale: hoc pa¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>tet quia motus secundum arist. 3. et 7. phiysi. specificatur 
+        <lb ed="#V" n="71"/>a termino ad quem: quod non esset verum nisi 
+        termi<lb ed="#V" n="72" break="no"/>nus ad quem in omni motum reali esset aliquid re a 
+        <lb ed="#V" n="73"/>le: sed motus augmenti charitatis terminus ad 
+        <lb ed="#V" n="74"/>quem est realis: sed et cuiuslibet alterioforme realis 
+        <lb ed="#V" n="75"/>est vere realis: igitur eius terminus motus non est 
+        ali<lb ed="#V" n="76" break="no"/>qua realitas se tenens a parte subiecti: vt puta 
+        dis<lb ed="#V" n="77" break="no"/>positio subiecti: vel radicatio forme in subiecto: vt 
+        <lb ed="#V" n="78"/>patet ex prima questione huius di. nec est realitas 
+        <lb ed="#V" n="79"/>siue pars forme precedens: quia impossibile est: 
+        ter<lb ed="#V" n="80" break="no"/>minum: ad quem alicuius motus precedere motum: 
+        <lb ed="#V" n="81"/>igitur est aliqua realitas: siue pars forme nouiter 
+        <lb ed="#V" n="82"/>acquisite Confirmatur: quia impossibile est esse 
+        <lb ed="#V" n="83"/>motum sine termino: cum non sit nisi via ad 
+        termi<lb ed="#V" n="84" break="no"/>num: igitur impossibile est esse motum realem sine 
+        <lb ed="#V" n="85"/>termino reali: sed motus augmenti siue intensionis 
+        <lb ed="#V" n="86"/>forme est motus realis: igitur eius terminus est 
+        rea<lb ed="#V" n="87" break="no"/>lis: sed eius terminus est aliqua qualitas: et non 
+        dis<lb ed="#V" n="88" break="no"/>positio subiecti: nec participatio qualitatis: aliter 
+        alte<lb ed="#V" n="89" break="no"/>ratio: non esset motus ad qualitatem: et non qualitas 
+        praece<lb ed="#V" n="90" break="no"/>dens: vt patet ex dictis: ergo aliqua qualitas adueniens: et sic 
+        pr<lb ed="#V" n="91" break="no"/>positum. Confirmatur vlterius: quia per omnem motum 
+        realem<lb ed="#V" n="92" break="no"/>acquiritur aliquid reale: vt patet ex dicti vniversaliter: igitur illud 
+        re<lb ed="#V" n="93" break="no"/>ale: quod acquiritur in motu augmenti et intensionis 
+        <lb ed="#V" n="94"/>forme est realitas: siue pars precedens autem alia: non 
+        <lb ed="#V" n="95"/>prima: quia illa est iam accquisita: igitur alia: quia 
+        il<lb ed="#V" n="96" break="no"/>la est secundum quam fit intensio forme: sequitur quod 
+        forma<lb ed="#V" n="97" break="no"/>vere intenditur per acquisitionem noue partis: 
+        <lb ed="#V" n="98"/>siue noue realitatis eiusdem. Secundo: ad 
+        prin<lb ed="#V" n="99" break="no"/>cipale sic: nulla forma denominans aliquod 
+        subie<lb ed="#V" n="100" break="no"/>ctum denominatione intrinseca et formali: potest 
+        <lb ed="#V" n="101"/>ipsum secundum magis et minus denominare: nisi facta 
+        <lb ed="#V" n="102"/>reali mutatione in ipsa vel in subiecto: hoc patet: 
+        <lb ed="#V" n="103"/>quia si forma et subiectum se habent eodem modo: 
+        <lb ed="#V" n="104"/>eodem modo subiectum denominabitur: non enim est 
+        <lb ed="#V" n="105"/>aliqua ratio quare nunc denominetur aliter: quam 
+        pri<lb ed="#V" n="106" break="no"/>us: sed charitas: et omnis forma intensibilis 
+        deno<lb ed="#V" n="107" break="no"/>minat subiectum in quo est: secundum magis et minus 
+        de<lb ed="#V" n="108" break="no"/>nominatione intrinseca et formali: ergo necesse est 
+        <lb ed="#V" n="109"/>quod fiat aliqua realis mutatio in aliquo ipsorum. Sed 
+        <lb ed="#V" n="110"/>hec mutatio non est: nec potest esse in aliquo subiecto: 
+        <lb ed="#V" n="111"/>vt patet ex dictis: ergo est in forma. Sed realis 
+        mu<lb ed="#V" n="112" break="no"/>tatio non potest esse in forma ad propositum assignari: 
+        <lb ed="#V" n="113"/>nisi vna pars eius acquiratur. ergo etc. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e769">
+        Tertio sic 
+        <lb ed="#V" n="114"/>implicatio contradictionis esti quod aliquid de nouo 
+        <lb ed="#V" n="115"/>realiter perficiatur: nisi adueniente reali aliquo ipsum 
+        <lb ed="#V" n="116"/>perficiente: aliter posset dici: quod materia perficitur 
+        <lb ed="#V" n="117"/>realiter sine realitate adueniente: et sic tolleretur 
+        <lb ed="#V" n="118"/>omnis via ad probandum distinctionem realem 
+        inter<lb ed="#V" n="119" break="no"/>mam et formam: Sed charitas intensa realiter 
+        perfi<lb ed="#V" n="120" break="no"/>citur: non est dubium. ergo necesse est nouam 
+        realita<lb ed="#V" n="121" break="no"/>tem aduenire ipsam perficientem. Et confirmatur: 
+        <lb ed="#V" n="122"/>quia impossibile est: quod idem sit realiter perfectius 
+        <lb ed="#V" n="123"/>seipso: constat: quod forma intensa est realiter 
+        perfe<lb ed="#V" n="124" break="no"/>ctior remissa: igitur impossibile est quod sint idem 
+        peni<lb ed="#V" n="125" break="no"/>tus: et per consequens aliquid reale acquiritur 
+        inten<lb ed="#V" n="126" break="no"/>sa ratione: cuius non est idem penitus: sed differens 
+        <lb ed="#V" n="127"/>a remissa. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e802">
+        Quarto sic: si charitas augetur et non per 
+        <lb ed="#V" n="128"/>acquisitionem noue partis: siue noue realitatis 
+        se<lb ed="#V" n="129" break="no"/>quitur quod augmentans continue charitatem continue agit: quod 
+        <lb ed="#V" n="130"/>tamen nihil auget: quod est omnino impossibile: quia sequitur nihil 
+        <lb ed="#V" n="131"/>auget: igitur nihil agit: et consequentia quantum ad primam 
+        par<lb ed="#V" n="132" break="no"/>tem consequentis est clara: quia certtum est: quod 
+        augmen<lb ed="#V" n="133" break="no"/>tans continue charitatem: continue agit: quantum 
+        <lb ed="#V" n="134"/>ad secundam partem probatur: quia non facit 
+        for<lb ed="#V" n="135" break="no"/>mam preexistentem: nec aliquid aliud stante 
+        sup<lb ed="#V" n="136" break="no"/>posito: igitur nihil agit: et sic potest argui de qualibet 
+        for<lb ed="#V" n="137" break="no"/>ma intensibili. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e826">
+        Quinto sic: sequitur: in augmento 
+        for<lb ed="#V" n="138" break="no"/>ime non accquiritur aliquam realitas noua: quae sit for¬
+        <pb ed="#V" n="124-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>ma vel pars forme: igitur forma simul augetur et non 
+        <lb ed="#V" n="2"/>augetur: consequens est impossibile et implicatiuum contradictionis: igitur 
+        <lb ed="#V" n="3"/>et antecedens: consequentia probatur: quia illud non augetur: quod non se habet 
+        <lb ed="#V" n="4"/>aliter quam prius oppositum predicati infert 
+        opposi<lb ed="#V" n="5" break="no"/>tum subiecti: sed si in augmento forme non acquiri 
+        <lb ed="#V" n="6"/>tur aliqua realitas noua: que sit forma vel pars 
+        <lb ed="#V" n="7"/>fome: tunc illa forma non se habet aliter quam prius: 
+        <lb ed="#V" n="8"/>igitur si in augmento forme non acquiritur aliqua 
+        <lb ed="#V" n="9"/>realitas noua: quae sit forma vel pers forme: illa non 
+        au<lb ed="#V" n="10" break="no"/>getur: et tamen ponitur augeri. igitur simul augetur et non 
+        au<lb ed="#V" n="11" break="no"/>getur. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e859">
+        Sexto sic: omne excedens aliud: per aliquid ex 
+        <lb ed="#V" n="12"/>cedit illud: sed si duo calores sint nunc sub grabibus 
+        <lb ed="#V" n="13"/>equalibus: et vnus eorum intendatur: altero non 
+        inten<lb ed="#V" n="14" break="no"/>so: calor intensus excedit non intensum: igitur per 
+        <lb ed="#V" n="15"/>aliquid excedit ipsum: sed non excedit ipsum in aliqua 
+        <lb ed="#V" n="16"/>realitate: vel in parte caloris que prefuit: quia 
+        <lb ed="#V" n="17"/>in illa est equalis: et ex supposito: igitur necessario 
+        <lb ed="#V" n="18"/>excedit ipsum in aliqua realitate: vel parte 
+        calo<lb ed="#V" n="19" break="no"/>ris acquisita de nouo: et per consequens necesse quod in 
+        au<lb ed="#V" n="20" break="no"/>gmento caloris nouiter acquiratur aliqua realitas 
+        <lb ed="#V" n="21"/>vel aliqua pars caloris. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e883">
+        Ultimo sic: si sint 
+        petr<lb ed="#V" n="22" break="no"/>et paulus habentes charitatem omnino sub gradibus 
+        <lb ed="#V" n="23"/>equalibus: et intendatur charitas pe. charitate 
+        <lb ed="#V" n="24"/>pau. sub eodem gradu manente: certum est: quod pe. esset 
+        <lb ed="#V" n="25"/>magis charus et acceptus deo: quam pau. Ratio huius 
+        <lb ed="#V" n="26"/>est: quia prius erant equaliter chari et accepti deo: 
+        <lb ed="#V" n="27"/>quia habentes charitates omnino equales: et nunc 
+        pe<lb ed="#V" n="28" break="no"/>trus est magis acceptus deo quam prius: quia eius 
+        <lb ed="#V" n="29"/>charitas est intensior: pau. aut non: quia charitas 
+        <lb ed="#V" n="30"/>eius sub eodem gradu manet: quo prius. Cunc 
+        <lb ed="#V" n="31"/>sic: charitas pe. stante supposito habet aliquid 
+        <lb ed="#V" n="32"/>intrinsece de natura charitatis: quam prius non habuit: 
+        <lb ed="#V" n="33"/>vel non: si sic: cum nihil sit intrinsecum charitati nisi 
+        <lb ed="#V" n="34"/>charitas vel pars charitatis: sequitur: quod cum 
+        cha<lb ed="#V" n="35" break="no"/>ritas intenditur acquiritur noua charitas: vel 
+        noua<lb ed="#V" n="36" break="no"/>pars charitatis: quod est propositum: Si non: sequitur 
+        <lb ed="#V" n="37"/>quod pe. et pau. sunt equaliter chari et accepti deo: et 
+        <lb ed="#V" n="38"/>tamen pe. est magis charus et acceptus deo: quam paulus 
+        <lb ed="#V" n="39"/>quod est impossibile: et implicans contradictionem 
+        <lb ed="#V" n="40"/>Ista consequentia probatur: quia si charitas 
+        <lb ed="#V" n="41"/>pe: non habet aliquid intrinsece de natura 
+        charita<lb ed="#V" n="42" break="no"/>tis: quod prius non habuit: sequitur quod erat equalis in 
+        <lb ed="#V" n="43"/>natura charitatis charitate pau: quia praeus erat equalis ei 
+        <lb ed="#V" n="44"/>et nihil acquisiuit de nar charitatis. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e936">
+        Sed sequitur: quod 
+        <lb ed="#V" n="45"/>charitas pe. est equalis charitati pau. in na 
+        chari<lb ed="#V" n="46" break="no"/>tatis: igitur pe. et pau. sunt equaliter chari et 
+        accepti<lb ed="#V" n="47" break="no"/>deo: quia habentes charitates omnino equales: et tamen pe: 
+        <lb ed="#V" n="48"/>est magis charus et magis acceptus quam pau: quia eius 
+        <lb ed="#V" n="49"/>charitas est intensior: ex supposito: igitur pe. et pau. 
+        <lb ed="#V" n="50"/>simul erant equaliter chari et accepti deo: et tamen pe. 
+        <lb ed="#V" n="51"/>erit magis charus et acceptus deo quam pau que fuit 
+        <lb ed="#V" n="52"/>consequentia declaranda. Ex ista conclusione sequitur: quod 
+        cha<lb ed="#V" n="53" break="no"/>ritas et vniversaliter forma intensibilis: si sit permanens 
+        auge<lb ed="#V" n="54" break="no"/>tur per additionem partis ad partem: siue quia pars 
+        <lb ed="#V" n="55"/>addatur parti: vtraque parte remanentet: quod 
+        prin<lb ed="#V" n="56" break="no"/>cipaliter querebatur: deductio est euidens: quia charie 
+        <lb ed="#V" n="57"/>tas et vniversaliter omnis forma intensibilis: si sit permanens 
+        <lb ed="#V" n="58"/>augetur per acquisitionem noue partis priore non 
+        <lb ed="#V" n="59"/>corrupta: igitur augetur per additionem partis ad 
+        <lb ed="#V" n="60"/>partem: vtraque parte remanente: consequentia est nota: et 
+        <lb ed="#V" n="61"/>antecedens quantum ad secundam partem patet ex prima 
+        con<lb ed="#V" n="62" break="no"/>clusione: et quantum ad primam patet ex secunda. Et 
+        <lb ed="#V" n="63"/>confirmatur ista propositio ad praesens dupliciter Primo 
+        <lb ed="#V" n="64"/>sic: ad sensum videmus: quod si vna candela illuminam 
+        <lb ed="#V" n="65"/>do aerem apponatur alia: lumen intenditur in ipso: vl 
+        <lb ed="#V" n="66"/>igitur candela nouiter apposita causat aliquod 
+        lu<lb ed="#V" n="67" break="no"/>men in aere: vel non. Secundum dari non potest: 
+        tu<lb ed="#V" n="68" break="no"/>quia non posset assignari ratio cur lumen esset inten¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="69"/>sius nunc quam prius: tum quia ad sensum videmus 
+        <lb ed="#V" n="70"/>quod amota prima candela aer manet illuminatus quod 
+        <lb ed="#V" n="71"/>non esset possibile: nisi candela secunda: causaret lumen 
+        <lb ed="#V" n="72"/>in ipso: relinquitur ergo primum: et sic propositum: 
+        <lb ed="#V" n="73"/>quia cum lumen causatum a prima candela non 
+        cor<lb ed="#V" n="74" break="no"/>rumpatur: sed remaneat: vt patet ex prima 
+        conclu<lb ed="#V" n="75" break="no"/>sione sequitur: quod intendatur per additionem luminis. 
+        <lb ed="#V" n="76"/>nouiter causati: priori lumine remanente: et quia 
+        <lb ed="#V" n="77"/>idem iudicium est de qualibet alia forma 
+        intensi<lb ed="#V" n="78" break="no"/>bili: sequitur: quod omnis talis intendatur per 
+        additio<lb ed="#V" n="79" break="no"/>nem partis ad partem: vtraque remanente. 
+        Con<lb ed="#V" n="80" break="no"/>firmatur: quia experientia manifestat: quod duo ignes 
+        <lb ed="#V" n="81"/>quorum quilibet sit. 10. graduum vel. 2o. simul 
+        agen<lb ed="#V" n="82" break="no"/>tes in stuppam equaliter distantem ab vtroque: 
+        caus<lb ed="#V" n="83" break="no"/>sant maiorem calorem in ipsa: quam alter eorum pre 
+        <lb ed="#V" n="84"/>cise: vel igitur vterque eorum causat gradum 
+        calo<lb ed="#V" n="85" break="no"/>ris in ipsa: vel non. Si sic propositum: quia sequitur: quod 
+        <lb ed="#V" n="86"/>ex gradu et gradu caloris fit vnus calor intensus 
+        <lb ed="#V" n="87"/>et per consequens calor intenditur per additionem gradus: 
+        <lb ed="#V" n="88"/>ad gradum: siue partis ad pariem: remanete vtraque 
+        <lb ed="#V" n="89"/>parte: quod intendimus. Si non: sequitur quod illo ammo 
+        <lb ed="#V" n="90"/>to: qui non causat calorem in stuppa: calor stuppe non 
+        <lb ed="#V" n="91"/>remittetur: cuius oppositum patet ad sensum. Et vel 
+        <lb ed="#V" n="92"/>terius non apparet aliqua ratio: quare vnus causa 
+        <lb ed="#V" n="93"/>bit calorem et alius non: cum sint equalis et in 
+        equa<lb ed="#V" n="94" break="no"/>li distantia: ex supposito.
+      </p>
+               <p xml:id="at8va9-e75236-d1e1049">
+        Ultimo sic: charitas 
+        <lb ed="#V" n="95"/>intensa habet plures gradus charitatis. quam 
+        cha<lb ed="#V" n="96" break="no"/>ritas remissa: igitur charitas intenditur per additio 
+        <lb ed="#V" n="97"/>nem gradus ad gradum vtroque remanente: consequentia 
+        no<lb ed="#V" n="98" break="no"/>ta: oppositum enim consesuentis infert oppositum antetis: quia 
+        sequi<lb ed="#V" n="99" break="no"/>tur charitas non intenditur per additionem gradus ad 
+        gra<lb ed="#V" n="100" break="no"/>dum. vtroque remanente: igitur ex gradu et gradu 
+        chari<lb ed="#V" n="101" break="no"/>tatis non fit charitas intensior: ergo charitas intensa 
+        <lb ed="#V" n="102"/>non habet plures gradus charitatis quam charitas 
+        <lb ed="#V" n="103"/>remissa: quod est oppositum antetis. Sed antecedens probatur: 
+        <lb ed="#V" n="104"/>quia si detur oppositum: sequitur quod charitas christi non fuit 
+        <lb ed="#V" n="105"/>intensior charitate lini: quod non videtur ab aliquo 
+        ca<lb ed="#V" n="106" break="no"/>tholico concedendum: Ista consequentia patet: quia chariias 
+        <lb ed="#V" n="107"/>christi non est maior charitate lini: igitur nec melior. dicit 
+        <lb ed="#V" n="108"/>b. Aug. 6. de tri. c. 12. de par. quod in his que non 
+        mole<lb ed="#V" n="109" break="no"/>magna sunt: hoc est maius esse: quod est melius esse 
+        <lb ed="#V" n="110"/>sed si detur oppositum antetis: euidenter sequitur. quod 
+        <lb ed="#V" n="111"/>charitas christi in natura charitatis non sit maior 
+        charita<lb ed="#V" n="112" break="no"/>te lini. Tertia conclusio principalis est: quod pars 
+        si<lb ed="#V" n="113" break="no"/>ue realitas adueuiens in augmento charitatis: et 
+        <lb ed="#V" n="114"/>cuiuslibet alterius forme intensibilis realiter 
+        distin<lb ed="#V" n="115" break="no"/>guitur a priori: 
+      </p>
+               <p xml:id="at8va9-e75236-d1e1097">
+        Probatur primo sic: implicatio contra 
+        <lb ed="#V" n="116"/>dictionis est: quod aliqua realitas sit realiter prior non 
+        <lb ed="#V" n="117"/>solum natura. sed etiam duratione. eo quod est ide realiter cum 
+        <lb ed="#V" n="118"/>ipsa: sed realitas forme precedentis est realiter 
+        pri<lb ed="#V" n="119" break="no"/>or realitate adueniente: non solum natura: sed etiam 
+        dura<lb ed="#V" n="120" break="no"/>tione: igitur ista realiter non est illa: et quaelibet earum est 
+        <lb ed="#V" n="121"/>forma intensa: igitur realiter distinguitur in ipsa. Nec 
+        <lb ed="#V" n="122"/>valet si dicatur: quod nulla istarum realitatum est in actu 
+        <lb ed="#V" n="123"/>sed in potentia tantum: cum sint partes vnius forme: 
+        <lb ed="#V" n="124"/>quia esse sic in potentia non impedit distinctionem 
+        <lb ed="#V" n="125"/>realem: aliter duo semipalmi non distinguerentur in 
+        <lb ed="#V" n="126"/>palmo. quod est euidenter falsum: 
+      </p>
+               <p xml:id="at8va9-e75236-d1e1123">
+        Secundo ad 
+        principa<lb ed="#V" n="127" break="no"/>le sic. illa non sunt idem realiter. quorum vnum 
+        po<lb ed="#V" n="128" break="no"/>test realiter esse. altero non existente. hoc patet per 
+        <lb ed="#V" n="129"/>primum principium complexum: et si negatur. perit 
+        om<lb ed="#V" n="130" break="no"/>nis via probandi distinctionem realem inter quacunque 
+        <lb ed="#V" n="131"/>Sed realitas forme precedentis potest realiter esse 
+        <lb ed="#V" n="132"/>alia realiter non existente: quia perm odum remissionis 
+        <lb ed="#V" n="133"/>potest ab ipsa totaliter separari: ergo etci Et 
+        con<lb ed="#V" n="134" break="no"/>firmatur: quia quod pro aliqua mensura est vel fuit. 
+        <lb ed="#V" n="135"/>et non est vel non fuit idem realiter cum aliquo: 
+        pro<lb ed="#V" n="136" break="no"/>nulla mensura est idem realiter: cum ipso. Sed rea¬
+        <pb ed="#V" n="124-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>litas forme precedentis pro aliqua mensura fuit o 
+        <lb ed="#V" n="2"/>pro qua non fuit idem realiter cum sequente: quia 
+        <lb ed="#V" n="3"/>ante forme intensionem realitas precedens fuit: et 
+        <lb ed="#V" n="4"/>tamen non fuit idem realiter cum sequente: quia non 
+        <lb ed="#V" n="5"/>dum erat. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e1162">
+        Tertio sic: vel quaelibet istarum 
+        rea<lb ed="#V" n="6" break="no"/>litatum est idem realiter: cum tota forma: vel non. 
+        <lb ed="#V" n="7"/>Si sic: sequitur quod totum reale sit idem realiter cum sua 
+        <lb ed="#V" n="8"/>parte: quod est impossibile: Si non: igitur vna earum 
+        rea<lb ed="#V" n="9" break="no"/>litatum non est idem realiter cum alia: quia non 
+        diui<lb ed="#V" n="10" break="no"/>ditur a toto nisi ratione alterius sictus Ultima conclusio 
+        <lb ed="#V" n="11"/>est: quod pars siue realitas adueniens in augmento 
+        <lb ed="#V" n="12"/>charitatis: et cuiuslibet alterius forme 
+        intensibi<lb ed="#V" n="13" break="no"/>lis sunt eiusdem speciei specialissime cum priori: et 
+        <lb ed="#V" n="14"/>vniversaliter omnes partes charitatis 
+      </p>
+               <p xml:id="at8va9-e75236-d1e1184">
+        Probatur sic. Si pars 
+        <lb ed="#V" n="15"/>adueniens in augmento charitatis non esset 
+        eius<lb ed="#V" n="16" break="no"/>dem rationis specifice cum precedente: sequeretur quod 
+        <lb ed="#V" n="17"/>charitas intensa non esset eiusdem speciei cum 
+        cha<lb ed="#V" n="18" break="no"/>ritate remissa: consequens est falsum et secundum omnes: igitur et antecedens: 
+        <lb ed="#V" n="19"/>consequentia probatur: quia constitutiuum ex duobus alterius et 
+        al<lb ed="#V" n="20" break="no"/>terius rationis non est eiusdem rationis specifice cum 
+        <lb ed="#V" n="21"/>aliquo ipsorum: sicut patet de homine respectu anime 
+        <lb ed="#V" n="22"/>et corporis et similibus. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e1205">
+        Et confirmatur: quia si pars 
+        <lb ed="#V" n="23"/>aduentens in augmento charitatis esset alterius 
+        <lb ed="#V" n="24"/>rationis a precedente: vel faceret aliquid per se vnum 
+        <lb ed="#V" n="25"/>cum ipsa: vel non. Si non: charitas intensa non 
+        <lb ed="#V" n="26"/>esset aliquid per se vnum: quod non est verum: Si sic: 
+        <lb ed="#V" n="27"/>necessario charitas intensa variaret speciem: quia 
+        <lb ed="#V" n="28"/>aliquid esset essentia le charitatis intense: quod nihil 
+        <lb ed="#V" n="29"/>eiusdem rationis esset essentiale charitatis remisse. 
+        <lb ed="#V" n="30"/>Secundo sic ex duobus accidentibus diuersarum 
+        <lb ed="#V" n="31"/>rationum: quorum neutrum alterum informatu non 
+        consti<lb ed="#V" n="32" break="no"/>tu itur essentia per se vna: patet de se: sed gradus 
+        <lb ed="#V" n="33"/>precedens et adueniens in augmento forme sunt 
+        <lb ed="#V" n="34"/>duo accidentia: quorum neutrum alterum informat: 
+        <lb ed="#V" n="35"/>secundum omnes: et ex ipsis constituitur essentia per se vna: 
+        <lb ed="#V" n="36"/>aliter forma intensa non esset per se vna quod nullus 
+        <lb ed="#V" n="37"/>ponit. igitur isti gradus non sunt diuersarum ratio 
+        <lb ed="#V" n="38"/>num: et hoc de secundo arti.
+      </p>
+            </div>
+            <div xml:id="at8va9-e75236-Dd1e1243">
+               <head xml:id="at8va9-e75236-Hd1e1245">Articuli 3 et 4</head>
+               <p xml:id="at8va9-e75236-d1e1247">
+                  <lb ed="#V" n="39"/>Tertius et quartus ar. 
+        <lb ed="#V" n="40"/>QUuantum ad tertium et quatum articulos. simul: 
+        con<lb ed="#V" n="41" break="no"/>tra conclusiones istas mouenda et disso 
+        luenda<lb ed="#V" n="42" break="no"/>sunt dubia: et Primo contra primam et secundam propo 
+        <lb ed="#V" n="43"/>sitionem: quam ex prima et secunda intuli correlarie est 
+        <lb ed="#V" n="44"/>quedam opinio que ponit: sicut in primo articulo 
+        <lb ed="#V" n="45"/>tangebatur: quod impossibile est formam aliquam augeri 
+        <lb ed="#V" n="46"/>per additionem partis ad partem: vtraque parte re 
+        <lb ed="#V" n="47"/>manente. Si in augmento cuiuslibet: vt asserit hec 
+        <lb ed="#V" n="48"/>opinio: tota forma corrumpitur et noua alia perfectior 
+        <lb ed="#V" n="49"/>generatur primam continens in virtute sic: quod in 
+        subie<lb ed="#V" n="50" break="no"/>cto numquam sunt simul alique forme due: quarum vna 
+        <lb ed="#V" n="51"/>realiter aliam in ipso precedat. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e1278">
+                  <lb ed="#V" n="52"/>Gualterus burlee in tractatu de intensione et 
+        <lb ed="#V" n="53"/>remissione. c. 1. 
+        <lb ed="#V" n="54"/>Pro ista opinione quidam doctor noster arguit: 
+        <lb ed="#V" n="55"/>Primo sic: si intensio luminis fieret per additionem 
+        <lb ed="#V" n="56"/>luminis ad lumen: vtroque remanente: sequeretur quod 
+        <lb ed="#V" n="57"/>lumen in aere esset infinitum intensiue: conseques 
+        <lb ed="#V" n="58"/>est falsum: et contra omnes: igitur et antecedens: 
+        <lb ed="#V" n="59"/>consequentia probatur sic: ponatur quod aliquod corpus 
+        <lb ed="#V" n="60"/>luminosum causet lumen in aere: vel in aliquo 
+        su<lb ed="#V" n="61" break="no"/>sceptiuo luminis in instanti. a. et quod continue post. a 
+        <lb ed="#V" n="62"/>moueatur ad illud susceptiuum luminis appropinquam 
+        <lb ed="#V" n="63"/>do illi susceptiuo: certum est. quod in isto casu posito 
+        lu<lb ed="#V" n="64" break="no"/>men in isto susceptiuo continue augmentatur: si 
+        er<lb ed="#V" n="65" break="no"/>go augmentetur per additionem luminis ad 
+        lumen<lb ed="#V" n="66" break="no"/>cum corpus luminosum in quodlibet instanti 
+        tem<lb ed="#V" n="67" break="no"/>poris mensurantis illum modum seu illam appro 
+        <lb ed="#V" n="68"/>pinquationem causet tantum lumen in illo suscepti¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="69"/>uo: quantum causauit in al: et infinita sunt instantia 
+        <lb ed="#V" n="70"/>in tempore illius appropinquationis et omnia illa 
+        <lb ed="#V" n="71"/>lumina manent simul: cum intensio forme per me 
+        <lb ed="#V" n="72"/>fiatpor additionem partis ad partem vtraque 
+        simul<lb ed="#V" n="73" break="no"/>remanente: sequitur: quod infinita lumina equalia 
+        in<lb ed="#V" n="74" break="no"/>inteusione erunt simul in illo susceptiuo: Sed illud 
+        <lb ed="#V" n="75"/>quod habet infinitas partes equales: per quarum ad 
+        <lb ed="#V" n="76"/>ditionem fit eius intensio est infinitum intensiue: 
+        <lb ed="#V" n="77"/>ergo aliquod totale lumen est infinitum intensiue 
+        <lb ed="#V" n="78"/>quod auntem corpus luminosum in quolibet instanti post 
+        <lb ed="#V" n="79"/>a. causauerit tantum lumen: quantum causauit in. a. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e1343">
+        Pro 
+        <lb ed="#V" n="80"/>batur sic: quia quanto agens est perfectus et 
+        pro<lb ed="#V" n="81" break="no"/>pinquius passo equaliter: vel magis disposito quam 
+        <lb ed="#V" n="82"/>prius: tanto fortius agit et perfectiorem effectum 
+        <lb ed="#V" n="83"/>inducit: Sed corpus luminosum continue post. a. 
+        <lb ed="#V" n="84"/>magis approximatur susceptiuo luminis: quam prius. et 
+        <lb ed="#V" n="85"/>susceptiuum est eque dispositum vel magis quam prius: 
+        <lb ed="#V" n="86"/>quia vnum lumen disponit ad aliud. vel saltem non 
+        <lb ed="#V" n="87"/>reddit subiectum indispositum ad aliud lumen: ex 
+        <lb ed="#V" n="88"/>quo diuersa lumina possunt simul esse et facere vnum: 
+        <lb ed="#V" n="89"/>ergo corpus lumiuo sum continue post. a. causat 
+        <lb ed="#V" n="90"/>tantum lumen: quantum causauit in. a. Et si 
+        dica<lb ed="#V" n="91" break="no"/>tur quod continue post. a. causat maius lumen quam 
+        cau<lb ed="#V" n="92" break="no"/>sauerit ina. adhuc conceditur: propositum: quia 
+        ma<lb ed="#V" n="93" break="no"/>gis incsudunt equale: ergo si causat maius 
+        lumen<lb ed="#V" n="94" break="no"/>causat equale. Et iterum illud quod constituitur ex 
+        in<lb ed="#V" n="95" break="no"/>finitis partibus formalibus intendentibus ipsu: 
+        <lb ed="#V" n="96"/>quarum semper posterior est perfectior priore est 
+        <lb ed="#V" n="97"/>infinitum intensiue: ergo totum illud lumen aggre 
+        <lb ed="#V" n="98"/>gatum ex infinitis erit infinitum intensiue. Si 
+        ve<lb ed="#V" n="99" break="no"/>ro dicatur: quod corpus luminosum in quolibet 
+        insta<lb ed="#V" n="100" break="no"/>ti post. a. causat minus de lumine: quam prius: ita quod 
+        <lb ed="#V" n="101"/>quanto est propinquius susceptiuo luminis tanto 
+        cau<lb ed="#V" n="102" break="no"/>set minus de lumine nouo: totum tamen lumen est 
+        <lb ed="#V" n="103"/>maius: quanto corpus lumiuo sum magis 
+        appro<lb ed="#V" n="104" break="no"/>pinquat: adhuc conceditur propositum: quia accipiatur 
+        <lb ed="#V" n="105"/>aliquod instans temporis mensurantis illam appro 
+        <lb ed="#V" n="106"/>ximationem: et sit illud istans. dicit in. dicit instans corpus 
+        <lb ed="#V" n="107"/>luminosum causat minus de lumine quam in aliquo in 
+        <lb ed="#V" n="108"/>stanti priori: ergo in quolibet instanti inter. dicit et. a. 
+        <lb ed="#V" n="109"/>causabitur tantum lumen in illo susceptiuo: quantum 
+        <lb ed="#V" n="110"/>causatur in instanti: dicit quia si causatur maius causatur: et 
+        <lb ed="#V" n="111"/>tantum siue equale. tamen ergo infinita instantia sint in 
+        <lb ed="#V" n="112"/>ter. dicit et a. sequitur: quod in dicit instans sunt infinita 
+        lu<lb ed="#V" n="113" break="no"/>mina inlillo susceptiuo tante perfectionis vel 
+        inten<lb ed="#V" n="114" break="no"/>sionis: quante est illud lumen nouum causatum in 
+        <lb ed="#V" n="115"/>instanti. a: quia omnia illa lumina manent et 
+        con<lb ed="#V" n="116" break="no"/>stituunt vnum lumen: ergo totum existens in illo 
+        su<lb ed="#V" n="117" break="no"/>sceptiuo in instanti. dicit erit infinitum intensiue cum 
+        <lb ed="#V" n="118"/>componatur ex infinitis partibus equalibus 
+        in<lb ed="#V" n="119" break="no"/>perfectione siue intensione: 
+      </p>
+               <p xml:id="at8va9-e75236-d1e1432">
+        Preterea: ad 
+        princi<lb ed="#V" n="120" break="no"/>per ale secundo sic: illud quod non est intensius sua parte 
+        <lb ed="#V" n="121"/>formali non intenditur per additionem partis 
+        forma<lb ed="#V" n="122" break="no"/>lis ad partem formalem: hoc patet: quia ex opposito 
+        <lb ed="#V" n="123"/>sequitur oppositum quia si aliquid intendatur per 
+        ad<lb ed="#V" n="124" break="no"/>ditionem partis ad partem: tunc ex hoc: quod est 
+        ma<lb ed="#V" n="125" break="no"/>ius et plures partes habens: est intensius: sed totum 
+        <lb ed="#V" n="126"/>est maius et plures partes habens quam pars aliqua: 
+        <lb ed="#V" n="127"/>ergo si aliquid intendatur per additionem patis ad 
+        <lb ed="#V" n="128"/>ad partem illud erit intensius sua parte formali: er 
+        <lb ed="#V" n="129"/>go ex supposito illud quod non est intensius sua 
+        par<lb ed="#V" n="130" break="no"/>te formali illud non intenditur per additionem 
+        par<lb ed="#V" n="131" break="no"/>tis ad partem: sed forma non est intensior sua 
+        par<lb ed="#V" n="132" break="no"/>te formali: ergo forma non intenditur per 
+        additio<lb ed="#V" n="133" break="no"/>nem partis formalis: ad partem formalem: 
+        ma<lb ed="#V" n="134" break="no"/>ior patet ex dictis: et probatur minor sic: 
+        accipia<lb ed="#V" n="135" break="no"/>tur calor intensissimus: et sit. a. et sint. b. et. c. 
+        <lb ed="#V" n="136"/>due medietates formales eius caloris: tunc quero
+        <pb ed="#V" n="125-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>an. b. sit calor intensus sicut. a. an est calor remissior 
+        <lb ed="#V" n="2"/>si b. sit calor ita intensus sicut. a. ergo tota forma 
+        in<lb ed="#V" n="3" break="no"/>tensa non est intensior sua parte formali quod est propositum. 
+        <lb ed="#V" n="4"/>Si detur quod b. est calor remissior quam. a. eadem ratione 
+        <lb ed="#V" n="5"/>mendietas illius. b. erit remissior illa medietate: et 
+        <lb ed="#V" n="6"/>medietas illius medietatis remissior illa medieta 
+        <lb ed="#V" n="7"/>te: etc: quousque sit deueutum ad calorem remissiuum 
+        <lb ed="#V" n="8"/>vel valde remissum. Cum ergo huiusmodi partes 
+        for<lb ed="#V" n="9" break="no"/>males sint simul in eodem subiecto adequato: 
+        sequi<lb ed="#V" n="10" break="no"/>tur quod in eodem subiecto adequato simul erunt calor in 
+        <lb ed="#V" n="11"/>tensissimus et calor remisissimus: quod videtur 
+        impossi<lb ed="#V" n="12" break="no"/>bile: pro pter tria. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e1503">
+        Primo: quia calidum sumum et calidum 
+        <lb ed="#V" n="13"/>remissum sunt incompossibilia: ita quod non possunt simus 
+        <lb ed="#V" n="14"/>esse in eodem subiecto adequato: quod patet quia si 
+        ponan<lb ed="#V" n="15" break="no"/>tur in diuersis subiectis agunt et patiuntur ad inuicem 
+        <lb ed="#V" n="16"/>calidum ens in summo approximatum calido remisso 
+        <lb ed="#V" n="17"/>agit in ipsum expellendo illum gradum remissum. Sed 
+        <lb ed="#V" n="18"/>illud quod expellit aliud est incompossibile ei. ergo calor 
+        <lb ed="#V" n="19"/>summus et remissus non possunt simul stare in eodem 
+        sub<lb ed="#V" n="20" break="no"/>iecto adequato. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e1523">
+        Secundo quia forma habens 
+        con<lb ed="#V" n="21" break="no"/>trarium non remittitur nisi per admixtionem 
+        contra<lb ed="#V" n="22" break="no"/>rii. si ergo calor remissus sit cum calore intenso: cum 
+        <lb ed="#V" n="23"/>calor non sit remississimus nisi per admixtionem 
+        fri<lb ed="#V" n="24" break="no"/>goris: sequitur calor intensissimus esset simul cum 
+        fri<lb ed="#V" n="25" break="no"/>re: quod est impossibile. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e1536">
+        Tertio: quia forma 
+        intesi<lb ed="#V" n="26" break="no"/>sima non permittit secum aliquod contrarium sibi. quia quae 
+        <lb ed="#V" n="27"/>litercumque sit contrarium facit quod forma contraria cui ad 
+        <lb ed="#V" n="28"/>miscetur non est pura. nec per conseques intensissima 
+        <lb ed="#V" n="29"/>Sed calor remisissimus aliquo modo contrariatur 
+        <lb ed="#V" n="30"/>calori intensissimo: ergo calor remisissimus nullo 
+        <lb ed="#V" n="31"/>modo potest esse cum calore intensissimo. Istud argu 
+        <lb ed="#V" n="32"/>mentum vt dicit iste doc. potest euidentius fieri in 
+        <lb ed="#V" n="33"/>aliis terminis scilicet in raritate intensissima et raritate 
+        <lb ed="#V" n="34"/>remissa: quia accipiamus aliquod corpus rarissimum: 
+        <lb ed="#V" n="35"/>et sit. a. sua raritas intensissima: et sint. b. c. 
+        medie<lb ed="#V" n="36" break="no"/>tates formales ipsius. a. tunc queritur aut. b. est 
+        ra<lb ed="#V" n="37" break="no"/>ritas ita intensa sicut. a. vel est magis remissa: si sit 
+        <lb ed="#V" n="38"/>ita intensa: tunc totum non est intensius sua parte 
+        <lb ed="#V" n="39"/>et per consequens intensio non fit per additionem 
+        <lb ed="#V" n="40"/>partis ad partem. Si vero b. sit raritas magis 
+        re<lb ed="#V" n="41" break="no"/>missa quam. a. eadem ratione medietas ipsius erit 
+        ma<lb ed="#V" n="42" break="no"/>gis remissa quam. b. et sic de medietate medietatis: et 
+        <lb ed="#V" n="43"/>ita simul et adequate in eodem subiecto erunt rari 
+        <lb ed="#V" n="44"/>tas intensissima vel valde remissa: quod est 
+        imposs<lb ed="#V" n="45" break="no"/>bilie: quia quanto raritas est remissior partes 
+        sui<lb ed="#V" n="46" break="no"/>subiecti proprinquius iacent: et quanto raritas est 
+        <lb ed="#V" n="47"/>intensior tanto partes sui subiecti medietate remo 
+        <lb ed="#V" n="48"/>tius iacent: ergo si in eodem subiecto adequato 
+        si<lb ed="#V" n="49" break="no"/>mul raritas intensissima: et raritas remisissima: se 
+        <lb ed="#V" n="50"/>quitur quod eedem partes simul iacebunt magis 
+        pro<lb ed="#V" n="51" break="no"/>pinque et magis remote: et minus remote: quod est 
+        <lb ed="#V" n="52"/>impossibile. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e1597">
+        Tertio ad principale sic: illud quood 
+        <lb ed="#V" n="53"/>non diminuitur per ablationem partis a parte: non 
+        <lb ed="#V" n="54"/>augetur per additionem partis ad partem: hoc 
+        pa<lb ed="#V" n="55" break="no"/>tet: quia augmentum et diminutio sunt contraria: 
+        <lb ed="#V" n="56"/>et per consequens habent fieri circa idem et modis 
+        <lb ed="#V" n="57"/>contrariis: sed forma suscipiens magis et minus non 
+        <lb ed="#V" n="58"/>diminuitur per ablationem partis a parte: ergo non 
+        <lb ed="#V" n="59"/>augetur per additionem partis ad partem: maior 
+        <lb ed="#V" n="60"/>patet: minor probatur sic: si forma suscipiens 
+        ma<lb ed="#V" n="61" break="no"/>gis et minus diminueretur per ablationem partis 
+        <lb ed="#V" n="62"/>a parte: sequitur quod tota forma simul perderetur: 
+        <lb ed="#V" n="63"/>quod est per me falsum: et repugnans antecedenti: 
+        <lb ed="#V" n="64"/>consequentia probatur sic: quandocunque aliquod 
+        <lb ed="#V" n="65"/>agens est equaliter approrimatum duabus 
+        equal<lb ed="#V" n="66" break="no"/>libus in virtute ad resistendum illi agenti: et 
+        medi<lb ed="#V" n="67" break="no"/>um est eque dispositum: et non est aliquid impedi¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="68"/>ens actionem agentis in vnum magis quam reliquum 
+        <lb ed="#V" n="69"/>istorum: nec est aliud magis promouens actionem 
+        <lb ed="#V" n="70"/>in vnum magis quam reliquum: stantibus omnibiis 
+        <lb ed="#V" n="71"/>istis conditionibus paribus in eadem mensura in 
+        <lb ed="#V" n="72"/>qua illud agens destruit vnum et reliquum: ista vt 
+        <lb ed="#V" n="73"/>dicit est de se nota: quia ex quo agens est eque 
+        pro<lb ed="#V" n="74" break="no"/>pinquum vtrique: et omnia alia sunt paria non est a 
+        li<lb ed="#V" n="75" break="no"/>qua ratio propter quam magis et citius destruat 
+        <lb ed="#V" n="76"/>vnum quam reliquum. Accipiamus ergo duas 
+        medie<lb ed="#V" n="77" break="no"/>tates qualitatiuas forme corrumpende et sint. a. et 
+        <lb ed="#V" n="78"/>b. illa per me extenduntur simul secundum totam 
+        profun<lb ed="#V" n="79" break="no"/>ditatem sui subiecti: et ita equaliter distant ab 
+        agen<lb ed="#V" n="80" break="no"/>te habente potestatem diminuendi et corrumpendi 
+        <lb ed="#V" n="81"/>illam formam. Iterum ille medietates sunt 
+        equa<lb ed="#V" n="82" break="no"/>les in virtute ad resistendum actioni agentis: et me 
+        <lb ed="#V" n="83"/>dium est eque dispositum: quia medium est omnino 
+        <lb ed="#V" n="84"/>idem: nec est aliud impedimentum: quare non agit 
+        <lb ed="#V" n="85"/>in vnam illarum partium sicut in reliquam: ex 
+        quo<lb ed="#V" n="86" break="no"/>omnia sunt paria: ergo in eadem mensura in 
+        qua<lb ed="#V" n="87" break="no"/>destruit vnam medietatem destruit reliquam: et 
+        <lb ed="#V" n="88"/>eodem modo potest argui de omnibus medietati 
+        <lb ed="#V" n="89"/>bus: et de omnibus partibus scilicet quod vna medietas 
+        <lb ed="#V" n="90"/>nec aliqua pars corrumpitur ante aliam: ergo 
+        to<lb ed="#V" n="91" break="no"/>ta forma simul corrumpitur: que fuit consequentia 
+        declaran<lb ed="#V" n="92" break="no"/>da. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e1688">
+        Quarto ad principale sic: si forma intenditur 
+        <lb ed="#V" n="93"/>per additionem partis ad partem: sequitur quod due 
+        for<lb ed="#V" n="94" break="no"/>me accidentales eiusdem generis sic se habeant quod vna 
+        <lb ed="#V" n="95"/>excedit aliam in infinitum in perfectione: consequens est 
+        <lb ed="#V" n="96"/>impossibile: quia sequitur quod forma excedens esset 
+        in<lb ed="#V" n="97" break="no"/>finite perfectionis intensiue: quod est impossibile: 
+        con<lb ed="#V" n="98" break="no"/>sequentia probatur: pro cuius probatione supponuntur duo 
+        <lb ed="#V" n="99"/>communitur concessa. Primum est: quod contraria differunt 
+        <lb ed="#V" n="100"/>specie. Secundum: quod impossibile est esse duas species 
+        <lb ed="#V" n="101"/>equalis perfectionis in vniuerso: nec est impossibile 
+        <lb ed="#V" n="102"/>duo indiuidua duarum specierum esse eque perfecta. 
+        <lb ed="#V" n="103"/>His suppositis sic arguitur: sint. a: et. b. duo 
+        indi<lb ed="#V" n="104" break="no"/>uidua specierum contrariarum: et sit. a. indiuiduum 
+        albe<lb ed="#V" n="105" break="no"/>dinis: et b. indiuiduum nigredinis: tunc. a. excedit. b. 
+        <lb ed="#V" n="106"/>in perfectione sine omni proportione: sed cuiuslibet 
+        fi<lb ed="#V" n="107" break="no"/>niti ad infinitum est aliqua proportio: ergo etc. Quod aut 
+        <lb ed="#V" n="108"/>tem. a. excedit. b. in perfectione sine omni proportione 
+        pro<lb ed="#V" n="109" break="no"/>batur: quia. a. habet infinitas partes qualitatiuas 
+        <lb ed="#V" n="110"/>seu formales secundum opinionem quam sequor: tunc sic. a. 
+        ex<lb ed="#V" n="111" break="no"/>cedit in perfectione suam medietatem qualitatiuam in 
+        du<lb ed="#V" n="112" break="no"/>plo: et si vna medietas excedit. b. cum sit perfectioris 
+        <lb ed="#V" n="113"/>speciei quam. b. ergo. a. excedit. b. in duplo. Et eodem 
+        <lb ed="#V" n="114"/>modo potest probari quod a. excedit. b. in quadruplo: cum 
+        <lb ed="#V" n="115"/>igitur. a. secundum istam opinionem sit diuisibilis in infinitum secundum 
+        <lb ed="#V" n="116"/>tales partes formales: et totum excedit partem suam in 
+        <lb ed="#V" n="117"/>perfectione: sequitur quod: a. excedit aliam eius partem 
+        <lb ed="#V" n="118"/>in duplo et aliam in triplo: et aliam in quadruplo: et sic in 
+        <lb ed="#V" n="119"/>infinitum: et quaelibet pars eius est perfectior in enti 
+        <lb ed="#V" n="120"/>tate quam ipsum. b. et quod excedit perfectius excedit minus 
+        <lb ed="#V" n="121"/>perfectu: sequitur quod a. excedit. b. in duplo in 
+        triplo<lb ed="#V" n="122" break="no"/>in quadruplo et in infinitum: et per consequens. a. 
+        exce<lb ed="#V" n="123" break="no"/>dit. b. in perfectione sine omni proportione. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e1758">
+        
+        Quin<lb ed="#V" n="124" break="no"/>to ad principale sic: in quolibet instanti temporis men 
+        <lb ed="#V" n="125"/>surantis augmentum forme acquiritur aliquid de 
+        for<lb ed="#V" n="126" break="no"/>ma: si ergo prima forma non corrum patur in 
+        aduentu<lb ed="#V" n="127" break="no"/>forme posterioris: sequitur quod infinite forme eiusdem 
+        <lb ed="#V" n="128"/>speciei: quarum quaelibet facit forma intensiorem erunt si 
+        <lb ed="#V" n="129"/>mul adequate in eodem subiecto: quod est 
+        impossibi<lb ed="#V" n="130" break="no"/>le: quia si sic esset illa forma esset infinita intensiue: 
+        <lb ed="#V" n="131"/>Sexto arguitur sic: per cuius ablationem non 
+        mi<lb ed="#V" n="132" break="no"/>nuitur forma per eius additionem non augetur: sed 
+        for<lb ed="#V" n="133" break="no"/>ma non minuitur per solam ablationem partis a 
+        par<lb ed="#V" n="134" break="no"/>te: ergo non augetur per solam additionem partis ad
+        <pb ed="#V" n="125-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>parte: maior patet: minor probatur sic: omnis motus 
+        <lb ed="#V" n="2"/>est a subiecto in subiectum: hoc est ab aliquo positiuo 
+        <lb ed="#V" n="3"/>in aliud: ergo: inomni motum acquiritur aliquod 
+        posi<lb ed="#V" n="4" break="no"/>tiuum nouum: sed per illam ablationem partis a parte non 
+        <lb ed="#V" n="5"/>acquiritur aliquod nouum positiuum: ergo per solam 
+        ab<lb ed="#V" n="6" break="no"/>lationem partis a parte non diminuitur forma. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e1803">
+        
+        Se<lb ed="#V" n="7" break="no"/>ptimo vero sic: termini motus sunt incompossibiles: sed 
+        <lb ed="#V" n="8"/>partes forme sunt termini motus alterationis: 
+        er<lb ed="#V" n="9" break="no"/>go partes forme sunt incompossibiles: sed 
+        incompossi<lb ed="#V" n="10" break="no"/>bilia non possunt esse adequate simul: ergo intensio 
+        <lb ed="#V" n="11"/>forme non fit per additionem partis ad partem: 
+        vtra<lb ed="#V" n="12" break="no"/>quam parte remanente: maior est manifesta: minor 
+        pro<lb ed="#V" n="13" break="no"/>batur: quia si fiat motus a magis albo ad minus album: 
+        ter<lb ed="#V" n="14" break="no"/>minus a quo istius motus est albedo remissa: et 
+        ter<lb ed="#V" n="15" break="no"/>minus ad quem est albedo intensa. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e1825">
+        Octauo: si 
+        for<lb ed="#V" n="16" break="no"/>ma intendatur per additionem partis ad partem: 
+        sequi<lb ed="#V" n="17" break="no"/>tur quod nulla forma augetur: quia nec pars praecedens 
+        <lb ed="#V" n="18"/>augetur: nec pars sequens: nec aggregatum ex 
+        vtris<lb ed="#V" n="19" break="no"/>quam: sicut fuit argutum in proponendo questionem. 
+        No<lb ed="#V" n="20" break="no"/>no sic: omne potens inducere aliquam forma in 
+        subie<lb ed="#V" n="21" break="no"/>cto susceptiuo forme: potest inducere consimilem 
+        for<lb ed="#V" n="22" break="no"/>mam in consimili gradu in subiecto eque: vel magis 
+        dis<lb ed="#V" n="23" break="no"/>posito ad consimilem forma stante consimili virtute 
+        <lb ed="#V" n="24"/>agentis: et stante equali approximatione agentis 
+        <lb ed="#V" n="25"/>ad passum. Si ergo forma intendatur per 
+        additio<lb ed="#V" n="26" break="no"/>nem partis ad partem: agens potens inducere vnam patet 
+        <lb ed="#V" n="27"/>tem forme: potest inducere aliam partem equalem in sub 
+        <lb ed="#V" n="28"/>iecto equaliter vel magis disposito: cum ergo 
+        subie<lb ed="#V" n="29" break="no"/>ctum habita vna parte forme non minus dispositum sit 
+        <lb ed="#V" n="30"/>ad aliam partem forme: immo magis quam erat antequam 
+        il<lb ed="#V" n="31" break="no"/>la pars forme induceretur: sequitur quod agens 
+        po<lb ed="#V" n="32" break="no"/>tens inducere vnam partem forme: potest post 
+        inducti<lb ed="#V" n="33" break="no"/>onem illius partis inducere aliam partem equalem 
+        parti<lb ed="#V" n="34" break="no"/>prime inducte: priori parte remanente: et adhuc 
+        il<lb ed="#V" n="35" break="no"/>la secunda parte inducta potest inducere aliam partem 
+        con<lb ed="#V" n="36" break="no"/>similem: remanentibus prius inductis: et cum additio 
+        <lb ed="#V" n="37"/>partis ad partem intendat et augmentet forma: sequi 
+        <lb ed="#V" n="38"/>tur quod agens potens inducere formam remissam 
+        pos<lb ed="#V" n="39" break="no"/>test inducere forma intensam: et ita calidum remissum 
+        <lb ed="#V" n="40"/>potens inducere aliquem gradum caloris: poterit indu 
+        <lb ed="#V" n="41"/>cere intensum gradum caloris: quod videtur 
+        inconueni<lb ed="#V" n="42" break="no"/>ens. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e1886">
+        Decimo sic: si intensio forme fiat per 
+        addi<lb ed="#V" n="43" break="no"/>tionem partis ad partem: tunc multe forme absolute 
+        <lb ed="#V" n="44"/>eiusdem speciei erut simul adequate in eodem subiecto. 
+        <lb ed="#V" n="45"/>Sed si multe possunt esse simul: sequitur quod infinite 
+        <lb ed="#V" n="46"/>possunt esse simul: et ita non esset status in formis: nec 
+        <lb ed="#V" n="47"/>esset supremum nec infimum: quia quacumque albedine 
+        da<lb ed="#V" n="48" break="no"/>ta contingit ei aliam albedinem addere. Undecimo 
+        <lb ed="#V" n="49"/>sic: motus naturalis: siue velocitas motus 
+        natura<lb ed="#V" n="50" break="no"/>lis intenditur in fine: et tamen non intenditur per 
+        ad<lb ed="#V" n="51" break="no"/>ditionem partis ad partem: ergo non omnis intentio 
+        <lb ed="#V" n="52"/>forme fit peradditionem: maior patet per philos eo 4 phi 
+        <lb ed="#V" n="53"/>si minor probatur sic: pars prior motus vel velocitas 
+        <lb ed="#V" n="54"/>motus non manet in aduentum posterioris partis: 
+        <lb ed="#V" n="55"/>hoc enim est contra rationem successiui scilicet quod pars prior 
+        <lb ed="#V" n="56"/>et posterior maneant simul. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e1919">
+        Ultimo sic: lumen 
+        ra<lb ed="#V" n="57" break="no"/>dii solaris quandoque intenditur et non per 
+        additio<lb ed="#V" n="58" break="no"/>nem partis ad partem: probatur: quia continue ad motum 
+        <lb ed="#V" n="59"/>solis fit radius in alio et alio subiecto: quia fit 
+        conti<lb ed="#V" n="60" break="no"/>nue in alio et in alio loco: si enim radius quiesceret in eo 
+        <lb ed="#V" n="61"/>dem loco: sequeretur quod sol quiesceret: si ergo lumen 
+        ra<lb ed="#V" n="62" break="no"/>dii solaris intenderetur per additionem partis ad 
+        par<lb ed="#V" n="63" break="no"/>tem: sequeretur quod aliqua pars luminis que nunc est 
+        in<lb ed="#V" n="64" break="no"/>ista parte aeris esset in alia parte aeris: quia lumen 
+        <lb ed="#V" n="65"/>remissum fuit in alia parte aeris in qua non est 
+        lumen<lb ed="#V" n="66" break="no"/>eius intensum: quia ponamus quod aer in quo nunc est 
+        <lb ed="#V" n="67"/>radius quiescat. Si ergo lumen radii intendatur 
+        <lb ed="#V" n="68"/>per additionem partis ad partem: sequitur quod ea¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="69"/>dem pars luminis nunc est in vno subiecto: et iam 
+        <lb ed="#V" n="70"/>in alio et ita accidens migrat de subiecto in 
+        subie<lb ed="#V" n="71" break="no"/>ctum: quod est falsum. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e1956">
+                  <lb ed="#V" n="72"/>Ad rationes burleiis: 
+        <lb ed="#V" n="73"/>Ad primum istorum reduco rationem contra faci 
+        <lb ed="#V" n="74"/>entem: quia si deductio illa sit bona: sequitur quod 
+        quaeli<lb ed="#V" n="75" break="no"/>bet magnitudo pertransita sit infinita: quod est 
+        euiden<lb ed="#V" n="76" break="no"/>ter falsum: et contra eum: deductio patet per modum 
+        suum<lb ed="#V" n="77" break="no"/>arguendi. Quia ponatur quod aliquod mobile 
+        mouea<lb ed="#V" n="78" break="no"/>tur continue super aliqua magnitudine accipiatur aliquod 
+        <lb ed="#V" n="79"/>instans temporis mesurantis illum motum et sit illud in 
+        <lb ed="#V" n="80"/>stans: a: tunc verum est dicere quod in instanti. a. illud 
+        mo<lb ed="#V" n="81" break="no"/>bile acquisiuit aliquid de spacio et continue ponituitis 
+        <lb ed="#V" n="82"/>moueri etiam post. a. verum est dicere quod in quolibet 
+        in<lb ed="#V" n="83" break="no"/>stanti post. a. acquisiuit aliquid de spatio: vel igitur: 
+        <lb ed="#V" n="84"/>quod acquisiuit in quolibet instanti post. a. est equale 
+        prim<lb ed="#V" n="85" break="no"/>ori acquisito in instanti. a. aut maius aut minus iuxta 
+        <lb ed="#V" n="86"/>deductionem suam. Si equale: cum infinita sint instam 
+        <lb ed="#V" n="87"/>tia sequitur per eum quod in magnitudine illa sint infinita 
+        spa<lb ed="#V" n="88" break="no"/>tia equalia: siue infinite partes equales et per 
+        conse<lb ed="#V" n="89" break="no"/>quens quod nigredo illa sit extensiue infinita: quia 
+        il<lb ed="#V" n="90" break="no"/>lud quod habet infinitas partes equales: per 
+        qua<lb ed="#V" n="91" break="no"/>rum additionem fit eius extensio est infinitum 
+        extensi<lb ed="#V" n="92" break="no"/>ue sicut per eum illud: quod habet infinitas partes 
+        equa<lb ed="#V" n="93" break="no"/>les per quarum additiones fit eius intensio: fit 
+        infini<lb ed="#V" n="94" break="no"/>tum intensiue Si maius: idem sequitur: quia per eum 
+        <lb ed="#V" n="95"/>maius includit equale et per consequens. Si acquisiuit 
+        <lb ed="#V" n="96"/>maius spacium acquisiuit equale. si minus idem 
+        se<lb ed="#V" n="97" break="no"/>quitur per modum suum arguendi: quia accipiatur 
+        <lb ed="#V" n="98"/>aliquod instans illius temporis post. a. et sit. d. tunc verum est 
+        di<lb ed="#V" n="99" break="no"/>cere quod in instanti. d. illud mobile acquisiuit minus 
+        de<lb ed="#V" n="100" break="no"/>spacio quam in alio instanti priori. ergo in quolibet instam 
+        <lb ed="#V" n="101"/>ti intellectus. dicit et a: acquisiuit tantum de spacio quam in 
+        <lb ed="#V" n="102"/>instanti. dicit quia si acquisiuit maius: acquisiuit 
+        equa<lb ed="#V" n="103" break="no"/>le cum ergo infinita instantia sint inter. dicit et. a. sequitur quod in 
+        <lb ed="#V" n="104"/>d. instanti sunt infinita spacia acquisita tante 
+        quan<lb ed="#V" n="105" break="no"/>titatis siue extensionis: quante est istud spacium nouum 
+        <lb ed="#V" n="106"/>acquisitum in instanti dicit et quia omnia illa spacia 
+        ma<lb ed="#V" n="107" break="no"/>nent in magnitudine pertransita: sequitur per eum quod 
+        <lb ed="#V" n="108"/>magnitudo illa sit infinita. Iterum si deductio 
+        il<lb ed="#V" n="109" break="no"/>la sit bona. et conclusio illius doc. sit vera: sequitur 
+        <lb ed="#V" n="110"/>posito quod lumen in aere continue augmentetur sicut 
+        <lb ed="#V" n="111"/>ipse supponit in ratione sua: quod infinita lumina 
+        cor<lb ed="#V" n="112" break="no"/>rumpantur: et infinita generentur: quorum quodlibet 
+        <lb ed="#V" n="113"/>durat per solum instans. quod non videturrationabiliter 
+        <lb ed="#V" n="114"/>dictum. nec baen possibile. Consequentia: quantum ad primo 
+        <lb ed="#V" n="115"/>mam partem consequentis patet per eum: posito quod 
+        lu<lb ed="#V" n="116" break="no"/>men in aere continue intendatur per approximationem 
+        <lb ed="#V" n="117"/>corppsuso ris luminosi causantis lumen in ipso: corpus 
+        <lb ed="#V" n="118"/>illud luminosum in quolibet instanti temporis 
+        men<lb ed="#V" n="119" break="no"/>surantis approximationem causat lumen in aere: et 
+        <lb ed="#V" n="120"/>infinita sunt instantia in tempore eius approximatio 
+        <lb ed="#V" n="121"/>nis: igitur corpus illud luminosum causat in ipso 
+        infini<lb ed="#V" n="122" break="no"/>ta lumina: et quia per eum in augmento luminis nunquam 
+        <lb ed="#V" n="123"/>duo lumina manent simul: quia tunc lumen 
+        intende<lb ed="#V" n="124" break="no"/>retur per additionem partis ad partem: vtraque parte 
+        <lb ed="#V" n="125"/>remanente: quod negat: sequitur quod in tali 
+        augmen<lb ed="#V" n="126" break="no"/>to luminis infinita lumina corrumpantur: et infinita 
+        <lb ed="#V" n="127"/>nouiter generentur: que fuit prima pars consequentis 
+        <lb ed="#V" n="128"/>Ex hoc statim apparet consequentia quatum ad 
+        <lb ed="#V" n="129"/>secundam partem consequentis: quia si aliquod lumen 
+        du<lb ed="#V" n="130" break="no"/>raret plusquam per instans cum in quolibet instanti per 
+        <lb ed="#V" n="131"/>eum causetur nouum lumen iam duo lumina essent si 
+        <lb ed="#V" n="132"/>mul in aere: cuius oppositum intendit. Et similiter 
+        <lb ed="#V" n="133"/>potest probari: posito: quod albedo in aliquo subiecto 
+        con<lb ed="#V" n="134" break="no"/>tinue augmentetur: quod infinite albedines sunt 
+        cor<lb ed="#V" n="135" break="no"/>rumpte: et infinite generate in subiecto illo: quarum 
+        <lb ed="#V" n="136"/>nulla durauit nisi tantum per instans et de qualibet
+        <pb ed="#V" n="126-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>alia forma conformatur: quod non videtur bene dictum. Et 
+        <lb ed="#V" n="2"/>adhuc sequitur vlterius: quod aer sit illuminatus 
+        per<lb ed="#V" n="3" break="no"/>aliquod tempus: et quod nullum lumen per tempus sit 
+        in<lb ed="#V" n="4" break="no"/>spso: sequitnr etiam quod aliquod subiectum per tempus 
+        <lb ed="#V" n="5"/>esset album: et quod nulla albedo per tempus erit in eo: quod est 
+        <lb ed="#V" n="6"/>impossibile vt videtur. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e2117">
+        Preterea: si deductio illa sit 
+        <lb ed="#V" n="7"/>bona: et formarum intensio fiat. quia producitur 
+        forma<lb ed="#V" n="8" break="no"/>persectior: priori desinente esse. vt isti doctori 
+        vide<lb ed="#V" n="9" break="no"/>tur adhuc sequitur lumen in aere esse infinitum 
+        intenfi<lb ed="#V" n="10" break="no"/>ue: quod tamen est inconueniens: ad quod deducit. assum 
+        <lb ed="#V" n="11"/>ptum declaro: pro cuius declaratione praemitto aliquis 
+        <lb ed="#V" n="12"/>propositiones communiter concessas. Prima est: quod omne 
+        lu<lb ed="#V" n="13" break="no"/>men finitum intensius: siue perfectius alio in aliqua 
+        <lb ed="#V" n="14"/>determinata proportione excedit illud: hoc patet: 
+        <lb ed="#V" n="15"/>quia omne lumen intensius alio excedit illud: et si sit 
+        <lb ed="#V" n="16"/>finitum non excedit infinite: igitur in aliqua determinata 
+        <lb ed="#V" n="17"/>proportione. Secunda est: quod cuicumque lumini: quod 
+        exce<lb ed="#V" n="18" break="no"/>dit tum ab aliquo in aliqua determinata proportione 
+        po<lb ed="#V" n="19" break="no"/>test fcu eri additio luminis secundum proportionem excessus 
+        lu<lb ed="#V" n="20" break="no"/>minis excedentis. ista propositio patet: quia sicut est 
+        in<lb ed="#V" n="21" break="no"/>excessu quantitatiuo: ita videtur esse in excessu 
+        qua<lb ed="#V" n="22" break="no"/>litatiuo: sed sic est in excessu quantitatiuo: quod cuicum 
+        <lb ed="#V" n="23"/>quam quantitati: que exceditur ab alia in aliqua 
+        deter<lb ed="#V" n="24" break="no"/>minata proportione potest fieri additio quantitatis secundum 
+        <lb ed="#V" n="25"/>proportionem excessus quantitatis excedentis: quia 
+        <lb ed="#V" n="26"/>si vna linea excedit aliam in vno pede. sicut linea 
+        bi<lb ed="#V" n="27" break="no"/>pedalis excedit pedalem: certum est quod linee excesse 
+        po<lb ed="#V" n="28" break="no"/>test fieri additio linee ped alis: et sic de qualibet alia 
+        <lb ed="#V" n="29"/>determinata proportione: igitur sic erit in excessu 
+        qua<lb ed="#V" n="30" break="no"/>litatiuo: quia cuicumque qualitati: et sic lumini quod 
+        exce<lb ed="#V" n="31" break="no"/>ditur ab aliquo in aliqua proportione potest fieri 
+        ad<lb ed="#V" n="32" break="no"/>ditio. Tertia est: quod si lumini excesso fiat additio 
+        <lb ed="#V" n="33"/>luminis secundum proportione excessus luminis excedentis: 
+        <lb ed="#V" n="34"/>ex his duobus luminibus fiat vnum lumen equale 
+        pue<lb ed="#V" n="35" break="no"/>ctualiter lumini excedenti: verbi gratia: sit 
+        lumen<lb ed="#V" n="36" break="no"/>excessum. a. et lumen excedens. b. et lumini. a. fiat ad 
+        <lb ed="#V" n="37"/>ditio luminis secundum proportionem excessus luminis. b. et 
+        il<lb ed="#V" n="38" break="no"/>lud lumen additum sit. c. ex luminibus. a. et. c. fiet vniur. 
+        <lb ed="#V" n="39"/>lumen equale punctualiter lumini. b. hoc patet: quia 
+        <lb ed="#V" n="40"/>si lumen excedens sit perfectius: siue intensius 
+        indu<lb ed="#V" n="41" break="no"/>plo et lumini excesso addatur lumen equale: euidens 
+        <lb ed="#V" n="42"/>est quod ex his duobus fiet vnum lumen punctualiter 
+        lu<lb ed="#V" n="43" break="no"/>mini excedenti: et hoc euidenter apparet in 
+        excessu<lb ed="#V" n="44" break="no"/>quantitatiuo: quia si linee pedali que exceditur a 
+        bi<lb ed="#V" n="45" break="no"/>pedali in duplo si addatur alia linea pedalis: certum 
+        <lb ed="#V" n="46"/>est quod linea resultans ex his duabus erit 
+        punctuali<lb ed="#V" n="47" break="no"/>ter equalis linee bipedali: quia ex duabus lineis 
+        pe<lb ed="#V" n="48" break="no"/>dalibus resultat linea bipedalis: et sicut est in propor 
+        <lb ed="#V" n="49"/>tione dupla: sic etiam in qualibet alia. Quarta 
+        pro<lb ed="#V" n="50" break="no"/>positio est: quod possibile est quod intensio luminis fiat per 
+        <lb ed="#V" n="51"/>additionem luminis ad lume: vtroque remanente: et 
+        lu<lb ed="#V" n="52" break="no"/>men non esse intensius: quam sitalis intensio fiat per 
+        pro<lb ed="#V" n="53" break="no"/>ductionem perfectioris luminis: priori desinente esse: 
+        <lb ed="#V" n="54"/>et hoc sequitur ex precedentibus: quia illud lumen per 
+        <lb ed="#V" n="55"/>fectius quod produceretur: priori desinente esse secundum istum 
+        <lb ed="#V" n="56"/>doctorem sit. a. tunc sic: lumen. a. in aliqua 
+        determina<lb ed="#V" n="57" break="no"/>ta proportione excedit lumen: quod nunc existit in aere: 
+        <lb ed="#V" n="58"/>nisi sit infinitum ex prima propoitone: igitur lumini 
+        exce<lb ed="#V" n="59" break="no"/>denti potest fieri additio luminis: secundum proportione ex 
+        <lb ed="#V" n="60"/>cessus luminis a. vt patet ex secunda: qua 
+        additio<lb ed="#V" n="61" break="no"/>ne facta fiet vnum lumen equale punctualiter 
+        lumini<lb ed="#V" n="62" break="no"/>a. vt patet ex tertia: igitur etc. His propositionibus 
+        <lb ed="#V" n="63"/>premissis declaro propositionem sic: possibile est quod 
+        in<lb ed="#V" n="64" break="no"/>tensio luminis fiat per additionemluminis 
+        vtro<lb ed="#V" n="65" break="no"/>quoam remanente lumine et lumen non esse intensius: quod 
+        <lb ed="#V" n="66"/>si talis additio fieret per productionem perfectioris 
+        lu<lb ed="#V" n="67" break="no"/>minis: priori deficiente esse: igitur si ex primo 
+        sequi<lb ed="#V" n="68" break="no"/>tur lumen in aere esse infinitum intensiue: et ex secun¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="69"/>do: antecedens est declaratum: et consequentia est nota: 
+        <lb ed="#V" n="70"/>quia ex opposito consequentis euidenter infertur oppositum 
+        an<lb ed="#V" n="71" break="no"/>tecedentis. Confirmatur: quia posito quod in infinitis 
+        <lb ed="#V" n="72"/>instantibus infinita lumina sint addita lumini nunc 
+        <lb ed="#V" n="73"/>existenti in aere per continuam approximationem 
+        cor<lb ed="#V" n="74" break="no"/>poris luminosi ad ipsum: adhuc est possibile quod 
+        lumen<lb ed="#V" n="75" break="no"/>non sit intensius quam si in quolibet instanti illorum sit in 
+        <lb ed="#V" n="76"/>aere aliud et aliud lumen: quorum semper posterius sit 
+        <lb ed="#V" n="77"/>perfectius priore: sicut isti doctori videtur: hoc 
+        pa<lb ed="#V" n="78" break="no"/>tet: quia possibile est: quod tale lumen non sit intensius 
+        <lb ed="#V" n="79"/>quam lumen vltimo producendum: infinitis prioribus 
+        desi<lb ed="#V" n="80" break="no"/>nentibus esse: cum sit possibile intensionem luminis 
+        fie<lb ed="#V" n="81" break="no"/>ri per additionem luminis ad lumen: vtroquem remanem 
+        <lb ed="#V" n="82"/>te: et lumen non esse intensius quam si talis intensio fiat 
+        <lb ed="#V" n="83"/>per productionem perfectioris luminis: priori desi nen 
+        <lb ed="#V" n="84"/>te esse: vt patet ex dictis: ergo si ad positionem meam 
+        <lb ed="#V" n="85"/>sequitur lumen esse infinitum intensiue: et ad suam: vel 
+        <lb ed="#V" n="86"/>si non ad suam: nec ad meam etc. His premissis 
+        re<lb ed="#V" n="87" break="no"/>spondeo ad formam rationis et interimo consequentiam: et ad 
+        <lb ed="#V" n="88"/>probationem dico: quod procedit ex falsa imaginatione: 
+        ima<lb ed="#V" n="89" break="no"/>ginatur enim iste doctor in ratione illa: quod in quolibet in 
+        <lb ed="#V" n="90"/>stanti temporis mensurantis approximationem corporis 
+        lu<lb ed="#V" n="91" break="no"/>minosi ad susceptionem lumis: corpus luminosum 
+        cau<lb ed="#V" n="92" break="no"/>set aliquod lumen in ipso: quod non est verum: quia in 
+        <lb ed="#V" n="93"/>nullo motum continuo aliquid acquiritur in instanti: 
+        <lb ed="#V" n="94"/>licet in instanti sit primo acquisitu illud: quod in 
+        tempo<lb ed="#V" n="95" break="no"/>re immediato acquirebatur: cuius oppositum sequitur 
+        <lb ed="#V" n="96"/>non solum si corpus illud caum saret aliud lumen in 
+        quo<lb ed="#V" n="97" break="no"/>libet instanti illius temporis: sed etiam si causaret 
+        ali<lb ed="#V" n="98" break="no"/>quod lumen in quolibet instanti ipsius. Est igitur 
+        ima<lb ed="#V" n="99" break="no"/>ginandum: quod sicut corpus illud luminosum: quod 
+        po<lb ed="#V" n="100" break="no"/>nitur continue approximari lumini susceptiuo non 
+        <lb ed="#V" n="101"/>fit ei propinquius in instanti: sed in tempore: quia 
+        <lb ed="#V" n="102"/>in instanti non acquirit aliquod spatium: licet in 
+        instam<lb ed="#V" n="103" break="no"/>ti sit primo acquisitum spatiu quod in tempore 
+        immedia<lb ed="#V" n="104" break="no"/>to acquirebatur: sic etiam non causat aliquod lumen in illo 
+        <lb ed="#V" n="105"/>susceptiuo in instanti: sed in tempore: licet in instanti 
+        <lb ed="#V" n="106"/>sit primo causatum vel acquisitum illud lumen quod in 
+        <lb ed="#V" n="107"/>tempore immediato acquirebatur: siue causabatur 
+        <lb ed="#V" n="108"/>et ideo sicut non sequitur ex infinitate instantium: quod 
+        <lb ed="#V" n="109"/>spatium siue magnitudo pertransita sit infinita: sic 
+        <lb ed="#V" n="110"/>etiam nec sequitur: quod lumen acquisitum sit infinitum. 
+        <lb ed="#V" n="111"/>Sed contra solutionem istam est directe ratio que 
+        <lb ed="#V" n="112"/>adducebatur in arguendo: videlicet: quod quanto agens 
+        <lb ed="#V" n="113"/>est propinquius passo equaliter vel magis disposito 
+        <lb ed="#V" n="114"/>quam prius: tanto fortius agit: et perfectiorem effecttum in 
+        <lb ed="#V" n="115"/>ducit: hoc dico: quod ist a propositio non est vera: si agens 
+        <lb ed="#V" n="116"/>illud fiat continue propinquius passo. Ratio huius 
+        <lb ed="#V" n="117"/>est: quia in quolibet instanti agens est propinquius 
+        <lb ed="#V" n="118"/>passo: et tamen in instanti non producit aliquem effectu: 
+        <lb ed="#V" n="119"/>quia in motum continuo non acquiritur aliquid in 
+        in<lb ed="#V" n="120" break="no"/>stanti: vt patet ex dictis: sufficit igitur: quod agens 
+        il<lb ed="#V" n="121" break="no"/>lud perfectiorem effectum producat: vel quod tunc primo per 
+        <lb ed="#V" n="122"/>fectior effectus sit ab ipso productus: non quidem 
+        intel<lb ed="#V" n="123" break="no"/>ligendo cum exclusione: sed cum inclusione prioris: et in 
+        <lb ed="#V" n="124"/>isto sensu concedo conclusionem: quia in quolibet 
+        in<lb ed="#V" n="125" break="no"/>stanti post. a. verum est dicere quod in susceptiuo illo sit 
+        <lb ed="#V" n="126"/>primo maius lumen inductiuum vel causatum: non 
+        qui<lb ed="#V" n="127" break="no"/>dem cum exclusio ne: sed cum inclusione luminis 
+        precedem<lb ed="#V" n="128" break="no"/>tis: quia ante illud instans non fuit tantum lumen in ipso: 
+        <lb ed="#V" n="129"/>sicut et in quolibet instanti verum est dicere quod ab 
+        il<lb ed="#V" n="130" break="no"/>lo corpore maius: spatium est pertransitum 
+        intel<lb ed="#V" n="131" break="no"/>ligendo semper cum inclusione spatii precedentis: sed 
+        <lb ed="#V" n="132"/>ex hoc non sequitur lumen illud esse infinitum: sicut 
+        <lb ed="#V" n="133"/>nec spatium pertransitum vt declaratum est supra. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e2398">
+                  <lb ed="#V" n="134"/>Ad secundam nego minorem: et ad probationem 
+        concedo<lb ed="#V" n="135" break="no"/>quod b. est calor remissior quam sit. a. intelligendo per. a. 
+        <lb ed="#V" n="136"/>calorem intensissimum vel valde intensum. et per b medie¬
+        <pb ed="#V" n="126-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>tatem formalem ipsius: sicut intellgit iste doc. et 
+        quan<lb ed="#V" n="2" break="no"/>do dicitur: quod eadem ratione medietas formalis 
+        ipsi<lb ed="#V" n="3" break="no"/>us. b. esset remissior quam ipsum. b. et medietas ipsius me 
+        <lb ed="#V" n="4"/>dietatis esset remissior illa medietate: et sic de aliis: 
+        <lb ed="#V" n="5"/>concedo ex hoc: tamen non sequitur quod possit deuenire 
+        <lb ed="#V" n="6"/>ad calorem remissiuum: cum in quolibet calore quantumcumque 
+        <lb ed="#V" n="7"/>remisso sint infiniti gradus: siue infinite partes 
+        in<lb ed="#V" n="8" break="no"/>tentionales: sicut in quolibet continuo quantumcumque 
+        <lb ed="#V" n="9"/>paruo sunt infinite partes continue: concedo tamen quod 
+        <lb ed="#V" n="10"/>potest deueniri ad calorem valde remissum: et quando 
+        <lb ed="#V" n="11"/>dicitur vlterius quod cum huiusmodi partes formales 
+        <lb ed="#V" n="12"/>sint simul in eodem subiecto adequato: sequitur quod in 
+        <lb ed="#V" n="13"/>eodem subiecto adequato simul erunt calor 
+        intensissi<lb ed="#V" n="14" break="no"/>mus et remisissimus: concedo quod in eodem subiecto 
+        <lb ed="#V" n="15"/>adequato possunt simul esse calor simul intensissimus 
+        <lb ed="#V" n="16"/>i valde intensus et remisissimus i valde remissus 
+        <lb ed="#V" n="17"/>quia aliter non est dare calorem remisissimum: vt patet 
+        <lb ed="#V" n="18"/>ex dictis: sic intelligendo quod calor ille valde 
+        remis<lb ed="#V" n="19" break="no"/>sus sit pars formalis illius caloris intensissimi: et 
+        <lb ed="#V" n="20"/>quando dicitur quod hoc est impossibile nego: et ad 
+        pro<lb ed="#V" n="21" break="no"/>bationes respondeo. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e2457">
+        Ad primam potest 
+        respon<lb ed="#V" n="22" break="no"/>deri dupliciter. Primo potest dici: quod quamuis calidum 
+        <lb ed="#V" n="23"/>sumum: et calidum remissum sint incompossibilia in eo 
+        <lb ed="#V" n="24"/>dem: tamen calor intensissimus et calor remissus non 
+        <lb ed="#V" n="25"/>sunt incompossibiles eodem modo quo dictum est 
+        <lb ed="#V" n="26"/>supra: quia non sequitur in isto subiecto sunt 
+        ca<lb ed="#V" n="27" break="no"/>lor intensissimus et remisissimus qui est pars 
+        for<lb ed="#V" n="28" break="no"/>malis caloris intensissimi. igitur istud subiectum est 
+        <lb ed="#V" n="29"/>summe calidum et remisse calidum: quia licet calor ille 
+        remis<lb ed="#V" n="30" break="no"/>sus si esset per se sic quod non esset pars caloris intensissimi. 
+        <lb ed="#V" n="31"/>daret subiecto esse calidum remisse vna tamen cum aliis per 
+        <lb ed="#V" n="32"/>tibus caloris: ex quibus vna cum ipso fit vnus calor in 
+        <lb ed="#V" n="33"/>tensissimus non dat ei nec potest dare esse calidum 
+        re<lb ed="#V" n="34" break="no"/>misse: sed intense. Secundo potest dici: quod si calor in 
+        <lb ed="#V" n="35"/>tensissimus: et remisissimus sint in diuersis subiectis 
+        <lb ed="#V" n="36"/>adhuc calor intensissimus: approximatus calori 
+        re<lb ed="#V" n="37" break="no"/>misso non ageret in ipsum expellendo illum gradum 
+        re<lb ed="#V" n="38" break="no"/>missum: sed isto manente causaret alium gradum 
+        calo<lb ed="#V" n="39" break="no"/>ris: ex quibus fieret simul vnus gradus caloris in 
+        <lb ed="#V" n="40"/>tensior: et sic calor intensissimus non expelleret 
+        calo<lb ed="#V" n="41" break="no"/>rem remissum: si essent in diuersis subiectis: sed 
+        au<lb ed="#V" n="42" break="no"/>gmentaret ipsum: et per consequens non sequitur: quod 
+        <lb ed="#V" n="43"/>sint incompossibiles in eodem. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e2507">
+        Ad secundam patet ex 
+        <lb ed="#V" n="44"/>precedenti conclusione: quod forma habens 
+        contrari<lb ed="#V" n="45" break="no"/>um non remittitur per admittionem. Ad tertiam 
+        di<lb ed="#V" n="46" break="no"/>co: quod calor intensissimus non contrariatur ealori re 
+        <lb ed="#V" n="47"/>misso: nec etiam remisissimo si posset dari: cum sit 
+        eius<lb ed="#V" n="48" break="no"/>dem speciei specialissime. Ex his patet quid 
+        dicen<lb ed="#V" n="49" break="no"/>dum ad argumentum: si fiat in raritate et densitate: quia 
+        <lb ed="#V" n="50"/>concedo quod omnis raritas est intensior sua parte 
+        for<lb ed="#V" n="51" break="no"/>mali: supposito quod raritas sit res distincta a 
+        substan<lb ed="#V" n="52" break="no"/>tia et quantitate: et concedo quod in eodem subiecto 
+        ade<lb ed="#V" n="53" break="no"/>quato sunt simul raritas intensissima. is valde 
+        inten<lb ed="#V" n="54" break="no"/>sa: et raritas remissa. id es valde remissa. Sed ex hoc 
+        <lb ed="#V" n="55"/>non sequitur: quod partes iacebunt magis propinque: et 
+        <lb ed="#V" n="56"/>minus propinque: quia cum raritas illa remissa sit pars 
+        <lb ed="#V" n="57"/>raritatis intense non dat subiecto in quo est esse 
+        ra<lb ed="#V" n="58" break="no"/>rum remisse. Sed contra solutionem istam iste doctor 
+        <lb ed="#V" n="59"/>arguit dupliciter. Primo sic: causa formalis non 
+        po<lb ed="#V" n="60" break="no"/>test separari ab effectu formali. nec econuerso: sed 
+        <lb ed="#V" n="61"/>effectus formalis raritatis est facere distare 
+        par<lb ed="#V" n="62" break="no"/>tes: seu remote ab inuicem iacere: ergo effectus 
+        for<lb ed="#V" n="63" break="no"/>malis maioris raritatis est facere partes 
+        remoti<lb ed="#V" n="64" break="no"/>us iacere: et cffectus minoris seu remissioris 
+        rarita<lb ed="#V" n="65" break="no"/>tis est facere partes minus remote iacere: ergo si 
+        <lb ed="#V" n="66"/>maior raritas et minor raritas sint simul adequate 
+        <lb ed="#V" n="67"/>in eodem subiecto adequato: et in eodem corpore 
+        se<lb ed="#V" n="68" break="no"/>quitur: quod eedem partes iacebunt simul magis remo¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="69"/>te et minus remote: quod est impossibile. Secundo 
+        <lb ed="#V" n="70"/>sic: et supponit duo. Primum: quod possibile est virtute 
+        <lb ed="#V" n="71"/>diuina quod vna medietas formalis raritatis aufera 
+        <lb ed="#V" n="72"/>tur a subiecto: reliqua remanente: nam nouam formam 
+        <lb ed="#V" n="73"/>addendo illi subiecto. Secundo supponit: quod in raro 
+        <lb ed="#V" n="74"/>partes mediate remotius iacent quam in denso in 
+        ali<lb ed="#V" n="75" break="no"/>qua determinata proportione. His suppositis argum 
+        <lb ed="#V" n="76"/>it sic: ponamus quod in raro partes mediate iaceant 
+        <lb ed="#V" n="77"/>remotius quam in denso in proportione centupla: tunc sic: 
+        <lb ed="#V" n="78"/>possibile est quod deus auferat medietatem formalem 
+        illi<lb ed="#V" n="79" break="no"/>us raritatis: remanente subiecto: nullam aliam formam 
+        <lb ed="#V" n="80"/>addendo illi subiecto: tunc illud subiectum esset 
+        mi<lb ed="#V" n="81" break="no"/>nus rarum in duplo quam prius: et per consequens partes 
+        <lb ed="#V" n="82"/>mediate eius iacebut in duplo propinquius quam prius: 
+        <lb ed="#V" n="83"/>et adhuc potest auferri iterum medietas medietatis 
+        <lb ed="#V" n="84"/>remanentis ab illo subiecto: et tunc partes 
+        media<lb ed="#V" n="85" break="no"/>te eius iacebunt in quadruplo propinquius quam prius: 
+        <lb ed="#V" n="86"/>et sic iterum fiet ablatio centies: et tunc partes 
+        medi<lb ed="#V" n="87" break="no"/>ate illius subiecti iacebunt propinquius in 
+        centuplo<lb ed="#V" n="88" break="no"/>quam iacebant in primo raro a quo primo fiebat 
+        abla<lb ed="#V" n="89" break="no"/>tio. Cum igitur in denso: non iaceant partes propinquius 
+        <lb ed="#V" n="90"/>quam in primo raro nisi in centuplo: sequitur quod partes 
+        <lb ed="#V" n="91"/>eque propinque iacebunt in raro et denso: quod est 
+        in<lb ed="#V" n="92" break="no"/>possibile. Et sequitur adhuc maius impossibile scilicet en 
+        <lb ed="#V" n="93"/>partes in raro iacebunt propinquius quam in denso: 
+        pro<lb ed="#V" n="94" break="no"/>batur: quia probatum est quod in aliquo raro iacent 
+        par<lb ed="#V" n="95" break="no"/>tes ita propinque sicut in denso. Si ergo ab illo raro 
+        <lb ed="#V" n="96"/>auferatur medietas formalis illius medietatis: 
+        re<lb ed="#V" n="97" break="no"/>liqua mediate remanente nihil nouum addendo 
+        illi<lb ed="#V" n="98" break="no"/>subiecto: sequitur quod medietate absoluta partes 
+        il<lb ed="#V" n="99" break="no"/>lius rari iacebunt in duplo propinquius quam in denso: et 
+        <lb ed="#V" n="100"/>per idem argumentum potest probari: vt dicit: quod possi 
+        bi<lb ed="#V" n="101" break="no"/>le est quod partes rari iaceant in centuplo propinquius 
+        <lb ed="#V" n="102"/>quam in denso: quia fiat centies ablatio medietatis: 
+        si<lb ed="#V" n="103" break="no"/>cut prius: ista tamen non concludunt etc. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e2642">
+        Ad primum 
+        <lb ed="#V" n="104"/>igitur quicquid sit de maiori: quia in multis 
+        habe<lb ed="#V" n="105" break="no"/>ret instantiam: prout alias declaraui de visione et vide 
+        <lb ed="#V" n="106"/>re et similibus: dico ad minorem: quod effectus formalis 
+        <lb ed="#V" n="107"/>raritatis: qui est totalis: est facere partes distare 
+        <lb ed="#V" n="108"/>secundum proportionem sue intensionis: sed effectus formalis 
+        <lb ed="#V" n="109"/>raritatis que est pars alterius raritatis non est 
+        fa<lb ed="#V" n="110" break="no"/>cere partes distare secundum proportionem sue intensionis 
+        pre<lb ed="#V" n="111" break="no"/>cise: sed sicut ex ipsa et aliis partibus raritatis fit vna 
+        <lb ed="#V" n="112"/>raritas intensior: sic vna cum aliis facit partes 
+        dista<lb ed="#V" n="113" break="no"/>re secundum proportionem intensioris raritatis totalis. Ad 
+        <lb ed="#V" n="114"/>secundum supposito: quod raritas et densitas sint forme 
+        <lb ed="#V" n="115"/>absolute realiter distincte: sicut commentator 
+        vide<lb ed="#V" n="116" break="no"/>tur velle. 7 phisi dicit quod raritas et densitas sunt 
+        qua<lb ed="#V" n="117" break="no"/>litates consequentes calidum et frigidum: dico quod in raro 
+        <lb ed="#V" n="118"/>partes mediate remotius iacent quam in denso in 
+        ali<lb ed="#V" n="119" break="no"/>qua determinata proportione vltra proportionem 
+        que<lb ed="#V" n="120" break="no"/>requiritur ad densum. Est enim imaginandum: quod in de 
+        <lb ed="#V" n="121"/>so partes mediate iacent propinque in aliqua deter 
+        <lb ed="#V" n="122"/>minata proportione vltra quam si remotius iaceant non 
+        <lb ed="#V" n="123"/>esset densum: sed esset rarum: et per oppositum in raro 
+        <lb ed="#V" n="124"/>partes mediate iacent remote in aliqua 
+        detere<lb ed="#V" n="125" break="no"/>minata proportione citra quem si propinquius iaceant non 
+        <lb ed="#V" n="126"/>esset rarum sed densum. Et quia in raro partes mediate non 
+        <lb ed="#V" n="127"/>distant infinite: verum est: quia tales partes in ipso remotius 
+        <lb ed="#V" n="128"/>iaceant quam in deso in aliqua determinata proportione 
+        vltra<lb ed="#V" n="129" break="no"/>proportionem illam que requiritur ad densum: tunc ad ratione: quam 
+        <lb ed="#V" n="130"/>dicitur quod si deus auferat medietatem raritatis partes 
+        <lb ed="#V" n="131"/>mediate in raro iacebunt in duplo propinquius quam 
+        <lb ed="#V" n="132"/>prius: dico quod verum est intelligendo de propinquitate 
+        <lb ed="#V" n="133"/>que est vltra proportionem propinquitatis que requiritur 
+        <lb ed="#V" n="134"/>ad densum: non autem de propinquitate simpliciter. Et si vlte 
+        <lb ed="#V" n="135"/>rius auferatur medietas illius raritatis partes mediate ia 
+        <lb ed="#V" n="136"/>cebunt quadruplo propinquius non quide simpliciter sed vltra¬
+        <pb ed="#V" n="127-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>proportionem propinquitatis que requiritur addensum. 
+        <lb ed="#V" n="2"/>Et si isto modo partes fiant propinquiores in raro 
+        <lb ed="#V" n="3"/>etiam in infinitum: patet quod nunquam erunt ita 
+        impropinque<lb ed="#V" n="4" break="no"/>sicut indenso. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e2729">
+        Ad tertium principale: nego minorem 
+        <lb ed="#V" n="5"/>ad probationem nego consequentiam illam: quia non 
+        sequi<lb ed="#V" n="6" break="no"/>tur: forma diminuitur per ablationem partis a 
+        par<lb ed="#V" n="7" break="no"/>te: ergo tota simul perditur. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e2738">
+        Et ad probationem illius 
+        <lb ed="#V" n="8"/>consequentie: quando dicitur: quadocumque aliquod 
+        <lb ed="#V" n="9"/>agens est equaliter approximatum etc. dico: quod illa 
+        <lb ed="#V" n="10"/>maior non est vera si illud agens non sit tante 
+        vir<lb ed="#V" n="11" break="no"/>tutis quod simul possit omnia destruere: et sic est in 
+        pro<lb ed="#V" n="12" break="no"/>posito: quia quamuis medietates qualificatine 
+        forme<lb ed="#V" n="13" break="no"/>corrum pende sint equalis intensionis et equales 
+        per<lb ed="#V" n="14" break="no"/>consequens ad resistendum actioni agentis: citius tamen 
+        de<lb ed="#V" n="15" break="no"/>struitur vna quam altera: quia agens non est tante 
+        vir<lb ed="#V" n="16" break="no"/>tutis quod possit omnes simul destruere. Et si dicatut 
+        <lb ed="#V" n="17"/>quod non est aliqua ratio propter quam magis vel citius 
+        de<lb ed="#V" n="18" break="no"/>struat vnam quam reliquam. Potest dici: quod quia illud 
+        <lb ed="#V" n="19"/>agens potest vnam destruere: et non omnes simul: ice 
+        <lb ed="#V" n="20"/>circo vna prius destrueretur quam alia: et tamen nec ista nec 
+        <lb ed="#V" n="21"/>illa necessario. Et si omnino queratur causa quare 
+        il<lb ed="#V" n="22" break="no"/>la eorum prius destruatur quam alia. Potest dici: quod illa 
+        <lb ed="#V" n="23"/>prius destruitur quam deus: qui omnia regit et 
+        admini<lb ed="#V" n="24" break="no"/>strat vult primo destrui. Potest etiam dici sicut forte 
+        <lb ed="#V" n="25"/>aliqui dicunt: quod pars prius inductiua firmius 
+        radi<lb ed="#V" n="26" break="no"/>catur in subiecto: et ideo agens non potest ita cito de 
+        <lb ed="#V" n="27"/>struere illam partem sicut alia. Ad quartum dico: quod 
+        <lb ed="#V" n="28"/>vnam formam accidentalem excedere aliam eiusdem 
+        gene<lb ed="#V" n="29" break="no"/>ris in infinitum in perfectione potest intelligi 
+        duplici<lb ed="#V" n="30" break="no"/>ter: simpliciter scilicet et secundum quid Simpliciter quidem: quia 
+        <lb ed="#V" n="31"/>eius perfectio vel actio simpliciter est infinita. Secundum 
+        <lb ed="#V" n="32"/>quid vero: quantumcumque intenderetur excessa numquam 
+        <lb ed="#V" n="33"/>veniet ad perfectione excedentis. In secundo 
+        sen<lb ed="#V" n="34" break="no"/>su concedo consequens: et sic procedunt probationes sue: 
+        <lb ed="#V" n="35"/>sed ex hoc non sequitur quod forma accidentalis sit 
+        in<lb ed="#V" n="36" break="no"/>finita in perfectione: aliter anima mea esset infinita 
+        <lb ed="#V" n="37"/>in perfectione: quia quantumcumque intenderetur 
+        musca<lb ed="#V" n="38" break="no"/>nunquam veniret ad perfectionem ipsius: et angulus 
+        re<lb ed="#V" n="39" break="no"/>ctus esset infinitus: quia quantumcumque intenderetur 
+        <lb ed="#V" n="40"/>angulus continue nunquam potest ei adequari: et sic de 
+        <lb ed="#V" n="41"/>multis aliis. In primo vero sensu nego 
+        consequen<lb ed="#V" n="42" break="no"/>tiam: et ad probationem quando dicitur: quod albedo 
+        exce<lb ed="#V" n="43" break="no"/>dit nigredinem in perfectione sine omni proportione: dici 
+        <lb ed="#V" n="44"/>co sicut prius quod non est verum simpliciter: sed solum 
+        <lb ed="#V" n="45"/>secundum quid scilicet quantum ad nobilitatem et perfectionem 
+        spe<lb ed="#V" n="46" break="no"/>cifica in sensu dato: quod quantumcumque intendatur 
+        nigre<lb ed="#V" n="47" break="no"/>do nunquam potest deuenire ad perfectionem minime a 
+        <lb ed="#V" n="48"/>bedinis: quia cum sint alterius et alterius 
+        speciei<lb ed="#V" n="49" break="no"/>equalis perfectionis esse non possunt: et in isto 
+        sen<lb ed="#V" n="50" break="no"/>su procedit vltima probatio sua: si aliquid concludit 
+        <lb ed="#V" n="51"/>vt patet: et per consequens ratio nulla. Potest etiam 
+        di<lb ed="#V" n="52" break="no"/>ci secundo: quod ratio deficit in principali probatione: 
+        qua<lb ed="#V" n="53" break="no"/>non probat quod aldbedo excedit nigredinem: sine omni 
+        pro<lb ed="#V" n="54" break="no"/>portione. non enim sequitur hec albedo excedit in perfectione 
+        <lb ed="#V" n="55"/>suam medietatem qualitatiua in duplo. et sua medietas 
+        <lb ed="#V" n="56"/>excedit nigredinem in duplo ratio est euidens quia 
+        albe<lb ed="#V" n="57" break="no"/>do non excedit suam medietatem in duplo quantum ad 
+        no<lb ed="#V" n="58" break="no"/>bilitatem et perfectionem suam specificam: sed solum 
+        quan<lb ed="#V" n="59" break="no"/>tum ad intensionem. et ideo non sequitur quod excedit 
+        nigre<lb ed="#V" n="60" break="no"/>dinem in duplo: quia non excedit suam medietate in 
+        du<lb ed="#V" n="61" break="no"/>plo quantum ad illud in quo sua medietas excedit 
+        ni<lb ed="#V" n="62" break="no"/>gredinem ex et hoc statim apparet quod albedo non 
+        ex<lb ed="#V" n="63" break="no"/>cedit nigredinem in duplo: et in triplo et in 
+        quadruplo<lb ed="#V" n="64" break="no"/>et in infinitum: sicut isti doctori videtur. Potest 
+        <lb ed="#V" n="65"/>etiam reduci ratio contra eum: quia secundum eum in intensio 
+        <lb ed="#V" n="66"/>ne forme continue in quolibet instanti est perfectior 
+        <lb ed="#V" n="67"/>forma: capio tunc albedinem remissam et arguo sic. hec 
+        <lb ed="#V" n="68"/>albedo excedit nigredinem in perfectione. ergo aliqua 
+        albedo<lb ed="#V" n="69" break="no"/>excedit nigredine in infinitum quod non est inconueniens: ad quod
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>deducit antecedens est suum. et consequentiam deduco extra dictis suis 
+        <lb ed="#V" n="71"/>quia per eum in intensione albedinis continue in quolibet 
+        <lb ed="#V" n="72"/>instanti est perfectior albedo: sed infinita sunt in 
+        <lb ed="#V" n="73"/>stantia: igitur infinite erunt albedines quarum sper 
+        poste<lb ed="#V" n="74" break="no"/>rior est priore perfectior. tunc sic. hec albedo remissa ex 
+        <lb ed="#V" n="75"/>cedit nigredinem in perfectione et a quacumque 
+        albedine<lb ed="#V" n="76" break="no"/>sequente plus et plus exceditur: quia semper posterior est 
+        <lb ed="#V" n="77"/>priore perfectior et infinite sunt albedines sequentes 
+        <lb ed="#V" n="78"/>igitur aliqua excedit nigredinem in infinitum 
+        imperfe<lb ed="#V" n="79" break="no"/>ctione. Ad quintum patet quid dicendum ex solutione 
+        <lb ed="#V" n="80"/>prime rationis: quia non est verum quod in quolibet instanti 
+        ten<lb ed="#V" n="81" break="no"/>poris mensurantis augmentum forme acquiratur aliquid 
+        <lb ed="#V" n="82"/>de forma: sicut dixi de mobili quod non acquirat 
+        ali<lb ed="#V" n="83" break="no"/>quod spacium in instanti: licet in instanti sit primo acquisitum spacium 
+        <lb ed="#V" n="84"/>illud quod in tempore immediato acquirebatur: et potest 
+        <lb ed="#V" n="85"/>ratio reduci contra eum satis euidenter: quia per eum 
+        <lb ed="#V" n="86"/>in quolibet instanti illius temporis acquiritur alia 
+        <lb ed="#V" n="87"/>et alia forma: quarum posterior est semper priore per 
+        <lb ed="#V" n="88"/>fectior: et cum infinita sint instantia sequitur quod in 
+        <lb ed="#V" n="89"/>finite tales forme sint acquisite: et per consequens 
+        po<lb ed="#V" n="90" break="no"/>sterior si deductio sua sit bona erit infinita intensiue. 
+        <lb ed="#V" n="91"/>Ad sextam rationem dico: negando minorem: et ad 
+        proba<lb ed="#V" n="92" break="no"/>tionem dicitur communiter et bene: quod omnis motus 
+        acquisi<lb ed="#V" n="93" break="no"/>tiuus est ab aliquo positiuo in aliquod positiuum: quia 
+        <lb ed="#V" n="94"/>omnis talis motus est ad aliquid nouum: sed non est 
+        <lb ed="#V" n="95"/>verum de motum deperditiuo cuiusmodi est motus 
+        di<lb ed="#V" n="96" break="no"/>minutionis: quia talis non est ad aliquid nouum. 
+        <lb ed="#V" n="97"/>Sed contra solutionem istam iste doc. arguit primo 
+        <lb ed="#V" n="98"/>sic: philosns 5. phisi. distinguens motum a mutatione 
+        di<lb ed="#V" n="99" break="no"/>cit quod omnis motus est a subiecto in subiectum: hoc est 
+        <lb ed="#V" n="100"/>a positiuo in positiuum: sed nihil mouetur ad illud quod 
+        <lb ed="#V" n="101"/>habet: quia habitibus presentibus in materia cessat 
+        <lb ed="#V" n="102"/>motus: quia in omni motum acquiritur aliquid nouum. 
+        <lb ed="#V" n="103"/>Secundo sic: omnis mutatio est ab aliquo in aliud: nam 
+        <lb ed="#V" n="104"/>hoc sonat nomen: vt patet ex. 5 phisi. omnis etiam motus 
+        <lb ed="#V" n="105"/>est ab opposito in oppositum: vt patet eodem. 5 accipiatur 
+        <lb ed="#V" n="106"/>ergo ille motus quem dico esse motum deperditionis 
+        il<lb ed="#V" n="107" break="no"/>le motus est mutatio: quia est genus motus: ergo est 
+        <lb ed="#V" n="108"/>ab aliquo in aliud: queritur tunc de termino illius 
+        <lb ed="#V" n="109"/>motus deperditionis: cum enim omnis motus sit ab 
+        <lb ed="#V" n="110"/>opposito in oppositum oportet quod termini motius 
+        de<lb ed="#V" n="111" break="no"/>perditionis sint oppositi: aut ergo sunt oppositi 
+        re<lb ed="#V" n="112" break="no"/>latiue: aut contrarie: aut contradictorie: aut priua 
+        <lb ed="#V" n="113"/>tiue non relatiue patet de se: quia ad relationem non 
+        <lb ed="#V" n="114"/>est motus: nec contradictorie nec priuatiue: quia 
+        <lb ed="#V" n="115"/>inter sic opposita non est motus: sed mutatio 
+        subi<lb ed="#V" n="116" break="no"/>ta: vt patet 5. phisi. et ratio phiysi est: quia omnis 
+        mo<lb ed="#V" n="117" break="no"/>tus est inter opposita mediata: nam motus necessa 
+        <lb ed="#V" n="118"/>rio requirit medium inter terminos motius: sed nec 
+        <lb ed="#V" n="119"/>inter contradictoria: nec inter priuatiua 
+        opposita<lb ed="#V" n="120" break="no"/>est aliquod medium: relinquitur ergo quod motus 
+        de<lb ed="#V" n="121" break="no"/>perditionis sit a contrario in contrarium: sed certum 
+        <lb ed="#V" n="122"/>est quod omnis deperditionis motus qui est a contra 
+        <lb ed="#V" n="123"/>rio in contrarium est aliquid positiuum nouum: ergo 
+        mo<lb ed="#V" n="124" break="no"/>tus deperditionis est ad aliquid positiuum nouum: sed 
+        <lb ed="#V" n="125"/>ista non concludunt. Ad primum istorum dico: quod 
+        <lb ed="#V" n="126"/>philosus in illo loco loquitur de motum acquisitiuo: talis 
+        <lb ed="#V" n="127"/>enim semper est de positiuo in positiuum: cum sit ad 
+        ali<lb ed="#V" n="128" break="no"/>quid nouum. Potest etiam dici sicut aliqui dicunt: quod 
+        <lb ed="#V" n="129"/>philoss in loco illo ponit differentiam inter motum et 
+        mu<lb ed="#V" n="130" break="no"/>tationem: quia subiectum motus est ens actu: 
+        mutatio<lb ed="#V" n="131" break="no"/>nis autem materia prima que non est ens actu: saltem 
+        <lb ed="#V" n="132"/>loquendo de actu completo: et ideo dicit quod omnis 
+        <lb ed="#V" n="133"/>motus est a subiecto in subiectum: quia in omni 
+        mo<lb ed="#V" n="134" break="no"/>tum: siue sit acquisitiuus: siue deperditiuus manet 
+        subs<lb ed="#V" n="135" break="no"/>iectum quod est ens actu: per subiectum enim non intendit 
+        ter<lb ed="#V" n="136" break="no"/>minum a quo et terminum ad quem: sicut isti doc. videtur. 
+        <lb ed="#V" n="137"/>Ad secundum dico: quod non omnis mutatio est ab aliquo in 
+        ali<lb ed="#V" n="138" break="no"/>ud: quia motus deprditiuus est quedam mutatio: cum mutatio¬
+        <pb ed="#V" n="127-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>sit genus motus: etiam per eum: et tamen motus de 
+        <lb ed="#V" n="2"/>perditus non est ab aliquo in aliquid: vt dictum est 
+        <lb ed="#V" n="3"/>supra: cum non sit ad aliquid uouum: supponit ergo 
+        ra<lb ed="#V" n="4" break="no"/>tio quod debet probare: et per consequens petit 
+        princi<lb ed="#V" n="5" break="no"/>pium. Ad septimum principale dico: quod non est istius 
+        <lb ed="#V" n="6"/>doctoris: sed goffredi: quem iste doctor sequitur in 
+        <lb ed="#V" n="7"/>hac materia a diuersis diuersimode respondetur: quia 
+        <lb ed="#V" n="8"/>quidam dicunt quod in alteratione que est a minus 
+        al<lb ed="#V" n="9" break="no"/>bo ad magis album: terminus a quo non est 
+        albedo<lb ed="#V" n="10" break="no"/>remissa: sed priuatio termini ad quem scilicet priuatio 
+        <lb ed="#V" n="11"/>albedinis intense. Quidam vero dicunt quod 
+        termi<lb ed="#V" n="12" break="no"/>nus a quo in tali alteratione non est priuatio 
+        albe<lb ed="#V" n="13" break="no"/>dinis intense: sed nigredo que est in albedine 
+        re<lb ed="#V" n="14" break="no"/>missa: et hec est incompossibilis albedini intense: 
+        <lb ed="#V" n="15"/>quicquid tamen sit de solutionibus istis: quia 
+        sal<lb ed="#V" n="16" break="no"/>tem secunda videtur omnino impossibilis: quia supponit 
+        contraria<lb ed="#V" n="17" break="no"/>simul esse in eodem sub gradibus remissis: cuius 
+        o<lb ed="#V" n="18" break="no"/>positum patet ex praecedenti quaestione: concessa maiore illius 
+        <lb ed="#V" n="19"/>rationis nego minorem: quia partes forme non sunt 
+        termini<lb ed="#V" n="20" break="no"/>se intensioris forme: quod ostendo etiam per istum doc. quia secundu 
+        <lb ed="#V" n="21"/>eum omnis motus est a contrario in contrarium: sed partes forme vt 
+        pu<lb ed="#V" n="22" break="no"/>ta albedo remissa: et albedo intensa. siue albedo 
+        praece<lb ed="#V" n="23" break="no"/>dens et albedo subsequens non sunt contraria cum sint eiusdem 
+        <lb ed="#V" n="24"/>speciei specialissime: ergo: dico tamen quod termini intensionis 
+        <lb ed="#V" n="25"/>forme per se non sunt forma remissa: et forma intensa sed 
+        <lb ed="#V" n="26"/>esse remissum et esse intensum: verbi gratia: si fiat 
+        mo<lb ed="#V" n="27" break="no"/>tus a minus albo ad magis album terminus a 
+        quo<lb ed="#V" n="28" break="no"/>istius motus non est albedo remissa: sed esse album 
+        re<lb ed="#V" n="29" break="no"/>misse. et terminus ad quem non est albedo intensa: sed 
+        <lb ed="#V" n="30"/>esse intense album. et isti termini sunt omnino 
+        incompos<lb ed="#V" n="31" break="no"/>sibiles. quia impossibis e est a liquod subiectum simul esse 
+        <lb ed="#V" n="32"/>remisse album: et intense album: et quod illud sit verum 
+        ap<lb ed="#V" n="33" break="no"/>paret quia iste motus fit a minus albo ad magis album 
+        <lb ed="#V" n="34"/>ergo terminus a quo est minus album siue remisse 
+        al<lb ed="#V" n="35" break="no"/>bum quia idem est: et terminus ad que est magis album 
+        <lb ed="#V" n="36"/>siue intense album. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e3110">
+        Ad octauum apparebit quid 
+        dicen<lb ed="#V" n="37" break="no"/>dum in respondendo ad argumenta principalia. quia istud 
+        ar<lb ed="#V" n="38" break="no"/>gumentum fuit factum in proponendo questionem. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e3117">
+        Ad 
+        <lb ed="#V" n="39"/>nonum nego vltimam consequentiam. quia exipositione quam 
+        <lb ed="#V" n="40"/>sequor non sequitur quod agens potens inducere formam 
+        re<lb ed="#V" n="41" break="no"/>missam possit inducem forma intensam. nec quod calidum 
+        re<lb ed="#V" n="42" break="no"/>missum possit inducere intensum gradum caloris: et 
+        <lb ed="#V" n="43"/>ad probationem quando dicitur quod omne potens 
+        indu<lb ed="#V" n="44" break="no"/>cere aliquam forma in subiecto susceptiuo forme 
+        po<lb ed="#V" n="45" break="no"/>test inducere forma consimilem sub consimili 
+        gradu<lb ed="#V" n="46" break="no"/>in subiecto eque vel magis di posito. Dico quod verum 
+        <lb ed="#V" n="47"/>est si in illo subiecto nondum induxit forma illa: sed si 
+        <lb ed="#V" n="48"/>induxit vt ipsum gradum sibi adequatum non potest 
+        <lb ed="#V" n="49"/>isto manente inducere gradum consimilem: quia 
+        indu<lb ed="#V" n="50" break="no"/>ctus est gradus sibi adequatus: et ideo non sequitur 
+        <lb ed="#V" n="51"/>quod agens potens inducere vnam partem forme possit 
+        <lb ed="#V" n="52"/>post inductionem illius illa manente aliam partem 
+        <lb ed="#V" n="53"/>equalem inducere. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e3152">
+        Ad decimum concedo: quod multe 
+        <lb ed="#V" n="54"/>forme absolute eiusdem speciei facientes vnam 
+        for<lb ed="#V" n="55" break="no"/>mam numero per se erunt simul et adequate in eodem 
+        <lb ed="#V" n="56"/>subiecto: et si dicatur quod istud est contra philos eom. 5 meta 
+        <lb ed="#V" n="57"/>phi. vbi dicit quod duo accidentia solo numero 
+        differen<lb ed="#V" n="58" break="no"/>tia in eodem subiecto primo esse non possunt. Dico quod 
+        <lb ed="#V" n="59"/>aristo. loquitur de accidentibus non facientibus per 
+        <lb ed="#V" n="60"/>se vnum in actu: et ideo dictum suum non est ad propositum. 
+        <lb ed="#V" n="61"/>Et quando dicitur: quod si multe possuut esse simul se 
+        <lb ed="#V" n="62"/>quitur quod infinite: quicquid sit de consequentia: 
+        con<lb ed="#V" n="63" break="no"/>cedo consequens in sensu dato: quia sicut quaelibet 
+        <lb ed="#V" n="64"/>magnitudo continua est diuisibilis in infinitu: et per 
+        <lb ed="#V" n="65"/>consequens habet partes infinitas: sic et quel ibet 
+        <lb ed="#V" n="66"/>forma intensibilis suo modo: omnes tamen ille 
+        par<lb ed="#V" n="67" break="no"/>tes faciunt vnam forma numero per se vnam: nec ex hoc 
+        <lb ed="#V" n="68"/>sequitur forma illam esse infinita intensiue: sic nec se 
+        <lb ed="#V" n="69"/>quitur quod magnitudo continua sit infinita extensiue.
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>Potest etiam dici: quod quia omnes partes forme 
+        faci<lb ed="#V" n="71" break="no"/>unt per se vnam formam numero non remanent actu 
+        <lb ed="#V" n="72"/>plures forme numero: sicut etiam videmus quod quaelibet 
+        <lb ed="#V" n="73"/>albedo habet plures partes secundum extensionem: quia tamen constituunt 
+        <lb ed="#V" n="74"/>vnam forma per se non conceditur: quod ille partes sint 
+        plu<lb ed="#V" n="75" break="no"/>res forme: siue plures albedines numero: sed vna 
+        <lb ed="#V" n="76"/>tantum. Et si sic dicatur non sequitur plures formas 
+        nu<lb ed="#V" n="77" break="no"/>mero simul esse in eodem subiecto: quia partes 
+        forme<lb ed="#V" n="78" break="no"/>non sic remanent actu plures. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e3211">
+        Ad vndecimum 
+        dico<lb ed="#V" n="79" break="no"/>quod non est contra me: quia posui conclusiones de formis 
+        <lb ed="#V" n="80"/>permanentibus: de motum vero et aliis successiuis non 
+        lo<lb ed="#V" n="81" break="no"/>quor pronunc: quia nondum inquisiui qualis sit eorum enti 
+        <lb ed="#V" n="82"/>tas. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e3222">
+        Ad vltimum: primo reduco rationem contra eum: 
+        <lb ed="#V" n="83"/>quia vel iste doc. per radiu solarem intelligit aliquam re 
+        di<lb ed="#V" n="84" break="no"/>stinctam a lumine vel non: sed praecise lumine causatum 
+        <lb ed="#V" n="85"/>a sole in illa parte aeris: quam sol respicit diametra 
+        <lb ed="#V" n="86"/>liter. Si detur primum: ratio nihil concludit: quia dicetur quod 
+        <lb ed="#V" n="87"/>lumen radii solaris est in radio solari tanquam in 
+        subie<lb ed="#V" n="88" break="no"/>cto: et per consequens non sequitur quod migrat de subiecto in 
+        sub<lb ed="#V" n="89" break="no"/>iectum. Si detur secundum: ratio est contra eum: quia ipse 
+        sup<lb ed="#V" n="90" break="no"/>ponit in principio illius rationis quod continue ad motum 
+        <lb ed="#V" n="91"/>solis sit radius in alio et in alio subiecto quia continue 
+        <lb ed="#V" n="92"/>sit: vt dicit in alio et alio loco: igitur si radius non esset 
+        <lb ed="#V" n="93"/>nisi lumen quod continue ad motum solis fiat lumen in alio 
+        <lb ed="#V" n="94"/>et alio subiecto: et per consequens migrat de subiecto in 
+        subie<lb ed="#V" n="95" break="no"/>ctum quod est inconueniens ad quod deducit. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e3253">
+        Ad rationem 
+        <lb ed="#V" n="96"/>igitur po est diuersimode respondere secundum quod de radio 
+        sola<lb ed="#V" n="97" break="no"/>ri diuersi diuersimode opinantur: verum quia nondum 
+        inquisi<lb ed="#V" n="98" break="no"/>ui qualis sit eius entitas: an permanens an 
+        successiva<lb ed="#V" n="99" break="no"/>an temporalis: an instantanea pertram seo quousque pertractem 
+        <lb ed="#V" n="100"/>de materia ista: quia si eius entitas non sit permanens: 
+        <lb ed="#V" n="101"/>sed successiua: patet rationem non esse contra conclusionem 
+        <lb ed="#V" n="102"/>meam. Aliqui tamen dicunt ad rationem istam: quod licet accidens 
+        <lb ed="#V" n="103"/>intrinsecum: et vocant accidens intrinsecum illud quod 
+        edu<lb ed="#V" n="104" break="no"/>citur de potentia subiecti cuius est albedo non migrat 
+        <lb ed="#V" n="105"/>de subiecto in subiectum naturaliter loquendo: 
+        acci<lb ed="#V" n="106" break="no"/>dens tamen extr insecum potest migrare de subiecto in 
+        <lb ed="#V" n="107"/>subiectum. Et extrinsecum vocant illud quod non educitur 
+        <lb ed="#V" n="108"/>de potentia subiecti: eadem enim species: vt dicunt 
+        cau<lb ed="#V" n="109" break="no"/>satur ab obiecto: et recipitur in medio: et est postea 
+        rece<lb ed="#V" n="110" break="no"/>pta in organo vel in potentia: et quia lumen est 
+        acci<lb ed="#V" n="111" break="no"/>dens extrinsecum isto modo: quia non consurgit ex aere: sed 
+        <lb ed="#V" n="112"/>ex sole videtur posse concedi: vt dicunt: quod migret de 
+        sub<lb ed="#V" n="113" break="no"/>iecto in subiectum. Et secundum hoc dicetur: quod accidentia que 
+        <lb ed="#V" n="114"/>non sunt in subiecto realiter: sed solum intentionaliter: vt 
+        <lb ed="#V" n="115"/>reale distinguitur contra intentio nale: possunt migra 
+        <lb ed="#V" n="116"/>re de subiecto in subiectum etiam naturaliter. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e3302">
+                  <lb ed="#V" n="117"/>Opinio sancti thonte et egidii: 
+        <lb ed="#V" n="118"/>Contra secundam conclusionem est opinio sancti 
+        tho<lb ed="#V" n="119" break="no"/>me et doc. nostri domini egidii quam vt plurimum doc. nostri 
+        se<lb ed="#V" n="120" break="no"/>quuntur: et potest ex fundamentis eorum contra ipsam 
+        ar<lb ed="#V" n="121" break="no"/>gui multipliciter. Primo sic: augmentatio potest esse 
+        si<lb ed="#V" n="122" break="no"/>ne generatione: igitur forma potest augmentari sine 
+        acqui<lb ed="#V" n="123" break="no"/>sitione noue partis eiusdem forme: consequentia patet: quia sine 
+        <lb ed="#V" n="124"/>generatione non potest esse acquisitio eiusdem forme: 
+        <lb ed="#V" n="125"/>antecedens patet: quia augmentatio et generatio sunt 
+        mutati<lb ed="#V" n="126" break="no"/>ones dispate: igitur augmentatio poterit esse sine 
+        genera<lb ed="#V" n="127" break="no"/>tione. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e3328">
+        Preterea: si forma augetur per acquisitionem 
+        <lb ed="#V" n="128"/>noue partis etc. vel illa pars nouiter acquisita est 
+        essen<lb ed="#V" n="129" break="no"/>tialis formesspecifice vel accidentalis. si essentialis: 
+        <lb ed="#V" n="130"/>sequitur quod forma praeexistens cui additur non erit in 
+        spe<lb ed="#V" n="131" break="no"/>cie illa per se: quia carebat eo quod est essentiale 
+        il<lb ed="#V" n="132" break="no"/>li speciei: et quod caret eo quod est essentiale alicui spe 
+        <lb ed="#V" n="133"/>ciei non est in specie illa per se. Si accidentalis: 
+        se<lb ed="#V" n="134" break="no"/>quitur quod non faciat per se vnum cum forma praeexistente: et 
+        <lb ed="#V" n="135"/>per consequens non augmentat ipsam. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e3348">
+        
+        Prete<lb ed="#V" n="136" break="no"/>rea: si forna augetur per acquisitionem noue 
+        par<lb ed="#V" n="137" break="no"/>tis eiusdem forme: sequeretur quod vnum indiuiduum secundum 
+        <lb ed="#V" n="138"/>essentiam suam esset perfectius alio indiuiduo eiusdem:
+        <pb ed="#V" n="128-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>consequens est falsum: quia in indiuiduis eiusdem rationis non 
+        <lb ed="#V" n="2"/>est ordo essentialis secundum perfectionem: igitur et antecedens: consequentia 
+        <lb ed="#V" n="3"/>probatur: quia si sint due albedines equales omnino intensiue: 
+        <lb ed="#V" n="4"/>et vna earum intendatur per acquisitionem noue partis eiusdem 
+        <lb ed="#V" n="5"/>forme: altera remanente: vt prius patet: quod albedo 
+        in<lb ed="#V" n="6" break="no"/>tensa secundum suam essentiam esset perfectior alia et per consequens vnum 
+        <lb ed="#V" n="7"/>indiuiduum secundum essentiam suam perfectius alio eiusdem 
+        ratio<lb ed="#V" n="8" break="no"/>nis. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e3379">
+        Preterea res alba potest fieri albior: nulla parte 
+        <lb ed="#V" n="9"/>albedinis nouitur acquisita: igitur: albedo potest intendi 
+        <lb ed="#V" n="10"/>sine acquisitione noue partis eiusdem forme. consequentia patet: quia 
+        <lb ed="#V" n="11"/>nulla res est albior: nisi quia eius albedo est intensior: 
+        <lb ed="#V" n="12"/>antecedens probatur: quia ad sensum vidimus: quod cum res aliqua 
+        alba<lb ed="#V" n="13" break="no"/>condensatur ipsa fit albior: et tamen non acquiritur noua pars 
+        <lb ed="#V" n="14"/>albedinis ergo: etc. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e3395">
+        Preterea: ex minus calido fit 
+        ma<lb ed="#V" n="15" break="no"/>gis calidum: nulla parte caloris nouitur acquisita: igitur 
+        ca<lb ed="#V" n="16" break="no"/>lor notest intendi sine acquisitione etc. antecedens est phiysi 4. 
+        <lb ed="#V" n="17"/>physicorum dicentis: quod ex calido fit magis calidum nullo 
+        fa<lb ed="#V" n="18" break="no"/>cto in materia calido. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e3406">
+                  <lb ed="#V" n="19"/>Responsio ad rationes ocham. 
+        <lb ed="#V" n="20"/>Ad primum istorum dico quod generatio potest accipi 
+        tripli<lb ed="#V" n="21" break="no"/>citer Uno modo pro productione alicuius compositi per se 
+        exi<lb ed="#V" n="22" break="no"/>stentis. Alio modo pro productione forme seu termini 
+        forma<lb ed="#V" n="23" break="no"/>lis secundum quamlibet sui partem. Tertio pro productione 
+        cu<lb ed="#V" n="24" break="no"/>iuscumque noui. Primo modo concedo quod augeinentatio potest es 
+        <lb ed="#V" n="25"/>sine generatione: et econuerso: et etiam secundo: immo 
+        naturali<lb ed="#V" n="26" break="no"/>ter non potest esse augmentatio cum tali generatione: quia 
+        au<lb ed="#V" n="27" break="no"/>gmentatio semper praesupponit aliquam partem vel aliquem 
+        gra<lb ed="#V" n="28" break="no"/>dum forme: que potest augmentari et quod sic generatur secundum 
+        <lb ed="#V" n="29"/>quamlibet sui partem producitur: sed sic concesso antete: 
+        pa<lb ed="#V" n="30" break="no"/>tet quod non valet consequentia. Tertio modo nego antecedens: quia 
+        impos<lb ed="#V" n="31" break="no"/>sibile est veram augmentationem esse sine tali generatione: 
+        <lb ed="#V" n="32"/>vt patet per deductionem conclusionis mee. licet talis 
+        gene<lb ed="#V" n="33" break="no"/>ratio possit esse sine tali augmentatione: et per hoc patet 
+        <lb ed="#V" n="34"/>qualiter est concedendum quod augmentatio et generatio 
+        <lb ed="#V" n="35"/>sunt mutationes dispate: et qualiter non. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e3446">
+        Ad 
+        seci<lb ed="#V" n="36" break="no"/>dum dico: quod illa pars forme nouiter acquisita est 
+        indi<lb ed="#V" n="37" break="no"/>uiduum illius speciei: sicut et praecedens: et ideo isto modo et 
+        <lb ed="#V" n="38"/>non alio: quo praecedens est essentialis vel accidentalis 
+        il<lb ed="#V" n="39" break="no"/>lius speciei. Sed tunc ratio nihil concludit: quia si concedatur 
+        <lb ed="#V" n="40"/>quod sit essentialis modo dicto: non sequitur: quod forma 
+        prae<lb ed="#V" n="41" break="no"/>existens cui additur non erat in specie per se: nec probatio 
+        va<lb ed="#V" n="42" break="no"/>let: quia omnia indiuidua vnius speciei isto modo sunt 
+        essen<lb ed="#V" n="43" break="no"/>tialia nature specifice: et tamen non sequitur: hoc 
+        indiui<lb ed="#V" n="44" break="no"/>duum caret illo: igitur non est in specie per se. Si vero 
+        con<lb ed="#V" n="45" break="no"/>cedatur quod sit accidentalis modo praedicto: patet quod non se 
+        <lb ed="#V" n="46"/>quitur quod non faciat per se vnum cum forma pexistente: quia 
+        que<lb ed="#V" n="47" break="no"/>libet alia est sic accidentalis nature specifice: et tamen 
+        <lb ed="#V" n="48"/>potest facere per se vnum eum alia: dico tamen vlterius 
+        ac<lb ed="#V" n="49" break="no"/>maiorem declarationem quesiti: quod illa pars nouitur 
+        acqui<lb ed="#V" n="50" break="no"/>sita non est essentialis parti praeexistenti: et tamen essentialis 
+        <lb ed="#V" n="51"/>forme totali: que ex ipsa et praeexistenti constituitur sicut 
+        prae<lb ed="#V" n="52" break="no"/>existens. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e3485">
+        Ad tertium concedo consequens: quod albedo intensa 
+        <lb ed="#V" n="53"/>secundum suam essentiam est perfectior remissa: et quando dicitur quod in 
+        <lb ed="#V" n="54"/>indiuiduis eiusdem rationis non est ordo essentialis secundum 
+        perfe<lb ed="#V" n="55" break="no"/>ctionem: dico quod non est verum absolute: sed sic 
+        intelligen<lb ed="#V" n="56" break="no"/>do quod in ipsis non est ordo essentialis qualis est in 
+        indi<lb ed="#V" n="57" break="no"/>uiduis alterius speciei: et hoc est verum: quia in 
+        indiuidu<lb ed="#V" n="58" break="no"/>is alterius rationis est talis ordo vniuersaliter: quia non 
+        <lb ed="#V" n="59"/>possunt dari duo indiuidua alterius rationis: quin 
+        vniu<lb ed="#V" n="60" break="no"/>sit essentialiter perfectius altero: in indiuiduis autem 
+        <lb ed="#V" n="61"/>eiusdem rationis non est talis ordo vniuersaliter: quia 
+        mul<lb ed="#V" n="62" break="no"/>ta talia indiuidua sunt essentialiter equeperfecta. 
+        <lb ed="#V" n="63"/>Iterum inter indiuidua alterius rationis est talis essentialis ordo: 
+        <lb ed="#V" n="64"/>quod minus perfectum per sui intensionem nunquam poterit adequa 
+        <lb ed="#V" n="65"/>ri perfectioni: non autem inter indiuidua eiusdem rationis: vt patet: 
+        <lb ed="#V" n="66"/>Ad quartum dico: sicut communiter solet dici quod 
+        ali<lb ed="#V" n="67" break="no"/>quid esse albius alio: vel vno tempore magis quam alio potest 
+        in<lb ed="#V" n="68" break="no"/>telligi dupliciter: secundum veritatem scilicet et existentiam: vel 
+        so<lb ed="#V" n="69" break="no"/>lum secundum apparentiam: in secundo sensu concedo antecedens: et ne¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>go consequentiam: quia possibile est aliquam rem esse albiorem secundum 
+        appa<lb ed="#V" n="71" break="no"/>rentiam eius albedine non intensa: sed in secundo nego 
+        <lb ed="#V" n="72"/>antecedens: et ad probationem dico: quod si res alba que condensa 
+        <lb ed="#V" n="73"/>tur sit albior secundum veritatem necesse est aliquam partem 
+        al<lb ed="#V" n="74" break="no"/>bedinis esse nouiter acquisitam. Si vero res alba 
+        con<lb ed="#V" n="75" break="no"/>densetur et nulla pers albedinis de nouo acquiratur: 
+        di<lb ed="#V" n="76" break="no"/>co quod ipsa non est albior secundum veritate: sed solum 
+        apparen<lb ed="#V" n="77" break="no"/>tiam: eo quod propter maiorem propinquitatem partium fortius 
+        <lb ed="#V" n="78"/>mouet visum. Ad vltimum dico: sicut et ad praecedens 
+        <lb ed="#V" n="79"/>sic: quod ex minus calido non fit magis calidum secundum 
+        veri<lb ed="#V" n="80" break="no"/>tatem: nulla parte caloris nouiter acquisita: et ad 
+        au<lb ed="#V" n="81" break="no"/>ctoritatem dico: quod non intelligit quod ex minus calido 
+        <lb ed="#V" n="82"/>possit fieri magis calidum nulla parte caloris nouitur 
+        <lb ed="#V" n="83"/>acquisita in parte subiecti: que non est calida: et hoc est 
+        <lb ed="#V" n="84"/>dictum quod aliquid potest fieri magis calidum intensiue 
+        <lb ed="#V" n="85"/>sine hoc quod fiat magis calidum extensiue: et quod ista sit 
+        <lb ed="#V" n="86"/>intentio philysi patet per verba immediate sequentia: quia 
+        cum<lb ed="#V" n="87" break="no"/>dicit: quod ex calido fit magis calidum nullo facto in 
+        ma<lb ed="#V" n="88" break="no"/>teria calido statim subdit quod non esset calidum quando esset 
+        mi<lb ed="#V" n="89" break="no"/>nus calidum: quasi dicat quod ex minus calido fiat 
+        ma<lb ed="#V" n="90" break="no"/>gis calidum nulla parte facta calida: que non esset prius 
+        <lb ed="#V" n="91"/>calida quando illud erat minus calidum: et hoc est 
+        ve<lb ed="#V" n="92" break="no"/>rum. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e3576">
+        Egidius. 
+        <lb ed="#V" n="93"/>Contra tertiam conclusionem potest argui ex fundamento 
+        <lb ed="#V" n="94"/>doc. nostri. primo sic. Quia si gradus adueniens in 
+        au<lb ed="#V" n="95" break="no"/>gmento forme distingueretur realiter a priori sequeretur quod 
+        <lb ed="#V" n="96"/>quanto forma esset intensior: tanto esset perfectior et 
+        quam<lb ed="#V" n="97" break="no"/>to esset remissior: tanto esset perfectior: quod est falsum secundum 
+        <lb ed="#V" n="98"/>omnes: consequentia probatur: quia quanto forma est compositior: 
+        tan<lb ed="#V" n="99" break="no"/>to est imperfectior: et econuerso: quanto simplicior 
+        tan<lb ed="#V" n="100" break="no"/>to perfectior: sed si gradus adueniens in augmento 
+        forme<lb ed="#V" n="101" break="no"/>distingueretur realiter a priori: quanto forma esset 
+        inten<lb ed="#V" n="102" break="no"/>sior: tanto esset compositior: et quato remissior: tanto 
+        sim<lb ed="#V" n="103" break="no"/>plicior: ergo etc. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e3602">
+        Preterea: si conclusio esset vera se 
+        <lb ed="#V" n="104"/>queretur: quod forma intensa non esset per se vna: quod est falsum: 
+        <lb ed="#V" n="105"/>et contra me: consequentia probatur: quia nunquam ex aliquibus 
+        duo<lb ed="#V" n="106" break="no"/>bus fit vnum per se: nisi vnum illorum sit in potentia ad 
+        <lb ed="#V" n="107"/>alterum. Sed si illa conclusio sit vera forma intensa 
+        <lb ed="#V" n="108"/>constitueretur ex partibus realiter distinctis: quarum 
+        <lb ed="#V" n="109"/>vna non esset in potentia ad alteram: cum forme non sit 
+        <lb ed="#V" n="110"/>forma: ergo etc. Confirmatur: quia ex duobus 
+        <lb ed="#V" n="111"/>in actu non fit vnum per se. 7 metaphi. sed quaelibet 
+        <lb ed="#V" n="112"/>pars forme est aliquid in actu: ergo partes 
+        forme<lb ed="#V" n="113" break="no"/>realiter distinguuntur in forma: et sic forma non erit 
+        <lb ed="#V" n="114"/>per se vna. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e3628">
+        Ad rationes ocham. 
+        <lb ed="#V" n="115"/>Ad primam nego consequentiam: et ad probationem: nego maio 
+        <lb ed="#V" n="116"/>rem: quia non est verum quod forma quanto est compositior 
+        <lb ed="#V" n="117"/>tanto est imperfectior: immo quanto est compositior: isto 
+        <lb ed="#V" n="118"/>modo tanto est perfectior: et quanto simplicior: 
+        tan<lb ed="#V" n="119" break="no"/>to imperfectior: nec est vniuersaliter verum quod omne 
+        <lb ed="#V" n="120"/>simplex sit perfectius quolibet composito: aliter 
+        ma<lb ed="#V" n="121" break="no"/>teria hominis esset perfectior homine: quod est 
+        fal<lb ed="#V" n="122" break="no"/>sum: ergo etc. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e3648">
+        Ad secundam: nego consequentiam: et 
+        <lb ed="#V" n="123"/>ad probationem similiter nego maiorem: si illa duo sint in 
+        <lb ed="#V" n="124"/>potentia ad vnum tertium: quia licet ex duobus: quorum 
+        <lb ed="#V" n="125"/>neutrum est in potentia ad alterum: nec ambo ad 
+        ter<lb ed="#V" n="126" break="no"/>tium non fiat vnum per se: ex duobus tamen: quorum 
+        neu<lb ed="#V" n="127" break="no"/>trum est in potentia ad alterum potest fieri vnum per se: 
+        <lb ed="#V" n="128"/>si ambo sint in potentia ad tertium: et hoc apparet 
+        <lb ed="#V" n="129"/>ad sensum: videmus enim: quod ex duabus aquis fit 
+        <lb ed="#V" n="130"/>vna aqua ita per se vna: sicut erat quaelibet illarum 
+        <lb ed="#V" n="131"/>ex quibus componitur: et tamen nulla illarum erat in 
+        po<lb ed="#V" n="132" break="no"/>tentia ad alteram: sed quia ambe prius erantin 
+        poten<lb ed="#V" n="133" break="no"/>tia ad constituendum vnam aquam totalem: fit ex ipsis vna 
+        <lb ed="#V" n="134"/>aqua per se. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e3678">
+        Et ad confirmationem philosi patet: quod 
+        proposi<lb ed="#V" n="135" break="no"/>tio non est vera si sic intelligatur absolute: quia ex 
+        <lb ed="#V" n="136"/>duabus aquis quarum quelibet est aliquid in actu fit 
+        <lb ed="#V" n="137"/>vna aqua per se: vt notum est. Intelligenda est 
+        er<lb ed="#V" n="138" break="no"/>go auctoritas aristo. de his que sic sunt duo in actu
+        <pb ed="#V" n="128-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>quod neutrum est in potentia ad alterum: nec ambo ad vnum. 
+        <lb ed="#V" n="2"/>tertium: et tunc non est ad propositum: quia partes forme non 
+        <lb ed="#V" n="3"/>sunt in potentia ad constituendum vnam forma totalem: 
+        <lb ed="#V" n="4"/>sicut partes aque ad constituendum vnam aquam 
+        tota<lb ed="#V" n="5" break="no"/>lem. Contra conclusionem quartam posset specialiter 
+        ar<lb ed="#V" n="6" break="no"/>gui ex tertia: quia si partes forme realiter distinguuntur: 
+        <lb ed="#V" n="7"/>vt asserit tertia conclusio: et sunt eiusdem speciei 
+        specia<lb ed="#V" n="8" break="no"/>lissime: vt asserit quarta: sequitur plura accidentia 
+        <lb ed="#V" n="9"/>solo numero diftertia simul esse in eodem subiecto primo: quod non est 
+        <lb ed="#V" n="10"/>verum sed ad illud patet quid dicendum ex solutione 
+        quar<lb ed="#V" n="11" break="no"/>te rationis facte contra primam conclusionem. 
+      </p>
+               <p xml:id="at8va9-e75236-d1e3717">
+                  <lb ed="#V" n="12"/>Ad principalia. 
+        <lb ed="#V" n="13"/>Ad primam: reduco per rationem contrafacientem: quia vel ipse 
+        <lb ed="#V" n="14"/>habet pro inconuenienti: quod nulla forma augeatur vel non: 
+        <lb ed="#V" n="15"/>si non: ratio est nulla: quia non deducit ad aliquod 
+        inconueni<lb ed="#V" n="16" break="no"/>ens: si sic: ratio est contra eum: quia per eum pers praecedens non 
+        auge<lb ed="#V" n="17" break="no"/>tur: quia non manet: nec sequens: quia non praefuit: nec totum 
+        <lb ed="#V" n="18"/>aggregatum: quia per ipsum ex traque vel penitus 
+        aggrega<lb ed="#V" n="19" break="no"/>tur. Ad rationem igitur dico: quod forma augeri vel in 
+        <lb ed="#V" n="20"/>tendi potest intelligi dupliciter. Uno modo: quia eadem 
+        for<lb ed="#V" n="21" break="no"/>ma nuero quae prius fuit minor nunc sit maior. Alio 
+        mo<lb ed="#V" n="22" break="no"/>do: quod forme praeexistenti additur aliqua forma similis vel 
+        <lb ed="#V" n="23"/>prs forme: ex qua constituitur vna forma maior et per 
+        <lb ed="#V" n="24"/>fectior intensiue quam fit illa pers praecise que praefuit. Et per 
+        <lb ed="#V" n="25"/>oppositum dupliciter potest intellligi formam diminui vel 
+        re<lb ed="#V" n="26" break="no"/>mitti. Uno modo: quia eadem forma numero que prius fuit 
+        <lb ed="#V" n="27"/>maior nnuc fit minor. Alio modo: quia aliqua pers 
+        forme<lb ed="#V" n="28" break="no"/>tolliter a forma: ratione cuius forma que remanet fit 
+        <lb ed="#V" n="29"/>minor et imperfectior intensiue forma illa quae praefuit. 
+        Inpri<lb ed="#V" n="30" break="no"/>mo sensu concedo: quod nec charitas: nec aliqua 
+        forma<lb ed="#V" n="31" break="no"/>mundi potest augeri nec minui: quia impossibile est quod 
+        eade<lb ed="#V" n="32" break="no"/>charitas seu eadem albedo numero nunc sit maior et 
+        prius<lb ed="#V" n="33" break="no"/>fuit minor: vel econuerso. et in isto sensu procedit illa ratio. 
+        <lb ed="#V" n="34"/>In secundo tamen sensu charitas et omnis forma consimilis 
+        quam<lb ed="#V" n="35" break="no"/>tum est ex se potest minui vel augeri: et sic be. aug. et doc 
+        <lb ed="#V" n="36"/>dicunt charitatem augeri: quia charitas quae nunc est in isto. est 
+        <lb ed="#V" n="37"/>maior charitate quae praefuit in ipso: nec oppositum probatur. 
+        <lb ed="#V" n="38"/>Secundam rationem si bsi deducatur concedo concludere. 
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

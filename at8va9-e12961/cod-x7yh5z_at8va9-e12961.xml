@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 6</title>
+            <author ref="#AlphonsusVargas">Alphonsus Vargas Toletanus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 6</title>
+               <date when="2024-10-10">October 10, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-x7yh5z">Venice, 1490</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="28-v"/>
+            <cb ed="#V" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="at8va9-e12961"><!-- l1prolq6 -->
+            <head xml:id="at8va9-e12961-Hd1e101">Quaestio 6</head>
+            <head xml:id="at8va9-e12961-Hd1e103" type="question-title">
+      Utrum habitus theologicus intellectus creati sit de Deo, ut Deus est tamquam de subiecto primo
+    </head>
+            <p xml:id="at8va9-e12961-d1e106">
+               <lb ed="#V" n="60"/>Secundo quero: vtrum habitus theologicus 
+      intel<lb ed="#V" n="61" break="no"/>lectus creati sit de deo vt deus est tamquam de 
+      sub<lb ed="#V" n="62" break="no"/>secto primo. 
+    </p>
+            <p xml:id="at8va9-e12961-d1e115">
+      Et videtur primo quod sic: quia habitus theologicus 
+      intel<lb ed="#V" n="63" break="no"/>lectus creati est nobilissimus. igitur est de subiecto 
+      no<lb ed="#V" n="64" break="no"/>bilissimo et sub nobilissima ratione. tale autem est deus 
+      sub<lb ed="#V" n="65" break="no"/>ratione deitatis: ergo. Cone habitus theologicus intellectus 
+      cre<lb ed="#V" n="66" break="no"/>ati et increati non sunt eiusdem speciei primi subiecti: sub 
+      ea<lb ed="#V" n="67" break="no"/>dem ratione formalicum sint essentialiter subordinati. sed 
+      <lb ed="#V" n="68"/>habitus theologicus intellectus increati est de deo vt
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="69"/>deus est tamquam de subiecto primo: ergo. 
+    </p>
+            <p xml:id="at8va9-e12961-d1e135">
+      Responsio: In ista 
+      quae<lb ed="#V" n="70" break="no"/>stione erunt quatuor articuli: quia Primo ponam aliquis 
+      <lb ed="#V" n="71"/>distinctiones. Secundo conclusiones. Tertio 
+      moue<lb ed="#V" n="72" break="no"/>bo dubia. Et vltimo respondebo. 
+    </p>
+            <div xml:id="at8va9-e12961-Dd1e145">
+               <head xml:id="at8va9-e12961-Hd1e147">Articulus 1</head>
+               <p xml:id="at8va9-e12961-d1e149">
+                  <lb ed="#V" n="73"/>Primus articulus 
+        <lb ed="#V" n="74"/>QUantum ad primum articulum: supposito: quod quaestio
+        <lb ed="#V" n="75"/>non intelligatur de subiecto in quo est scientia. nec 
+        <lb ed="#V" n="76"/>de subiecto quod scitur: quod proprius vocatur obiectum: quam 
+        <lb ed="#V" n="77"/>subiectum: sicut patet ex prima distinctione primi 
+        articuli<lb ed="#V" n="78" break="no"/>questionis precedentis: sed de subiecto de quo 
+        ali<lb ed="#V" n="79" break="no"/>quid scitur. Distinguo: primo de subiecto sic sumto 
+        <lb ed="#V" n="80"/>quia vno modo potest dici subiectum vox illa siue terminus: 
+        qua<lb ed="#V" n="81" break="no"/>subicitur in conclusione scita. Alio modo conceptus 
+        incomple<lb ed="#V" n="82" break="no"/>tus significatus per illam voce. Et istis duobus 
+        mo<lb ed="#V" n="83" break="no"/>dis subiectum sumitur valde large et improprie: quia pro 
+        <lb ed="#V" n="84"/>prie loquendo modo impossibile est: quod subiectum primum scientie 
+        <lb ed="#V" n="85"/>sit vox vel conceptus sicut patet ex questione 
+        preceden<lb ed="#V" n="86" break="no"/>ti. Tertio modo dicitur subiectum res significata per 
+        ta<lb ed="#V" n="87" break="no"/>lem vocem vel conceptum: et sic sumitur proprie vt patet ibidem et de 
+        <lb ed="#V" n="88"/>subiecto sic sumpto intelligo quaestionem. Secundo 
+        distin<lb ed="#V" n="89" break="no"/>guo de conceptibilitate ipsius dei vt appareat quid 
+        dif<lb ed="#V" n="90" break="no"/>ficultatis facit in proposito illa reduplicatio. vt cum 
+        que<lb ed="#V" n="91" break="no"/>ritur: vtrum habitus etc sit de deo vt deus est: quia potest 
+        concipi<lb ed="#V" n="92" break="no"/>sub ratione communi vt puta entis vel alicuius conuertibilis cum 
+        <lb ed="#V" n="93"/>ente. et sic accipitur in vniversali et per consequens talis notitia 
+        confu<lb ed="#V" n="94" break="no"/>sa est non distincta Secundo sub ratione respectus ad extra valet 
+        <lb ed="#V" n="95"/>vt est creator vel saluator Et ex hoc aliqui sunt 
+        dece<lb ed="#V" n="96" break="no"/>pti credentes doctorem nostrum posuisse deum esse 
+        subie<lb ed="#V" n="97" break="no"/>ctum nostri habitus theologici sub ratione respectus ad extra: 
+        <lb ed="#V" n="98"/>quia dixit ipsum esse subiectum sub ratione glorificationis: 
+        cu<lb ed="#V" n="99" break="no"/>ius: tamen oppositum intendit. sicut declarabitur. q. sequenti. 
+        <lb ed="#V" n="100"/>Tertio sub ratione respectus ad intra. valet vt est gnans 
+        <lb ed="#V" n="101"/>vel spirans: et sic concipitur vt personaliter acc pitur 
+        pro<lb ed="#V" n="102" break="no"/>sona. Quarto sub ratione attributali puta. insti. 
+        sa<lb ed="#V" n="103" break="no"/>pientis. vel bomni vel alterius cuiuscumque consimilis. Quinto subs 
+        <lb ed="#V" n="104"/>ratione propria quiditatiua siue formali. valet sub ratine dei 
+        <lb ed="#V" n="105"/>tatis et sic concipitur vt deus vel inquantum deus. Et ex hoc 
+        <lb ed="#V" n="106"/>patet: quod idem est querere an habitus theologicus sit de 
+        <lb ed="#V" n="107"/>deo vt deus est tamquam de subiecto primo. Et an sit de deo 
+        <lb ed="#V" n="108"/>sub ratione deitatis absolute apparet etiam: quod bestialiter 
+        lo<lb ed="#V" n="109" break="no"/>quuntur dicentes: quod non debet queri vtrum deus sit 
+        subie<lb ed="#V" n="110" break="no"/>ctum in thelogia ratione deitatis quia ibi non est. nec sub: nec 
+        <lb ed="#V" n="111"/>supra. 
+      </p>
+            </div>
+            <div xml:id="at8va9-e12961-Dd1e237">
+               <head xml:id="at8va9-e12961-Hd1e239">Articulus 2</head>
+               <p xml:id="at8va9-e12961-d1e241">
+        Secundus articulus. 
+        <lb ed="#V" n="112"/>Quantum ad secundum articulum pono quatuor 
+        com<lb ed="#V" n="113" break="no"/>clusiones: Prima est: quod repuguat enti 
+        si<lb ed="#V" n="114" break="no"/>plicitur infinito cuiusmodni est deus ab intellectu finito 
+        co<lb ed="#V" n="115" break="no"/>gnosci inquantum infinitum vel sub ratione infiniti 
+        <lb ed="#V" n="116"/>probatur. Primo sic: quia repugnat enti simpliciter 
+        incompre<lb ed="#V" n="117" break="no"/>hesibili ab intellectu finito cognosci: igitur. vt 
+        infini<lb ed="#V" n="118" break="no"/>tum est: antecedens patet: quia sic incomprehensible vt icomprehensibile 
+        <lb ed="#V" n="119"/>posset ab intellectu finito comprehendi: quod est impossibile: 
+        <lb ed="#V" n="120"/>consequentia probatur: quia nihil est incomprehensibile nisi: quia infinitum 
+        <lb ed="#V" n="121"/>Et confirmatur per ricar. de tri lib. secundo. c. 6. vbi 
+        lo<lb ed="#V" n="122" break="no"/>quens de deo sic inquit: habet inquam deus magnitudinem 
+        infi<lb ed="#V" n="123" break="no"/>nitam et eo ipso immensam: quod enim infinitum est: nulla mensura 
+        <lb ed="#V" n="124"/>comprehendi potest. Ecce quod ricardus probat diuine 
+        ma<lb ed="#V" n="125" break="no"/>gnitudinis icomprehensibilitatem per eius infinitatem: quo 
+        <lb ed="#V" n="126"/>posito patet quod deus qua solus est incompr ehensibilis et immensus: 
+        <lb ed="#V" n="127"/>ideo est incoprehensibilis et immensus: quia infinitus. Et per 
+        <lb ed="#V" n="128"/>consequens si deo repugnat ab intellectu finito 
+        cognosci<lb ed="#V" n="129" break="no"/>vt incomprehesibilis: sibi etiam repugnat cognosci vt 
+        <lb ed="#V" n="130"/>infinitus est. Secundo ad principale sic: repugnat enti 
+        <lb ed="#V" n="131"/>simpliciter infinito cuiusmodi est deus ab intellectu finito 
+        <lb ed="#V" n="132"/>cognosci quantum est cognoscibile: igitur sibi repugnat 
+        <lb ed="#V" n="133"/>ab eodem cognosci inquantum infinitum vel sub ratione 
+        infi<lb ed="#V" n="134" break="no"/>niti: antecedens conceditur ab omni catholico: consequentia probatur 
+        duplici<lb ed="#V" n="135" break="no"/>ter. Primo: quia si deus non esset cognoscibilis quatum est 
+        <lb ed="#V" n="136"/>cognoscibilis non esset infinitus: ergo si non cognoscitur ab
+        <pb ed="#V" n="29-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>aliquo quantum est cognoscibilis: non cognoscitur vt 
+        infint<lb ed="#V" n="2" break="no"/>tus. Secundo: quia sequitur ens simplicit infinitum 
+        cogno<lb ed="#V" n="3" break="no"/>scitur inquantum infinitu vel sub ratione infiniti: igitur 
+        ade<lb ed="#V" n="4" break="no"/>quate. consequentia patet: quia si infinitum vt infinitum non cognosci 
+        <lb ed="#V" n="5"/>tur adequate: nullo modo potest adequite cognosci: sed si 
+        co<lb ed="#V" n="6" break="no"/>gnoscitur: adequite cognoscitur quantum est infinitum quod est 
+        impos<lb ed="#V" n="7" break="no"/>sibile. cuius oppositu assumitr in antecedente: ergo etc. 
+      </p>
+               <p xml:id="at8va9-e12961-d1e317">
+                  <lb ed="#V" n="8"/>Tertio sic: ens simpliciter infinitum cuiusmodi est deus 
+        <lb ed="#V" n="9"/>vt infinitum est: excedit virtutem cognitiuam intellectus 
+        <lb ed="#V" n="10"/>cuiuscumque finiti: igitur sibi repugnat vt sic ab 
+        intelle<lb ed="#V" n="11" break="no"/>ctu finito cognosci consequentia est nota: antecedens probatur: quia ens 
+        <lb ed="#V" n="12"/>simpliciter infinitum v infinitum est: sufficientur adequit 
+        virtu<lb ed="#V" n="13" break="no"/>tem cognitiuam intellectus infiniti seu intellectus diuini: 
+        <lb ed="#V" n="14"/>igitur improportionabiliter excedit virtutem cognitiuam in 
+        <lb ed="#V" n="15"/>tellectus cuiuscumquam finiti. Ista consequentia patet: quia quandocumque 
+        ali<lb ed="#V" n="16" break="no"/>qui duo intellectus se habent per modum excedentis et 
+        excessi<lb ed="#V" n="17" break="no"/>quicquid sufficientur adequat intellectum excedentem 
+        exce<lb ed="#V" n="18" break="no"/>dit excessum iuxta mensuram excedentis ad ipsum: sed 
+        in<lb ed="#V" n="19" break="no"/>tellectus infinitus siue diuinus qui solus est infinitus 
+        ex<lb ed="#V" n="20" break="no"/>cedit inproportionabiliter virtutem cognitiuam 
+        intelle<lb ed="#V" n="21" break="no"/>ctus cuiuscumque finiti: vt patet: ergo: antecedens vero probatur 
+        dupli<lb ed="#V" n="22" break="no"/>citur. Primo sic: essentia diuina quae simpliciter est infinita 
+        in<lb ed="#V" n="23" break="no"/>quantum infinita: vel sub ratione infiniti quod idem est: est tante 
+        <lb ed="#V" n="24"/>intelligibilitatis intensiue et extensiue: quate virtutis 
+        co<lb ed="#V" n="25" break="no"/>gnitiue est intellectus divinus: igitur sufficientur adequit vetutem 
+        <lb ed="#V" n="26"/>cognitiuam ipsius: consequentia est bona: et antecedens patet: quia 
+        essentia<lb ed="#V" n="27" break="no"/>diuina vt infinita est intensiue et extensiue est 
+        intelligibi<lb ed="#V" n="28" break="no"/>litatis infinite: et intellecto diuinus non est. nec esse potest 
+        ma<lb ed="#V" n="29" break="no"/>ioris virtutis cognitiue quam infinite. Secundo sic. Illud 
+        <lb ed="#V" n="30"/>obiectum sufficientur adequit virtuntem cognitiuam 
+        intelle<lb ed="#V" n="31" break="no"/>ctus diuini: quo solo posito et omni alio circums cripto nihil 
+        <lb ed="#V" n="32"/>circumscribitur ab intellectione diuina: patet ex terminis: 
+        <lb ed="#V" n="33"/>sed sola diuina essentia posita et subst ratione infiniti cognita 
+        <lb ed="#V" n="34"/>nihil circumscribitur ab intellectione diuina: aliter deus ab 
+        <lb ed="#V" n="35"/>eterno non cognouisset omnia: igitur etc. 
+      </p>
+               <p xml:id="at8va9-e12961-d1e380">
+        Quarto sic 
+        <lb ed="#V" n="36"/>ad principale: si intellectus finitus posset deum cognoscere 
+        sub<lb ed="#V" n="37" break="no"/>ratione infiniti: eius actus esset perfectionaliter infinitus: 
+        sup<lb ed="#V" n="38" break="no"/>posito quod intellectus esset perfecte dispositus non impeditus: et 
+        <lb ed="#V" n="39"/>elicent actum toto conatu: sicut est in beatis: consequens est falsum: 
+        <lb ed="#V" n="40"/>igitur et antecedens: consequentia probatur: quia vbicumque est augmentum vnius 
+        <lb ed="#V" n="41"/>necessario sequitur augmentum alterius: et ad minus 
+        au<lb ed="#V" n="42" break="no"/>gmentum vnius maius augmentum alterius: vbi ad 
+        infini<lb ed="#V" n="43" break="no"/>tum augmentum in vno: sequitur infinitum augmentum in altero: 
+        <lb ed="#V" n="44"/>sed in actibus eiusdem rationis ad augmentum obiecti primus 
+        <lb ed="#V" n="45"/>potentie intellectiue perfecte disposite non impedite 
+        eliqoi<lb ed="#V" n="46" break="no"/>entis actum toto conatu: necessario sequitur augm 
+        entun<lb ed="#V" n="47" break="no"/>perfectionis in actu: et ad maius augmentum perfectionis in 
+        obie<lb ed="#V" n="48" break="no"/>cto maius obiectum perfectionis in actu: igitur ad infinitum 
+        au<lb ed="#V" n="49" break="no"/>gmentum perfectionis in obiecto: sicut est in proposito sequitur in 
+        <lb ed="#V" n="50"/>finitum augmentum perfectionis in actu. maior rationis tenet 
+        <lb ed="#V" n="51"/>virtute illius deductionis quam facit arist. 8. phi dicit quod si 
+        <lb ed="#V" n="52"/>tanta virtus mouet in tanto tempore. et maior in minori. igitur in 
+        <lb ed="#V" n="53"/>finita in non tempore. minor vero pensatis contradictionibus posit in 
+        ea<lb ed="#V" n="54" break="no"/>dem videtur clara: quia quod actus eiusdem potentie respectu per 
+        <lb ed="#V" n="55"/>fectionis obiecti formaliter sumpti: non sit perfectior: non 
+        <lb ed="#V" n="56"/>potest prouenire nisi ex quattuor: vel altero eorum. Primo 
+        si<lb ed="#V" n="57" break="no"/>non sint actus eiusdem rationis: et ideo non actus 
+        <lb ed="#V" n="58"/>opinandi non est nobilior actu sciendi: etiam si sit 
+        <lb ed="#V" n="59"/>nobilioris obiecti. Secundo: si potentia non sit equa 
+        <lb ed="#V" n="60"/>liter disposita: sicut patet de potentia visiua in 
+        ha<lb ed="#V" n="61" break="no"/>bentibus oculos debiles vel infirmos. Tertio si sit 
+        <lb ed="#V" n="62"/>impedita: quia impedimentum in potentia est causa 
+        re<lb ed="#V" n="63" break="no"/>missionis in actu. Quarto: si non elicit actum toto 
+        co<lb ed="#V" n="64" break="no"/>natum: et ideo voluntas que libera est: non naturaliter 
+        eli<lb ed="#V" n="65" break="no"/>cit actum: et per consequens non necessario toto 
+        cona<lb ed="#V" n="66" break="no"/>tum: potest remissius diligere maius bonum. Sed 
+        po<lb ed="#V" n="67" break="no"/>tentia perfecte disposita non impedita elicit actu 
+        to<lb ed="#V" n="68" break="no"/>to conatu: et actus sunt eiusdem rationis: impossibi¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="69"/>le est omnino quin ad augmentum perfectionis in 
+        <lb ed="#V" n="70"/>obiecto sequatur augmentum perfectionis in actu 
+        <lb ed="#V" n="71"/>aliter nobilitas obiecti nihil penitus faceret ad 
+        no<lb ed="#V" n="72" break="no"/>bilitatem actus vel habitus: quod est expresse 
+        contra<lb ed="#V" n="73" break="no"/>philosophum. 1. et 2. de anima: igitur etc. Ista consequentia potest 
+        <lb ed="#V" n="74"/>confirmari multis auctoritatibus: tam sanctorum 
+        <lb ed="#V" n="75"/>quam philosorum. Primo quidem auctoritate beati aug. 
+        in<lb ed="#V" n="76" break="no"/>questionibus veteris et noui testamenti. q. i. vbi sic 
+        <lb ed="#V" n="77"/>ait: quia deus super omnia est. necesse est vt omnium 
+        men<lb ed="#V" n="78" break="no"/>tes excedat: sed est super omnia: quia infinitus: 
+        igi<lb ed="#V" n="79" break="no"/>tur vt infinitus omnium mentes excedit. Secundo 
+        au<lb ed="#V" n="80" break="no"/>ctoritate dionisii. in epistola ad thitum dicentis: quod 
+        <lb ed="#V" n="81"/>oportet intelligere in deo excessum qui est super omnem 
+        <lb ed="#V" n="82"/>intellectum secundum quem segregatur deus ab omni 
+        in<lb ed="#V" n="83" break="no"/>tellectu: sed iste excessus conuenit ei vt infinitus: 
+        igi<lb ed="#V" n="84" break="no"/>tur vt sic est ab omni intellectu finito segregatus. 
+        <lb ed="#V" n="85"/>Tertio auctoritate anshel. prosol. c. 4. vbi sic inquit: 
+        <lb ed="#V" n="86"/>quid puritatis: quid simplicitatis: quid splendoris 
+        <lb ed="#V" n="87"/>est in deo: certe plusquam a creatura valeat intelligi: 
+        pro<lb ed="#V" n="88" break="no"/>pter quod. c. 15. concludit: ergo: domine non solum es 
+        <lb ed="#V" n="89"/>quo magis cogitari nequit: sed maius quam cogitari 
+        <lb ed="#V" n="90"/>possit: nisi quia infinitus: igitur idem quod prius. 
+        <lb ed="#V" n="91"/>Quarto auctoritate philosophi primo phisicorum 
+        <lb ed="#V" n="92"/>c. 5. dicentis expresse: quod infinitum secundum quod infinitum 
+        <lb ed="#V" n="93"/>est ignotum: immo hoc accipit aristo. pro medio contra 
+        <lb ed="#V" n="94"/>anaxagoram: vt ibidem deducit commentator 
+        com<lb ed="#V" n="95" break="no"/>mento. 35. Idem etiam dicit. 2. phisicorum tracta 
+        <lb ed="#V" n="96"/>tum de infinito. c. 6. Consimiles auctoritates: tam 
+        san<lb ed="#V" n="97" break="no"/>ctorum quam philosophorum possunt adduci quasi 
+        in<lb ed="#V" n="98" break="no"/>finite: et ideo supersedeo.
+      </p>
+               <p xml:id="at8va9-e12961-d1e521">
+        Secunda conclusio est 
+        <lb ed="#V" n="99"/>quod habitus theologicus intellectus creati non est de 
+        <lb ed="#V" n="100"/>deo sub ratione infiniti: igitur vt sic non potest esse 
+        <lb ed="#V" n="101"/>subiectum sui habitus theologici: antecedens 
+        pa<lb ed="#V" n="102" break="no"/>tet ex conclusione precedenti: et consequentia est 
+        bo<lb ed="#V" n="103" break="no"/>na: igitur etc. Potest tamen multipliciter 
+        confir<lb ed="#V" n="104" break="no"/>mari. 
+      </p>
+               <p xml:id="at8va9-e12961-d1e538">
+        Primo sic: habitus theologicus intellectus 
+        cre<lb ed="#V" n="105" break="no"/>ati: non est de deo tanquam omne subiecto vt 
+        incomprehen<lb ed="#V" n="106" break="no"/>sibilis est: igitur nec vt infinitus est: antecedens 
+        pa<lb ed="#V" n="107" break="no"/>tet: quia non de aliquo ignoto: quia ratio formalis 
+        <lb ed="#V" n="108"/>subiecti debet esse notissima: etiam per tenentes 
+        <lb ed="#V" n="109"/>oppositam conclusionem. Et vt 
+        incomprehensibi<lb ed="#V" n="110" break="no"/>lis est ignotus: ergo: consequentia probatur: quia 
+        <lb ed="#V" n="111"/>deus est incomprehensibilis: quia infinitus: vt 
+        pa<lb ed="#V" n="112" break="no"/>tet ex prima ratione precedentis conclusionis: 
+        er<lb ed="#V" n="113" break="no"/>go etc. 
+      </p>
+               <p xml:id="at8va9-e12961-d1e560">
+        Secundo sic: habitus theologicus 
+        intelle<lb ed="#V" n="114" break="no"/>ctus creati non considerat de deo omnibus modis 
+        <lb ed="#V" n="115"/>quibus considerabilis est: igitur nec vt infinitus est: 
+        <lb ed="#V" n="116"/>antecedens patet: quia hoc est proprium 
+        theologi<lb ed="#V" n="117" break="no"/>ci habitus increati: consequentia probatur: primo: 
+        <lb ed="#V" n="118"/>quia quicunque intellectus cognoscit deum sub 
+        ra<lb ed="#V" n="119" break="no"/>tione infiniti cognoscit ipsum quantum est 
+        cogno<lb ed="#V" n="120" break="no"/>scibilis: hoc patet ex secunda ratione precedentis 
+        <lb ed="#V" n="121"/>conclusionis: igitur a simili quicunque habitus 
+        con<lb ed="#V" n="122" break="no"/>siderat de deo sub ratione infiniti considerat ipsum 
+        <lb ed="#V" n="123"/>quantum est cousiderabilis. Secundo: quia 
+        infini<lb ed="#V" n="124" break="no"/>tas diuina includit non solum omnem perfectionem: 
+        <lb ed="#V" n="125"/>sed et omnem gradum perfectionis diuine: igitur 
+        <lb ed="#V" n="126"/>quecunque scientia considerat de deo vt infinitus 
+        <lb ed="#V" n="127"/>est: considerat omnem perfectionem: et omnem 
+        gra<lb ed="#V" n="128" break="no"/>dum perfectionis diuine: et per consequens 
+        consi<lb ed="#V" n="129" break="no"/>derat de deo omnibus modis quibus est 
+        considera<lb ed="#V" n="130" break="no"/>bilis. 
+      </p>
+               <p xml:id="at8va9-e12961-d1e599">
+        Tertio ad principale sic: habitus 
+        theolo<lb ed="#V" n="131" break="no"/>gicus intellectus creati non considerat de omnibus: 
+        <lb ed="#V" n="132"/>igitur non est de deo sub ratione infiniti tanquam de 
+        <lb ed="#V" n="133"/>subiecto primo: antecedens patet: tum quia omnis 
+        <lb ed="#V" n="134"/>alius esset superfluus: tum quia esset tante latitudinis: 
+        si<lb ed="#V" n="135" break="no"/>cut habitus tbeologicus increatus: quod non conceditur: tum quia 
+        <lb ed="#V" n="136"/>be. aug. 14 de tri. c. ie tantum attribust ei illud quo fides
+        <pb ed="#V" n="29-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>saluberrima qua ad veram beatitudinem ducit: gignitur 
+        <lb ed="#V" n="2"/>nutritur: defenditur: et roboratur: consequentia probatur: primo: quia quicumque 
+        <lb ed="#V" n="3"/>habitus considerat de deo tanquam de subiecto primo 
+        <lb ed="#V" n="4"/>sub illa ratione per quam supeminetur continet omnia: est considera 
+        <lb ed="#V" n="5"/>tiuus omnium: sed per rationem infiniti deus supereminentur continet 
+        <lb ed="#V" n="6"/>omnia igitur etc. Secundo quia quacumque intellectus cognoscit 
+        <lb ed="#V" n="7"/>deum sub ratione infiniti necessario considerabit omnia: 
+        igi<lb ed="#V" n="8" break="no"/>tur quacumque scientia vel quacumque habitus considerat de deo sub 
+        <lb ed="#V" n="9"/>ratione infiniti necessario considerabit omnia: consequentia patet per locum 
+        <lb ed="#V" n="10"/>a simili: antecedens probatur: quia quacumque cognoscit deum sub ratione 
+        in<lb ed="#V" n="11" break="no"/>finiti vel vt infinitum est: necessario cognoscit omnia quae 
+        ratio<lb ed="#V" n="12" break="no"/>ne sue infinitatis repraesentantur et cognoscuntur in ipso: 
+        op<lb ed="#V" n="13" break="no"/>positum praedicati infert oppositum subiecti sed ratione sue in 
+        <lb ed="#V" n="14"/>finitatis omnia representantur in deo: et per consequens congnoscuntur 
+        <lb ed="#V" n="15"/>omnes creature entes possibiles: sicut patet per damascenum lib. 
+        <lb ed="#V" n="16"/>primo. c. 12 ergo etc. Et confirmatur: quia quicumque cognoscit de 
+        <lb ed="#V" n="17"/>um adequate: cognoscit quacumque deus cognoscit: et per 
+        <lb ed="#V" n="18"/>consequens omnia: sed quicumque cognoscit deum sub ratione infiniti 
+        co<lb ed="#V" n="19" break="no"/>gnoscit ipsum adequite: sicut patet ex secunda ratione ad 
+        praeco<lb ed="#V" n="20" break="no"/>dentem conclusione: ergo etc. 
+      </p>
+               <p xml:id="at8va9-e12961-d1e662">
+        Quarto ad principale sic: 
+        habi<lb ed="#V" n="21" break="no"/>tus theologicus intellectus creati non est infinitus: igitur non est 
+        <lb ed="#V" n="22"/>de deo sub ratione infiniti tanquam de subiecto primo: antecedens 
+        <lb ed="#V" n="23"/>supponitur: consequentia probatur: quod quantitas perfectionis habitus 
+        <lb ed="#V" n="24"/>scientifici ex perfectione subiecti per se et praemi mensuratur 
+        <lb ed="#V" n="25"/>igitur sicut subiecti finiti est scientia finita: ita infiniti sub 
+        <lb ed="#V" n="26"/>ratione infinita erit scientia infinita: Ista ratio clarius 
+        dedu<lb ed="#V" n="27" break="no"/>cetur conclusio equarta. 
+      </p>
+               <p xml:id="at8va9-e12961-d1e680">
+        Tertia conclusio est: quod infinitas est de per 
+        <lb ed="#V" n="28"/>se: et primo intellectu quiditatiuo deitatis: probatur primo 
+        <lb ed="#V" n="29"/>sic: quod conuenit deitati: circumscripto omni eo quod non 
+        <lb ed="#V" n="30"/>est deitas: per se. primo modo conuenit ei quiditatiue: et per 
+        con<lb ed="#V" n="31" break="no"/>sequens est de per se et primo intellectu quidit atiuo ipsius: in 
+        <lb ed="#V" n="32"/>finitas est huiusmodi: ergo etc. maior patet: quia oppositum praedicati 
+        <lb ed="#V" n="33"/>infert oppositum subiecti: minor probatur: quia 
+        circuscripto<lb ed="#V" n="34" break="no"/>omni eo quod non est deitas: per se. primo modo adhuc deitas 
+        <lb ed="#V" n="35"/>ex se formaliter dicit perfectionem aliquam non finitam: ergo 
+        in<lb ed="#V" n="36" break="no"/>finitam. Secundo sic: deitas seipsa formaliter est 
+        perfe<lb ed="#V" n="37" break="no"/>ctissima igitur seipsa formaliter est infinita: consequentia est bona. 
+        <lb ed="#V" n="38"/>quia sequitur deitas seipsa formaliter non est infinita: igitur 
+        for<lb ed="#V" n="39" break="no"/>maliter per se non est perfectissima: quia infinitas in deo perfectio 
+        <lb ed="#V" n="40"/>nem importet: antecedens probatur primo: quia ratio formalis per se 
+        sub<lb ed="#V" n="41" break="no"/>iecti et primi habitus perfectissimi: seipsa formaliter est 
+        <lb ed="#V" n="42"/>perfectissima: deitas est huiusmodi: etiam per tenentes 
+        opposti<lb ed="#V" n="43" break="no"/>ta conclusionem: quia theologie in se subiectum vt dicunt quod 
+        <lb ed="#V" n="44"/>ab eis ponitur est perfectissima. 
+      </p>
+               <p xml:id="at8va9-e12961-d1e719">
+        Secundo: quia ratio 
+        forma<lb ed="#V" n="45" break="no"/>lis obiecti per se et primi intellectus perfectissimi se ipsa 
+        fo<lb ed="#V" n="46" break="no"/>maliter est perfectissima: deitas est huiusmodi: quia intellect: 
+        <lb ed="#V" n="47"/>diuinus cuius ohiectum: vt quidam eorum dicut est 
+        essentia<lb ed="#V" n="48" break="no"/>sua et nihil aliud. Tertio: quia illa ratio in cuius visione et 
+        <lb ed="#V" n="49"/>fruitione consistit beatitudo formalis creature 
+        rationa<lb ed="#V" n="50" break="no"/>lis: circumscripta visione et fruitione cuiuscumque quod non es 
+        <lb ed="#V" n="51"/>ipsa quiditatiue: formaliter seipsa est perfectissima: circum 
+        <lb ed="#V" n="52"/>scripto omni eo quod non est de per se et primo intellectu 
+        quidita<lb ed="#V" n="53" break="no"/>tiuo ipsius: deitas est huiusmodi ergo maior probatur: quia aliter 
+        ob<lb ed="#V" n="54" break="no"/>iectum beatificum non esset perfectissimum: probatur minor quia 
+        <lb ed="#V" n="55"/>posito pro possibili vel impossibili quod aliquis in patria essentia 
+        <lb ed="#V" n="56"/>diuina clare visa: fruatur: circumscripto omni eo quod non est 
+        <lb ed="#V" n="57"/>ipsa quaditatiue in ratione obiecti visi: vel talis perfecte est 
+        <lb ed="#V" n="58"/>beatus: vel non: si sic propositum: si non: ergo deitas non 
+        bea<lb ed="#V" n="59" break="no"/>tificat primo: sed illud in cuius visione vel fruitione talis 
+        <lb ed="#V" n="60"/>esset beatus: quod non consonat catholice veritati. 
+      </p>
+               <p xml:id="at8va9-e12961-d1e757">
+        
+        Ter<lb ed="#V" n="61" break="no"/>tio ad principale sic secundum anshel. pro sol. c. 2. et. 3. deus est 
+        <lb ed="#V" n="62"/>ille quo maius cogitari non potest: igitur deitas seipsa 
+        <lb ed="#V" n="63"/>formaliter est infinita: et sic infinitas de per se et primo 
+        in<lb ed="#V" n="64" break="no"/>tellectu quiditatiuo ipsius est: consequentia probatur: quia sequitur 
+        dei<lb ed="#V" n="65" break="no"/>tas seipsa formaliter non est infinita: igitur deus vt deus non est id 
+        <lb ed="#V" n="66"/>quo maius cogitari non potest: tum quia potest aliquid cogita 
+        <lb ed="#V" n="67"/>ri: cuius ratio formalis et quiditatiua seipsa formalliter sit 
+        im<lb ed="#V" n="68" break="no"/>finita: tum quia omni non infinito potest cogitari maius 
+      </p>
+               <p xml:id="at8va9-e12961-d1e777">
+                  <lb ed="#V" n="69"/>Quarto sic: omnis proprietas attributalis in deo est
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>infinita propter identitatem cum essentia: igitur essentia 
+        diui<lb ed="#V" n="71" break="no"/>na seipsa formaliter est infinita: consequentia videtur nota: quia 
+        <lb ed="#V" n="72"/>nihis est infinitum propter identitatem cum eo quod seipso non est 
+        <lb ed="#V" n="73"/>formaliter infinitum sed quodam alio antecedens 
+        conceditur<lb ed="#V" n="74" break="no"/>etiam ab aduersariis: vnde scotus in prologo i. q. de subiecto 
+        <lb ed="#V" n="75"/>theologie in probando positionem illam quae ponit deum 
+        sub<lb ed="#V" n="76" break="no"/>ratione boni: subiectum nostre theologie dicit expresse quod 
+        <lb ed="#V" n="77"/>omnes proprietates attributales sunt infinite propter identi 
+        <lb ed="#V" n="78"/>tate cum essentia: sicut ex radice et undamento omnis pereut 
+        <lb ed="#V" n="79"/>ctionis intrinsece: ergo etc. 
+      </p>
+               <p xml:id="at8va9-e12961-d1e806">
+        Quinto sic vel conceptus 
+        <lb ed="#V" n="80"/>deitatis vt praescindit ab omni eo quod non est de per se et 
+        pri<lb ed="#V" n="81" break="no"/>mo intellectu quiditatiuo ipsius est finitus: vel infinitus 
+        <lb ed="#V" n="82"/>vel neuter: vel vterque: primum dari non potest: propter 
+        mul<lb ed="#V" n="83" break="no"/>ta. Primo: quia si conceptus deitatis esset finitus deus vt 
+        <lb ed="#V" n="84"/>deus non esset id quo maius cogitari non potest: quia omni 
+        fini<lb ed="#V" n="85" break="no"/>to potest cogitari maius. 
+      </p>
+               <p xml:id="at8va9-e12961-d1e822">
+        Secundo: quia deus vt deus esset 
+        con<lb ed="#V" n="86" break="no"/>prehensibilis ab intellectu finito: consequentia patet: quia nullus 
+        <lb ed="#V" n="87"/>conceptus finitus est improportionabilis intelllectui finito. 
+        <lb ed="#V" n="88"/>Tertio: quia cum deus sub ratione deitatis sit subiectum sui 
+        ha<lb ed="#V" n="89" break="no"/>bitus theologici: theologia dei erit de deo tamquam 
+        desub<lb ed="#V" n="90" break="no"/>iecto primo: sub ratione finita: et theologia viatoris 
+        de<lb ed="#V" n="91" break="no"/>eodem sub ratione infinita: vt dicunt tenetes oppositum: 
+        <lb ed="#V" n="92"/>quod est peruertere ordinem vniuersi. Tertium etiam non potest 
+        <lb ed="#V" n="93"/>dari propter multa. Primo: quia conceptus neutri ad 
+        fini<lb ed="#V" n="94" break="no"/>tum: et infinitum cum non sit finitus: nec infinitus est conceptus 
+        <lb ed="#V" n="95"/>confusus et indeterminatus: quia indifferens ad vtrumlibet 
+        <lb ed="#V" n="96"/>et nullus talis est perfectissimus. Conceptus autem deitatis 
+        <lb ed="#V" n="97"/>inter omnes possibiles haber i de deo est perfectissimus: etiam 
+        <lb ed="#V" n="98"/>per aduersarios: cum sit quiditatiuus. Secundo: quia solus 
+        <lb ed="#V" n="99"/>donceptus entis: et eorum quae conuertuntur cum ente videntur posse 
+        <lb ed="#V" n="100"/>abstrahere a finito et infinito: conceptus autem deitatis non est 
+        <lb ed="#V" n="101"/>conceptus entis in communi nec conuertibilis cum ente. 
+        Ter<lb ed="#V" n="102" break="no"/>tio. quia sicut se habet ens vniversaliter sumptum ad ens finitum et 
+        infi<lb ed="#V" n="103" break="no"/>nitum: ita conceptus entis vniversaliter sumpti ad conceptum 
+        fini<lb ed="#V" n="104" break="no"/>tum et infinitum: sed impossibile est dare sub ente aliquod 
+        de<lb ed="#V" n="105" break="no"/>terminatum ens quin sit finitum determinatum vel 
+        infi<lb ed="#V" n="106" break="no"/>nitum: igitur impossibile est dare sub conceptu entis aliquem 
+        <lb ed="#V" n="107"/>determinatum conceptum: quin sit finitus determinate 
+        <lb ed="#V" n="108"/>vel infinitus. Nec potest vlterius dari quartum valet. quod 
+        <lb ed="#V" n="109"/>talis conceptus sit simul finitus et infinitus: et sic 
+        vter<lb ed="#V" n="110" break="no"/>quam: quia finitum et infinitum non se compatiuntur simul in 
+        eo<lb ed="#V" n="111" break="no"/>dem respectu eiusdem: cum diuidantur ex opposito: 
+        relin<lb ed="#V" n="112" break="no"/>quitur: ergo secundum: et sic propositum. 
+      </p>
+               <p xml:id="at8va9-e12961-d1e883">
+        Sexto sic: quod se 
+        <lb ed="#V" n="113"/>ipso formaliter: circumscripto omni eo quod non est ipsum per se 
+        pri<lb ed="#V" n="114" break="no"/>mo modo continet perfectiones infinitas: seipso formaliter est 
+        <lb ed="#V" n="115"/>infinitum: et sic infinitas de per se et primo intellectu quidi 
+        <lb ed="#V" n="116"/>tatiuo ipsius: deitas est huiusmodi: ergo: maior patet: quia 
+        con<lb ed="#V" n="117" break="no"/>tinere vnam perfectionem est perfectionis: et continere dminas 
+        <lb ed="#V" n="118"/>est maioris perfectionis: et sic ascendendo: igitur continem 
+        <lb ed="#V" n="119"/>infinitas est infinite perfectionis: minor probatur dupliciter. 
+        <lb ed="#V" n="120"/>Primo ad rem: quia essentia diuina seipsa formaliter etc. 
+        <lb ed="#V" n="121"/>continet perfectiones possibilium a potentia diuina produci: 
+        <lb ed="#V" n="122"/>hec autem sunt infinita: ergo: maior patet: quia si huius 
+        <lb ed="#V" n="123"/>perfectiones non contineret seipsa formaliter: sed 
+        quo<lb ed="#V" n="124" break="no"/>dammodo: ab alio dependent in continendo: quod non 
+        conso<lb ed="#V" n="125" break="no"/>nat rationi. 
+      </p>
+               <p xml:id="at8va9-e12961-d1e914">
+        Secundo ad minor quia quod continet virtualiter primo 
+        per<lb ed="#V" n="126" break="no"/>fectiones infinitas: seipso formaliter continet illas: 
+        cir<lb ed="#V" n="127" break="no"/>cumscripto omni eo quod non est ipsum per se primo modo: 
+        dei<lb ed="#V" n="128" break="no"/>tas est huiusmodi: ergo: maior patet: quia continem 
+        virtu<lb ed="#V" n="129" break="no"/>aliter primo: etiam per tenentes oppositum est ab 
+        alio<lb ed="#V" n="130" break="no"/>non dependere in continendo: sic quod circunscripto 
+        <lb ed="#V" n="131"/>omni alio per possibile vel impossibile: mediante 
+        solo<lb ed="#V" n="132" break="no"/>intellectu illius adhuc contineret: et nihil aliud 
+        con<lb ed="#V" n="133" break="no"/>tinet nisi per rationem illius: ergo quod continet 
+        vir<lb ed="#V" n="134" break="no"/>tualiter primo: continet seipso formaliter etc. minor 
+        <lb ed="#V" n="135"/>autem est clara per aduersarios: quia de ratione 
+        <lb ed="#V" n="136"/>formali primi et per se subiectihitus scientifici: vt dicunt 
+        <lb ed="#V" n="137"/>est continem virtualiter primo omnes veritates illius habitus: cuius est 
+        sub<lb ed="#V" n="138" break="no"/>iectum: sed deus sub ratione deitatis ponitur ab ipsis subiectum
+        <pb ed="#V" n="30-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>theologie infinite: quia theologie in se: igitur deus per rationem 
+        <lb ed="#V" n="2"/>deitatis continet virtualiter primo omnes veritates 
+        theolo<lb ed="#V" n="3" break="no"/>gici habitus infiniti: et per consequens omnes perfectiones de deo in 
+        <lb ed="#V" n="4"/>tali habitum demonstrabiles: talis autem constat esse 
+        infini<lb ed="#V" n="5" break="no"/>tas: igitur. etc. Ista conclusio videtur esse de intentione dam. 
+        <lb ed="#V" n="6"/>libro primo c. i. vbi sic ait: videtur quidem omnibus nominibus: quae de 
+        <lb ed="#V" n="7"/>deo dicuntur principalius esse: qui est: ipso dicente moysi. Dic 
+        <lb ed="#V" n="8"/>filiis israel: qui est misit me ad vos: totum in seipso 
+        comprehen<lb ed="#V" n="9" break="no"/>dens velut quoddam pelagus substantie infinite: seipso 
+        for<lb ed="#V" n="10" break="no"/>maliter est infinitum ergo etc. hec est etiam intentio ricar. de tri. 
+        <lb ed="#V" n="11"/>libro 2. c. 5. 6. et. 7. vnde in septimo concludit: iam de 
+        superiori<lb ed="#V" n="12" break="no"/>bus habuimus et pro certo habemus quod substantia diuina non sit 
+        <lb ed="#V" n="13"/>aliud aliquid quam immensitas sua: immensitas autem in deo est 
+        in<lb ed="#V" n="14" break="no"/>finitas eius: ergo etc. 
+      </p>
+               <p xml:id="at8va9-e12961-d1e980">
+        Quarta conclusio est: quod habitus 
+        the<lb ed="#V" n="15" break="no"/>ologicus intellectus creati non est de deo vt deus est: siue 
+        <lb ed="#V" n="16"/>sub ratione deitatis absolute: quod idem est: tanquam de 
+        subie<lb ed="#V" n="17" break="no"/>cto primo. Ista conclusio sequitur ex praecedentibus. Primo: 
+        <lb ed="#V" n="18"/>quia sequitur habitus theologicus intellectus creati: non est de 
+        <lb ed="#V" n="19"/>deo sub ratione infiniti ergo etc. nec sub ratione deitatis 
+        ab<lb ed="#V" n="20" break="no"/>solute: antecedens patet ex secunda conclusione: et consequentia est nota: quod 
+        in<lb ed="#V" n="21" break="no"/>finitas est de per se et primo intellectu quid tatiuo 
+        deita<lb ed="#V" n="22" break="no"/>tis: vt patet ex tertia conclusione: igitur etc. Secundo: quia 
+        se<lb ed="#V" n="23" break="no"/>quitur deus non est cognoscibilis ab intellectum creato sub 
+        <lb ed="#V" n="24"/>ratione deitatis absolute sumpta: igitur vt sic non potest esse 
+        <lb ed="#V" n="25"/>subiectum sui habitus theologici: consequentia patet: antecedens probatur: 
+        <lb ed="#V" n="26"/>quia deus non est cognoscibilis ab intellectum creato sub 
+        <lb ed="#V" n="27"/>ratione deitatis absolute sumpta infinite: ex prima 
+        conclusio<lb ed="#V" n="28" break="no"/>ne: igitur nec sub ratione deitatis absolute sumpta: consequentia patet 
+        <lb ed="#V" n="29"/>quia deitas de seipsa formaliter est infinita ex conclusione 
+        prae<lb ed="#V" n="30" break="no"/>cedenti: ergo etc. Potest tamen confirmari multipliciter. Primo 
+        <lb ed="#V" n="31"/>sic: scientia finita et infinita non sunt eiusdem subiecti primi 
+        <lb ed="#V" n="32"/>sub eadem ratione formali: hec patet: quia subiectum primi non 
+        po<lb ed="#V" n="33" break="no"/>nitur adequatum: sicut patet per philosophum primo posteriorum. Idem 
+        <lb ed="#V" n="34"/>autem adequari scientie finite et infinite sub eadem ratione 
+        <lb ed="#V" n="35"/>formali est impossibile: sed theologia dei est infinita et 
+        <lb ed="#V" n="36"/>est de deo tanquam de subiecto primo sub ratione deitatis 
+        <lb ed="#V" n="37"/>absolute sumpta: igitur etc. Secundo sic: scientie 
+        haben<lb ed="#V" n="38" break="no"/>tes idem subiectum sub eadem ratione formali sunt eiusdem 
+        <lb ed="#V" n="39"/>ambitus adequate: hec patet etiam per tenentes oppositam 
+        <lb ed="#V" n="40"/>conclusionem: quia sicut se habet potentia ad obiectum sic scientia 
+        <lb ed="#V" n="41"/>ad subiectum secundum eos: sed potentie habentes idem 
+        obie<lb ed="#V" n="42" break="no"/>ctum sub eadem ratione formali sunt eiusdem ambitus 
+        ade<lb ed="#V" n="43" break="no"/>quate: igitur et scientie habentes idem subiectum sub eadem 
+        ratio<lb ed="#V" n="44" break="no"/>ne formali: sed constat quod theologia dei et creature non 
+        <lb ed="#V" n="45"/>sunt eiusdem ambitus adequate. igitur nec eiusdem 
+        subie<lb ed="#V" n="46" break="no"/>cti primi sub eadem ratione formali: sed theologia dei est 
+        <lb ed="#V" n="47"/>de deo vt deus est: tanquam de subiecto primo: vt patet: 
+        er<lb ed="#V" n="48" break="no"/>to etc: 
+      </p>
+               <p xml:id="at8va9-e12961-d1e1056">
+        Tertio sic. theologia creata et increata non 
+        <lb ed="#V" n="49"/>sunt eiusdem speciei: igitur nec eiusdem subiecti primi sub 
+        ea<lb ed="#V" n="50" break="no"/>dem ratione formali: antecedens patet: tum quia magis differunt quam 
+        <lb ed="#V" n="51"/>quacumque due scientie create: tum quia creatum et increatum 
+        dif<lb ed="#V" n="52" break="no"/>ferunt plusquam genere: consequentia probatur: quia scientia specificatur a 
+        <lb ed="#V" n="53"/>suo per se subiecto formaliter sumpto: vt suppono pro nunc: 
+        <lb ed="#V" n="54"/>et ex intentione declarabitur. q. 4. igitur etc. Quarto 
+        <lb ed="#V" n="55"/>sic: habitus theologicus intellectus creati non est 
+        nobilis<lb ed="#V" n="56" break="no"/>simus: igitur non et de deo sub ratione deitatis 
+        absolu<lb ed="#V" n="57" break="no"/>te. tanquam de subiecto primo: antecedens patet: quia theologia dei 
+        <lb ed="#V" n="58"/>est nobilior: consequentia probatur: quia solus habitus nobilissimus est 
+        <lb ed="#V" n="59"/>de deo tanquam de subiecto primo et nobilissimo: sub 
+        <lb ed="#V" n="60"/>nobilissima ratione: ratio autem deitatis absolute sumpta est 
+        <lb ed="#V" n="61"/>nobilissima: igitur etc. Et hec de secundo. 
+      </p>
+            </div>
+            <div xml:id="at8va9-e12961-Dd1e1088">
+               <head xml:id="at8va9-e12961-Hd1e1090">Articuli 3 et 4</head>
+               <p xml:id="at8va9-e12961-d1e1092">
+                  <lb ed="#V" n="62"/>Tertius et quartus articulus. 
+        <lb ed="#V" n="63"/>Quantum ad tertium et quartum articulum simul: contra 
+        <lb ed="#V" n="64"/>conclusiones istas mouenda et dissoluenda sunt dubia. 
+        <lb ed="#V" n="65"/>Et primo contra primam conclusionem quidam doctor ponit 
+        <lb ed="#V" n="66"/>quattuor conclusiones: quarum et quelibet probatur quadrupliciter.
+      </p>
+               <p xml:id="at8va9-e12961-d1e1105">
+                  <lb ed="#V" n="67"/>Franciscus in prologo i. q. 5. articulo i. 
+        <lb ed="#V" n="68"/>Prima conclusio est: quod intellectus creatus supernaturaliter 
+        eleua<lb ed="#V" n="69" break="no"/>tus et beatus attingit deum sub ratione infiniti: probatur
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>primo: quia sancti in patria vident deum sicuti est Io. 3 sed 
+        de<lb ed="#V" n="71" break="no"/>us est infinitus in suo esse: igitur sub ratione infiniti ibi 
+        vi<lb ed="#V" n="72" break="no"/>detur. Secundo: quia quicumque intellectus attingit ad quiditatem 
+        <lb ed="#V" n="73"/>alicuius obiecti: ex illa potest deuenire in omnia quae ei 
+        conueni<lb ed="#V" n="74" break="no"/>unt per se: infinitas autem conuenit essentie diuine quae est 
+        ob<lb ed="#V" n="75" break="no"/>iectu beatificum non per accidens. Tertio: quia notitia 
+        intui<lb ed="#V" n="76" break="no"/>tiua qualis est beatifica: non solum inducit cognitionem. 
+        <lb ed="#V" n="77"/>eorum que sunt per se: sed etiam eorum quae sunt per accidens sicut ex 
+        visi<lb ed="#V" n="78" break="no"/>one cognoscimus quod albedo vna est: et quod est hic et nunc: ergo 
+        <lb ed="#V" n="79"/>multo magis eorum quae sunt per se. Quarto: quia in notitia 
+        <lb ed="#V" n="80"/>intuitiua: non solum illa quae sunt per se: sed illa quae per accidens sunt 
+        <lb ed="#V" n="81"/>per se nota vt per se notum es: niuem esse albam: aut parietem: 
+        in<lb ed="#V" n="82" break="no"/>tuenti enim illud non est notum per medium igitur multo 
+        ma<lb ed="#V" n="83" break="no"/>gis illa qua sunt per se: sunt per se nota. 
+      </p>
+               <p xml:id="at8va9-e12961-d1e1147">
+        Secuda conclusio est: quod  
+        <lb ed="#V" n="84"/>intellectus creatus supernaturaliter eleuatus et non glorificatus 
+        <lb ed="#V" n="85"/>potest deum attingere sub ratione infiniti: probatur 
+        quadru<lb ed="#V" n="86" break="no"/>plici auctoritate. Primo: quia propheta dauid in psalmo. 84. 
+        <lb ed="#V" n="87"/>cui reuelata fuit dei infinitas: dicit: magnus 
+        do<lb ed="#V" n="88" break="no"/>minus et laudabilis minis: et magnitudinis eius 
+        <lb ed="#V" n="89"/>non est finis. Secundo: quia sapientie. 7. dicitur: quod sapientia 
+        in<lb ed="#V" n="90" break="no"/>genita: infinitus thesaurus et hominibus. Tertio: quia baruth 
+        <lb ed="#V" n="91"/>3. dicitur: de diuina essentia. O israel quam magna est domus dei: 
+        <lb ed="#V" n="92"/>et iugens locus possessionis eius. magnus et non habens 
+        con<lb ed="#V" n="93" break="no"/>sumationem excelsus et immensus. Quarto: quia deuteronimo 2. 
+        <lb ed="#V" n="94"/>dicitur. Ira dei immensa. omnia autem ista dicta fuerunt 
+        supernali<lb ed="#V" n="95" break="no"/>ter viatoribus reuelata igitur etc. 
+      </p>
+               <p xml:id="at8va9-e12961-d1e1176">
+        Tertia conclusio est: 
+        <lb ed="#V" n="96"/>intellectus separatus in puris naturalibus constitutus potest 
+        at<lb ed="#V" n="97" break="no"/>tingere diuina essentia sub ratione infiniti: probatur 
+        pri<lb ed="#V" n="98" break="no"/>mo: quia quicunque intellectus potest intelligere naturaliter 
+        <lb ed="#V" n="99"/>effectum: ex illo potest deuenire in notitiam cause: de 
+        mon<lb ed="#V" n="100" break="no"/>stratione: quia talis autem intellectus cognoscit 
+        natura<lb ed="#V" n="101" break="no"/>liter effectum productum a virtute infinita. Secundo: quia 
+        <lb ed="#V" n="102"/>talis intellectus potest intelligere quantitatem virtutis 
+        <lb ed="#V" n="103"/>secundum suam natura perfecte: et per consequens quod ipsa est nata ad 
+        infi<lb ed="#V" n="104" break="no"/>nitatem: vt ei etiam non repugnet. Tertio: quia talis 
+        intel<lb ed="#V" n="105" break="no"/>lectus potest intelligere potentiam obiectiualem que 
+        per<lb ed="#V" n="106" break="no"/>fecte est in natura: cum insit a natura: et per consequens actum 
+        <lb ed="#V" n="107"/>sibi oppositum correlatiue: tali autem est potentia actiua 
+        <lb ed="#V" n="108"/>infinita. Quarto: quia talis intellectus intuitiue 
+        co<lb ed="#V" n="109" break="no"/>gnoscit creaturas et earum quantitatem virtuis et per consequens 
+        <lb ed="#V" n="110"/>cognoscit respectus fundatos in ipsis: igitur cum 
+        crea<lb ed="#V" n="111" break="no"/>ture habeant respectum inequalitatis ad diuinam 
+        in<lb ed="#V" n="112" break="no"/>finitatem cognoscit ea sicut terminum illius relationis. 
+      </p>
+               <p xml:id="at8va9-e12961-d1e1216">
+                  <lb ed="#V" n="113"/>Quarta conclusio est: quod intellectus creatus in puris 
+        <lb ed="#V" n="114"/>naturalibus constitutus potest attingere ad deum sub 
+        <lb ed="#V" n="115"/>ratione infiniti: probatur primo: quia nullus intellectus potest 
+        <lb ed="#V" n="116"/>credere aliquam complexionem: nisi concipiat eius 
+        termi<lb ed="#V" n="117" break="no"/>nos: sed credimus ex puris naturalibus deum esse 
+        infi<lb ed="#V" n="118" break="no"/>nitum. Secundo: quia nullus intellectus potest probare 
+        ali<lb ed="#V" n="119" break="no"/>quam complexione: cuius ei termini sunt ignoti: cum 
+        com<lb ed="#V" n="120" break="no"/>plexio ordine naturali siue essentiali sit posterior 
+        ap<lb ed="#V" n="121" break="no"/>prehensione simplicium: sed deum esse infinitum probamus in 
+        <lb ed="#V" n="122"/>theologia. Tertio: quia medium per quod demonstratur 
+        veri<lb ed="#V" n="123" break="no"/>tas in aliqua scientia: oportet esse notum in illa: sed per 
+        ratio<lb ed="#V" n="124" break="no"/>nem infiniti demodostramus omnes perfectiones 
+        sim<lb ed="#V" n="125" break="no"/>pliciter de deo secundum anshel. in mono. Quarto: quia illud 
+        <lb ed="#V" n="126"/>quod supponitur in aliqua scientia: non potst esse ignotum in 
+        <lb ed="#V" n="127"/>illa: sed ratio infiniti supponitur in nostra theologia: 
+        <lb ed="#V" n="128"/>vt patet ex dictis: igitur etc. Pro solutione istarum 
+        <lb ed="#V" n="129"/>rationum est aduertendum: quod aliud est scire quod 
+        de<lb ed="#V" n="130" break="no"/>us est infinitus: et aliud ipsum cognoscere sub ratione 
+        <lb ed="#V" n="131"/>infiniti: sicut aliud est scire quod deus est deus et aliud 
+        <lb ed="#V" n="132"/>ipsum cognoscere sub ratione deitatis: quia primum est per 
+        <lb ed="#V" n="133"/>se notum cuilibet intelligenti terminos. secundum autem 
+        <lb ed="#V" n="134"/>saltem viatori repugnat. etiam per aduersarios. 
+        Pre<lb ed="#V" n="135" break="no"/>missis his respondeo ad rationes: verum quia omnes 
+        <lb ed="#V" n="136"/>simpliciter peccant in forma: primo reducam eas 
+        <lb ed="#V" n="137"/>contra suum auctorem secundo soluam. 
+      </p>
+               <p xml:id="at8va9-e12961-d1e1273">
+                  <lb ed="#V" n="138"/>Responsio ad rationes francisci.
+        <pb ed="#V" n="30-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>Quantum ad primum si rationes concluderent: probarent deum 
+        <lb ed="#V" n="2"/>posse cognosci ab intellectu finito vt incoprehensibilis 
+        <lb ed="#V" n="3"/>est: quod est aperta contradictio assumptum patet in reducendo rationes. 
+        <lb ed="#V" n="4"/>Reduco igitur primam ratione sic: sancti in patria vident deum 
+        sicu<lb ed="#V" n="5" break="no"/>ti est: sed est incomprehensibilis in sua essentia: igitur vt 
+        incom<lb ed="#V" n="6" break="no"/>prahensibilis ibi videtur. Eodem modo potest reduci secunda: 
+        <lb ed="#V" n="7"/>quia quicumque intellectus attingit ad quiditatem alicuius 
+        obie<lb ed="#V" n="8" break="no"/>cti: ex illo potest deuenire in omnia quae ei conueniunt per se: 
+        incom<lb ed="#V" n="9" break="no"/>priohensibilitas autem conuenit essentie diuine non per accidens: 
+        <lb ed="#V" n="10"/>similiter etiam possent omnes reduci: verum quia reductio est clara in 
+        <lb ed="#V" n="11"/>tuenti supersedeo et respondeo ad eas. Ad primam igitur 
+        pro<lb ed="#V" n="12" break="no"/>prima conclusione dico: quod non sequitur: beati in pria vident de 
+        <lb ed="#V" n="13"/>um sicuti est: igitur vt infinitus est: quia li sicuti est: non est 
+        nota<lb ed="#V" n="14" break="no"/>visionis totalis et adequate: sic enim solus deus seipsum 
+        vi<lb ed="#V" n="15" break="no"/>det: sicuti est: sed facialis intellectui creato proportionatur 
+        <lb ed="#V" n="16"/>mensurato: quia videmus nunc per speculum in enigmate: tunc 
+        <lb ed="#V" n="17"/>autem facie ad faciem. prima ad corin. 13. sic be. aug. 
+        expo<lb ed="#V" n="18" break="no"/>nit hec verba. 14 de tri. c. 10. vbi sic inquit: imago vero 
+        <lb ed="#V" n="19"/>quae renouatur in spium mentis in agnitione dei non exterius: sed ad in 
+        <lb ed="#V" n="20"/>terius de die indiem ipsa perficietur visione quae tunc erit facie 
+        <lb ed="#V" n="21"/>ad faciem: tunc perficit per speculum in enigmate propter eius 
+        perfe<lb ed="#V" n="22" break="no"/>ctionem dictum illud intelligendum est: bec aug. videre igitur 
+        <lb ed="#V" n="23"/>deum sicuti est: non est ipsum totaliter et adequate videre: et sic 
+        <lb ed="#V" n="24"/>sub ratione infiniti: sed ipsum facie ad faciem intueri: 
+        <lb ed="#V" n="25"/>forma etiam rationis est nulla: quia in conclusione additur subst ratione 
+        <lb ed="#V" n="26"/>infiniti: quod tamen non ponitur in aliqua praemissarum: conclusio igitur 
+        <lb ed="#V" n="27"/>quae sequitur gratia forme: est quod sancnti in pria: vident deum 
+        infint<lb ed="#V" n="28" break="no"/>tum in suo esse: et hoc conceditur: ex hoc tamen non sequitur: igitur 
+        <lb ed="#V" n="29"/>vident ipsum sub ratione infiniti: quia aliud est scire: vel in 
+        <lb ed="#V" n="30"/>tuitiue videre quod deus sit infinitus: et aliud ipsum 
+        cognosce<lb ed="#V" n="31" break="no"/>tur sub ratione infiniti: vt fuit declaratum immediate. 
+        <lb ed="#V" n="32"/>Ad secundum licet maior sit dubia: quia non necessario 
+        <lb ed="#V" n="33"/>ex quoditate subiecti potest deueniri in perfectam notitiam patet 
+        <lb ed="#V" n="34"/>sionis demonstrabilis de subiecto: sicut in conclusione praecedenti. 
+        <lb ed="#V" n="35"/>extitit declaratum: potest tamen in proposito concedi de 
+        intelle<lb ed="#V" n="36" break="no"/>ctu attingente ad quiditatem obiecti adequate et perfecte: 
+        <lb ed="#V" n="37"/>et sub insto sensu minor supplenda non est ad propositum: quia in 
+        <lb ed="#V" n="38"/>tellectus creatus etiam beatus hoc modo non attingit ad 
+        quidi<lb ed="#V" n="39" break="no"/>tatem de ei: solus igitur deus qua sic attingit ad quiditatem 
+        sui<lb ed="#V" n="40" break="no"/>seipsum cognoscit sub ratione infiniti. Potest etiam concedi 
+        cousio<lb ed="#V" n="41" break="no"/>quae gratia forme sequitur ex praemissis: quia non sequitur: quod 
+        intel<lb ed="#V" n="42" break="no"/>lectus attingat deum sub ratione infiniti sed quod attingit 
+        infi<lb ed="#V" n="43" break="no"/>nitatem dei: quod conceditur quia beati vident deitatem et 
+        infi<lb ed="#V" n="44" break="no"/>nitatem: ipsum tamen non vident infinite: quia non omnibus modis qui 
+        <lb ed="#V" n="45"/>bus est visibilis: nec per consequens sub ratione infiniti. Ad 
+        ter<lb ed="#V" n="46" break="no"/>cium dico: quod notitia intuitiua non necessario ducit in 
+        <lb ed="#V" n="47"/>perfectam cognitionem quiditatiuam eorum quae sunt per acciens: nec 
+        <lb ed="#V" n="48"/>eorum quae sunt per se: sed in cognitionem aliquorum: quod patet etiam in 
+        <lb ed="#V" n="49"/>exemplo possto: quia ex visione cognoscimus: quia 
+        albedo<lb ed="#V" n="50" break="no"/>est hic et nuc: non tamen ex hoc perfecte cognoscimus quiditatem 
+        <lb ed="#V" n="51"/>albedinis: igitur ex tali medio non probatur nisi quod beati 
+        <lb ed="#V" n="52"/>vident deum esse infinitum: quod non negatur. Ad quartum eodem 
+        <lb ed="#V" n="53"/>modo dico: quia non concludit nisi quod per se notum sit beatis: de 
+        <lb ed="#V" n="54"/>um esse infinitum: quo concesso non concludit. Ad 
+        aucto<lb ed="#V" n="55" break="no"/>ritates probantes secundam conclusionem: dicendum quod non sunt 
+        <lb ed="#V" n="56"/>ad propositum: quia non ostendunt nisi quod supernaturaliter sit viatori 
+        <lb ed="#V" n="57"/>bus reuelatum deum esse infinitum quod concedo: immo 
+        credo<lb ed="#V" n="58" break="no"/>quod potest esse naturaliter demonstratum: sed ex hoc nihil concludit 
+        <lb ed="#V" n="59"/>quia non sequitur: scimus vel credimus deum esse infinitum: igitur 
+        <lb ed="#V" n="60"/>ipsum cognoscimus sub ratione infiniti: vt patet ex dictis. 
+        <lb ed="#V" n="61"/>Ad rationes etiam probantes tertiam conclusionem eodem modo 
+        <lb ed="#V" n="62"/>dico: quia ex intentione probant quod intellectus seperatus in puris 
+        <lb ed="#V" n="63"/>naturalibus constitutus potest cognoscere: quia infinitum est: vel quia 
+        <lb ed="#V" n="64"/>deus est infinitus: quod patet per singulas discurrenti: decipitur 
+        <lb ed="#V" n="65"/>igitur iste doct. quia non distinguit inter cognoscere deum 
+        <lb ed="#V" n="66"/>sub ratione infiniti et ipsum cognoscere esse infinitum: vt 
+        <lb ed="#V" n="67"/>patet intuenti. Ad rationes qurte conclusionis posset dici 
+        simili<lb ed="#V" n="68" break="no"/>ter quod non probant intellectum coniunctum posse deum 
+        attinge<lb ed="#V" n="69" break="no"/>re sub ratione infiniti: sed quod attingat infinitatem dei: vt
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>patet scienti forma sillogisticam: quia nondum extitit negatam: 
+        <lb ed="#V" n="71"/>verum quia nec hoc prohat quantum quid rei. Potest et aliter responde 
+        <lb ed="#V" n="72"/>ri. Cuius gratia notandum: quod cognitio naturalis vera: quadam est 
+        <lb ed="#V" n="73"/>dicens quod nominis: quadam vero quia. Et alia quae dicit quid rei: 
+        <lb ed="#V" n="74"/>vel propt quid ex primo posteriorum: quibus praemissis dicendum 
+        <lb ed="#V" n="75"/>ad primam et secudam quod ad credendum vel probandum 
+        <lb ed="#V" n="76"/>aliquam complexionem non necessario requiritur quod eius 
+        ter<lb ed="#V" n="77" break="no"/>mini sint concepti quantum ad quid rei: conceptu proprio et 
+        <lb ed="#V" n="78"/>quiditatiuo: sed quantum ad quid nomins tantum: et quia sunt. Aliter ad 
+        <lb ed="#V" n="79"/>credendum vel probandum istam complexionem: deus est infinitus 
+        vi<lb ed="#V" n="80" break="no"/>ator necessario cognosceret deum quantum ad quid rei: 
+        <lb ed="#V" n="81"/>conceptu proprio et quiditatiuo: et sic sub ratione deitatis: 
+        <lb ed="#V" n="82"/>quod est contra damascenu.m exprisse libro primo. c. 4. et contra ipsos. Ad 
+        ter<lb ed="#V" n="83" break="no"/>tium dico: quod quando passio vel perfectio quae demonstratur de 
+        subt<lb ed="#V" n="84" break="no"/>iecto in habitum scientifico: non cognoscitur cognitione 
+        di<lb ed="#V" n="85" break="no"/>cente quid rei sed quia est et quantum ad quid nomis: non omnem quod me 
+        <lb ed="#V" n="86"/>dium cognoscatur cognitione dicente quid rei: enius ratio est: quia 
+        <lb ed="#V" n="87"/>cognitio medii sufficit quod sit conformis cognitioni eius 
+        <lb ed="#V" n="88"/>quod demonstratur per ipsum: perfectiones autem simpliciter quae ab 
+        <lb ed="#V" n="89"/>anshel. demonstrantur per ipsum de deo: non sunt nobis 
+        no<lb ed="#V" n="90" break="no"/>te quatum ad quid rei conceptu proprio et quiditatiuo: vt 
+        <lb ed="#V" n="91"/>suppono ex communiori doctrina. 
+      </p>
+               <p xml:id="at8va9-e12961-d1e1481">
+        Ad quartum eodem modo 
+        <lb ed="#V" n="92"/>dico: quia non omne quod supponitur in scientia: omne esse notum quantum 
+        <lb ed="#V" n="93"/>ad quid rei: sed quia est: et quantum ad quid nominis: quia subiectum 
+        <lb ed="#V" n="94"/>supponitur in scientia primo posteriorum: quia deus supponitur 
+        sub<lb ed="#V" n="95" break="no"/>iectum nostri habitus theologici: et tamen non cognoscitur 
+        <lb ed="#V" n="96"/>a nobis in via: quantum ad quid rei: saltem 
+        conceptu<lb ed="#V" n="97" break="no"/>proprio et quiditatiuo etiam per eos. 
+      </p>
+               <p xml:id="at8va9-e12961-d1e1497">
+                  <lb ed="#V" n="98"/>Fraciscus de maronis in prologo i. q. 3. arti. 2. 
+        <lb ed="#V" n="99"/>Contra secundam conclusionem est opinio scoti qui ponit 
+        theo<lb ed="#V" n="100" break="no"/>logiam viatoris esse de deo sub ratione infiniti: tanquam de 
+        <lb ed="#V" n="101"/>obiecto primo: pro quae quidam doc. arguit sic: primo anshel. in 
+        <lb ed="#V" n="102"/>mono. per illud medium quo maius nihil cogitari potest: 
+        <lb ed="#V" n="103"/>demonstrat veritates theologicas de subiecto 
+        the<lb ed="#V" n="104" break="no"/>ologie. ista autem est diffinitio infiniti simpliciter. 
+        Secum<lb ed="#V" n="105" break="no"/>do sic: nobilissima scientia viatoris est de nobilissimo subs 
+        <lb ed="#V" n="106"/>iecto sub nobilissima ratione vel conceptu possibili 
+        nobet<lb ed="#V" n="107" break="no"/>in via de lege communi: sed theologia in nobis est scientiarum 
+        nobi<lb ed="#V" n="108" break="no"/>lissima: sicut docet aug. 8. de tri. igitur est de subiecto 
+        <lb ed="#V" n="109"/>nobilissimo et sub nobilissima ratione vel conceptu 
+        pos<lb ed="#V" n="110" break="no"/>sibili nobis etc. talis autem est conceptus infiniti: igitur etc. 
+      </p>
+               <p xml:id="at8va9-e12961-d1e1528">
+                  <lb ed="#V" n="111"/>Tertio sic: dionysius de mystica theologia 
+        circa<lb ed="#V" n="112" break="no"/>principium ex intentione probat: quod nostra theologia dirigit 
+        <lb ed="#V" n="113"/>in deum secundum quod est transcendens omnia: sed per solam rationem 
+        infini<lb ed="#V" n="114" break="no"/>ti transcendit omnia: quia sola ratio infiniti est ratio excessiua: 
+        igi<lb ed="#V" n="115" break="no"/>tur etc. 
+      </p>
+               <p xml:id="at8va9-e12961-d1e1541">
+        Quarto sic: vltima resolutio omnium scibilium 
+        <lb ed="#V" n="116"/>stat ad praemum subiectum cuiuslibet scientie: in nostra autem 
+        theo<lb ed="#V" n="117" break="no"/>logia vltimate resoluimus veritates transcendenes in in 
+        <lb ed="#V" n="118"/>finitatem: sicut eandem naturam numero in tribus suppositis ex 
+        <lb ed="#V" n="119"/>ipsius illimitatione defendimus: igitur idem quod prius. 
+      </p>
+               <p xml:id="at8va9-e12961-d1e1553">
+                  <lb ed="#V" n="120"/>Responsio ad rationes franeisci de maro. 
+        <lb ed="#V" n="121"/>Ad primum istorum potest dupliciter responderi. Primo: quia si 
+        ratio<lb ed="#V" n="122" break="no"/>aliquid concludit probat deum esse subiectum nostri habitus 
+        e<lb ed="#V" n="123" break="no"/>theologici sub ratione deitatis: quod tamen negatur ab ipsis: 
+        <lb ed="#V" n="124"/>quia esse illud quo maius cogitari non potest est 
+        diffinitio<lb ed="#V" n="125" break="no"/>vel descriptio dei: vt patet expresse per anshel. 
+        pro<lb ed="#V" n="126" break="no"/>solo c. 2. et 3. igitur per illud medium non probatur 
+        <lb ed="#V" n="127"/>intentum: sed oppositum eius quod intendit. Secum 
+        <lb ed="#V" n="128"/>do potest dici: etiam concesso quod per infinitatem de 
+        <lb ed="#V" n="129"/>monstret anshel. etc. quod ista consequentia non est 
+        for<lb ed="#V" n="130" break="no"/>malis: nec necessaria: infinitas est medium addemd 
+        <lb ed="#V" n="131"/>strandum theologicas veritates de subsiecto theologie igitur 
+        <lb ed="#V" n="132"/>deus est subiectum sub ratione infiniti: quia angulus extrinsecus 
+        <lb ed="#V" n="133"/>est medium ad demonstrandum habere tres de triangulo: 
+        <lb ed="#V" n="134"/>et tamen constat quod nec subiectum: nec ratio formalis subiecti: 
+        <lb ed="#V" n="135"/>Et similiter luna est medium ad demonstrandum eclipsim de 
+        so<lb ed="#V" n="136" break="no"/>le: et tamen nec est subiectum: nec ratio formalis subiecti. 
+        <lb ed="#V" n="137"/>Idem etiam patet per eos: quia infinitas non solum est medium ad 
+        <lb ed="#V" n="138"/>demonstradum theologicas veritates in via: sed etiam
+        <pb ed="#V" n="31-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>in patria: et tamen in patria non concedunt deum esse 
+        subie<lb ed="#V" n="2" break="no"/>ctum nostri habitus theologici sub ratione infiniti. Ad 
+        <lb ed="#V" n="3"/>secundum dico. concesso toto processu. primo quod ratio vel 
+        con<lb ed="#V" n="4" break="no"/>ceptus infiniti: non est in nobis magis possibilis in 
+        via<lb ed="#V" n="5" break="no"/>de lege communi: quam ratio vel conceptus deitatis: quicquid sit de 
+        <lb ed="#V" n="6"/>eius perfectione: et ideo ratio non probat magis deum esse 
+        subie<lb ed="#V" n="7" break="no"/>ctum nostri habitus theologici sub ratione infiniti: quam 
+        <lb ed="#V" n="8"/>sub ratione deitatis: cuius oppositum tamen intendunt. Et si 
+        di<lb ed="#V" n="9" break="no"/>catur quod conceptum infiniti probauit philosons de prima intelligentia. 
+        <lb ed="#V" n="10"/>8. phi et. 12. meta phisicorum. igitur est possibilis viato 
+        <lb ed="#V" n="11"/>ri. Dicendum: quod arist. non probauit infinitatem primi moto 
+        <lb ed="#V" n="12"/>ris nisi a posteriori et per effectum: quia per motum: vt patet 
+        <lb ed="#V" n="13"/>in locis pallegatis: talis autem probatio non inducit 
+        co<lb ed="#V" n="14" break="no"/>gnitione dicente quod rei: vel propt quid: sed solum quia: ex 
+        pri<lb ed="#V" n="15" break="no"/>mo posteriorum. Ex deductione igitur arist. non 
+        conuinci<lb ed="#V" n="16" break="no"/>tur quod aliqua notitia sit nobis possibilis de infinitate 
+        <lb ed="#V" n="17"/>dei quae non sit possibilis de deitate: quia cognitio existendi 
+        <lb ed="#V" n="18"/>deum: non solum possibilis: sed nobis naturaliter est inserta secundum 
+        <lb ed="#V" n="19"/>damascenum libro primo. c. 
+      </p>
+               <p xml:id="at8va9-e12961-d1e1642">
+        Ad tertium dico: quod dionisius vbi 
+        alle<lb ed="#V" n="20" break="no"/>gatur est adoppositum: quia ibi ostendit expresse quod theologia 
+        <lb ed="#V" n="21"/>nostra dirigit in deum qui est super omnem substantiam et cognitionem 
+        <lb ed="#V" n="22"/>secundum quod nobis est possibile: igitur secundum intentionem dionisui 
+        <lb ed="#V" n="23"/>non dirigit in deum sub ratione infiniti: quia vt sic est super 
+        <lb ed="#V" n="24"/>omnem substantiam et cognitionem et sub ratione nobis possibili: et 
+        <lb ed="#V" n="25"/>sic ratio est ad oppositum: non ad propositum. Post etiam re 
+        <lb ed="#V" n="26"/>duci ratio contra eum dupliciter. Primo: quia theologie patrie non 
+        mi<lb ed="#V" n="27" break="no"/>nus dirigit in deum secundum quod est transcendens omnia: quam 
+        theolo<lb ed="#V" n="28" break="no"/>gie vie: sed sola ratio infiniti: vt dicit est excessiua ratio: 
+        igi<lb ed="#V" n="29" break="no"/>tur theologia in patria est de deo sub ratione infiniti: quia 
+        <lb ed="#V" n="30"/>non concedunt. Secundo: quia per rationem deitatis formaliter 
+        <lb ed="#V" n="31"/>sumptam: deus transcendit omnia: aliter non esset id quo maius 
+        <lb ed="#V" n="32"/>etc. igitur deus est subiectum nostri habitus theologici 
+        sub<lb ed="#V" n="33" break="no"/>ratione deitatis: si forma est bona: cuius oppositum 
+        asse<lb ed="#V" n="34" break="no"/>rit. Ad quartum patet quid dicendum ex solutione praimi: quia 
+        ratio<lb ed="#V" n="35" break="no"/>illatiua de quae procedit. Prima ratio: est ratio resolutiua de 
+        qua<lb ed="#V" n="36" break="no"/>agitur in ista: quia sicut in natura: primum in compone est vltimum 
+        <lb ed="#V" n="37"/>in resolutione: sic etiam et in arte suo mo: ratio igitur non 
+        dif<lb ed="#V" n="38" break="no"/>fert a prima nisi in verbis: igitur ex solutione prime patet 
+        <lb ed="#V" n="39"/>quid dicendum in tuenti: Possut etiam hec et prima contra sun 
+        aucto<lb ed="#V" n="40" break="no"/>rem reduci: quia si aliquid concludunt: probat deum esse subiectum 
+        <lb ed="#V" n="41"/>cuiuscumque habitus theologici creati vel increati: 
+        subs<lb ed="#V" n="42" break="no"/>ratione infiniti: quod est contra eum: consequentia patet: quia in omni habitu 
+        the<lb ed="#V" n="43" break="no"/>ologico perfectiones simpliciter demonstrantur de deo per 
+        ratio<lb ed="#V" n="44" break="no"/>ne infiniti: et in infinitatem vltimate resoluuntur 
+        veri<lb ed="#V" n="45" break="no"/>tates transcendentes cuiuscumque habitus theologici: quia 
+        <lb ed="#V" n="46"/>quod vna natura numero sit in tribus distinctis 
+        sup<lb ed="#V" n="47" break="no"/>positis in solam infinitatem potest vltimate resolui: ergo etc. 
+        <lb ed="#V" n="48"/>Contra tertiam conclusionem ex fundamentis scoti et 
+        <lb ed="#V" n="49"/>suorum potest argui sic: modus intrinsecus non est de se et 
+        <lb ed="#V" n="50"/>primo intellectu quiditatiuo rei cuius est modus: sed 
+        infi<lb ed="#V" n="51" break="no"/>nitas est modus intrinsecus deitatis: ergo: minor 
+        sup<lb ed="#V" n="52" break="no"/>ponitur: quia hecceitas realitas: actualis existentia: et 
+        <lb ed="#V" n="53"/>quantitas virtutis: cum in nullo varient rationem formalem: 
+        <lb ed="#V" n="54"/>sunt modi intrinseci: vt dicunt: maior vero probatur 
+        <lb ed="#V" n="55"/>a quodam doc. quadrupliciter. 
+      </p>
+               <p xml:id="at8va9-e12961-d1e1723">
+                  <lb ed="#V" n="56"/>Franciscus de maronis in prolo q. i. art. i. 
+        <lb ed="#V" n="57"/>Primo: quia modus cuiuslibet rei intelligitur 
+        poste<lb ed="#V" n="58" break="no"/>rior ea re cuius est modus: cum fundetur in ipsa: omnia autem 
+        <lb ed="#V" n="59"/>quoditatiua intelliguntur priora. Secundo: quia vna 
+        ratio<lb ed="#V" n="60" break="no"/>formalis est communis duobus modis intrinsecis: vt ratio entis 
+        <lb ed="#V" n="61"/>est communis finito et infinito: et nulli communi suum proprium est quodita 
+        <lb ed="#V" n="62"/>tiuum. Tertio: quia ratio formalis diuiditur contra modum 
+        <lb ed="#V" n="63"/>suum intrinsecum: vt ait inuentor istorum: et sola ratio 
+        forma<lb ed="#V" n="64" break="no"/>lis est quiditatiua. Quarto: quia ablato aliquo: quod est 
+        <lb ed="#V" n="65"/>de quiditate alicuius aufertur quoditas eius: absito autem 
+        <lb ed="#V" n="66"/>gradu albedinis qui est modus intrinsecus eius: non 
+        <lb ed="#V" n="67"/>aufertur ratio formalis siue quiditatiua talis qualitatis. 
+        <lb ed="#V" n="68"/>Secundo ad principale sic: infinitas est demonstrabilis de 
+        <lb ed="#V" n="69"/>deo: et ipsam arist. demonstrauit 8. phisicorum. et 4. me
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>taphisice: igitur non est de per se et primo intellectu quiditatiuo 
+        <lb ed="#V" n="71"/>ipsius: consequentia videtur clara: quia quod demonstratur de aliquo 
+        <lb ed="#V" n="72"/>prtinet ad secundum modum perseitatis: ex primo posteriorum: et 
+        <lb ed="#V" n="73"/>nullum tale est per se et primo intellectu quiditatiuo rei. 
+        Ter<lb ed="#V" n="74" break="no"/>tio: apphenso aliquo apphenditur omne id quod est de primo et per 
+        <lb ed="#V" n="75"/>se intellectu quiditatiuo illius: sed apphesa deitate non 
+        <lb ed="#V" n="76"/>apprhenditur necessario infinitas eius: quia cognitio ex 
+        <lb ed="#V" n="77"/>istedi deum: naturaliter omnibus est inserta: et tamen multi 
+        phi<lb ed="#V" n="78" break="no"/>dubitauerunt de eius infinitate ergo etc. 
+      </p>
+               <p xml:id="at8va9-e12961-d1e1778">
+        Quarto sic: 
+        <lb ed="#V" n="79"/>nulla ratio priuatiua per se primo modo clauditur in ratione 
+        positi<lb ed="#V" n="80" break="no"/>ua: ratio infinitatis est priuatiua: deitatis autem positiua: 
+        <lb ed="#V" n="81"/>igitur etc. 
+      </p>
+               <p xml:id="at8va9-e12961-d1e1787">
+        Responsio ad rationes 
+        fran<lb ed="#V" n="82" break="no"/>Ad primum dicerent aliqui per interemptionem arist. quia 
+        <lb ed="#V" n="83"/>licet modus extrinsecus sit extra quiditatem rei cuius est 
+        mo<lb ed="#V" n="84" break="no"/>dus. tamen intrinsecus ingreditur quditatem rei: et per consequens 
+        perti<lb ed="#V" n="85" break="no"/>net ad primum modum perseitatis. Et ad probationes 
+        pos<lb ed="#V" n="86" break="no"/>set dici. 
+      </p>
+               <p xml:id="at8va9-e12961-d1e1800">
+        Ad primam: quod modus intrinsecus non intelligitur 
+        po<lb ed="#V" n="87" break="no"/>sterior ea re cuius est modus: quia non fundatur in ipsa: sed est 
+        <lb ed="#V" n="88"/>ipsa: et nihil est posterius seipso primo de tri. c. i. 
+        extrinse<lb ed="#V" n="89" break="no"/>cus autem sic: et sic equocatur demodo. 
+      </p>
+               <p xml:id="at8va9-e12961-d1e1810">
+        Ad secundam. si 
+        ratio<lb ed="#V" n="90" break="no"/>concludent probaret quod differente specifice non sint quiditatiue: 
+        <lb ed="#V" n="91"/>quia vna ratio formalis est communis duabus differentiis: vt 
+        ratio<lb ed="#V" n="92" break="no"/>animalis: rationali et irrationali: et nulli communi suum proprium est 
+        quidi<lb ed="#V" n="93" break="no"/>tatiuum: dicendum igitur quod tenentes modum intrinsecum esse 
+        de<lb ed="#V" n="94" break="no"/>quiditate rei non dicunt ipsum esse de quiditate supeiorum: sed 
+        <lb ed="#V" n="95"/>eius quod per ipsum ab aliis distinguitur Sicut deus per infinita 
+        <lb ed="#V" n="96"/>tem ab omni eo quod non est deus: sicut dicentes differentias esse 
+        quidita<lb ed="#V" n="97" break="no"/>tiuas non dicunt ipsas esse de quiditate generis: sed specierum 
+        <lb ed="#V" n="98"/>quas seprant et distinguunt: et per consequens ratio non est ad propositum. 
+      </p>
+               <p xml:id="at8va9-e12961-d1e1832">
+                  <lb ed="#V" n="99"/>Ad tertiam diceretur quod diuidentes rationem formalem 
+        con<lb ed="#V" n="100" break="no"/>tra modum suum intrinsecum ignorant propriam voce: quia 
+        ni<lb ed="#V" n="101" break="no"/>hil diuiditur contra seipsum. 
+      </p>
+               <p xml:id="at8va9-e12961-d1e1841">
+        Ad quarta dicerent multi: 
+        <lb ed="#V" n="102"/>quod gradus albedinis non est modus eius intrinsecus: quia 
+        <lb ed="#V" n="103"/>modus intrinsecus non videtur posse seprari ab eo cuius est 
+        <lb ed="#V" n="104"/>modus. quia omne seprabile a re videtur extrinsecum rei: 
+        gra<lb ed="#V" n="105" break="no"/>dus autem albedinis est seperabilis. Et vlterius: si 
+        forma<lb ed="#V" n="106" break="no"/>habet guradus in esse: non in essentia: vt asserit doctor solemnis: 
+        <lb ed="#V" n="107"/>talis gradus non erit intrinsecus. sed extrinsecus: potest 
+        eti<lb ed="#V" n="108" break="no"/>am dici supposito: quod ponatur eius modus intrinsecus: quod 
+        <lb ed="#V" n="109"/>licet ablato tali gradum non auferatur ratio formalis 
+        albedi<lb ed="#V" n="110" break="no"/>nis absolute: aufertur tamen ratio formalis huius alhedinis 
+        <lb ed="#V" n="111"/>cuius ponitur modus intrinsecus: et hoc sufficit. Sed 
+        quic<lb ed="#V" n="112" break="no"/>quid sit de maiori: minor est simpliciter falsa: quod patet ex 
+        fun<lb ed="#V" n="113" break="no"/>damentis ipsorum. Primo: quia ablato modo intrinseco 
+        ali<lb ed="#V" n="114" break="no"/>cuius vt dicunt: non necessario aufertur ratio formalis et 
+        quidi<lb ed="#V" n="115" break="no"/>tatiua illius. ablata autem infinitate necessario aufertur 
+        ratio<lb ed="#V" n="116" break="no"/>formalis et quiditatiua deitatis: quia ablata infinitate 
+        <lb ed="#V" n="117"/>a deo: deus non manet id quo maius cogitari non potest: 
+        igi<lb ed="#V" n="118" break="no"/>tur aufertur ratio formalis et quiditatiua ipsius: quia nomine 
+        <lb ed="#V" n="119"/>des intelligimus id quo maius etc. vt allegatum est super. Secum 
+        <lb ed="#V" n="120"/>do: quia modus intrinsecus per wos est posterior ea re cuius est 
+        <lb ed="#V" n="121"/>modus infinitas autem non est posterior deitate: non enim est 
+        <lb ed="#V" n="122"/>posterior ipsa diuina essentia: ratione vel natura: quia talis 
+        re<lb ed="#V" n="123" break="no"/>pugnat nature diuine: nec origine: quia infinitas non 
+        <lb ed="#V" n="124"/>originatur a deitate: igitur nullo modo. Et ad probationem 
+        <lb ed="#V" n="125"/>quando dicitur: quod hecceitas: realitas: actualis existentia: et 
+        <lb ed="#V" n="126"/>quantitas virtutis: cum in nullo varient rationem formalem 
+        vi<lb ed="#V" n="127" break="no"/>dentur modi intrinseci: quicquid sit de aliis: de quibus 
+        eti<lb ed="#V" n="128" break="no"/>am non credo esse verum: saltem de omnibus: ex 
+        di<lb ed="#V" n="129" break="no"/>ctis apparet quod quantitas virtutis variat rationem 
+        <lb ed="#V" n="130"/>formalem: quia ablata infinitate a deo aufertur 
+        ra<lb ed="#V" n="131" break="no"/>tio formalis et quiditatiua ipsius: nec etiam videtur 
+        bo<lb ed="#V" n="132" break="no"/>na consequentia: hecceitas: realitas etc. non variant rationem 
+        <lb ed="#V" n="133"/>formalem: igitur suut modi intrinseci: quia nullum 
+        <lb ed="#V" n="134"/>extrinsecum adueniens vel discedens ab aliquo: 
+        vari<lb ed="#V" n="135" break="no"/>at rationem formalem illius: et tamen non omne 
+        extriuse<lb ed="#V" n="136" break="no"/>cum ponitur modus intrinsecus: imo quod aliquod 
+        extrinse<lb ed="#V" n="137" break="no"/>cum sit modus intrinsecus est oppositumm obiecto. 
+        <lb ed="#V" n="138"/>Ad secundum principale: si ratio concluderet: probaret quod
+        <pb ed="#V" n="31-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>esse non sit de per se et primo intellectum quoditatiuo deitatis: 
+        <lb ed="#V" n="2"/>quia deum esse est demonstrabile. Potest igitur ad rationem vno 
+        <lb ed="#V" n="3"/>modo dici: quod infinitas de deo non est demonstrabilis a 
+        <lb ed="#V" n="4"/>priori: salte in via de lege communi: sed a posteriori tantum: et sic 
+        <lb ed="#V" n="5"/>arist. nititur ipsam demonstrare: quia per motum: sed ex hoc 
+        <lb ed="#V" n="6"/>nihil concluditur. quia a posteriori et per effectum: non solum 
+        <lb ed="#V" n="7"/>demonstrantur que partinent ad secundum modum perseitatis: 
+        <lb ed="#V" n="8"/>sed etiam quae ad primum: et sic esse demonstratur de deo. Potest 
+        <lb ed="#V" n="9"/>etiam secudo dici: supposito quod infinitas de deo sit de 
+        <lb ed="#V" n="10"/>most rabilis a priori: quod demonstratio a priori est duplex: 
+        <lb ed="#V" n="11"/>prout superius extitit declaratum: quedam in qua 
+        medi<lb ed="#V" n="12" break="no"/>um ostendens praedicatum de subiecto: est causa non solum in 
+        infe<lb ed="#V" n="13" break="no"/>rendo. sed etiam in essendo: et talis videtur omnis 
+        demonstra<lb ed="#V" n="14" break="no"/>tio in qua demonstratur distincta passio de subiecto: 
+        <lb ed="#V" n="15"/>et de tali verum est: quod nihil demonstratur nisi quod pertinet: 
+        <lb ed="#V" n="16"/>ad secundum modum per seitatis et sic loquitur arist. 
+        Que<lb ed="#V" n="17" break="no"/>dam in qua medium ostendens ec: est causa in inferendo non autem 
+        <lb ed="#V" n="18"/>in essendo: et quod sic demonstratur potest esse de per se: et 
+        <lb ed="#V" n="19"/>primo intellectu quiditatiuo eius de quo demonstratur: 
+        <lb ed="#V" n="20"/>quod patet in hoc sillogismo omnis substantia animata 
+        sen<lb ed="#V" n="21" break="no"/>sibilis est animal: omnis homo est substantia animata sensihilis: ergo omnis 
+        <lb ed="#V" n="22"/>homo est animal: iste sillogismus est demonstratiuus: quia 
+        <lb ed="#V" n="23"/>ex veris et necessariis et impossibilibus aliter se 
+        habe<lb ed="#V" n="24" break="no"/>re: tum quia non est topicus: nec sophisticus: et tamen 
+        praedica<lb ed="#V" n="25" break="no"/>tum est de per se et primo intellectu quiditatiuo subiecti: igitur 
+        <lb ed="#V" n="26"/>non est bona consequentia: immo est falsa: consequenter infinitas est 
+        <lb ed="#V" n="27"/>demonstrabilis de deo: igitur non est de per se et primo in 
+        tel<lb ed="#V" n="28" break="no"/>lectu quiditatiuo eius etc. Ad tertium dico: quod maior 
+        <lb ed="#V" n="29"/>non est vera: si illud apphendatur perfecte: et sub isto 
+        sen<lb ed="#V" n="30" break="no"/>su minor non est ad propositum: quia nullus philosorum: nec 
+        via<lb ed="#V" n="31" break="no"/>atorum deum apprehendit perfecte. Ad quartum 
+        di<lb ed="#V" n="32" break="no"/>co: quod infinitas perfectionis de qua loquimur in 
+        propo<lb ed="#V" n="33" break="no"/>sito non est ratio priuatiua quantum ad quid rei: sed quantum ad 
+        in<lb ed="#V" n="34" break="no"/>positionem nomins tantum. Contra quartam conclusionem 
+        <lb ed="#V" n="35"/>simpliciter negat habitum theologicum intellectus 
+        cre<lb ed="#V" n="36" break="no"/>ati tam in via quam in patria esse de deo sub ratione deitatis 
+        <lb ed="#V" n="37"/>absoluta sumpta: tanquam de subiecto primo: est 
+        opi<lb ed="#V" n="38" break="no"/>nio communis pro qua quada arguunt. 
+      </p>
+               <p xml:id="at8va9-e12961-d1e2010">
+                  <lb ed="#V" n="39"/>Sanctus thomas in prima parte q. i. ar. 7. 
+        <lb ed="#V" n="40"/>Primo sic. Idem et sub eadem ratione formali est 
+        subie<lb ed="#V" n="41" break="no"/>ctum in tota scientia et in primis principiis scientie: hec patet quia 
+        <lb ed="#V" n="42"/>tota scientia continetur virtualis ter in principiis: sed deus sub 
+        <lb ed="#V" n="43"/>ratione deitatis absolute est subiectum in articulis fidei 
+        <lb ed="#V" n="44"/>quae sunt principia theologie: ergo etc. Secundo sic: sicut 
+        <lb ed="#V" n="45"/>se habet obiectum ad potentiam: sic se habet subiectum ad 
+        scien<lb ed="#V" n="46" break="no"/>tiam: sed illud est primum obiectum potentie: sub cuius ratione 
+        <lb ed="#V" n="47"/>omnia referuntur ad potentiam igitur illud est primum subiectum 
+        <lb ed="#V" n="48"/>scientie sub cuius ratione omnia considerantur in scientia: sed omnia quae 
+        <lb ed="#V" n="49"/>considerantur in theologia considerantur sub ratione deita 
+        <lb ed="#V" n="50"/>tis absolute: vel quia sunt ipse deus: vel quia habent ordinem 
+        <lb ed="#V" n="51"/>ad ipsum vt ad principium vel ad finem: igitur etc. 
+      </p>
+               <p xml:id="at8va9-e12961-d1e2041">
+                  <lb ed="#V" n="52"/>Landusphus in prologo i q. vlti. arti. 3. 
+        <lb ed="#V" n="53"/>Ad idem arguut quidam alii probates: quod deus inquam 
+        <lb ed="#V" n="54"/>tum deus: sit subiectum in theologia viatorum. Primo sic: 
+        <lb ed="#V" n="55"/>sub illa ratione deus est subiectum in theologia: sub 
+        qua<lb ed="#V" n="56" break="no"/>continex virtualiter omnes veritates eius hoc 
+        pa<lb ed="#V" n="57" break="no"/>tet: quia de ratione formali subiecti: vt dictum est: est contine 
+        <lb ed="#V" n="58"/>re etc. sed deus inquantum deus continet omnes 
+        veri<lb ed="#V" n="59" break="no"/>tate theologicas: ergo sub hac ratione est subiectum in 
+        <lb ed="#V" n="60"/>theologia: probatur minor: quia prima ratio et perfectior in 
+        omni<lb ed="#V" n="61" break="no"/>ente: est illud a quo dependet virtualiter omne 
+        co<lb ed="#V" n="62" break="no"/>gnoscibile de eo: sed ista est ratio specifica: igitur in deo 
+        <lb ed="#V" n="63"/>ratio deitatis que est ratio necessaria et quasi 
+        spe<lb ed="#V" n="64" break="no"/>cifica continebit virtualiter omne scibile de deo. 
+        <lb ed="#V" n="65"/>Secundo sic: eodem modo deus est subiectum in 
+        theolo<lb ed="#V" n="66" break="no"/>gia quo modo est ohiectum intellectui diuino: sed 
+        intelle<lb ed="#V" n="67" break="no"/>ctui diuino est obiectum inquantum deus: ergo in 
+        theo<lb ed="#V" n="68" break="no"/>logia erit subiectum inquantum deus: maior patet: quia 
+        <lb ed="#V" n="69"/>cum theologia sit de deo nouissimo modo: si esset de deo
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>aliter quam vt est obiectum intellectui diuino: diuinus in 
+        <lb ed="#V" n="71"/>tellectus non haberet deum pro obiecto nouissimo modo: 
+        <lb ed="#V" n="72"/>minor patet. 12 metaphi. vbi philoss et commentator 
+        di<lb ed="#V" n="73" break="no"/>cauat: quod obiectum intellectus prime intelligentie que est 
+        <lb ed="#V" n="74"/>deus: est essentia sua: non aliquid aliud. 
+      </p>
+               <p xml:id="at8va9-e12961-d1e2096">
+        Tertio sic: 
+        <lb ed="#V" n="75"/>si theologia non esset de deo inquantum deus: 
+        theolo<lb ed="#V" n="76" break="no"/>gia non esset perfectissima notitia de deo: consequens est falsum: 
+        <lb ed="#V" n="77"/>ergo et antecedens: consequentia probatur: quia si non esset de deo inquantum 
+        <lb ed="#V" n="78"/>deus: in aliqua alia traderetur notitia de deo inquam 
+        <lb ed="#V" n="79"/>tum deus: et ista alia esset nobilior: quia esset de deo sub 
+        pro<lb ed="#V" n="80" break="no"/>priissimo vel nobilissimo conceptu possibili haberi 
+        <lb ed="#V" n="81"/>de eo. 
+      </p>
+               <p xml:id="at8va9-e12961-d1e2115">
+        Responsio ad rationes sancti thome. 
+        <lb ed="#V" n="82"/>Ad primum istorum dicerent multi: quod articuli fidei non 
+        <lb ed="#V" n="83"/>sunt principia theologie: quod saltem verum est de aliqui 
+        <lb ed="#V" n="84"/>bus: vt declaratum est supra. Multi etiam dicerent quod in 
+        <lb ed="#V" n="85"/>omnibus articulis fidei deus vt deus non est 
+        subie<lb ed="#V" n="86" break="no"/>ctum. quia in articulo incarnationis: tamtum filius est 
+        subie<lb ed="#V" n="87" break="no"/>ctum: quicquid tamen sit de hoc dico: quod licet in articulis fidei 
+        <lb ed="#V" n="88"/>saltem in aliquibus prount sunt principia vel conclusiones 
+        <lb ed="#V" n="89"/>theologie diuine: deus vt deus simpliciter sit subiectum 
+        <lb ed="#V" n="90"/>non tamen prout sunt principia vel eonclusiones theologie 
+        cre<lb ed="#V" n="91" break="no"/>ate: ratio istius est: quia articuli fidei in habito 
+        theologi<lb ed="#V" n="92" break="no"/>co intellectus diuini sunt adequate noti: in 
+        habitu<lb ed="#V" n="93" break="no"/>nostro theologico creato: non: quia nulla creatura potest 
+        <lb ed="#V" n="94"/>adequate cognoscere articulum trinitatis: quia nec 
+        <lb ed="#V" n="95"/>deitatem nec trinitatem potest cognoscere quantum 
+        cogno<lb ed="#V" n="96" break="no"/>scibilis est. Concedo ergo quod in articulis fidei saltem 
+        in<lb ed="#V" n="97" break="no"/>aliquibus: prout sunt principia vel conclusiones 
+        theolo<lb ed="#V" n="98" break="no"/>gie increate: deus vt deus est simpliciter subiectum: sed 
+        pro<lb ed="#V" n="99" break="no"/>ut sunt principia vel conclusiones theologine create deus 
+        <lb ed="#V" n="100"/>vt deus non est simpliciter subiectum et absolute: sed vt 
+        attin<lb ed="#V" n="101" break="no"/>gibilis ab intellectu creato precise: et sic concedo quod sit 
+        <lb ed="#V" n="102"/>subiectum theologie create prout declarabitur. q. 
+        sequen<lb ed="#V" n="103" break="no"/>ti. Ad secundum: licet multi negarent maiorem simpliciter: 
+        si<lb ed="#V" n="104" break="no"/>cut assumitur: concessa tamen maiore: minore: et prima 
+        con<lb ed="#V" n="105" break="no"/>clusione. valet quod illud sit subiectum primum scientie: sub cuius 
+        ratio<lb ed="#V" n="106" break="no"/>ne omnia considerantur in scientia: non habetur intentum: quia in 
+        habi<lb ed="#V" n="107" break="no"/>tum theologico intellectus creati: nihil consideratur sub 
+        <lb ed="#V" n="108"/>ratione deitatis absolute sumpta: sed vt attingibilis est 
+        <lb ed="#V" n="109"/>ab intellectu creato: et sic concte et finite accepta. 
+      </p>
+               <p xml:id="at8va9-e12961-d1e2178">
+                  <lb ed="#V" n="110"/>Responsio ad rationes landulphi. 
+        <lb ed="#V" n="111"/>Ad primum aliorum: licet forma non sit bona: quia ex puris 
+        <lb ed="#V" n="112"/>affirmatiuis in secunda figura nihil sequitur: et minor possit 
+        <lb ed="#V" n="113"/>negari quia talis virtualis continentia: non est de ratione 
+        <lb ed="#V" n="114"/>subiecti: sed medii: sicut patet ex q. price. dico tamen ad 
+        mi<lb ed="#V" n="115" break="no"/>norem: quod aliter deus continet theologicas veritates prout 
+        <lb ed="#V" n="116"/>sunt de per se consideratione theologie increate: et aliter prout 
+        <lb ed="#V" n="117"/>sunt de per se consideratione create: quia prout sunt de per se 
+        con<lb ed="#V" n="118" break="no"/>sideratione theologie. increate: continet eas vt deus est 
+        <lb ed="#V" n="119"/>absolute siue sub ratione deitatis absolute sumpta: sed 
+        pro<lb ed="#V" n="120" break="no"/>ut sunt de per se consideratione theologie create: continet: 
+        <lb ed="#V" n="121"/>eas sub ratione deitatis: non quidem absolute sumpta: sed vt 
+        <lb ed="#V" n="122"/>intellectui creato proportionata: non ergo sequit quod in 
+        the<lb ed="#V" n="123" break="no"/>ologia viatorum creata deus sit subiectum sub ratione 
+        dei<lb ed="#V" n="124" break="no"/>taris absolute sumpta: sed vt intellectui creato 
+        proportio<lb ed="#V" n="125" break="no"/>nata: quod vtique verum est: sicut in sequenti. q. videbitur. 
+        <lb ed="#V" n="126"/>Ad secundum dico: quod procedit de theologia increata: 
+        <lb ed="#V" n="127"/>sed decreata maior est falsa quia obiectum adequatum 
+        intel<lb ed="#V" n="128" break="no"/>lectus diuini excedit improportionabiliter virtutem 
+        co<lb ed="#V" n="129" break="no"/>gnitiuam intellectus cuiuscumque creati: et ideo non est possibile 
+        <lb ed="#V" n="130"/>quod idem sub eadem ratione formali sit subiectum theologie 
+        <lb ed="#V" n="131"/>create: et obiectum adequntum intellectus diuini. Et ad 
+        pro<lb ed="#V" n="132" break="no"/>bationem quando dicitur: quod theologia est de deo nobilissimo 
+        <lb ed="#V" n="133"/>modo: dico quod theologia increata est de deo nobilissimo 
+        <lb ed="#V" n="134"/>modo simpliciter: theologia vero creata est de deo 
+        nobi<lb ed="#V" n="135" break="no"/>lissimo modo: non quidem simpliciter: sed possibili 
+        intelle<lb ed="#V" n="136" break="no"/>ctuim creato. Ad tertium concedo: quod theologia creata non 
+        <lb ed="#V" n="137"/>est perfectissima: quia theologia increata est perfectior: et 
+        ta<lb ed="#V" n="138" break="no"/>lis est de deo sub ratione deitatis absolute sumpta.
+      </p>
+               <p xml:id="at8va9-e12961-d1e2243">
+                  <pb ed="#V" n="32-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>Responsio ad rationes principales. 
+        <lb ed="#V" n="2"/>Ad primam patet quid dicendum ex solutione 
+        sta<lb ed="#V" n="3" break="no"/>tim data: quia habitus theologicus intellectus 
+        er<lb ed="#V" n="4" break="no"/>ati non est simpliciter nobilissimus: licet sit nobilissimus 
+        inter<lb ed="#V" n="5" break="no"/>habitus possibiles creature. Secundam rationem 
+        conce<lb ed="#V" n="6" break="no"/>do: et credo ipsam concludere. 
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

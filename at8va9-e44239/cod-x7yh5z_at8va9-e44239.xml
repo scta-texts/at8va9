@@ -1,0 +1,1429 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#AlphonsusVargas">Alphonsus Vargas Toletanus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2024-10-10">October 10, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-x7yh5z">Venice, 1490</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="75-v"/>
+            <cb ed="#V" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="at8va9-e44239"><!-- l1d2q1 -->
+            <head xml:id="at8va9-e44239-Hd1e101">Quaestio 1</head>
+            <head xml:id="at8va9-e44239-Hd1e103" type="question-title">Utrum Deum esse trinum et unum possit naturaliter demonstrari</head>
+            <p xml:id="at8va9-e44239-d1e106">
+               <lb ed="#V" n="129"/>Aod itaque vera. ac pia fidem tenenda est 
+      <lb ed="#V" n="130"/>¶ So yyy os 
+      <lb ed="#V" n="131"/>in quae magister nititur ostendere divine nature 
+      <lb ed="#V" n="132"/>vnitatem: et personarum trinitatem que 
+      <lb ed="#V" n="133"/>ro istam questionem: vtrum deum esse 
+      tri<lb ed="#V" n="134" break="no"/>sum et vnum possit naturaliter demonstrari. 
+    </p>
+            <p xml:id="at8va9-e44239-d1e122">
+      Et videtur 
+      <lb ed="#V" n="135"/>primo: quod sic quia omnis propositio necessaria ratione 
+      probabi<lb ed="#V" n="136" break="no"/>slis: est demonstrabilis: sed talis est ista dicente 
+      ri<lb ed="#V" n="137" break="no"/>scar. 1. de tri: ca. 3. quod ad explanationem eorum que 
+      <lb ed="#V" n="138"/>ssint fide inducunt non soluuu tones probabiles: sed
+      <pb ed="#V" n="76-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>necessarie: ergo etc. 
+    </p>
+            <p xml:id="at8va9-e44239-d1e140">
+      Conu: arti. fidei non sunt naturaliter de 
+      <lb ed="#V" n="2"/>mostrabiles: aliter ad assentiendum eis et nibus 
+      de<lb ed="#V" n="3" break="no"/>ductis ex eis posset tam fidelis quam infidelis euidenter 
+      <lb ed="#V" n="4"/>duinci: quod non est verum: sed deum esse trinum et vnum est 
+      ar<lb ed="#V" n="5" break="no"/>ticulus fidei: ergo etc. 
+    </p>
+            <p xml:id="at8va9-e44239-d1e152">
+      Responsio: in ista questione erunt. 4. 
+      <lb ed="#V" n="6"/>artieuli: quia Primo ponam vnius termini 
+      declaratio<lb ed="#V" n="7" break="no"/>nem. Secundo: quadruplicem csinem. Tertio moue 
+      <lb ed="#V" n="8"/>bo dubia. Quarto respondebo. 
+    </p>
+            <div xml:id="at8va9-e44239-Dd1e161">
+               <head xml:id="at8va9-e44239-Hd1e163">Articulus 1</head>
+               <p xml:id="at8va9-e44239-d1e165">
+        Primus articulus 
+        <lb ed="#V" n="9"/>QUantum ad primum articulum terminus declarandus est: 
+        <lb ed="#V" n="10"/>deum esse trinum: cuius gratia nonndum: quod deum esse trinum 
+        po<lb ed="#V" n="11" break="no"/>test intelligi dupliciter: vno modo: quia subsistit in tribus 
+        sup<lb ed="#V" n="12" break="no"/>positis realibus scilicet patre filio et spium sancto: eo modo 
+        <lb ed="#V" n="13"/>quo fides catholica confitetur: cui non potest subee falsum. 
+        <lb ed="#V" n="14"/>Alio modo: quia subsistit in tribus suppositis vno tamen tamtum 
+        <lb ed="#V" n="15"/>reali et duobus intentionalibus. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e183">
+        Et vt clarius appareat 
+        <lb ed="#V" n="16"/>quod dicitur: est aduertendum quod quedam opinio. 
+        <lb ed="#V" n="17"/>Aureoli in. 1. di. 3. q. 3. ar. 3. 
+        <lb ed="#V" n="18"/>Ponit quod naturaliter potest demonstrari deum subsistere in 
+        tri<lb ed="#V" n="19" break="no"/>bus suppositis alto dictorum modorum: Et potest opinio 
+        <lb ed="#V" n="20"/>sumati adduci ad sex pucta principalia. Primus est: quod 
+        <lb ed="#V" n="21"/>res intellecta per actum intellectus capit esse apparens et 
+        <lb ed="#V" n="22"/>intentionale: et ponitur in esse conspicuo formato: et 
+        appa<lb ed="#V" n="23" break="no"/>renti ante prospectum intelligetis. Secundus est quod 
+        <lb ed="#V" n="24"/>amans per amorem capit esse egressum ac latum extra se 
+        <lb ed="#V" n="25"/>ita vt in amorem extra se exeat modo spirituali et intentionali 
+        <lb ed="#V" n="26"/>Tertius est: quod naturaliter est nobis notum et ab omnibus 
+        phosan<lb ed="#V" n="27" break="no"/>tibus concessum: quod deus immutabiliter intelligit se et diligit se 
+        <lb ed="#V" n="28"/>et in se placet: et delectatur: voluptuonsum vitam habens: vt 
+        <lb ed="#V" n="29"/>philosos dicit. 12 metaphi. Quartus est: quod necesse est quod de 
+        <lb ed="#V" n="30"/>us subsistit in se realiter: et ante se vel realiter vel 
+        intentio<lb ed="#V" n="31" break="no"/>naliter: cum se sper intelligat: et extra se. cum se semper vel realiter 
+        <lb ed="#V" n="32"/>vel intentionaliter amet et istud sequitur ex supradictis. 
+        <lb ed="#V" n="33"/>Quintus est: quod philsi elegerunt alteram partem istius 
+        disiun<lb ed="#V" n="34" break="no"/>ctiue valet quod an se: et extra se existat tantum intentionaliter: et 
+        <lb ed="#V" n="35"/>quod ista non realiter sed solum difturant ratione in deo: et hoc de 
+        <lb ed="#V" n="36"/>platone vt dicit iste doc testatur. b. Aug. 10. de tri. c. 
+        <lb ed="#V" n="37"/>23. et de arist. comentaor. 12 metaphi. comento. 4 
+        <lb ed="#V" n="38"/>Sextus est: quod catholici elegerunt secundam partem et 
+        ma<lb ed="#V" n="39" break="no"/>gis rationalem: nec dubium quod veram: in deo enim ponendum est: 
+        <lb ed="#V" n="40"/>quicquid perfectionis est: sed nobilius est verbum: si ponatur 
+        <lb ed="#V" n="41"/>esse reale: quam si sit solum intentionale: et idem patet de spiitum 
+        sam<lb ed="#V" n="42" break="no"/>cto. Ex in perfectione namque est quod verbum mentis nostre: et 
+        <lb ed="#V" n="43"/>spiritus amoris procedat in esse diminuto et 
+        inten<lb ed="#V" n="44" break="no"/>tionali: igitur rationabilius est quod quodlibet de suppositis 
+        <lb ed="#V" n="45"/>istis sit verum et reale in deo. Ex his concludit iste 
+        <lb ed="#V" n="46"/>doc. quod naturaliter potest a viatoribus demonstrari: quod deus sub 
+        <lb ed="#V" n="47"/>sistat in tribus suppositis altero istorum duorum 
+        modo<lb ed="#V" n="48" break="no"/>rum: quia vel in vno reali et duobus intentionalibus: vel in 
+        omni<lb ed="#V" n="49" break="no"/>bus tribus realibus licet non sit naturaliter demonstrabile quod sub 
+        <lb ed="#V" n="50"/>sistat determinate in tribus suppositis realibus: sicut 
+        <lb ed="#V" n="51"/>catholici confitentur: his igitur suppositis: patet quod dupliciter 
+        <lb ed="#V" n="52"/>potest intelligi secundum istum modum dicendi: deum esse 
+        tri<lb ed="#V" n="53" break="no"/>num: vno modo: quia subsistit in tribus suppositis 
+        rea<lb ed="#V" n="54" break="no"/>libus prout catholici confitentur: alio modo: quia subsistit 
+        <lb ed="#V" n="55"/>in tribus: vno tamen tantum reali et duobus 
+        intentionali<lb ed="#V" n="56" break="no"/>bus prout imaginantur philosi vt asserit iste doc. Et in 
+        <lb ed="#V" n="57"/>vtroque sensu intelligo questionem. et hec de primo arti: 
+      </p>
+            </div>
+            <div xml:id="at8va9-e44239-Dd1e278">
+               <head xml:id="at8va9-e44239-Hd1e280">Articulus 2</head>
+               <p xml:id="at8va9-e44239-d1e282">
+                  <lb ed="#V" n="58"/>Secundus 
+        arti<lb ed="#V" n="59" break="no"/>QUantum ad secundum ar. pono 4. conclusiones. 
+        Pri<lb ed="#V" n="60" break="no"/>ma est quod deum esse potest naturaliter demonstrari. Istam 
+        <lb ed="#V" n="61"/>conclusionem philosns: 8. philosorum nititur demonstrare per 
+        <lb ed="#V" n="62"/>motum vbi sic arguit. omne quod mouetur ab alio 
+        mo<lb ed="#V" n="63" break="no"/>uetur illud aliud aut mouetur ab alio: aut non: si non: igitur 
+        <lb ed="#V" n="64"/>est immobile: et sic deus: si sic de illo queritur vtrum 
+        <lb ed="#V" n="65"/>moueatur vel non: et sic in infinitum: sed processus in 
+        infini<lb ed="#V" n="66" break="no"/>tum est impossibilis vt patet. 2. metaphi. igitur 
+        sta<lb ed="#V" n="67" break="no"/>tus ad aliquod immobile est necessarium: et hoc est 
+        <lb ed="#V" n="68"/>deus: Sed licet conclusionem credam esse 
+        demonstrabi<lb ed="#V" n="69" break="no"/>lem tamen phiysi vt videtur non demonstrat propter duo
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>Primo: quia maior negatur a multis quibus videtur: 
+        <lb ed="#V" n="71"/>quod intellectus et voluntas quecumque mouetur a se: de hoc 
+        <lb ed="#V" n="72"/>tamen alias. Secundo: quia posito quod maior illa sit 
+        ve<lb ed="#V" n="73" break="no"/>ra: non tamen est per se nota nec ab arist. 
+        demon<lb ed="#V" n="74" break="no"/>strata: igitur nec conclusio que ex ipsa deducitur de 
+        <lb ed="#V" n="75"/>monstratur: hac igitur ratione et consimilibus dimissis 
+        pro<lb ed="#V" n="76" break="no"/>bo conclusionem aliter: Primo sic: deus est id quo 
+        ma<lb ed="#V" n="77" break="no"/>ius cogitari non potest: igitur deus est: antecedens 
+        <lb ed="#V" n="78"/>patet: quia hoc nomine dei intelligimus: et consequentia est 
+        <lb ed="#V" n="79"/>clara: quia bene sequitur deus non est: ergo non est 
+        <lb ed="#V" n="80"/>id quo maius cogitari non potest. Istam rationem 
+        <lb ed="#V" n="81"/>tangit anshel. prosologion. c. 3. vbi sic ait: certe id 
+        <lb ed="#V" n="82"/>quo maius cogitari nequit non potest esse in solo 
+        in<lb ed="#V" n="83" break="no"/>tellectu: si enim in solo intellectu est: potest cogita 
+        <lb ed="#V" n="84"/>ri esse et in re: quod maius est. Si ergo id quo 
+        ma<lb ed="#V" n="85" break="no"/>gis cogitari no potest est in solo intellectu: id ipsum 
+        quo<lb ed="#V" n="86" break="no"/>magis cogitari non potest est quo magis cogitari potest: 
+        <lb ed="#V" n="87"/>sed certe hoc esse non potest: hec anshel. Sed quia 
+        for<lb ed="#V" n="88" break="no"/>te dicetur ad istam rationem: quod deum esse id quo 
+        ma<lb ed="#V" n="89" break="no"/>gis cogitari non potest est mere creditum non per se 
+        <lb ed="#V" n="90"/>notum: nec deductum naturaliter ex aliquo per se 
+        no<lb ed="#V" n="91" break="no"/>to Deduco rationem sic: aut in vniuersitate entium est aliquid 
+        <lb ed="#V" n="92"/>quo nec est nec potest esse maius aut non: si sic: habetur propositum quia 
+        <lb ed="#V" n="93"/>illud voco deum: si non aut in vniuersitate etiu non est aliquid 
+        <lb ed="#V" n="94"/>quo non sit aliquid maius: aut non est aliquid quo non possit 
+        <lb ed="#V" n="95"/>esse maius: primum dari non potest nisi ponatur processus in in 
+        <lb ed="#V" n="96"/>finitum in entibus per se et essentialiter ordinatis: quod est 
+        impos<lb ed="#V" n="97" break="no"/>sibile: vt patet: 2. metaphi: Si detur secundum sequitur: quod 
+        ali<lb ed="#V" n="98" break="no"/>quid quod non est in vniuersitate entium potest esse maius omnibus 
+        <lb ed="#V" n="99"/>qua sunt in rerum natura: quod est omnino impossibile: quia cum 
+        il<lb ed="#V" n="100" break="no"/>lud non sit aut producitur in esse a se vel ab alio: vel a nullo: 
+        <lb ed="#V" n="101"/>non a nullo: quia nihil nullius est causa: nec a se: quia nihil 
+        impossibi<lb ed="#V" n="102" break="no"/>lius: quam quod aliquid producat se de non esse ad esse: vt patet per be. 
+        <lb ed="#V" n="103"/>Aug. 1. de tri. c. 1. et etiam per arist. 2. de anima: si ab alio: 
+        <lb ed="#V" n="104"/>non erit maius illo: quia effectus non excedit suam causam 
+        tota<lb ed="#V" n="105" break="no"/>lem productiuam: cum nihil agat vltra suam naturam: vel speciem 
+        <lb ed="#V" n="106"/>nihil ergo eorum quae non sunt actu posset esse maius omni eo: quod er 
+        <lb ed="#V" n="107"/>actu: et sic intentum. Secundo ad principale sic: et est 
+        qua<lb ed="#V" n="108" break="no"/>si confirmatio praecedentis rationis. Ista propositio potest 
+        <lb ed="#V" n="109"/>naturaliter demonstrari: in vniuersitate entium est aliquid: quo 
+        <lb ed="#V" n="110"/>maius. cogitari non potest: igitur et ista in vniuersitate entium 
+        <lb ed="#V" n="111"/>est aliquid quo non est nec potest esse maius: igius in ista deus est: 
+        pri<lb ed="#V" n="112" break="no"/>ma consequentia est naturaliter nota: quia omni eo quo est vel potest esse maius 
+        <lb ed="#V" n="113"/>potest cogitari maius: et secunda patet ex dictis: quia si in 
+        vniuer<lb ed="#V" n="114" break="no"/>sitate entium est aliquid: quo nec est nec potest esse maius: illud 
+        vo<lb ed="#V" n="115" break="no"/>camus deum: antecedens patet: per anshel. prosologio. 2. et. 3. vbi 
+        <lb ed="#V" n="116"/>propositionem illam ex intentione nititur probare et demodo 
+        <lb ed="#V" n="117"/>strare: et in disputatione contra insipientem: vbi euasiones 
+        <lb ed="#V" n="118"/>datas: et possibiles dari ad rationes suas euacuat 
+        eui<lb ed="#V" n="119" break="no"/>dentur: vnde circa finem dicte disputationis: c. 21. sic ait: 
+        <lb ed="#V" n="120"/>puto quod demonstrari me non infirma: sed necessaria 
+        <lb ed="#V" n="121"/>argumentatione probasse in prefato libello: in re ipsa 
+        exi<lb ed="#V" n="122" break="no"/>stere aliquid quo maius cogitari non posset: nec eam 
+        ali<lb ed="#V" n="123" break="no"/>cuius obiectationis infirmari firmitatem tantam enim 
+        vim<lb ed="#V" n="124" break="no"/>huius prolationis in se continet significatio: vt hoc ipsum 
+        <lb ed="#V" n="125"/>quod dicitur ex necessitate: eo ipso quod intelligitur vel cogitatur 
+        <lb ed="#V" n="126"/>et re vera probetur existere: hec anshel. Tertio ad 
+        prin<lb ed="#V" n="127" break="no"/>cipale sic: aut imperfectionibus specificis est dare 
+        supre<lb ed="#V" n="128" break="no"/>mam in quae sit status: aut non: si sic propositum: quia illud 
+        voco<lb ed="#V" n="129" break="no"/>deum quod supremum est perfectissimum est in entibus: si non: vel erit 
+        <lb ed="#V" n="130"/>in ipsis processus in infinitum in actu sic quod actu sint species 
+        rerum<lb ed="#V" n="131" break="no"/>infinite: vel in potentia tantum: sic quod quacumque specie data: potest 
+        <lb ed="#V" n="132"/>alia et alia dari in infinitum: licet actu non sit infinite: si de 
+        <lb ed="#V" n="133"/>tur primum habetur propositum: quia vel in vniuersitate entium 
+        <lb ed="#V" n="134"/>est aliquid vel aliqua infinite perfectionis simpliciter: vel 
+        <lb ed="#V" n="135"/>non: si sic: illud voco deum: siue sit vnum: siue plura non 
+        cu<lb ed="#V" n="136" break="no"/>ro pro nunc: si non: iu species rerum non sunt actu infinite: quod 
+        <lb ed="#V" n="137"/>est cotrapositum: consequentia patet: quia cum species rerum sint sicut numeri 
+        <lb ed="#V" n="138"/>ex 8. metaphi. semper superior addit gradum perfectio¬
+        <pb ed="#V" n="76-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>nis ad inferiorem: igitur si sunt actu infinite aliqua vel 
+        <lb ed="#V" n="2"/>alique erunt perfectionis infinite simpliciter: si detur secundum 
+        <lb ed="#V" n="3"/>idem sequitur: quia si species rerum non sunt actu infinite: sed 
+        <lb ed="#V" n="4"/>potentia tantum: in vniuersitate entium est aliquid quo non 
+        <lb ed="#V" n="5"/>est nec potest esse maius: quia nihil eorum que non sunt 
+        <lb ed="#V" n="6"/>actu potest esse maius omni eo quod est actu: vt patet ex 
+        di<lb ed="#V" n="7" break="no"/>ctis: et illud vocamus deum. Sed forte ista ratio non 
+        <lb ed="#V" n="8"/>concludit: et presertim si concedatur: quod deus potest facere 
+        <lb ed="#V" n="9"/>species actu infinitas prout multis videtur: de 
+        quo<lb ed="#V" n="10" break="no"/>alias: quicquid tamen sit de ratione ista: conclusio 
+        principali<lb ed="#V" n="11" break="no"/>ter est de mente: non solum sanctorum sed etiam philosorum 
+        <lb ed="#V" n="12"/>licet secundum aliquos fuerit controuersia: vtrum hoc 
+        demon<lb ed="#V" n="13" break="no"/>strarepertineat ad metaphi. vel ad naturalem philosteum: 
+        comen<lb ed="#V" n="14" break="no"/>tatore dicente quod ad philosophum naturalem: auicen. vero quod ad 
+        <lb ed="#V" n="15"/>metaphisicum: vterque tamen supponebat quod deum esse 
+        pote<lb ed="#V" n="16" break="no"/>rat naturaliter demonstrari: quod est propositum. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e501">
+        
+        Secun<lb ed="#V" n="17" break="no"/>da conclusio est: quod deum esse vnum potest naturaliter 
+        <lb ed="#V" n="18"/>demonstrari. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e508">
+        Istam conclusionem quidam doc. 
+        <lb ed="#V" n="19"/>Scotus in 1. di. 2. q. 3. ar. 3. 
+        <lb ed="#V" n="20"/>Deduncit multipliciter: Primo sic: intellectus in 
+        <lb ed="#V" n="21"/>finitus cognoscit quodcumque intelligibile 
+        perfectissi<lb ed="#V" n="22" break="no"/>me quantum est intelligibile in se: quia totum ens natura 
+        <lb ed="#V" n="23"/>et intel lectus finitus hoc potest licet non perfectissime 
+        <lb ed="#V" n="24"/>nec simul: igitur si fint duo dii: sint. a b: a. cognoscetur 
+        <lb ed="#V" n="25"/>b. perfectissime quantum scirlicet b. est cognoscibile: sed hoc 
+        <lb ed="#V" n="26"/>est impossibile: probo: quia aut cognoscent b. per esse 
+        <lb ed="#V" n="27"/>tiam. b. aut non: si non: igitur non cognoscit ipsum 
+        perfe<lb ed="#V" n="28" break="no"/>ctissime: quantum spiritu b. cognoscibile est: nihil enim 
+        cogno<lb ed="#V" n="29" break="no"/>scitur perfectissime nisi cognoseatur per essentiam 
+        su<lb ed="#V" n="30" break="no"/>am. vel per aliquid perfectius includens essentiam 
+        <lb ed="#V" n="31"/>suam: perfectius quam ipsa sit in se: essentia aut. b. 
+        in<lb ed="#V" n="32" break="no"/>nullo perfectius includitur: quam in b. quia tunc. b. non 
+        <lb ed="#V" n="33"/>esset deus: Si autem cognoscit. b. per essentiam 
+        ipsi<lb ed="#V" n="34" break="no"/>us. b. igitur actus ipsius. a. erit posterior naturaliter 
+        <lb ed="#V" n="35"/>essentia ipsius. b. et ita. a. non erit deus: probatur prima 
+        <lb ed="#V" n="36"/>consequentia: quia omnis actus cognoscendi qui non 
+        <lb ed="#V" n="37"/>est idem obiecto: est posterior obiecto: quia nec 
+        pri<lb ed="#V" n="38" break="no"/>or nec simul natura est actus cum obiecto alio a se 
+        <lb ed="#V" n="39"/>quia tunc actus posset intelligi sine obiecto: sicut equt 
+        <lb ed="#V" n="40"/>conuerso. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e558">
+        Preterea: idem actus non potest habere 
+        <lb ed="#V" n="41"/>duo obiecta adequatam: a. est obiectum adequatum 
+        su<lb ed="#V" n="42" break="no"/>intellectioni: et b. esset adequatum eidem sibo a. posset in 
+        <lb ed="#V" n="43"/>telligere. b. igitur impossibile est: quod a. intelligat: vnica in 
+        <lb ed="#V" n="44"/>tellectione simulo. a. et. b. Si a. habet intellectiones 
+        reali<lb ed="#V" n="45" break="no"/>ter distinctas: igitur non est deus: probatur maior: quia 
+        al<lb ed="#V" n="46" break="no"/>ter actus adequaretur alicui obiecto: quo subtracto non 
+        <lb ed="#V" n="47"/>minus quietaretur et adequaretur: et ita frustra esset 
+        ta<lb ed="#V" n="48" break="no"/>se obiectum. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e579">
+        Preterea: voluntas infinita est recta: 
+        i<lb ed="#V" n="49" break="no"/>diligit quodlibet diligibile quantum est diligibile: sed si 
+        <lb ed="#V" n="50"/>b. est alius deus est diligendus infinite a voluntate 
+        <lb ed="#V" n="51"/>potente diligere sic infinite: cum ipsum sit bonum infinitum 
+        <lb ed="#V" n="52"/>igitur voluntas ipsius. a. diligit. b infinite. Sed hoc 
+        <lb ed="#V" n="53"/>impossibile: quia. a. naturaliter plus diligit se quam. b. probatur: qu 
+        <lb ed="#V" n="54"/>libet enim naturaliter plus diligit suum esse quam alterius: cuius 
+        nihil<lb ed="#V" n="55" break="no"/>est vt priars nec vt effectus. a. autem nihil est ipsius. b. 
+        <lb ed="#V" n="56"/>nec vt pars: nec vt effectus: igitur. a. plus diligit se natura. 
+        <lb ed="#V" n="57"/>liter quam ipsum b. sed voluntas libera quando est recta conformatur 
+        <lb ed="#V" n="58"/>voluntati naturali: alioquin voluntas naturalis non esset semper 
+        re<lb ed="#V" n="59" break="no"/>cta: igitur a. si habet voluntatem rectam et liberam actu 
+        eli<lb ed="#V" n="60" break="no"/>cito plus diligit se quam b. igitur non diligit. b. infinite. Pre 
+        <lb ed="#V" n="61"/>terea: si sunt plura nceese esse aliquibus perfectionibus 
+        rea<lb ed="#V" n="62" break="no"/>libus distinguuntur: sint illa. a. et. b. tuc arguitur sic: aut ista 
+        <lb ed="#V" n="63"/>duo distgiuuntur per sint illa. a. et b. tunc arguit sic: aut 
+        <lb ed="#V" n="64"/>ista duo distincta.: a. et b. sunt formaliter ncce esse per a. et 
+        <lb ed="#V" n="65"/>b. aut non: si non igitur. a. non est formalis ratio essendi nocesio 
+        <lb ed="#V" n="66"/>nec. b. et per consequens includens. a. non est nceesse esse primo: quia 
+        in<lb ed="#V" n="67" break="no"/>cludit aliquam estitatem quae non est formaliter necessitas 
+        essen<lb ed="#V" n="68" break="no"/>di nec est ncesia ex se. Si autem illa sint formaliter necesse esse
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="69"/>per a. et. b. et preter hoc vtrumque est nceesse esse per illud in quo 
+        <lb ed="#V" n="70"/>conuenit vnum cum alio: igitur vtrumque hahet in se duas rationes 
+        <lb ed="#V" n="71"/>quarum qualibet vtrumque est formaliter nceese esse: sed hoc est 
+        impos<lb ed="#V" n="72" break="no"/>sibile: quia neutra illarum includit alteram: vtraque igitur 
+        il<lb ed="#V" n="73" break="no"/>larum circumscripta esset ncese esse per alteram: et ita aliquid 
+        <lb ed="#V" n="74"/>esset formaliter necesse esse per aliquam rationem 
+        qua<lb ed="#V" n="75" break="no"/>circunscripta nihilominus esset necesse esse quod est 
+        <lb ed="#V" n="76"/>impossibile. Aliquas alias rationes adducit iste doc. 
+        <lb ed="#V" n="77"/>quarum alique possunt habere bonum intellectum: 
+        al<lb ed="#V" n="78" break="no"/>que vero soluuntur istis solutis: et ideo dimitto eas. 
+        <lb ed="#V" n="79"/>Sed lc:t conclusio sit vera: et iste rationes sint 
+        appareu<lb ed="#V" n="80" break="no"/>tes non videntur tamen mihl concludere. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e653">
+                  <lb ed="#V" n="81"/>Responsio ad rationes. 
+        <lb ed="#V" n="82"/>Ad primam: igitur istarum posset dici: quod vnus deus 
+        co<lb ed="#V" n="83" break="no"/>gnoscit alium persectissime: non quidem extra se: quia 
+        <lb ed="#V" n="84"/>deus nihil cognoscit extra se secundum arist. 12 
+        metaphisi<lb ed="#V" n="85" break="no"/>ce: sed in se ipso: concederetur ergo quod vnus deus 
+        cogno<lb ed="#V" n="86" break="no"/>scit alium non quidem per essentiam dei cogniti: sed 
+        <lb ed="#V" n="87"/>cognoscentis. Et ad probationem quando dicitur: quod 
+        ni<lb ed="#V" n="88" break="no"/>hil cognoscitur perfectissime nisi cognoscatur per 
+        essen<lb ed="#V" n="89" break="no"/>tiam suam: vel per aliquid includens essentiam 
+        su<lb ed="#V" n="90" break="no"/>am perfectius quam ipsa sit in se ipsa: negatur: quia licet 
+        <lb ed="#V" n="91"/>quod cognoscitur perfectius quam in seipso: necessario 
+        <lb ed="#V" n="92"/>cognoscatur per aliquid representans essentiam 
+        su<lb ed="#V" n="93" break="no"/>am perfectius quam ipsa sit in se ipsa: sicut patet de 
+        co<lb ed="#V" n="94" break="no"/>gnitione: qua creatura cognoscitur in verbo: ad 
+        co<lb ed="#V" n="95" break="no"/>gnoscendum tamen aliquid ita perfecte sicut 
+        co<lb ed="#V" n="96" break="no"/>gnoscitur in seipso: sufficit quod cognoscatur per aliquid 
+        <lb ed="#V" n="97"/>representans essentiam suam: ita perfecte sicut ipsa 
+        <lb ed="#V" n="98"/>est in seipsa: et sic esset in proposito: Posset etiam 
+        con<lb ed="#V" n="99" break="no"/>cedi: quod vnus deus cognoscit alium per essentiam 
+        dei<lb ed="#V" n="100" break="no"/>cogniti. Et quando dicitur: quod omnis actus 
+        cogno<lb ed="#V" n="101" break="no"/>scendi: qui non est idem obiecto: est posterior 
+        obie<lb ed="#V" n="102" break="no"/>cto: non est verum: si sit idem alteri obiecto: quod non est 
+        <lb ed="#V" n="103"/>posterius illo: et sic esset in proposito. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e705">
+        Ad 
+        secun<lb ed="#V" n="104" break="no"/>dum: si dicatur quod deus nihil cognoscit extra se: siue 
+        <lb ed="#V" n="105"/>per essentiam alterius: sed omne cognoscibile 
+        co<lb ed="#V" n="106" break="no"/>gnoscit per essentiam propriam: dicetur: quod licet deus 
+        vni<lb ed="#V" n="107" break="no"/>ca intellectione cognoscit seipsum: et illum deum si 
+        <lb ed="#V" n="108"/>ponatur: actus tamen cognoscendin ipsius non habet duo 
+        <lb ed="#V" n="109"/>obiecta adequata: sed vnum scilicet essentiam pro 
+        <lb ed="#V" n="110"/>priam: quia illud solum est obiectumm adequatum 
+        in<lb ed="#V" n="111" break="no"/>tellectus in quo perfectissime cognoscit omnia. Et 
+        <lb ed="#V" n="112"/>ideo multi dicunt bene: et credo quod sola essentia 
+        diui<lb ed="#V" n="113" break="no"/>na est obiectum adequatum intellectus diuini de 
+        <lb ed="#V" n="114"/>facto: licet perfectissime cognoscit creaturas 
+        existen<lb ed="#V" n="115" break="no"/>tes et possibiles que non sunt ipse. Si vero concedatur 
+        <lb ed="#V" n="116"/>quod vnus deus cognoscat alium per essentiam alteri 
+        <lb ed="#V" n="117"/>us: dicetur: quod nullus eorum est obiectum adequantum sue 
+        <lb ed="#V" n="118"/>intellectioni: sed ambo: vel aliquid commune eis: sicut nunc 
+        <lb ed="#V" n="119"/>a multis conceditur: quod essentia diuina non est obiectum 
+        <lb ed="#V" n="120"/>adequatum intellectus diuini: sed aliquid commune deo et 
+        <lb ed="#V" n="121"/>creature: quod cognoscit vtrumque. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e747">
+        Ad tertium concedere 
+        <lb ed="#V" n="122"/>tur: quod voluntas vnius dei diligit alium infinite. Et quando 
+        di<lb ed="#V" n="123" break="no"/>citur: quod quilibet naturaliter plus diligit suum esse: quam alterius 
+        <lb ed="#V" n="124"/>cuius nihil est: nec vt pars: nec vt effectus: dicendum: quod 
+        <lb ed="#V" n="125"/>non est verum in natura perfectissima: quia in statu beatifico propter 
+        <lb ed="#V" n="126"/>eius persectionem tantum gaudet quilibet beatus de bono 
+        alte<lb ed="#V" n="127" break="no"/>rius quantum de proprio: et per consequens tantum diligit ipsum: licet non 
+        <lb ed="#V" n="128"/>sit aliquid eius nec vt pars nec vt effectus: ideo voluntas 
+        i<lb ed="#V" n="129" break="no"/>csius dei cum sit perfectissima: tanmtum diliget alterum si 
+        <lb ed="#V" n="130"/>seipsum. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e769">
+        Ad 4. concedo: quod si essent plura necesse esse: aliquo 
+        <lb ed="#V" n="131"/>bus perfectionibus realibus distinguerentur: quia se totis 
+        dis<lb ed="#V" n="132" break="no"/>tinguerentur in effectu: quod nec realitas vnius: esset 
+        reali<lb ed="#V" n="133" break="no"/>tas alterius: et tamen se totis couenirent in conceptu: nec illud 
+        <lb ed="#V" n="134"/>est aliquod inconueniens: quia si deus faceret duos 
+        an<lb ed="#V" n="135" break="no"/>gelos vel duas animas sine omni actualitate: quod 
+        mul<lb ed="#V" n="136" break="no"/>tis videtur possibile se totis distinguerentur in effectu
+        <pb ed="#V" n="77-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>et se totis rouenirent in conceptu: conceditur ergo: quod ista 
+        duo<lb ed="#V" n="2" break="no"/>distincta per. a. et b. sunt formaliter necesse esse per. a. 
+        <lb ed="#V" n="3"/>et b. Et quando dicitur quod propter hoc vtrumque est ncecsse esse per illud 
+        <lb ed="#V" n="4"/>in quo conuenit cum alio non est verum: quia per a. et. b. 
+        distin<lb ed="#V" n="5" break="no"/>guentur ista duo necese esse realiter in effectu: et conuenirent in 
+        con<lb ed="#V" n="6" break="no"/>ceptunec inter ipsa esset aliqua conuenientia alia: Et potest 
+        <lb ed="#V" n="7"/>reduci ratio contra eum: quia sicut illi duo dii conueniret in 
+        <lb ed="#V" n="8"/>necesse esse: et differrent suis propriis rationibus: ita 
+        <lb ed="#V" n="9"/>deus et creatura conueniunt in entitate: et differunt 
+        <lb ed="#V" n="10"/>suis propriis rationibus realiter: sint ille. a. et b. tunc 
+        que<lb ed="#V" n="11" break="no"/>ro: aut deus et creatura distincta per. a. et. b. sunt 
+        for<lb ed="#V" n="12" break="no"/>maliter. a. et. b. aut non. si non: igitur. a. non est formalis 
+        <lb ed="#V" n="13"/>ratio essendi: nec. b. igitur deus includens alterum istorum 
+        <lb ed="#V" n="14"/>non est ens. Primo: quia includit aliam rationem que non est 
+        <lb ed="#V" n="15"/>formaliter ratio essendi: si sic: et praeter hoc vtrumque habet esse per 
+        <lb ed="#V" n="16"/>illud in quo conuenit vnum cum alio: igitur vtrumque habet 
+        <lb ed="#V" n="17"/>se duas rationes: quarum qualibet vtrumque est formaliter 
+        <lb ed="#V" n="18"/>ens: sed hoc est impossibile per deductionem suam procedendo: 
+        <lb ed="#V" n="19"/>sicut ipse procedit: igitur etc. Dintissis igitur istis 
+        rationi<lb ed="#V" n="20" break="no"/>bus probo conclusionem aliter. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e832">
+        Primo sic. si sunt duo 
+        <lb ed="#V" n="21"/>vel plures dii: aut vnus eorum potest sine alio quicquid 
+        <lb ed="#V" n="22"/>potest simul cum illo aut non: si non: igitur non est ex se sufficiens 
+        <lb ed="#V" n="23"/>nec simpliciter et vniuersaliter perfectus: immo 
+        reci<lb ed="#V" n="24" break="no"/>pit perfectionem ab alio: et per consequens non est deus. si sic: igitur 
+        al<lb ed="#V" n="25" break="no"/>ter eorum superfluit: quia ipso circumscripto nihil minus potest 
+        <lb ed="#V" n="26"/>fieri in vniuersitate entium: et alius sufficit per se solus 
+        <lb ed="#V" n="27"/>igitur non est deus. Et confirmatur: quia si sunt duo dii vel omnis 
+        <lb ed="#V" n="28"/>perfectio que est in vno est in alio: vel non. si detur primum: cum 
+        <lb ed="#V" n="29"/>in vno esset omnis perfectio esset per se sufficiens sine alio: 
+        <lb ed="#V" n="30"/>et per consequens alter superflueret. si detur secundum aliqua 
+        perfe<lb ed="#V" n="31" break="no"/>ctio deesset vni quam haberet alter: igitur ille non esset sum 
+        <lb ed="#V" n="32"/>me perfectus: nec per se sufficiens: et per consequens nec deus. 
+        <lb ed="#V" n="33"/>Istam rationem reputo concludere: quia si essent duo dii vel 
+        <lb ed="#V" n="34"/>vnus eorum non esset per se sufficiens: vel alter eorum esset sup 
+        <lb ed="#V" n="35"/>fluus: quorum quodlibet est impossibile: et tangit eam 
+        ma<lb ed="#V" n="36" break="no"/>gister dii. sequenti. c. penti. vbi sic ait: mens itaque 
+        ratio<lb ed="#V" n="37" break="no"/>nalis intelligit vnum esse deum: vnam essentiam: et vnum 
+        princi<lb ed="#V" n="38" break="no"/>pium: intelligit quoque quia si duo essent vel vterque 
+        suffici<lb ed="#V" n="39" break="no"/>ens esset vel alter superflueret: quia si aliquid deesset 
+        vni<lb ed="#V" n="40" break="no"/>quod haberet alter: non esset ibi summa perfectio. si vero 
+        vni<lb ed="#V" n="41" break="no"/>nihil deesset: quod haberet alter: cum in vno essent omnia: 
+        <lb ed="#V" n="42"/>alter superfiueret. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e883">
+        Secundo sic: et est quasi 
+        confirma<lb ed="#V" n="43" break="no"/>tio precedentis rationis: si essent duo dii essent duo fines: 
+        <lb ed="#V" n="44"/>aut enim quilibet per se finiret totam entium coordinati 
+        <lb ed="#V" n="45"/>onem: aut vnus vnam partem et alter alteram. si detur primum: 
+        <lb ed="#V" n="46"/>remoto vno eorum adhuc etiam perfecte terminata essent 
+        <lb ed="#V" n="47"/>ad alium igitur ille qui fuit remotus superfluebat in hac 
+        <lb ed="#V" n="48"/>terminatione: et per consequens non erat deus. si detur secundum 
+        <lb ed="#V" n="49"/>adhunc idem sequitur: quia qui non est per se finis totius 
+        coordi<lb ed="#V" n="50" break="no"/>nationis entium: non est simpliciter et vniversaliter perfectus: nec est id 
+        <lb ed="#V" n="51"/>quo maius cogitari no potest: igitur non est deus: Et 
+        con<lb ed="#V" n="52" break="no"/>firmatur: quia si vnus finiret vnam partem: et alter alteram: 
+        en<lb ed="#V" n="53" break="no"/>tia non essent comnexa: et sic tolleretur ordo et perfectio 
+        vni<lb ed="#V" n="54" break="no"/>uersi: vnde philoss concludit. 12. meta. quod est vnus princeps: et 
+        <lb ed="#V" n="55"/>vnus finis: quia entia nolunt male disponi. Et confirmatur 
+        <lb ed="#V" n="56"/>quia non est ponenda pluralitas saltem in primo sine 
+        necessti<lb ed="#V" n="57" break="no"/>tate: sed nulla necessitas est ponem plures deos. quia vnus 
+        <lb ed="#V" n="58"/>eorum sufficeret sine ceteris et posset quicquid posset 
+        <lb ed="#V" n="59"/>cum aliis: aliter non esset vniuersaliter perfectus: et per consequens 
+        <lb ed="#V" n="60"/>nec deus: igitur etc. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e925">
+        Tertio sic: si sunt plures dii aut 
+        <lb ed="#V" n="61"/>sunt equalis perfectionis entitatiue aut non. si non alter 
+        eo<lb ed="#V" n="62" break="no"/>ram est perfectior. et per consequens minus perfectus non erit deus. 
+        <lb ed="#V" n="63"/>si sic: igitur sunt eiusdem speciei. quia sicut 
+        deter<lb ed="#V" n="64" break="no"/>minat be. aug. 3. de libero. arbitrio. c. 2i. equalitas 
+        <lb ed="#V" n="65"/>perfectionis aliquarum rerum illas eiusdem 
+        spe<lb ed="#V" n="66" break="no"/>ciei esse conuincit. vnde si luna equaretur soli secundum 
+        <lb ed="#V" n="67"/>fectionem non esset sol et luna sed duo soles: vt patet ibid 
+        <lb ed="#V" n="68"/>Idem etiam patet per philosophum 8 cmetaphi. sed speci¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="69"/>es plurificabiles. in indiuiduis quantum est ex se 
+        con<lb ed="#V" n="70" break="no"/>patitur infinitatem indiuiduorum: tum quia non de 
+        <lb ed="#V" n="71"/>terminatur ex se ad certum numerum indiuiduorum 
+        <lb ed="#V" n="72"/>ficut patet in omnibus speciebus corruptibilibus. 
+        <lb ed="#V" n="73"/>tum quia cum communicatio sit eiusdem rationis 
+        po<lb ed="#V" n="74" break="no"/>terit communicari infinitis. igitur qua ratione sunt 
+        <lb ed="#V" n="75"/>duo dii possunt esse infiniti. et si possunt esse infiniti 
+        <lb ed="#V" n="76"/>sequitur quod sunt infiniti: cum deus sit a se et necesse 
+        <lb ed="#V" n="77"/>esse. hoc autem est absurdum et impossibile: vt 
+        pa<lb ed="#V" n="78" break="no"/>tet. ergo etc. hec est expressa sententia anshel. 
+        mo<lb ed="#V" n="79" break="no"/>no. c. 2. 3 4. et 5. vbi per plures rationes reputat se 
+        <lb ed="#V" n="80"/>demonstrare deum tantum vnum. hec est etiam 
+        inten<lb ed="#V" n="81" break="no"/>tio damasnt libro primo capitu. Et si dicatur quod 
+        <lb ed="#V" n="82"/>rationes eorum non demonstrant: adhuc 
+        intentio<lb ed="#V" n="83" break="no"/>eorum est: posito quod ita sit: quod conclusio sit demonstrabilis 
+        <lb ed="#V" n="84"/>nec est bona consequentia: non demonstratio conclusionem istam 
+        <lb ed="#V" n="85"/>conclusio non est demonstrabilis: nec vnquam inuenientur aliqui 
+        <lb ed="#V" n="86"/>similes istis qua dicant conclusionem istam non esse 
+        demonstrabi<lb ed="#V" n="87" break="no"/>lem. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e988">
+        Tertia conclusio est quod trinitas realis personarum in 
+        di<lb ed="#V" n="88" break="no"/>uinis naturaliter non potest demonstrari: Ista conclusio fuit 
+        in<lb ed="#V" n="89" break="no"/>virtute sufficient deducta: qone. 2. super prolo. 
+        articu<lb ed="#V" n="90" break="no"/>lo. secundo conclusione prima. vbi probaui quod habitus theologie 
+        <lb ed="#V" n="91"/>reuelate possibilis viatori de lege communi vt 
+        praescin<lb ed="#V" n="92" break="no"/>dit a naturaliter acquisitis non resoluit vsque ad per se 
+        nota<lb ed="#V" n="93" break="no"/>in lumine naturali. Et possunt rationes in forma deduci 
+        pro<lb ed="#V" n="94" break="no"/>conclusione ista: quia si trinitas personaruem sit 
+        demonstrabi<lb ed="#V" n="95" break="no"/>lis sequitur primo: quod ad assentiendum articulo trinitatis 
+        <lb ed="#V" n="96"/>non necessario requiritur imperium voluntatis secundo: quia 
+        <lb ed="#V" n="97"/>ad assentiendum ei tam fidelis quam infidelis potest euidenter 
+        <lb ed="#V" n="98"/>conuinci. Tertio: quod adhuc non est fides necessaria 
+        <lb ed="#V" n="99"/>Quarto: quod fides saltem de articulo trinitatis non 
+        <lb ed="#V" n="100"/>esset viatoribus meritoria: quae omnia inconuenientissima sunt: 
+        <lb ed="#V" n="101"/>et absurda: vt patet ibidem: confirmo tamen conclusionem: primo 
+        <lb ed="#V" n="102"/>be. aug. auctoritate qui postquam tantum laborauit in 
+        inquisi<lb ed="#V" n="103" break="no"/>tione trinitatis in toto libro de trinitatem in fine. 15. 
+        <lb ed="#V" n="104"/>c. 80. concludit: vnum inter hec quae multa iam dixi nihil illius 
+        <lb ed="#V" n="105"/>summe trinitatis ineffabilitate dignum me dixisse 
+        au<lb ed="#V" n="106" break="no"/>deo profiteri: sed confiteri potius merificatam scientiam 
+        <lb ed="#V" n="107"/>eius ex me inualuisse nec potnisse me ad illam. Et si 
+        <lb ed="#V" n="108"/>be. aug. qui tantum insudauit circa materiam trinitatis: non 
+        <lb ed="#V" n="109"/>potuit ad illam: non videtur naturaliter posse demonstrari 
+        <lb ed="#V" n="110"/>Secundo ratione sic articulus incarnationis non est naturaliter 
+        <lb ed="#V" n="111"/>demonstrabilis: igitur nec articulus trinitatis: consequentia patet: 
+        <lb ed="#V" n="112"/>tum quia non minus est supernaturalis fides illius articuli. 
+        <lb ed="#V" n="113"/>quam illius: tum quia non magis repugnat rationi 
+        naturali<lb ed="#V" n="114" break="no"/>quod persona diuina assumat natura humanam ad 
+        vnita<lb ed="#V" n="115" break="no"/>tem suppositi. quam quod tres persone quarum vna realiter non est alia 
+        <lb ed="#V" n="116"/>sint vna res simplicissima et quod persona producens et 
+        produ<lb ed="#V" n="117" break="no"/>cta sint vna substantia vel natura. antecedens vero 
+        <lb ed="#V" n="118"/>ponit bea. aug. expresse epistola tertia ad 
+        volusia<lb ed="#V" n="119" break="no"/>num: vbi loquens de diuini verbi incarnatione sic 
+        <lb ed="#V" n="120"/>ait: si ratio queritur non erit mirabile: si exemplum 
+        <lb ed="#V" n="121"/>poscitur non erit singulare: debemus igitur deum 
+        <lb ed="#V" n="122"/>aliquid posse quod nos fateamur inuestigare non 
+        <lb ed="#V" n="123"/>posse: ergo etc. Et ad veritatem cum 
+        demonstra<lb ed="#V" n="124" break="no"/>tio conuincat intellectum ad assentiendum: mirum 
+        <lb ed="#V" n="125"/>est curtenentes conclusionem oppositam non 
+        con<lb ed="#V" n="126" break="no"/>uincunt infideles: et magis est mirandum cum 
+        ex<lb ed="#V" n="127" break="no"/>periantur se hoc non posse cur non fatentur conclusionem illam de 
+        <lb ed="#V" n="128"/>mostrari non posse. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e1079">
+        Quarta conclusio est: quod illa propositio disium 
+        <lb ed="#V" n="129"/>ctiua: deus subsistit in tribus suppositis realibus: vel in vno 
+        <lb ed="#V" n="130"/>reali et duobus intentionalibus non potest naturaliter de 
+        <lb ed="#V" n="131"/>monstrari: sicut Aureolus imaginatur: pro 
+        dedu<lb ed="#V" n="132" break="no"/>ctione huius conclusionis premitto aliquas 
+        propopo<lb ed="#V" n="133" break="no"/>sitiones. Prima est: quod naturaliter potest 
+        osten<lb ed="#V" n="134" break="no"/>di quod res intellecta non ponitur per actum 
+        intelligen<lb ed="#V" n="135" break="no"/>di in aliquo esse intentionali diminuto et apparenti: 
+        <lb ed="#V" n="136"/>Secunda est quod etiam naturaliter praet ostendi quod amans ex vi quod
+        <pb ed="#V" n="77-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>amoris non ponit se extra se in aliquo tali esse 
+        intentio<lb ed="#V" n="2" break="no"/>nali et apparenti: has duas propositiones suppono 
+        pro<lb ed="#V" n="3" break="no"/>nunc quia ex intentione deducam eas qodne sequenti: 
+      </p>
+               <p xml:id="at8va9-e44239-d1e1110">
+        
+        Ter<lb ed="#V" n="4" break="no"/>tia propositio est: quod naturaliter potest ostendi deum non subsiste 
+        <lb ed="#V" n="5"/>re in tribus suppositis vno tantum reali: et duobus 
+        intentio<lb ed="#V" n="6" break="no"/>nalibus. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e1119">
+        Et hac primo probo sic: naturaliter potest ostendi quod 
+        <lb ed="#V" n="7"/>deus cum intelligit et amat se: non ponit se ante se nec 
+        <lb ed="#V" n="8"/>se extra se: in aliquo esse intentionali: et apparente et 
+        <lb ed="#V" n="9"/>diminuto. igitur naturaliter potest ostendi ipsum non subsistere 
+        <lb ed="#V" n="10"/>in tribus suppositis vno tamntum reali et duobus intentiona 
+        <lb ed="#V" n="11"/>libus modo praedicto: antecedens patet ex propositionibus praecedentibus 
+        <lb ed="#V" n="12"/>et consequentia est non. igitur etc. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e1136">
+        Secundo sic: naturaliter potest 
+        osten<lb ed="#V" n="13" break="no"/>di quod omnis imperfectio est deo incompossibilis: sed subsistere 
+        <lb ed="#V" n="14"/>tribas suppositis: vno quidem reali et duobus 
+        intentio<lb ed="#V" n="15" break="no"/>nalibus mo praedicto est inperfectionis: igitur naturaliter 
+        po<lb ed="#V" n="16" break="no"/>test ostendi ipsum non subsistere in talibus tribus 
+        suppo<lb ed="#V" n="17" break="no"/>sitis: maior est non. et minor patet etiam per istum doctorem: 
+        <lb ed="#V" n="18"/>quia ex imperfectione prouenit: vt dicit quod verbum mentis 
+        <lb ed="#V" n="19"/>nostre et spiritus amoris procedant in esse diminuto et in 
+        <lb ed="#V" n="20"/>tentionali: igtur. Hiis propositionibus praemissis probo 
+        con<lb ed="#V" n="21" break="no"/>clusionem primo sic: nulla propositio vppotetica 
+        disiuncti<lb ed="#V" n="22" break="no"/>ua: cuius vna pars est impossibilis: sic quod eius 
+        impossibili<lb ed="#V" n="23" break="no"/>tas potest naturaliter esse non. et altera necessaria: potest 
+        demo<lb ed="#V" n="24" break="no"/>strari naturaliter: nisi pro quanto sit demonstrabilis pro 
+        par<lb ed="#V" n="25" break="no"/>te necessaria determinate: sicut ista propositio: omnis 
+        <lb ed="#V" n="26"/>homo est risibilis. vel lapis. non potest naturaliter 
+        demonstra<lb ed="#V" n="27" break="no"/>ri. nisi pro quanto prima pars eius est demonstrabilis 
+        de<lb ed="#V" n="28" break="no"/>terminate: sed huius propositionis: deus subsistit in tribus 
+        <lb ed="#V" n="29"/>suppositis realibus. vel in vno reali et duobus 
+        inten<lb ed="#V" n="30" break="no"/>tionalibus: secunda pars est impossibilis sic quod eius impossibili 
+        <lb ed="#V" n="31"/>tas potest naturaliter esse non vt patet ex propositione 
+        immedia<lb ed="#V" n="32" break="no"/>te praecedenti: et prima necessaria et non est demonstrabilis 
+        <lb ed="#V" n="33"/>pro parte necessaria determinate. vt paet ex conclusione 
+        prae<lb ed="#V" n="34" break="no"/>cedenti etiam per eum: igitur etc. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e1186">
+        Et confirmatur: quia ben 
+        sequi<lb ed="#V" n="35" break="no"/>tur deus subsistit in tribus suppositis realibus: vel in 
+        <lb ed="#V" n="36"/>vno reali et duobus intentionalibus: igitur subsistit in 
+        tri<lb ed="#V" n="37" break="no"/>bus realibus determinate igitur a simili sequitur: naturaliter 
+        <lb ed="#V" n="38"/>potest ostendi quod deus subsistit in tribus suppositis realibus 
+        <lb ed="#V" n="39"/>vel in vno reali et duobus intentionalibus: et naturaliter potest 
+        intel<lb ed="#V" n="40" break="no"/>ligi quod non subsistit in vno reali et duobus intentionalibus: 
+        <lb ed="#V" n="41"/>igitur naturaliter potest ostendi quod subsistit in tribus realibus 
+        de<lb ed="#V" n="42" break="no"/>terminate: quod tamen est falsum et contra eum. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e1206">
+        Secundo sic: quicquid potest 
+        <lb ed="#V" n="43"/>demonstrari de deo disiunctiue determinate: potest de 
+        <lb ed="#V" n="44"/>mostrari pro parte persectiori. sed trinitas suppositorum 
+        <lb ed="#V" n="45"/>de deo est demonstrabilis sub disiunctione et trinitas 
+        <lb ed="#V" n="46"/>suppositorum realium est perfectior. igitur necem 
+        demonstra<lb ed="#V" n="47" break="no"/>blis de deo determinate. conclusio est falsa et contra eum: igitur. 
+        <lb ed="#V" n="48"/>aliqua praemissarum: non maior: quia naturaliter potest ostendi deo esse 
+        <lb ed="#V" n="49"/>attribuendum quicquid est maioris perfectionis: ergo minor et 
+        <lb ed="#V" n="50"/>non quantum ad illam partem qua dicitur quod trinitas supposito 
+        <lb ed="#V" n="51"/>realium est perfectior: quia nobilius est verbum si ponatur esse 
+        <lb ed="#V" n="52"/>reale quam si sit solum intentionale etiam secundum eum. et idem patet 
+        <lb ed="#V" n="53"/>de spiritu sancto vt dicit. igitur in quantum ad illam quae 
+        dro<lb ed="#V" n="54" break="no"/>trinitas supposit orum est demonstrabilis de deo sub 
+        dis<lb ed="#V" n="55" break="no"/>iunctione. et sic propositum Et in hoc iste doctor videtur 
+        sibi<lb ed="#V" n="56" break="no"/>contradicere: quia ex vna parte concedit quod trinitas suppositor 
+        <lb ed="#V" n="57"/>realium est perfectior trinitate suppositorum intentionalium. et 
+        <lb ed="#V" n="58"/>ex alia parte quod trinitas suppositorum est demonstrabilis de 
+        <lb ed="#V" n="59"/>deo: altero istorum duorum modorum: trinitas tamen 
+        supposi<lb ed="#V" n="60" break="no"/>torum realium non est demonstrabilis: et ista non possunt simul 
+        <lb ed="#V" n="61"/>stare: vt patet ex ratione praecedenti: ergo et hoc de secundo. 
+      </p>
+            </div>
+            <div xml:id="at8va9-e44239-Dd1e1251">
+               <head xml:id="at8va9-e44239-Hd1e1253">Articuli 3 et 4</head>
+               <p xml:id="at8va9-e44239-d1e1255">
+                  <lb ed="#V" n="62"/>Tertius et quartus articulus. 
+        <lb ed="#V" n="63"/>QUantum ad tertium et quartum articulum simul contra 
+        conclusio<lb ed="#V" n="64" break="no"/>nes istas mouenda et dissoluenda sunt dubia. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e1264">
+        Et 
+        <lb ed="#V" n="65"/>primo contra primam arguit doctor noster. 
+        <lb ed="#V" n="66"/>Egidius in 1. di. 7. 
+        <lb ed="#V" n="67"/>Primo sic: nulla propositio per se nota est 
+        demostra<lb ed="#V" n="68" break="no"/>bilis: quia tunc non esset per se nota: sed per aliud sed ista 
+        pre<lb ed="#V" n="69" break="no"/>sitio deus est: est per se nota: vt probat et benen: igitur etc. Se¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>cundo sic: essentia dei est idem quod eius substantia: igitur deum esse 
+        <lb ed="#V" n="71"/>non potest demonstrari: antecedens est catholicum. et consequentia videtur nota: 
+        <lb ed="#V" n="72"/>quia substantie non est demonstratio vt patet per aristotilem 6. 
+        <lb ed="#V" n="73"/>m etaphisice. et. 2 posteriorum: ergo. etc. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e1288">
+        Preterea ad idem 
+        <lb ed="#V" n="74"/>quida alius doctor noster. 
+        <lb ed="#V" n="75"/>Gerardus de senis in 1. di. 3. q. 2. ar. 3. 
+        <lb ed="#V" n="76"/>Arguit: et est quasi confirmatio praecedentis rationis: si deum 
+        <lb ed="#V" n="77"/>esse posset demonstrari: esse dei non esset idem quod deus. quod 
+        <lb ed="#V" n="78"/>patet esse falsum. quia tunc esset in potentia ad esse et non esset purus 
+        <lb ed="#V" n="79"/>actus consequentia patet: quia nihil demonstratur de eo cum quo est idem: 
+        <lb ed="#V" n="80"/>quia sic idem demonstraretur de seipso. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e1306">
+        Preterea: 
+        <lb ed="#V" n="81"/>ad idem alius. 
+        <lb ed="#V" n="82"/>Henricus in summa arti. 12. q. 4. 
+        <lb ed="#V" n="83"/>Arguit sic: cuius non est diffinitio: eius non est de 
+        <lb ed="#V" n="84"/>monstratio: cum medium demonstrationis sit 
+        diffinitio<lb ed="#V" n="85" break="no"/>subiecti: sed nec dei: nec alicuius quod est deus est 
+        <lb ed="#V" n="86"/>d ffinitio: igitur nec demonstratio. Ista ratio 
+        con<lb ed="#V" n="87" break="no"/>firmatur auctoritate Auicen. 8. metaphi. sue. vbi 
+        <lb ed="#V" n="88"/>ait: primus qui est altissimus et gloriosus non habet 
+        <lb ed="#V" n="89"/>distinctionem: et sic non potest fieri demonstratio de eo: 
+        <lb ed="#V" n="90"/>ergo etc. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e1331">
+        Ad rationes egidii et gerardi. 
+        <lb ed="#V" n="91"/>Ad primum istorum: nego maiorem: et quia vt 
+        plu<lb ed="#V" n="92" break="no"/>rimum doctores sic adherent illi propositioni: quod aliqui 
+        <lb ed="#V" n="93"/>dicunt deum esse. non posse demonstrari: quia est per 
+        <lb ed="#V" n="94"/>se notum: aliqui vero econtra dicunt: non esse per se 
+        <lb ed="#V" n="95"/>notum: quia potest demonstrari ne videar negare 
+        <lb ed="#V" n="96"/>propositionem ad placitum et sine ratione: ostendo: quod non omnis 
+        <lb ed="#V" n="97"/>propositio per se nota caret medio silogistico et 
+        demon<lb ed="#V" n="98" break="no"/>stratiuo. Primo: quia motum esse et naturam esse est 
+        <lb ed="#V" n="99"/>per se notum: vt patet per philos eom. 2. phi. et commentatorem 
+        ibiden<lb ed="#V" n="100" break="no"/>commento 6. et tamen quelibet istarum propositionum est 
+        demon<lb ed="#V" n="101" break="no"/>strabilis per principia metaphisice: vt patet per aristo. 
+        <lb ed="#V" n="102"/>primo phisi. vbi per principia metaphisice procedit contra 
+        <lb ed="#V" n="103"/>negates natura et principia naturalia. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e1362">
+        Secundo: 
+        <lb ed="#V" n="104"/>quia ista propositio nix est alba: celum est: et consimiles: quarum 
+        noti<lb ed="#V" n="105" break="no"/>tia habet per exprientiam mediante cognitione sensitiua: 
+        <lb ed="#V" n="106"/>sunt per se note: vt patet per alace secundo perspectiue. 2. c. vbi 
+        di<lb ed="#V" n="107" break="no"/>cit: quod quando propoitones sunt manifeste per sensum et anima 
+        intelli<lb ed="#V" n="108" break="no"/>git conclusionem: conclusio erit proposito manifesta: quando enim anima vidit 
+        <lb ed="#V" n="109"/>propoitonem intelligit stati conclusionem sine indigentia argumenta 
+        <lb ed="#V" n="110"/>tionis propter quod arist. primo ce. dicit: quod qua dubitat an nit sit 
+        <lb ed="#V" n="111"/>alba: sensu indiget: tamen constat quod qualibet istarum propoitonum est 
+        <lb ed="#V" n="112"/>demodo ftrabilis. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e1384">
+        Tertio: quia secundum boetium de 
+        hebdo<lb ed="#V" n="113" break="no"/>matibus communis aim conceptio: quadam est quae venit ex aliis communiori 
+        <lb ed="#V" n="114"/>bus: vt incorporalia non esse in loco: igitur non omnis caret 
+        medio<lb ed="#V" n="115" break="no"/>silogistico et demonstratiuo: sed communis aim conceptio dicitur: quia 
+        <lb ed="#V" n="116"/>aimo per se nona: ergo etc. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e1395">
+        Quarto quia illud non necessario re 
+        <lb ed="#V" n="117"/>pugnat propoioni per se note: quod contingit primis principiis 
+        <lb ed="#V" n="118"/>scientie metaphisice: sed habere med ium silogisticum et 
+        demon<lb ed="#V" n="119" break="no"/>stratiuum non repugnat etc. igitur etc. maior patet: quia prima 
+        <lb ed="#V" n="120"/>principia in scientiis mathematicis sunt simpliciter per se nota: 
+        <lb ed="#V" n="121"/>cum demonstrationes mathematice sint in primo erodu 
+        certi<lb ed="#V" n="122" break="no"/>tundinis: vt patet per commentatorem. 2. met minor probatur: quia omne 
+        to<lb ed="#V" n="123" break="no"/>tum est maius sua parte: est vnum de principiis geometrie: et tamen 
+        <lb ed="#V" n="124"/>potest demonstrari: et demonstrat ipsum alace. 2. 
+        perspecti<lb ed="#V" n="125" break="no"/>ue. c. 3. sic. quod est tantundem et amplius est maius: sed totu 
+        respe<lb ed="#V" n="126" break="no"/>ctu prtis est tantudem et maius: ergo est maius: potest etiam 
+        demonstra<lb ed="#V" n="127" break="no"/>ri per diffinitionem totius: quia quod continet multitudinem 
+        par<lb ed="#V" n="128" break="no"/>tium est maius qualibet illarum: omne totum continet 
+        mul<lb ed="#V" n="129" break="no"/>titudinem partium: ergo etc. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e1426">
+        Quidam tamen. 
+        <lb ed="#V" n="130"/>Fraciscus de maronis in primo di. 2 q. i. ar. i. 
+        <lb ed="#V" n="131"/>Uolentes fugem istam difficultatem dicunt: quod ista 
+        propositio<lb ed="#V" n="132" break="no"/>omne totum est maius sua parte non est per se nota: sed 
+        <lb ed="#V" n="133"/>demonstrabilis: dicitur tamen per se nota: quia 
+        impercepti<lb ed="#V" n="134" break="no"/>biliter deducitur propter ptimitatem principiorum ad conclusionem. 
+        <lb ed="#V" n="135"/>Sed ad veritatem ista euacnatio est nulla. Primo: quia 
+        <lb ed="#V" n="136"/>ista propositio sicut superius dicebatur est vnum de primis 
+        prin<lb ed="#V" n="137" break="no"/>cipiis geometrie: vt patet scientibus geometriam: igit est in 
+        <lb ed="#V" n="138"/>se nota: aliter geometria non resolueret vsque ad per se
+        <pb ed="#V" n="78-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>nota: quod est manifeste faliu. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e1455">
+        Secundo: quia illa proposito 
+        ve<lb ed="#V" n="2" break="no"/>re et proprie dicitur per se nota: quam quilibet docendus per se 
+        <lb ed="#V" n="3"/>ipsum potest habere sine doctore: hoc patet primo posterio. 
+        <lb ed="#V" n="4"/>vbi dicitur: quod matima siue propositio per se nota dicitur illa quam 
+        <lb ed="#V" n="5"/>necesse est habere de ocendu quelibet per seipsum: sed 
+        constat<lb ed="#V" n="6" break="no"/>quod istam propositonem potest habere quilibet per seipsum: vt docet expiem 
+        <lb ed="#V" n="7"/>tia: igitur etc. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e1472">
+        Tertio: quia alacem secundo perspectiue. c. 
+        <lb ed="#V" n="8"/>2. et. 3. expresse dicit: istam propositionem esse per se notam: igitur hoc 
+        <lb ed="#V" n="9"/>negare est non posse soluere rationem. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e1479">
+        Quarto: quia sic 
+        di<lb ed="#V" n="10" break="no"/>cendo tollitur omnis via ad probandum aliquam conclusionem esse per se 
+        <lb ed="#V" n="11"/>notam: quia de qualibet saltem de se dimisso primo 
+        principio<lb ed="#V" n="12" break="no"/>simpliciter poterit dici: quod non est per se nota: sed diebeur per se nota: 
+        <lb ed="#V" n="13"/>quia imperceptibiliter deducitur propter proximitatem principiorum: 
+        <lb ed="#V" n="14"/>patet igitur ex dictis quod illa maior est vniversaliter vera. Et ideo 
+        conce<lb ed="#V" n="15" break="no"/>do quod ista propositio: deus est: est per se nota: et tamen demonstrabilis 
+        <lb ed="#V" n="16"/>nec ista repugnant vt videtur: quia non dicitur propositio per se nota: 
+        <lb ed="#V" n="17"/>quia caret medio silogistico et deductiuo: sed quia ad sue 
+        <lb ed="#V" n="18"/>complexionis euidentiam non necessario indiget ipso. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e1501">
+        Ad 
+        <lb ed="#V" n="19"/>secundum principale: nego consequentiam: quia si illa consequentia esset bona: 
+        <lb ed="#V" n="20"/>probaret quod nulla perfectio attributalis est demonstrabilis 
+        <lb ed="#V" n="21"/>de deo cum qualibet sit idem quod eius substantia: quod tamen est falsum et contra 
+        <lb ed="#V" n="22"/>anshel. mono. 15. vbi demonstrat de deo omnem perfectio 
+        <lb ed="#V" n="23"/>nem simpliciter. Et quando dicitur quod substane non est demonstratio: verum est 
+        <lb ed="#V" n="24"/>a priori et per cam in essendo: potest tamen eius esse demonstratio a 
+        <lb ed="#V" n="25"/>i5 S S SPo 
+        <lb ed="#V" n="26"/>quinta et sexta question ibus super prologo. et sic est in proposito. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e1521">
+                  <lb ed="#V" n="27"/>Per idem patet quid dicendum ad confirmationem alterius 
+        do<lb ed="#V" n="28" break="no"/>ctoris. Ad rationes henrici. 
+        <lb ed="#V" n="29"/>Ad vltimum: potest vno modo dici: quod si talia 
+        praedicamen<lb ed="#V" n="30" break="no"/>ta non possunt demonstrari a priori de ipso deo: non sequitur 
+        <lb ed="#V" n="31"/>quin possint a posteriori et in tali demonstratione 
+        diffi<lb ed="#V" n="32" break="no"/>nitio non est medium. Secundo potest dici: quod licet nec dei: nec 
+        <lb ed="#V" n="33"/>alicuius quod sit deus: sit diffinitio proprie dicta potest tamen esse 
+        <lb ed="#V" n="34"/>diffinitio large accepta: et licet talis non possit esse in de 
+        <lb ed="#V" n="35"/>mostratione medium quae fit a pori et per cam in essendo: 
+        po<lb ed="#V" n="36" break="no"/>test tamen esse medium in illa quae fit a posteriori et per causam in 
+        <lb ed="#V" n="37"/>inferendo: vt patet in quaestionibus praeallegatis. Ad 
+        aucto<lb ed="#V" n="38" break="no"/>ritatem Auice. dico: quod intelligit quod de deo non potest 
+        fie<lb ed="#V" n="39" break="no"/>ri demonstratio a priori et per causam in essendo: non tamen 
+        ne<lb ed="#V" n="40" break="no"/>gat quin de ipso possit fieri a posteriori demonstratio: 
+        <lb ed="#V" n="41"/>vel a priori et per causam in inferendo: aliter contradiceret 
+        sibiipsi<lb ed="#V" n="42" break="no"/>quia ipse nititur demonstrare deum esse.
+      </p>
+               <p xml:id="at8va9-e44239-d1e1558">
+        Contra secundam 
+        <lb ed="#V" n="43"/>conclusionem est quedam opinio. 
+        <lb ed="#V" n="44"/>Nodod. in primo di. 2. q. 3. art. i. 
+        <lb ed="#V" n="45"/>Que ponit: quod nisi praesupponatur aliquod creditum non 
+        <lb ed="#V" n="46"/>potest demonstrari deum esse vnum tantum: adhuc adducitur vna 
+        <lb ed="#V" n="47"/>ratio: si demonstretur deum esse tantum vnum: aut hoc erit ex 
+        <lb ed="#V" n="48"/>Syy . od oyo.   S 
+        <lb ed="#V" n="49"/>potentia. Ista diuisio patet ex modo arguendi aliquorum: sed 
+        <lb ed="#V" n="50"/>quodlibet est creditum. ergo pro deductione minoris 
+        pro<lb ed="#V" n="51" break="no"/>bat iste doctor in. q. immediate praecedenti: quod deum esse 
+        in<lb ed="#V" n="52" break="no"/>finite virtutis intesiue non potest naturaliter demonstrari: 
+        <lb ed="#V" n="53"/>rationes tamen ipsius non adduco pro nunc: quia intendo 
+        alibi<lb ed="#V" n="54" break="no"/>istam materiam pertractare: et ex hoc infert quod nullum 
+        <lb ed="#V" n="55"/>oyuiguuu ypru. 5o y odor opppops. 
+        <lb ed="#V" n="56"/>eorum est creditum. sesponsio ad rationes sodod 
+        <lb ed="#V" n="57"/>Sed ad veritatem ista positio non est rationalis. 
+        Ne<lb ed="#V" n="58" break="no"/>theologus debet negare propositionem istam posse de 
+        <lb ed="#V" n="59"/>mostrari: cum philosi conentur eam diumostrare: nec ratio istius 
+        <lb ed="#V" n="60"/>Sus uyyuy 6 yyyy  ppys ypy 
+        <lb ed="#V" n="61"/>ri ex aliquo istorum adhuc sunt alie vie multe: et ipse 
+        <lb ed="#V" n="62"/>met adducit rationes anshel. contra se procedentes ex 
+        <lb ed="#V" n="63"/>aliis mediis. Secundo: quia minor quantum ad duas 
+        pri<lb ed="#V" n="64" break="no"/>mas partes est falsa: quicquid sit de tertia: nec rationes 
+        <lb ed="#V" n="65"/>quibus probat primam partem ipsius concludunt: vt declarabi 
+        <lb ed="#V" n="66"/>tur alias: licet rationes ille non sint sue: sed de verbo ad 
+        <lb ed="#V" n="67"/>verbum francisci de marchia: qui tunc praecessit eum. Et 
+        <lb ed="#V" n="68"/>vlterius posito quod infinitas dei non sit 
+        demonstrabi<lb ed="#V" n="69" break="no"/>lis: adhuc non sequitur quod essendi eius necessitas non sit
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>demonstrabilis: quia naturaliter scitur quod nullum possibile 
+        <lb ed="#V" n="71"/>non esse est deus. Contra tertiam conclusionem est opinio 
+        sco<lb ed="#V" n="72" break="no"/>ti qui ponit: quod trinitas realis personarum in diuinis 
+        po<lb ed="#V" n="73" break="no"/>test naturaliter demonstrari: et recolligendo ea que 
+        di<lb ed="#V" n="74" break="no"/>cit in diuersis questionibus possunt reduci ad tres 
+        conclu<lb ed="#V" n="75" break="no"/>siones principales. Prima est: quod naturaliter potest 
+        conuinci<lb ed="#V" n="76" break="no"/>quod in diuinis ad intra sit vera productio: hac probat 
+        tri<lb ed="#V" n="77" break="no"/>pliciter. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e1639">
+        Primo sic: quicquid de ratione sua formali est 
+        prin<lb ed="#V" n="78" break="no"/>cipium producendi illud in quocumque est sine imperfectione et 
+        <lb ed="#V" n="79"/>a se in illo est principium per se perfecte producendi: sed 
+        memo<lb ed="#V" n="80" break="no"/>ria perfecta: siue quod idem est intellectus habens obiectum in 
+        <lb ed="#V" n="81"/>telligibile sibi praesens ex sua ratione formali est principium 
+        <lb ed="#V" n="82"/>productiuum notitie genite que est verbum: igitur in quocum 
+        <lb ed="#V" n="83"/>quam ponatur sine impersectione et a se necessario producet 
+        ver<lb ed="#V" n="84" break="no"/>bum. Cum igitur talis memoria perfecta sit in aliqua 
+        per<lb ed="#V" n="85" break="no"/>fona diuina a se et sine imperfectione: quia aliqua est impro 
+        <lb ed="#V" n="86"/>ducta igitur illa persona necessario producet verbum: 
+        <lb ed="#V" n="87"/>maior declaratur: quia quod principio ex se productiuo non 
+        co<lb ed="#V" n="88" break="no"/>ueniat quod in aliquo sit productiuum non potest esse nisi propter 
+        ali<lb ed="#V" n="89" break="no"/>quod duorum modorum: vel propter imperfectionem eius in illo: vel 
+        <lb ed="#V" n="90"/>quia vt in illo est acceptum per productionem adequatam tali 
+        prin<lb ed="#V" n="91" break="no"/>cipio: sicut est de pectentia generatiua: si sit in filio: et 
+        <lb ed="#V" n="92"/>spiratiua si sit in spiitum sacto: et vtrumque istorum excluditur per 
+        <lb ed="#V" n="93"/>hoc quod dicitur in maiori a se: quia nihil habet a se principium 
+        <lb ed="#V" n="94"/>productiuum: nisi habeat illud sine imperfectione et non communicatum 
+        <lb ed="#V" n="95"/>per productionem adequatam tali principio: minor probatur: quia omni me 
+        <lb ed="#V" n="96"/>morie create contingit quod sit principium productiuum 
+        noti<lb ed="#V" n="97" break="no"/>tie genite: et non vt creata siue imperfecta: quia imperfecta num 
+        <lb ed="#V" n="98"/>quam est ratio producendi siue communicandi esse: quia hoc competit ex 
+        peri<lb ed="#V" n="99" break="no"/>fectione non ex imperfectione. igitur vt memoria est: et per consequens 
+        <lb ed="#V" n="100"/>competit sibi ex sua ratione formali. Secundo sic: quicquid 
+        <lb ed="#V" n="101"/>dicit perfectionem simpliciter esse ponendum in deo: sed necessa 
+        <lb ed="#V" n="102"/>rio producem dicit perfectionem simpliciter: igitur deus necessario 
+        <lb ed="#V" n="103"/>oyyde ouy gy5m. uopyo 
+        poyoypp<lb ed="#V" n="104" break="no"/>nitur: minor probatur: quia in qulibet conditione entis quae non est ex 
+        <lb ed="#V" n="105"/>ratione sua imperfecta necessitas est simpliciter perfectionis: sed 
+        pro<lb ed="#V" n="106" break="no"/>ductio ex ratione sua formali non includit imperfectionem: 
+        <lb ed="#V" n="107"/>igitur necessitas in productione est simpliciter perfectionis: 
+        mi<lb ed="#V" n="108" break="no"/>nor huius prosilo. supponitur tanquam nota: maior autem 
+        decla<lb ed="#V" n="109" break="no"/>ratur: quia sicut necessarium est contraditio perfectionis in ente in 
+        <lb ed="#V" n="110"/>quantum ens: ita est perfectionis in quolibet diuidente ens: 
+        <lb ed="#V" n="111"/>quod non est necessario ex se imperfectum siue limitatum: sicut 
+        <lb ed="#V" n="112"/>enim quando ens diuiditur per opposita alterum diuidendum est 
+        perfe<lb ed="#V" n="113" break="no"/>ctionis in ente: alterum imperfectionis: sic et in quolibet diuiso: 
+        <lb ed="#V" n="114"/>quod de se non includit imperfectionem. Et confirmatur: quia 
+        possi<lb ed="#V" n="115" break="no"/>bilitas in quolibet ente est imperfectionis: igitur. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e1725">
+        Tertio sic: primo 
+        <lb ed="#V" n="116"/>ma productio debet competere primo producenti: sed 
+        productio<lb ed="#V" n="117" break="no"/>naturalis est prima productio igitur competit primo producenti: et 
+        <lb ed="#V" n="118"/>sic deo: sed non competit sibi ad extra: quia supponitur esse 
+        contin<lb ed="#V" n="119" break="no"/>gens et libera: igitur ad intra. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e1736">
+        Scotus vbi sup. 
+        <lb ed="#V" n="120"/>Secunda conclusio et: quod in diuinis sunt tantum due productiones 
+        in<lb ed="#V" n="121" break="no"/>trinsece distincte secundum rationes fornales producendi. 
+        pro<lb ed="#V" n="122" break="no"/>cuius dednctione probat iste doctor tres propositiones. 
+        <lb ed="#V" n="123"/>Prima est: quod pluralitas principiorum actiuorum reducitur 
+        <lb ed="#V" n="124"/>ad dualitatem principii productiui per modum voluntatis et 
+        <lb ed="#V" n="125"/>per modum nature. Secunda est: quod hec duo principia debent 
+        <lb ed="#V" n="126"/>poni in primo secundum rationes suas producendi. Tertia est: quod 
+        <lb ed="#V" n="127"/>huiusmodi principia in primo sunt productiua ad intra. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e1756">
+        
+        Pri<lb ed="#V" n="128" break="no"/>mam propositionem deducit sic omnis pluralitas reducitur 
+        ad<lb ed="#V" n="129" break="no"/>vn itatem vel paucitatem tantam ad quantam reduci potest: 
+        <lb ed="#V" n="130"/>igitur pluralitas principiorum actiuorum reducetur vel 
+        ad<lb ed="#V" n="131" break="no"/>vnitatem vel ad tantam paucitatem ad quantam reduci potest: 
+        <lb ed="#V" n="132"/>non potest autem reduci ad aliquod vnum principium aliud 
+        ab<lb ed="#V" n="133" break="no"/>istis: probatur: quia principia productiua quae sunt natura et 
+        volun<lb ed="#V" n="134" break="no"/>tas habent oppositos modos principiandi: quia alterum ex se 
+        <lb ed="#V" n="135"/>naturaliter inclinatur ad agendum alterum libere in ptante sua habet 
+        <lb ed="#V" n="136"/>producere: ita quod ad hoc non inclinatur ex se natura 
+        <lb ed="#V" n="137"/>liter. si autem reducerentur ad aliquod vnum principium 
+        <lb ed="#V" n="138"/>productiuum: illud haberet determinatum modum principiadi
+        <pb ed="#V" n="78-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>alterius istorum principiorum puta vel naturaliter vel 
+        li<lb ed="#V" n="2" break="no"/>bere: et ita vel per modum nature: vel per modum voluntatis: 
+        <lb ed="#V" n="3"/>igitur non possunt reduci ad aliquod principium quasi 
+        ter<lb ed="#V" n="4" break="no"/>tium ab istis: quod scilicet in producendo non habeat ratione 
+        ali<lb ed="#V" n="5" break="no"/>cuius istorum: nec vnu reducitur ad alterum: quia tunc secundum 
+        to<lb ed="#V" n="6" break="no"/>tum genus suum esset imperfectum: quod falsum et: igitur 
+        principia<lb ed="#V" n="7" break="no"/>productiua non possunt reduci ad paucitatem minorem 
+        <lb ed="#V" n="8"/>quam ad dualitatem principii scirlictus productiui per modum nature: 
+        <lb ed="#V" n="9"/>et productiui per modum voluntatis. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e1806">
+        Secundam 
+        <lb ed="#V" n="10"/>propositionem probat faciliter: quia in primo est omnis 
+        ratio<lb ed="#V" n="11" break="no"/>principii que non reducitur ad aliquod principium prius ipso: 
+        <lb ed="#V" n="12"/>igitur in ipso sunt tantum duo principia productiua alterius 
+        <lb ed="#V" n="13"/>rationis vnicum scirictu productiuum per modum nature: et vnicum 
+        <lb ed="#V" n="14"/>productiuum libere. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e1819">
+        Tertia vero probat ex dictis: quia 
+        <lb ed="#V" n="15"/>memoria perfecta est productiua ad intra per modum 
+        natu<lb ed="#V" n="16" break="no"/>re ex conclusione praecedenti. Et similiter potest argui de 
+        <lb ed="#V" n="17"/>voluntate respectu amoris infiniti: quia quodlibet 
+        prin<lb ed="#V" n="18" break="no"/>cipium productiuum quod non reducitur ad aliquod principium 
+        <lb ed="#V" n="19"/>prius: natum est habere productionem sibi adequatam: et 
+        produ<lb ed="#V" n="20" break="no"/>ctum adequatum: igitur principium productiuum amoris: quod est 
+        <lb ed="#V" n="21"/>voluntas: natum est habere productum sibi adequatum: et 
+        prin<lb ed="#V" n="22" break="no"/>cipium productiuum quod est natura: natum est habere productum 
+        <lb ed="#V" n="23"/>adequatum: hec aut principia productiua sunt in finita: 
+        <lb ed="#V" n="24"/>igitur producta eis adequata non possunt esse nisi 
+        infini<lb ed="#V" n="25" break="no"/>ta: nihil autem est formaliter infinitum nisi deus: igitur ista 
+        <lb ed="#V" n="26"/>principia sunt productiua aliquorum in natura diuina. 
+        <lb ed="#V" n="27"/>Ex istis deducitur assumpta conclusio: quia si in diuinis ad 
+        <lb ed="#V" n="28"/>intra non sunt nisi duo principia productiua alterius 
+        ratio<lb ed="#V" n="29" break="no"/>nis: sequitur quod non sit nisi tantum due propoitones numero: 
+        pro<lb ed="#V" n="30" break="no"/>bo: quia vtrumque principium productiuum habet productionem 
+        <lb ed="#V" n="31"/>sibi adequatam et coeternam: igitur stante illa non potest 
+        ha<lb ed="#V" n="32" break="no"/>bere aliam. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e1861">
+        Scotus vbi supra. q. 5. 
+        <lb ed="#V" n="33"/>Tertia conclusio et principalis est: quod realis trinitas per 
+        <lb ed="#V" n="34"/>sonarum in diuinis potest naturaliter demonstrari: et hanc 
+        <lb ed="#V" n="35"/>probat ex praecedentibus sic: tamtum sunt due persone producte: 
+        <lb ed="#V" n="36"/>et tamtum vna improducta: igitur tamtum sunt tres: consequentia est nota: 
+        <lb ed="#V" n="37"/>et antecedens quantum ad primam partem probatur ex dictis: pro cuius 
+        pro<lb ed="#V" n="38" break="no"/>batione deducit iste doctor aliquas propoitones. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e1878">
+        Prima 
+        <lb ed="#V" n="39"/>est: quod in diuinis est vna persona producta actu intellectus 
+        <lb ed="#V" n="40"/>ratio huius est: quia intellectus vt est perfecta memoria id es 
+        ha<lb ed="#V" n="41" break="no"/>bens obiectum intellectuale sibi praesens per aliquem actum sut 
+        <lb ed="#V" n="42"/>est productiuus terminus adequati scilicet infiniti ex prima 
+        <lb ed="#V" n="43"/>conclusione: nihil autem seipsum producit primo de tri. c. i. igitur 
+        <lb ed="#V" n="44"/>quod producitur actum intellectus aliquo modo distinguitur a 
+        <lb ed="#V" n="45"/>producente: sed non distinguitur essentialiter: quia essentia 
+        di<lb ed="#V" n="46" break="no"/>uina et quecumque essentialis perfectio sibi intrinseca est in 
+        <lb ed="#V" n="47"/>distinguibilis: igitur distinguitur personaliter productum a 
+        pro<lb ed="#V" n="48" break="no"/>ducente: igitur est aliqua persona producta actu intellectus. 
+        <lb ed="#V" n="49"/>Secunda proposito est: quod etiam in diuinis est vna persona 
+        pro<lb ed="#V" n="50" break="no"/>ducta actu voluntatis: et hec probatur sicut et praecedens. 
+        <lb ed="#V" n="51"/>Tertia est: quod persona producta actu intellectus: et 
+        pere<lb ed="#V" n="52" break="no"/>sona producta actu voluntatis sunt alia et alia: ratio 
+        hui<lb ed="#V" n="53" break="no"/>est: quia eadem persona non potest produci duabus productionibus 
+        <lb ed="#V" n="54"/>sufficientibus et totalibus: sed hec productio et alia sunt 
+        <lb ed="#V" n="55"/>due productiones distincte ex secunda conclusione: igitur 
+        hac<lb ed="#V" n="56" break="no"/>et illa non producitur eadem persona sed due. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e1920">
+        Quarta 
+        pro<lb ed="#V" n="57" break="no"/>positio est: quod ibi non possunt esse nisi due persone producte: 
+        <lb ed="#V" n="58"/>ratio: quia in diuinis ad intra non possunt esse nisi due 
+        produ<lb ed="#V" n="59" break="no"/>ctiones: igitur non possunt esse nisi due persone producte: antecedens patet 
+        <lb ed="#V" n="60"/>ex secunda conclusione: consequentia patet: quia nulla istarum productionum 
+        <lb ed="#V" n="61"/>potest terminari: nisi ad vnam personam: cum persona producta 
+        <lb ed="#V" n="62"/>sit terminus adequitus illi productioni: ergo etc. Ex istis 
+        proposito<lb ed="#V" n="63" break="no"/>nibus patet prima pars antecedentis assumpti: quia bene 
+        sequi<lb ed="#V" n="64" break="no"/>tur in diuinis adintra sunt due persone producte et non 
+        <lb ed="#V" n="65"/>plures: igitur tantum due. secunda pars ancedentis. valet. quod ibi sit 
+        <lb ed="#V" n="66"/>tantum vna persona improducta: probatur ab isto doc. 
+        triplici<lb ed="#V" n="67" break="no"/>ter. Sed quia partem illam reputo probabilem dimitto rationes 
+        <lb ed="#V" n="68"/>illas. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e1949">
+        Responsio ad rationes scoti. 
+        <lb ed="#V" n="69"/>Sed lice ista conclusio sit verissima et sine hesitatione cre¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>denda: non est tamen ab isto doctore demonstrata: sed rationes 
+        <lb ed="#V" n="71"/>per quas probatur nihil infideli concludunt: immo alique propositiones 
+        <lb ed="#V" n="72"/>sunt simpliciter dubie tam fideli quam infideli: et ideo 
+        respon<lb ed="#V" n="73" break="no"/>deo ad eas. Et primo ad rationes pro prima conclusione. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e1965">
+        Ad 
+        <lb ed="#V" n="74"/>primam respondeo ad maiorem et ad minorem. Primo quidem 
+        <lb ed="#V" n="75"/>ad maiorem: quando dicitur quod quicquid de ratione sua formali est 
+        <lb ed="#V" n="76"/>principium producendi illud in quocumque est fine imperfectione 
+        <lb ed="#V" n="77"/>et a se: in illo est principium perfecte producendi: quero 
+        cur<lb ed="#V" n="78" break="no"/>additur hic iste terminus a se: quia vel illud quod de 
+        ratio<lb ed="#V" n="79" break="no"/>ne sua formali est principium producendi in quocumque sit 
+        si<lb ed="#V" n="80" break="no"/>ne imperfectione est principium producendi: siue sit in illo a 
+        se<lb ed="#V" n="81" break="no"/>siue in alio: vel non: si sic: li a se frustra ponitur in 
+        ma<lb ed="#V" n="82" break="no"/>iore: et tamen si non ponatur: sequitur quod qualibet persona 
+        diui<lb ed="#V" n="83" break="no"/>na sit productiua verbi: cum in qualibetisit memoria 
+        per<lb ed="#V" n="84" break="no"/>fecta et sine imperfectione quacumque: quo posito: non 
+        so<lb ed="#V" n="85" break="no"/>lum trinitas: sed infinitas per sonarum erit in diuinis: quia 
+        <lb ed="#V" n="86"/>verbum erit verbum: et sic infinitum: quod non solum est falsum: 
+        <lb ed="#V" n="87"/>sed erroneum. Si non. contra: implicatio contradictionis est rem 
+        <lb ed="#V" n="88"/>aliquam esse alicui sine iperfectione absque eo quod est de sua 
+        <lb ed="#V" n="89"/>formali et intrinseca ratione: igitur implicatio contradictionis est 
+        <lb ed="#V" n="90"/>illud quod de ratione formali sua est principium producendi esse in 
+        <lb ed="#V" n="91"/>aliquo sine imperfectione et non esse in illo principio producendi: 
+        <lb ed="#V" n="92"/>antecedens patet per locum a diffinitione: et consequentia est nota: igitur etc. Et 
+        <lb ed="#V" n="93"/>confirmatur: quia si homo esset in aliquo loco sine imperfectione: quo 
+        <lb ed="#V" n="94"/>non esset animal rationale: vel esset in illo locosine ratione sua 
+        for<lb ed="#V" n="95" break="no"/>mali: vel esse animal rationale non est ratio sua formalis: igitur a 
+        <lb ed="#V" n="96"/>simili si principium producendi sit in aliquo sine imperfectione in qua 
+        <lb ed="#V" n="97"/>non sit principium producendi: vel est in illo sine sua ratione 
+        sor<lb ed="#V" n="98" break="no"/>mali vel esse principium producendi non esset de ratione sua 
+        for<lb ed="#V" n="99" break="no"/>mali. Et ex hoc patet defectus illius maioris: quia quicumque 
+        <lb ed="#V" n="100"/>philoss concederet maiorem illam: posito isto termino a se: 
+        <lb ed="#V" n="101"/>concederet eam ipso remoto: et tamen ipso remoto per 
+        deducti<lb ed="#V" n="102" break="no"/>onem suam concluditur infinitas personarum in diuinis. Et 
+        vl<lb ed="#V" n="103" break="no"/>terius: vel illud quod de ratione sua formali est principium 
+        pro<lb ed="#V" n="104" break="no"/>ducendi: in nullo est principium producendi in quo non sit a 
+        se<lb ed="#V" n="105" break="no"/>vel in aliquo sic et in aliquo non: si detur principium. proposito est 
+        fal<lb ed="#V" n="106" break="no"/>sa etiam secundum eum: quia memoria perfecta quae de sua ratione 
+        for<lb ed="#V" n="107" break="no"/>mali est principium producendi: vt dicit in creatura: non est a 
+        <lb ed="#V" n="108"/>se: et tamen ipsa est principium producendi etiam secundum eum: si detur secum 
+        <lb ed="#V" n="109"/>dum deberet assignare in qubus est principium producendi: et in 
+        qui<lb ed="#V" n="110" break="no"/>bus non. Et si dicatur quod in illo non est principium producendi in quo 
+        <lb ed="#V" n="111"/>est acceptum per productionem adequatam tali principio: si aliis 
+        <lb ed="#V" n="112"/>vero sic: sicut ille doctor videtur imaginari: adhuc 
+        <lb ed="#V" n="113"/>non sufficit: quia illud praesupponit quod de ratione sua 
+        forma<lb ed="#V" n="114" break="no"/>li est principium producendi esse in aliquo: in quo est acceptum per 
+        pro<lb ed="#V" n="115" break="no"/>ductionem adequatam tali principio: et hoc non est per se 
+        no<lb ed="#V" n="116" break="no"/>tum: nec ab isto doctore deductum: ex aliquo per se noto: 
+        <lb ed="#V" n="117"/>igitur ratio que procedit isto praesupposito non demonstrat. 
+        <lb ed="#V" n="118"/>Secundo respondeo ad minorem: quia posito quod esset vera non 
+        <lb ed="#V" n="119"/>esset naturaliter demonstrata nec demonstrabilis: immo aristo. 
+        <lb ed="#V" n="120"/>et quilibet infidelis philosns negaret eam: diceret enim philoss quod 
+        <lb ed="#V" n="121"/>intellectus habens obiectum intelligibile sibi praesens notitie 
+        ge<lb ed="#V" n="122" break="no"/>nite non est productiuus: vbi notitia non exit de potentia 
+        <lb ed="#V" n="123"/>ad actum: et simpliciter et vniversaliter perfecta: sicut est in primo: ratio hus est: 
+        <lb ed="#V" n="124"/>quia secundum doctrinam ipsius omne productum exit de potentia ad 
+        <lb ed="#V" n="125"/>actum: et habet per consequens imperfectionem annexam. Nec probatio 
+        <lb ed="#V" n="126"/>valet: quia si hoc contingit omni intellectui creato: hoc ideo 
+        <lb ed="#V" n="127"/>est: quia notitie intellectus creati non repugnat exitus de 
+        po<lb ed="#V" n="128" break="no"/>tentia ad actum. Ad secundam dico: quod minor 
+        assumpta<lb ed="#V" n="129" break="no"/>non solum non est demonstrabilis: sed falsa et nimis diculo 
+        <lb ed="#V" n="130"/>sa: quia si illa minor cum sua probatione sit vera: sequuntur 
+        <lb ed="#V" n="131"/>duo inconuenientia: primum est: quod deus necessario producit non 
+        <lb ed="#V" n="132"/>solum ad intra sed ad extra Secundum est: quod spiritus sanctus 
+        <lb ed="#V" n="133"/>caret aliqua perfectione simpliciter. primum ostendo 
+        <lb ed="#V" n="134"/>arguendo sicut ipse: quicquid dicit perfectionem simpliciter est 
+        ponen<lb ed="#V" n="135" break="no"/>dum in deo: sed neesr io producem dicit perfectionem simpliciter: igitur 
+        <lb ed="#V" n="136"/>deus noesio producit: sed non ad extra: igitur ad intra: minorem 
+        <lb ed="#V" n="137"/>pbo: sicut et ipse: quia in qulibet conditione entis qua non est ex ratione sua 
+        <lb ed="#V" n="138"/>imperfecta necessitas est simpliciter perfectionis: hec
+        <pb ed="#V" n="79-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>est sua: sed deductio qua deus producit ad extra ex 
+        ratio<lb ed="#V" n="2" break="no"/>ne sua formali non includit imperfectionem: aliter nullo 
+        <lb ed="#V" n="3"/>modo posset deo conuenire: ergo necessitas in productione 
+        dei<lb ed="#V" n="4" break="no"/>ad extra est simpliciter perfectionis: deductio est clara Secundum 
+        <lb ed="#V" n="5"/>patet: quia constat quod spiritus sanctus non producit aliquid noesio: cum 
+        ni<lb ed="#V" n="6" break="no"/>hil producat ad itra: igitur si nesio producem dicit perfectionem 
+        <lb ed="#V" n="7"/>simpliciter spiritus sanctus caret illa perfectione. forte dicetur 
+        <lb ed="#V" n="8"/>quod licet spiritus sanctus non habeat talem productionem actiue 
+        <lb ed="#V" n="9"/>quia nihil producit. necessario: habet tamen eam passiue: quia 
+        produ<lb ed="#V" n="10" break="no"/>citur necessario. Sed ad veritatem ista euasio non tollit sed 
+        <lb ed="#V" n="11"/>auget difficultatem: quia si productio necessaria tam 
+        acti<lb ed="#V" n="12" break="no"/>ua quam passiua sit perfectio simpliciter: non solum spiritus sanctus 
+        <lb ed="#V" n="13"/>sed qualibet persona diuina caret aliqua perfectione simpliciter 
+        <lb ed="#V" n="14"/>consequentia patet: quia cum productio actiua et passiua in diuinis 
+        dif<lb ed="#V" n="15" break="no"/>ferant realiter quilibet persona diuina caret aliqua 
+        produ<lb ed="#V" n="16" break="no"/>ctione actiua. vel passiua. pater enim. caret omni 
+        produ<lb ed="#V" n="17" break="no"/>ctione passiua. spiritus sanctus. omni actiua: et filius vna 
+        <lb ed="#V" n="18"/>actiua et alia passiua. caret enim generatione actiua et 
+        <lb ed="#V" n="19"/>spiratione passiua. Dico igitur ad rationem quod illa minor est 
+        <lb ed="#V" n="20"/>falsa et a quolibet vero catholico. negada. Et ad 
+        pro<lb ed="#V" n="21" break="no"/>bationem quando dicitur quod in qualibet conditione entis quae non est ex 
+        ratio<lb ed="#V" n="22" break="no"/>ne sua imperfecta necessitas est simpliciter perfectionis: 
+        ne<lb ed="#V" n="23" break="no"/>go. immo ista propositio implicat incompossibilia: quia de ratione 
+        <lb ed="#V" n="24"/>perfectionis simpliciter est quod in vnoquoque siue perfecto siue 
+        imperfe<lb ed="#V" n="25" break="no"/>cto: melius sit ipsam esse quam non esse: vt patet per anshel. 
+        <lb ed="#V" n="26"/>mono. 15. c. Et ista proposito implicite ponit: quod necessitas 
+        <lb ed="#V" n="27"/>non est simpliciter perfectionis nisi in contraditione entis: qua de ratione 
+        <lb ed="#V" n="28"/>sua formali non est imperfecta. Et vlterius si aliquis 
+        philoso<lb ed="#V" n="29" break="no"/>rum concedent quod necessario producere dicit perfectionem 
+        sim<lb ed="#V" n="30" break="no"/>plicitur: ille diceret quod deus necessario produceret 
+        ad<lb ed="#V" n="31" break="no"/>extra sed non ad intra. et oppositum istius non probat iste 
+        <lb ed="#V" n="32"/>doctor: immo supponit sine probatione aliqua et per consequens 
+        rati<lb ed="#V" n="33" break="no"/>quae procedit isto supposito non demonstrat. Ad 
+        secumn<lb ed="#V" n="34" break="no"/>da rationem respondent physi secundum opiniones eorum qui concedunt deum 
+        <lb ed="#V" n="35"/>esse causam efficientem ad extra concederent conclusionem. valet. 
+        <lb ed="#V" n="36"/>quod productio. naturalis competeret deo. Et quando dicitur quod non 
+        <lb ed="#V" n="37"/>ad extra: quia illa supponitur esse libera et contingens: 
+        nega<lb ed="#V" n="38" break="no"/>retur ab eis: quia isti dicunt deum producere necessario 
+        <lb ed="#V" n="39"/>quicquid producit: ad extra non quidem necessitate 
+        co<lb ed="#V" n="40" break="no"/>actionis sed necessitate immutabilitatis: nec videtur eis 
+        <lb ed="#V" n="41"/>quod oppositum sit demonstrabile. et non solum ipsi sed 
+        mu<lb ed="#V" n="42" break="no"/>ti theologorum dicunt quod notnst potest euidenter probari: quod 
+        prodi<lb ed="#V" n="43" break="no"/>ctio rerum ad extra sit libera et contingens. Illi vero philosorum quo 
+        <lb ed="#V" n="44"/>dicunt deum non esse causam efficientem: diceret quod 
+        nu<lb ed="#V" n="45" break="no"/>la productio contingit deo: nece ad extra nec ad intra: 
+        <lb ed="#V" n="46"/>nec oppositum probatur eis: quia licet probetur: quod praema 
+        productio<lb ed="#V" n="47" break="no"/>contingat primo producenti: non tamen probatur quod supponitur quod 
+        <lb ed="#V" n="48"/>deus sit primum producens: quod tamen negatur ab eis. Secundo rmon 
+        <lb ed="#V" n="49"/>deo ad rationes pro secunda conclusione: et quia illa conclusio dependet 
+        <lb ed="#V" n="50"/>ex tribus propositionibus: potest dupliciter. responderi secundum duas 
+        <lb ed="#V" n="51"/>opiniones philosi tactas immediate: quia tenentens quod deus 
+        <lb ed="#V" n="52"/>non est causa efficiens aliorum a se: possent concedere primam 
+        pro<lb ed="#V" n="53" break="no"/>positionem et eius deductionem. negarent tamen secundam: nec 
+        <lb ed="#V" n="54"/>probatio valent aliquid eis: quia isti dicunt quod deo repugnat 
+        <lb ed="#V" n="55"/>omnis ratio principii et per consequens non videtur quod in primo sit omnis 
+        ratio<lb ed="#V" n="56" break="no"/>principii quae non reducitur ad aliquod principium prius: sicut iste 
+        <lb ed="#V" n="57"/>doctor supponit sine probatione aliqui: negarent etiam 
+        ter<lb ed="#V" n="58" break="no"/>tiam propositionem: nec probatio valet aliquid euidentur: 
+        <lb ed="#V" n="59"/>quia supponit praemam conclusionem esse deumostratam cusosium patet 
+        <lb ed="#V" n="60"/>ex supdictis. Tenentes vero quod deus est causa efficiens aliorum 
+        <lb ed="#V" n="61"/>a se: negarent omnes propositiones. Et ad probationem primo 
+        di<lb ed="#V" n="62" break="no"/>cerent quod principium productiuum pro modum voluntatis 
+        redu<lb ed="#V" n="63" break="no"/>citur ad principinum productiuum per modum nature: sicut ad 
+        prin<lb ed="#V" n="64" break="no"/>cipium proprius et perfectius: et hoc iste doctor potest 
+        <lb ed="#V" n="65"/>concedere: si vult consequentur loqui. et ipse vult quod 
+        produ<lb ed="#V" n="66" break="no"/>ctio naturalis est prima productio vt patet in tertia ratione probante primo 
+        <lb ed="#V" n="67"/>mam conclusionem. Et quando dicitur quod tunc principium productiuum per 
+        <lb ed="#V" n="68"/>modum voluntatis secundum totum genus suum esset imperfectum 
+        con<lb ed="#V" n="69" break="no"/>cederetur ab istis. Et ex hoc vt dicunt repugnat ipsi¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>deo producere aliquid aliud a se per modum voluntatis: 
+        <lb ed="#V" n="71"/>non autem per modum nature: nec oppositum demonstratur ab 
+        <lb ed="#V" n="72"/>isto doctore: licet sit credendum infallibiliter. Et propter hoc 
+        <lb ed="#V" n="73"/>patet quid dicendum ad probationem secunde propoitonis secundum 
+        <lb ed="#V" n="74"/>istos. Ad probationem vero tertie propoitonis diceretur 
+        <lb ed="#V" n="75"/>vt supra. Ex his patet quid dicendum ad ea que 
+        addu<lb ed="#V" n="76" break="no"/>cunt pro tertia conclusione: quia omnes ille propoitones supponunt 
+        <lb ed="#V" n="77"/>primas duas conclusiones esse demonstratas: quod patet esse falsum 
+        <lb ed="#V" n="78"/>ex supradictis. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e2284">
+        Contra quartam conclusionem sicut 
+        dice<lb ed="#V" n="79" break="no"/>batur superius est quedam opinio. 
+        <lb ed="#V" n="80"/>Aureolus vbi supra. 
+        <lb ed="#V" n="81"/>Que ponit: quod potest demonstrari: quod primum principium sub 
+        <lb ed="#V" n="82"/>sistit in tribus suppositis. Uno quidem reali 
+        duo<lb ed="#V" n="83" break="no"/>bus intentionalibus vel quod in omnibus tribus existentibus 
+        re<lb ed="#V" n="84" break="no"/>alibus. Et probat ille doctor duas conclusiones. Prima 
+        <lb ed="#V" n="85"/>est: quod omne intelligens et amans se subsistit in trino 
+        sup<lb ed="#V" n="86" break="no"/>posito et communiter. Secunda est: quod deus de necessitate 
+        <lb ed="#V" n="87"/>subsistit in tribus suppositis realibus quidem: vel 
+        sal<lb ed="#V" n="88" break="no"/>tem vno reali et duobus intentionalibus: pro deductione 
+        pri<lb ed="#V" n="89" break="no"/>me conclusionis praemittit duas propoitones. Prima est: quod per 
+        <lb ed="#V" n="90"/>actum intellectus res intellecta ponitur in esse 
+        conspicuo<lb ed="#V" n="91" break="no"/>formato et apparenti. Et hanc probat a priori et posteri 
+        <lb ed="#V" n="92"/>ori. A priori sic: impossibile est quin apparitione 
+        formali<lb ed="#V" n="93" break="no"/>aliquid appareat obiectiue: sicut enim albedine 
+        ali<lb ed="#V" n="94" break="no"/>quod albis e: et representatione aliquid repraesentatur: et 
+        pi<lb ed="#V" n="95" break="no"/>ctura aliquid pingitur: sic apparitione aliquid 
+        appa<lb ed="#V" n="96" break="no"/>ret: sed sic est: quod intellectus non est aliud quam 
+        apparitio<lb ed="#V" n="97" break="no"/>quedam formalis: sicut visio est quedam apparitio in 
+        ocu<lb ed="#V" n="98" break="no"/>lo existens: ita quod dum res videntur apparent: secundum quod dicit 
+        <lb ed="#V" n="99"/>commentator 4 metaphi. commeto. 23. sic et intellectio 
+        <lb ed="#V" n="100"/>cum sit quedam spiritualis visio rerum: erit quedam spiritumalis 
+        <lb ed="#V" n="101"/>apparitio: igitur relinquitur quod per eum res capiunt esse 
+        appa<lb ed="#V" n="102" break="no"/>res: non enim potest dici quod intellectio ita sit apparitio quod 
+        <lb ed="#V" n="103"/>nihil appareat nisi ipsa: alioquin intellectio apparet 
+        <lb ed="#V" n="104"/>et non intelligeretur nec cognosceretur ad extra per 
+        intelle<lb ed="#V" n="105" break="no"/>ctum: et sic patet vt dicit a priori: quod omnis intellectio: 
+        immo<lb ed="#V" n="106" break="no"/>cognitio est illud quo res apparet et ponuntur in esse 
+        ap<lb ed="#V" n="107" break="no"/>parenti. Secundo a rguit etiam a posteriori sic: constat 
+        <lb ed="#V" n="108"/>quod intellectio est similitudo rei de qua est. Aut igitur per 
+        <lb ed="#V" n="109"/>hanc similitudinem res capit aliquod esse: aut 
+        denomina<lb ed="#V" n="110" break="no"/>ri tantum: sed non potest dici quod de nominari tantum: sic quod esse 
+        <lb ed="#V" n="111"/>intellectum non sit nisi denominatio quedam: sicut ce 
+        <lb ed="#V" n="112"/>sar pictus denominatur a pictura: per hanc tamen denomia 
+        <lb ed="#V" n="113"/>tionem cesar non est praesens picture: nec apparet: ergo 
+        ne<lb ed="#V" n="114" break="no"/>cesse est dicere quod per intellectionem tamquam rei simillimu res 
+        <lb ed="#V" n="115"/>capiat quoddam esse: ita vt esse intellectum non sit 
+        denomi<lb ed="#V" n="116" break="no"/>natio sola: sed quoddam esse intentionale diminutum et 
+        <lb ed="#V" n="117"/>apparens: iuxta illud commentatoris. 3 metaphi. 
+        con<lb ed="#V" n="118" break="no"/>meto. 7 qui ait: quod intelligibilia dicuntur esse non 
+        simpli<lb ed="#V" n="119" break="no"/>citer: sed esse in anima et in cognitione. Tertio arguit 
+        <lb ed="#V" n="120"/>a posteriori sic: constat enim quod intellectus fertur super 
+        <lb ed="#V" n="121"/>rosam simpliciter et expritur illam sibi obici obiectiue. 
+        <lb ed="#V" n="122"/>Illud itaque quod sic obicitur: aut est species informans 
+        intel<lb ed="#V" n="123" break="no"/>lectum: aut actus intellectus: aut res facta per 
+        intelle<lb ed="#V" n="124" break="no"/>ctum aut res subsistens etiam praeter intellectum aut omnes 
+        <lb ed="#V" n="125"/>rose existentes extra: positiue tamen in esse intentionali et 
+        ap<lb ed="#V" n="126" break="no"/>parenti sit quasi vna rosa totalis: non potest dari primum. 
+        <lb ed="#V" n="127"/>valet. quod sit spes rose existens in intellectu: cum enim illud 
+        <lb ed="#V" n="128"/>obiiciatur intellectui et cernatur ab eo: aut ibi subsistit 
+        <lb ed="#V" n="129"/>intellectus: et hoc poni non potest: quia non intelligeret 
+        <lb ed="#V" n="130"/>res extra sed tamntum species: et iterum scientia esset de 
+        specie<lb ed="#V" n="131" break="no"/>bus: nec ista propositio esset vera: rosa est flos: quia spes 
+        ro<lb ed="#V" n="132" break="no"/>se non est flos: aut non consistit in illa specie intuitio in 
+        <lb ed="#V" n="133"/>tellectus: sed protenditur mediante illa ad rem: et tunc 
+        ha<lb ed="#V" n="134" break="no"/>betur intentum: res enim existens in vltimato intuitu per 
+        <lb ed="#V" n="135"/>modum apparentis est illa de qua est praesens inquisitior 
+        <lb ed="#V" n="136"/>nec potest etiam poni quod sit ipse actus intellectus rosa illa 
+        <lb ed="#V" n="137"/>apparens: tum quia intellectus primo cerneret suum actum: et me 
+        <lb ed="#V" n="138"/>diate eo cerneret obiectum: et per consequens non intelligent res dire¬
+        <pb ed="#V" n="79-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>cteitum quia rediret error commentatoris: quod sit vnus 
+        intel<lb ed="#V" n="2" break="no"/>lectus in omnibus: certum est enim quod illa rosa apparens particula 
+        <lb ed="#V" n="3"/>ris non est: nec multiplicari potest: et ita esset vna in me et 
+        inte<lb ed="#V" n="4" break="no"/>et per consequens subiectum eius: quod est intellectus possibilis 
+        <lb ed="#V" n="5"/>esset idem in me: et in te non plurificatum. Nec potest etiam 
+        <lb ed="#V" n="6"/>poni quod sit aliqua res facta per intellectum in esse reali: 
+        <lb ed="#V" n="7"/>tum quia intellectio est operatio immanens: ex qua non 
+        sequi<lb ed="#V" n="8" break="no"/>tur aliquid aliud actu: vt patet ex. 7 metaphi. tum quia si 
+        <lb ed="#V" n="9"/>aspectus intellectus sistit in illa re: scientie erunt de illis 
+        <lb ed="#V" n="10"/>rebus et non de rebus extra: nec probationes erunt vere 
+        <lb ed="#V" n="11"/>quia intellectus concipiendo subiectum formatur aliam re: et 
+        con<lb ed="#V" n="12" break="no"/>cipiendo praedicatum format alteram rem: et sic vna non erit 
+        <lb ed="#V" n="13"/>alia: nec probatio erit vera. Non potest poni denique quod 
+        <lb ed="#V" n="14"/>sit aliqua res intellectionem praecedes: habens aliquod esse 
+        <lb ed="#V" n="15"/>reale: tum quia destructis omnibus rosis particularibus: 
+        re<lb ed="#V" n="16" break="no"/>maneret rosa simpliciter: contra dictum phlysi in praedicamen 
+        <lb ed="#V" n="17"/>tis: qui ait quod destructis primis impossibile est aliquid 
+        alio<lb ed="#V" n="18" break="no"/>rum remanere: et loquitur de secundis substantiis: tum quia 
+        <lb ed="#V" n="19"/>redirent idee platonice: ponebat enim plato 
+        homi<lb ed="#V" n="20" break="no"/>nem subsistentem illis qui terminat aspectum intellecti 
+        <lb ed="#V" n="21"/>concipientis homine simpliciter: vnde vocabat ista 
+        <lb ed="#V" n="22"/>hominem per se: et per se rosam: quasi formas et naturas 
+        <lb ed="#V" n="23"/>per se subsistentes: et has dicebat ideas: ergo relinqui 
+        <lb ed="#V" n="24"/>turut detur vltimum valet. quod non habeat nisi apparens et in 
+        <lb ed="#V" n="25"/>tentionale: ut sic omnes rose que in esse reali distincte 
+        <lb ed="#V" n="26"/>sunt ponantur in esse apparenti et intentionali rosa vna 
+        <lb ed="#V" n="27"/>totalis: apparet igitur ut dicit a priori et posteriori per in 
+        <lb ed="#V" n="28"/>tellectum res cognita capit quoddam esse apparens et 
+        <lb ed="#V" n="29"/>intentionale. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e2484">
+        Secunda propositio est: quod per amore amans 
+        ca<lb ed="#V" n="30" break="no"/>pit esse egressum ac latum extra se: ita ut vi amoris ex 
+        <lb ed="#V" n="31"/>tra se exeat modo spirituali et intentionali. et ista 
+        declara<lb ed="#V" n="32" break="no"/>tur sicut et praecedens a priori et posteriori. a priori 
+        quiden<lb ed="#V" n="33" break="no"/>quia omni latione aliquid fertur et deportatur: sed constat quod 
+        <lb ed="#V" n="34"/>amor est quedam latio amantis in amatum: dicimus enim 
+        <lb ed="#V" n="35"/>quod amor fert formaliter cor amantis in aliud: ergo 
+        <lb ed="#V" n="36"/>necesse est quod anima et spiritus amantis per amorem capiat esse 
+        la<lb ed="#V" n="37" break="no"/>tum: sed constat quod non fertur realiter: ergo capiat esse 
+        la<lb ed="#V" n="38" break="no"/>tum tamtum intentionaliter. A posteriori autem et per expientiam 
+        <lb ed="#V" n="39"/>idem patetut dicit: experite namque quilibet ab amore 
+        pos<lb ed="#V" n="40" break="no"/>sessus quoddam potensdus et inclinatione sui spiritialem ad 
+        <lb ed="#V" n="41"/>amatum: non autem inclinationem per modum desiderii nisi 
+        <lb ed="#V" n="42"/>vbi est amor concupiscentie: sed inclinationem per modum 
+        <lb ed="#V" n="43"/>cuiusdam complacentie et quietis ac inherentie ad 
+        ama<lb ed="#V" n="44" break="no"/>tum: vbi est amor honeste amicitie. Ista igitur 
+        inheren<lb ed="#V" n="45" break="no"/>tia requiritut inherens attingat illud cui inheret. 
+        <lb ed="#V" n="46"/>valet amatum: aut igitur hoc est: quia amatum attrahitur ad 
+        <lb ed="#V" n="47"/>amantem spiritumaliter: aut quia amas egreditur ad amatum 
+        spi<lb ed="#V" n="48" break="no"/>ritualiter: sed experientia docet quod amans non attrahit 
+        <lb ed="#V" n="49"/>amatum in amore honesto et amicitie: immo talis est 
+        <lb ed="#V" n="50"/>amor desiderii et concupiscentie: ergo relinquitur quod 
+        egre<lb ed="#V" n="51" break="no"/>diatur amans ad amatum spiritualiter. vt inhereat illi et 
+        qui<lb ed="#V" n="52" break="no"/>escatur in illo in amore honesto: sic igitur est ibibis amans 
+        <lb ed="#V" n="53"/>valet in esse egresso extra se et in esse a quo egreditur: et 
+        pri<lb ed="#V" n="54" break="no"/>mum quidem est intentionale: secundum vero reale. His 
+        <lb ed="#V" n="55"/>propoitonibus suppositis deducit iste doctor primam 
+        conclu<lb ed="#V" n="56" break="no"/>sionem sic: omnis intellectus se. et complacens amore in se 
+        <lb ed="#V" n="57"/>ipso est in se et ante se: et extra se: sed tale est vna res 
+        ter<lb ed="#V" n="58" break="no"/>subsistens: ergo omne se intelligens et amans in tribus 
+        sup<lb ed="#V" n="59" break="no"/>positis idem realiter subsistit: et hec fuit praema conclusio: 
+        <lb ed="#V" n="60"/>secundam vero probat faciliter: et probatio fuit tacta in 
+        primo<lb ed="#V" n="61" break="no"/>mo articulo: quia concessum est ab omnibus 
+        philosophan<lb ed="#V" n="62" break="no"/>tibus quod deus imutabiliter se intelligit et in se 
+        copla<lb ed="#V" n="63" break="no"/>cet et delectatur voluptissimam vitam habens: vt dicit philos 
+        <lb ed="#V" n="64"/>12. metaphi. ergo necesse est ut subsistat in se realiter 
+        <lb ed="#V" n="65"/>et ante se: vel realiter: vel saltem intentionaliter cum se 
+        <lb ed="#V" n="66"/>semper intelligat: et extra se realiter vel intentionaliter cum 
+        <lb ed="#V" n="67"/>se semper amet. Et addit sicut etiam dicebatur in primo 
+        <lb ed="#V" n="68"/>articulo: quod philosi elegerunt alteram partem disiunctiue. valet. 
+        <lb ed="#V" n="69"/>quod ante se et extra se subsistat tantum intentionaliter: et hoc
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>dicit de platone be. aug. et de arist. commentator in 
+        lo<lb ed="#V" n="71" break="no"/>eis allegatis ibidem. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e2581">
+        Ad rationes Aureoli. 
+        <lb ed="#V" n="72"/>Sed ad veritatem ista sunt ficticia: quia nec est verum 
+        <lb ed="#V" n="73"/>quod res intellecta per actum intelligendi capiat aliquod esse 
+        <lb ed="#V" n="74"/>apparens: nec quod amans per actum amoris capiat esse 
+        <lb ed="#V" n="75"/>egressum: nec latum extra se: nec vnquam phlysi hoc 
+        sense<lb ed="#V" n="76" break="no"/>rut. Ad primum igitur pro prima propositione 
+        conce<lb ed="#V" n="77" break="no"/>do: quod de facto omni apparitione aliquid apparet: licet de 
+        <lb ed="#V" n="78"/>possibili oppositum possit esse verum: quia possibile est aliquen 
+        <lb ed="#V" n="79"/>habere visionem et non videre: intellectionem et non 
+        intelli<lb ed="#V" n="80" break="no"/>gere: prout extitit alibi declaratum Et concedo quod 
+        in<lb ed="#V" n="81" break="no"/>tellectio est quadam apparitio: sed ex hoc non sequitur quod per 
+        <lb ed="#V" n="82"/>intellectionem res intellecta capiat esse apparens et 
+        in<lb ed="#V" n="83" break="no"/>tentionale distinctum ab ipsa: sicut iste doctor concludit: 
+        <lb ed="#V" n="84"/>sed sequitur quod de facto omni intellectione aliquid 
+        ap<lb ed="#V" n="85" break="no"/>paret: et hoc est verum: quia omni intellectione aliquid in 
+        <lb ed="#V" n="86"/>telligitur: sicut omni visione aliquid videtur: nec aliud 
+        <lb ed="#V" n="87"/>est intellectione aliquid apparere: quam ipsa aliud 
+        intelli<lb ed="#V" n="88" break="no"/>gi: sicut nec est aliud visione aliquid apparere quam ipsa 
+        <lb ed="#V" n="89"/>aliquid videri. non oportet ergo quod res intellecta 
+        po<lb ed="#V" n="90" break="no"/>natur in aliquo tali esse: sed quod ipsa intelligatur secundum suum 
+        <lb ed="#V" n="91"/>esse. Et ex hoc apparet quod ista demonstratio a 
+        priori<lb ed="#V" n="92" break="no"/>peccat in forma: quia conclusio quam infert non sequitur 
+        expre<lb ed="#V" n="93" break="no"/>missis. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e2631">
+        Ad secundum dicendo: quod per intellectionem res non 
+        <lb ed="#V" n="94"/>capit a liquod tale esse: sed denominari tantum: quia dicitur 
+        intelle<lb ed="#V" n="95" break="no"/>cta intellectione que est in intelligente: sicut opus dicitur 
+        <lb ed="#V" n="96"/>humanum ab humanitate quae est in operante. Et quando 
+        di<lb ed="#V" n="97" break="no"/>citur quod per denominationem qua cesarpictus denominatur 
+        <lb ed="#V" n="98"/>a pictura: non est praesens picture nec apparet verum esse 
+        <lb ed="#V" n="99"/>sed ex hoc non sequitur quod res intellecta non sit praesens 
+        in<lb ed="#V" n="100" break="no"/>telligenti: nec appareat: quia intellectio est formaliter 
+        api<lb ed="#V" n="101" break="no"/>tio: pictura aut non: et ideo non sequitur res picta non 
+        ap<lb ed="#V" n="102" break="no"/>peraret pictura a qua denominatu picta: ergo res 
+        in<lb ed="#V" n="103" break="no"/>tellecta non apparet intellectione qua denominatur in 
+        <lb ed="#V" n="104"/>tellecta. Ad tertium: licet posset multipliciter responde 
+        <lb ed="#V" n="105"/>ri: quia rato multa implicat: dico tamen quando 
+        rosa<lb ed="#V" n="106" break="no"/>intelligitur abstractiue illud quod obiicitur intellectui: est 
+        <lb ed="#V" n="107"/>species rose informans intellectum: sicut patet per be. aug. 
+        <lb ed="#V" n="108"/>1I. de tri. per totum. vnde. c. 13. dicit: quod est corporis sensum 
+        <lb ed="#V" n="109"/>aliquod corpus in loco: hoc est animi amicitie 
+        similitu<lb ed="#V" n="110" break="no"/>do corporis in memoria: et quod est aspicientis visio ad 
+        <lb ed="#V" n="111"/>eam speciem corporis ex qua sensus formatur: hec est 
+        vi<lb ed="#V" n="112" break="no"/>sio cogitantis ad imaginem corporis inmemoria 
+        consti<lb ed="#V" n="113" break="no"/>tutam. Et quando dicitur quod vel sistit ibi intellectus vel non: 
+        <lb ed="#V" n="114"/>dico quod non sistit ibi intellectus sic quod nihil intelligatur: 
+        <lb ed="#V" n="115"/>nisi species illa secundum quod entitas quedam est in se: quia cum 
+        i<lb ed="#V" n="116" break="no"/>la species sit representatiua rose: in ipsa vere cognosci 
+        <lb ed="#V" n="117"/>tur rosa: non quidem intuitiue sed abstractiue: et ideo 
+        <lb ed="#V" n="118"/>non sequitur: quod tantum intelligatur species et non res extra: nec 
+        <lb ed="#V" n="119"/>quod scientia sit de speciebus et non de rebus: nec quod 
+        ista<lb ed="#V" n="120" break="no"/>propositio sit falsa: rosa est flos. Et quando vlterius 
+        <lb ed="#V" n="121"/>dicitur quod si mediante illa specie intellectus protendi 
+        <lb ed="#V" n="122"/>tur ad rem habetur intentum: quia res illa existens in 
+        <lb ed="#V" n="123"/>vltimato intuitu per modum apparentis est illa de 
+        <lb ed="#V" n="124"/>qua est presens inquisitio: dico quod licet mediante illa 
+        <lb ed="#V" n="125"/>specie res cognoscatur abstractiue: non tamen sequi 
+        <lb ed="#V" n="126"/>tur propter hoc quod ipsa existat in aliquo esse 
+        apparen<lb ed="#V" n="127" break="no"/>ti sicut iste doctor imaginatur: quia suffict quod 
+        spe<lb ed="#V" n="128" break="no"/>cies illa sit illius rei similitudo representatiua: quo 
+        <lb ed="#V" n="129"/>posito sufficienter poterit in ipsa cognosci 
+        abstracti<lb ed="#V" n="130" break="no"/>ue: circumscripto omni tali esse fictitio et apparenti. 
+        <lb ed="#V" n="131"/>Et ad veritatem omnes iste deductiones sunt 
+        con<lb ed="#V" n="132" break="no"/>tra eum: quia si quando intellectus intellligit rosam: 
+        <lb ed="#V" n="133"/>illud quod sibi obiicitur obiectiue est rosa posita 
+        in<lb ed="#V" n="134" break="no"/>tali esse intentionali et apparenti: vel intellectus 
+        si<lb ed="#V" n="135" break="no"/>stit in illo esse apparenti: vel non: si sic: scquitur per 
+        <lb ed="#V" n="136"/>modum suum arguendi quod intellectus non intelligeret res 
+        ex<lb ed="#V" n="137" break="no"/>sed tamtum esse apparens et intentionale in quo ponuntur per actu 
+        i<lb ed="#V" n="138" break="no"/>telligendi: nec scientia esset de rebus: sed de huiusmodi esse intetionali
+        <pb ed="#V" n="80-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>et apparenti. quod est maius inconueniens: quam si esset de 
+        spe<lb ed="#V" n="2" break="no"/>ciebus illius. cum illud esse apparens secundum eum sit minoris 
+        en<lb ed="#V" n="3" break="no"/>titatis. quam sint species ille. Et vlterius illa propositio 
+        <lb ed="#V" n="4"/>non erit vera: rosa est flos: quia illud esse appares cum sit 
+        <lb ed="#V" n="5"/>positum in esse per actum intellectus: non est species foris. S vero 
+        <lb ed="#V" n="6"/>dicatur quod intellectus non sistit in aliquo esse appareti sed 
+        me<lb ed="#V" n="7" break="no"/>diante ipso noscitur rosa quae est extra secundum esse reale quod 
+        ha<lb ed="#V" n="8" break="no"/>bet in se. ita dicetur ei et sine comparatione rationabilius. quod 
+        <lb ed="#V" n="9"/>non sistit in specie representatiua rose: sed mediante 
+        <lb ed="#V" n="10"/>ipsa. id es ipsa vere cognoscitur rosa quae est extra cum sit 
+        repre<lb ed="#V" n="11" break="no"/>sentatiua ipsius secundum esse quod habet in seipsa. Ad primum 
+        ve<lb ed="#V" n="12" break="no"/>ro quod adducit pro secunda propositione sua: concedo quod omni 
+        la<lb ed="#V" n="13" break="no"/>tione aliquid fertur et quod amor sit quadam latio. et ideo 
+        conce<lb ed="#V" n="14" break="no"/>do quod per amorem amans fertur in amatum: sed ex hoc non 
+        sequi<lb ed="#V" n="15" break="no"/>tur quod capiatur aliquod esse latum distinctum a se et ab actu: 
+        <lb ed="#V" n="16"/>quia amantem ferri in amatum non est nisi per amorem ei vniri. vel 
+        <lb ed="#V" n="17"/>intimari. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e2772">
+        Ad secundum concedo quod ab amore possessus ex 
+        <lb ed="#V" n="18"/>peritur quandam inclinationem sui ad amatum. sed ex hoc 
+        <lb ed="#V" n="19"/>non sequitur. quod attingat impsum ponendo se extra se in 
+        ali<lb ed="#V" n="20" break="no"/>quo esse intentionali et diminuto: sufficit enim quod 
+        attin<lb ed="#V" n="21" break="no"/>gat ipsum per actum amoris: nec est ibi alia 
+        attingen<lb ed="#V" n="22" break="no"/>tia. Ex hiis patet quid dicendum ad rationes prime 
+        con<lb ed="#V" n="23" break="no"/>clusionis sue: patet etiam quid dicendum ad ea quae adducuntur 
+        pro<lb ed="#V" n="24" break="no"/>secunda conclusione: quia supposito quod prima non fit vera 
+        dedu<lb ed="#V" n="25" break="no"/>ctio: secundasem nulla: quia non procedit nisi supposita prima: 
+        <lb ed="#V" n="26"/>Et vlterius si prima conclusio esset vera determinate 
+        proba<lb ed="#V" n="27" break="no"/>retur quod deus subsistit in tribus suppositis realibus quod est contra 
+        <lb ed="#V" n="28"/>eum. deductio patet: quia quicquid potest de deo 
+        demonstra<lb ed="#V" n="29" break="no"/>ri disiunctim potest determinate pro parte perfectiori: sicut 
+        <lb ed="#V" n="30"/>dicebatur deducendo conclusionem. etc. Ad illud vero quod ad 
+        <lb ed="#V" n="31"/>ditur de platone et arist. nec est verum quod ipsi hoc sense 
+        <lb ed="#V" n="32"/>runt. nec est verum quod be. aug. et commentator hoc dixerit 
+        <lb ed="#V" n="33"/>immo totum oppositum apparet ex dictis. b. aug. loquens 
+        <lb ed="#V" n="34"/>eni de porphirio in loco prae allegato sic ait: qua autem dicat esse 
+        <lb ed="#V" n="35"/>principia. tamquam platonica nouimus: dicit enim deum patrenm 
+        <lb ed="#V" n="36"/>et deum filium que grece appellat paternum intellectum. vel 
+        <lb ed="#V" n="37"/>paternam mentem. de spiritu sacto autem: aut nihil aut non 
+        aper<lb ed="#V" n="38" break="no"/>te aliquid dicit: quuis quem alium dicat horum medium non 
+        in<lb ed="#V" n="39" break="no"/>telligo. Et quobusdam pucis interpositis. subdit. 
+        no<lb ed="#V" n="40" break="no"/>ita que non dicimus duo vel tria principia cum de deo lod 
+        <lb ed="#V" n="41"/>mur: sicut nec duos deos: vel tres licitum nobis est 
+        di<lb ed="#V" n="42" break="no"/>cere: hec sunt verba be. aug et patet quod non dicit 
+        plato<lb ed="#V" n="43" break="no"/>nem dixisse deum subsistere an se: et extra se tantum intentio 
+        <lb ed="#V" n="44"/>naliter. nec potest trahi existis. immo totum oppositum: quia si 
+        <lb ed="#V" n="45"/>plato diceret filium non habere esse reale: sed tantum 
+        intetio<lb ed="#V" n="46" break="no"/>nale non diceret ipsum esse principium: cuius oppositum patet 
+        ex<lb ed="#V" n="47" break="no"/>ex dictis beati aug. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e2840">
+        Ad rationes principales. 
+        <lb ed="#V" n="48"/>Ad primam in auctoritate ricardi dico: quod 
+        ratio<lb ed="#V" n="49" break="no"/>nes adducte ad explanationes eorum qua sunt fidei non 
+        <lb ed="#V" n="50"/>sunt demonstratiue: sed persuasiones et probabilitates 
+        <lb ed="#V" n="51"/>quindam et sic ipsemet exponit se. 5. de tri. dicuntur tamen 
+        ne<lb ed="#V" n="52" break="no"/>cessarie non ratione euidentie sed ratione nature. quae in se 
+        certis<lb ed="#V" n="53" break="no"/>sima est et necessaria. 
+      </p>
+               <p xml:id="at8va9-e44239-d1e2856">
+        Ad secundam rationem. 
+        con<lb ed="#V" n="54" break="no"/>cedo: et credo eam concludere. 
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#AlphonsusVargas">Alphonsus Vargas Toletanus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2024-10-10">October 10, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-x7yh5z">Venice, 1490</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="47-v"/>
+            <cb ed="#V" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="at8va9-e25587"><!-- l1d1q2 -->
+            <head xml:id="at8va9-e25587-Hd1e101">Quaestio 2</head>
+            <head xml:id="at8va9-e25587-Hd1e103" type="question-title">Utrum fruitio sit essentialiter dilectio vel delectatio</head>
+            <p xml:id="at8va9-e25587-d1e106">
+               <lb ed="#V" n="37"/>SEcundo quaero: vtrum fruitio sit essentialiter dilectio 
+      <lb ed="#V" n="38"/>vel delectatio. Et videtur primo: quod sit essentialiter 
+      di<lb ed="#V" n="39" break="no"/>lectio quia frui est amore inherere alicui propter se 
+      <lb ed="#V" n="40"/>sicut docet be. aug. primo de doctrina christiana c. i. igitur est 
+      <lb ed="#V" n="41"/>formaliter amor: amor autem et dilectio idem: ergo etc. 
+      Con<lb ed="#V" n="42" break="no"/>tra be. aug. primo de tri. c. 23. dicit: quod plenum gaudium nostrum 
+      <lb ed="#V" n="43"/>quo amplius non est: est frui trinitate deo igitur fruitio non est 
+      <lb ed="#V" n="44"/>essentialiter dilectio sed delectatio. Responsio in ista. q. erunt 
+      <lb ed="#V" n="45"/>quattuor articuli: quia primo ponam vnicam distinctionem. 
+      se<lb ed="#V" n="46" break="no"/>cundo quadruplicem conclusionem. tertio mouebo dubia. et 
+      vl<lb ed="#V" n="47" break="no"/>timo respondebo. 
+    </p>
+            <div xml:id="at8va9-e25587-Dd1e132">
+               <head xml:id="at8va9-e25587-Hd1e134">Articulus 1</head>
+               <p xml:id="at8va9-e25587-d1e136">
+        Primus articulus. 
+        <lb ed="#V" n="48"/>QUantum ad primum articulum: Distinguo primo de fruitione 
+        <lb ed="#V" n="49"/>in communi: quia quadam est creata: quedam increata fruitione in 
+        <lb ed="#V" n="50"/>creata deus fruitur seipso. fruitione vero creata ipso fruitur 
+        <lb ed="#V" n="51"/>creatura. et intelligo. q. de fruitione creata quia de 
+        incre<lb ed="#V" n="52" break="no"/>ata non est dubium quod est essentialiter dilectio vel dilectatio 
+        <lb ed="#V" n="53"/>cum sit essentialiter: deus qui est essentialiter quicquid habet. 
+      </p>
+            </div>
+            <div xml:id="at8va9-e25587-Dd1e153">
+               <head xml:id="at8va9-e25587-Hd1e155">Articulus 2</head>
+               <p xml:id="at8va9-e25587-d1e157">
+                  <lb ed="#V" n="54"/>Secundus articulus. 
+        <lb ed="#V" n="55"/>QUantum ad secundum articulum: pono quatuor 
+        conclu<lb ed="#V" n="56" break="no"/>siones. Prima est quod delectatio est aliqud fruitionis 
+        <lb ed="#V" n="57"/>essentialiter et intrinsece. Ista conclusio probatur primo de 
+        fruitio<lb ed="#V" n="58" break="no"/>ne beatifica sic: actus perfectissimus voluntatis est aliquid 
+        <lb ed="#V" n="59"/>fruitionis beatifice essentialiter. et intrinsecaliter: patet 
+        <lb ed="#V" n="60"/>ex terminis. sed delectatio amicitie circa deum est actus 
+        <lb ed="#V" n="61"/>perfectissimus voluntatis. patet ex precedenti. q. ergo. Secundo 
+        <lb ed="#V" n="62"/>sic: omnis actus essentialiter beatificus qui non est essentialiter 
+        vi<lb ed="#V" n="63" break="no"/>sio nec aliquid visionis est essentialiter fruitio. vel aliquid 
+        fru<lb ed="#V" n="64" break="no"/>itionis: hoc patet: quia in his duobus praecise consistit essentialiter 
+        <lb ed="#V" n="65"/>beatitudo creature vt patet per illam decretalem extrauagantem 
+        <lb ed="#V" n="66"/>domini benedicti de visione animarum: sed delectatio amicitie 
+        <lb ed="#V" n="67"/>circa deum est actus essentialiter beatificus: sicut fuit 
+        declara<lb ed="#V" n="68" break="no"/>tum in quaestione praecedenti: et non essentialiter visio: nec aliquid 
+        visio<lb ed="#V" n="69" break="no"/>nis: igitur est essentialiter fruitio vel aliquid fruitionis. Se¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>cundo probatur conclusio absolute primo sic: illud quo solo posito 
+        <lb ed="#V" n="71"/>quocumque alio circumscripto ponitur fruitio saltem partialiter 
+        <lb ed="#V" n="72"/>est aliquid fruitionis essentialiter et intrinsece: delectatio est 
+        <lb ed="#V" n="73"/>huiusmodi dicit be. aug. 83. q. q. 33. quod frui dicimur ea re de 
+        <lb ed="#V" n="74"/>qua capimus voluptatem siue delectationem. Et de ci. de 
+        <lb ed="#V" n="75"/>c. dicit: quod ea re frui dicimur quae nos non ad aliud 
+        re<lb ed="#V" n="76" break="no"/>ferenda per seipsam delectat: igitur etc. Secundo sic: 
+        il<lb ed="#V" n="77" break="no"/>lud proprie: quo solo remoto non manet fruitio 
+        consu<lb ed="#V" n="78" break="no"/>mata et perfecta est aliquid fruitionis essentialiter et 
+        intrinse<lb ed="#V" n="79" break="no"/>ce: delectatio est huiusmodi: ergo: probatur minor quia vbi non est 
+        quie<lb ed="#V" n="80" break="no"/>tatio: non est perfecta fruitio: quia fruitio si sit perfecta 
+        quie<lb ed="#V" n="81" break="no"/>tat voluntatem: sed vbi non est delectatio non et quietatio: 
+        <lb ed="#V" n="82"/>quia impossibile est quod appetitus careat delectatione et non 
+        <lb ed="#V" n="83"/>desideret ipsam: igitur etc. Ista conclusio potest multis 
+        mo<lb ed="#V" n="84" break="no"/>dis confirmari. 
+      </p>
+               <p xml:id="at8va9-e25587-d1e229">
+        Primo auctoritate be. aug. adducta 
+        <lb ed="#V" n="85"/>in proponendo q. Secundo auctoritate eiusdem expressa. 10 de 
+        <lb ed="#V" n="86"/>tri. c. 23. de par. vbi dicit quod fruimur cognitis in quibus ipsis 
+        <lb ed="#V" n="87"/>propter seipsa delectata quiescunt. Et. c. 26. dicit quod frui est 
+        <lb ed="#V" n="88"/>vti cum gaudio quae verificari non possunt: nisi delectatio sit 
+        <lb ed="#V" n="89"/>essentialiter fruitio vel aliquid eius. Et confirmatur: quia bea. 
+        <lb ed="#V" n="90"/>aug stati post verba vltimo allegata subdit 
+        proinde<lb ed="#V" n="91" break="no"/>omnis quae fruitur vtitur: assumit aliquid in facultatem voluntatis 
+        <lb ed="#V" n="92"/>cum fine delectationis. Ex qubus verbis euidentur 
+        appa<lb ed="#V" n="93" break="no"/>ret: quod omnis quo fruitur assumit aliquid in facultatem voluntatis 
+        <lb ed="#V" n="94"/>cum fine delectationis: quod non haberet veritatem: si 
+        delecta<lb ed="#V" n="95" break="no"/>tio non esset de ratione fruitionis intrinseca et formali hec 
+        <lb ed="#V" n="96"/>est etiam expressa sententia magistri in litera: qui pertractans praedicta 
+        <lb ed="#V" n="97"/>verba be. aug. inquirit an fruamur in hac vita: et 
+        pro<lb ed="#V" n="98" break="no"/>bat quod non: quia be. aug. dicit: quod frui est vti cum gaudio: non 
+        <lb ed="#V" n="99"/>adhuc spei. sed iam rei: sed in hac vita secundum apostolum 
+        gaude<lb ed="#V" n="100" break="no"/>mus in spe. Et tenens conclusionem affirmatiuam respondet 
+        dupli<lb ed="#V" n="101" break="no"/>citur ad rationem. Primo quidem dicit: quod in patria vbi perfecte 
+        <lb ed="#V" n="102"/>gaudebimus perfecte fruemur: in hac autem vita vbi 
+        gau<lb ed="#V" n="103" break="no"/>demus in spe fruimur: sed non adeo plene. Secundo dicit 
+        <lb ed="#V" n="104"/>quod qua fruitur etiam in hac vita: non tamtum habet gaudium spei: sed 
+        <lb ed="#V" n="105"/>etiam rei. Ex quibus solutionibus patet quod delectatio est aliquid 
+        <lb ed="#V" n="106"/>fruitionis secundum magistrum: quia si non: citius expeditus fuisset 
+        <lb ed="#V" n="107"/>dicendo: quod in hac vita fruimur etiam si non gaudemus. 
+        <lb ed="#V" n="108"/>Et modicum infra ponens differentiam inter fruitionem et vsum: 
+        <lb ed="#V" n="109"/>sic frequentur dicitur frui cum delectatione vti cum enim 
+        <lb ed="#V" n="110"/>adest quod diligitur: etiam delectationem secum gerit: si tamen per 
+        <lb ed="#V" n="111"/>ea pertransieris: et ad id vbi permanendum est eam retuleris 
+        <lb ed="#V" n="112"/>vteris ea: et abusiue non proprie diceris frui: si vero 
+        <lb ed="#V" n="113"/>adheseris atque permanseris in ea: finem leticie tue 
+        po<lb ed="#V" n="114" break="no"/>nens: tunc vere et proprie frui dicendus es hec ille. Ex 
+        <lb ed="#V" n="115"/>quibus euidenter apparet delectationem esse de ratione 
+        fruiti<lb ed="#V" n="116" break="no"/>onis essentialiter et intrinsece. 
+      </p>
+               <p xml:id="at8va9-e25587-d1e301">
+        Secunda conclusio est quod 
+        dile<lb ed="#V" n="117" break="no"/>ctio est aliquid fruitionis essentialiter et intrinsece. Et ista 
+        <lb ed="#V" n="118"/>conclusio non est dubia: et per rationes factas ad conclusionem 
+        praeceden<lb ed="#V" n="119" break="no"/>tem potest reduci: primum tamen excepta. Primo: quia dilectis 
+        <lb ed="#V" n="120"/>patrie est actus essentialiter beatificus et non est visio nec 
+        <lb ed="#V" n="121"/>aliquid visionis. Secundo: quia posita sola dilectione 
+        <lb ed="#V" n="122"/>rei propter se: ponitur fruitio saltem partialiter: dicente be. 
+        <lb ed="#V" n="123"/>aug. quod frui est amore inherere etc. Tertio: quia sola 
+        di<lb ed="#V" n="124" break="no"/>lectione remota non manet fruitio consumata et 
+        perfe<lb ed="#V" n="125" break="no"/>cta: etiam si sine dilectione esset possibilis delectatio: 
+        <lb ed="#V" n="126"/>aliter circumscripta dilectione maneret visio et 
+        frui<lb ed="#V" n="127" break="no"/>tio consumpta et perfecta: et sic beatitudo quod est 
+        impossibi<lb ed="#V" n="128" break="no"/>le. Confirmatur tamen dupliciter. Primo: quia secundum be. aug. 
+        <lb ed="#V" n="129"/>83. q. q. 30. omnis peruersitas voluntatis que vitium 
+        <lb ed="#V" n="130"/>nominatur est vti fruendis: vel frui vtendis: igitur 
+        <lb ed="#V" n="131"/>omnis actus voluntatis peruersus et vitiosus 
+        di<lb ed="#V" n="132" break="no"/>stinctus ab vsu est essentialiter fruitio vel aliquid eius 
+        es<lb ed="#V" n="133" break="no"/>sentialiter et intrinsece. sed dilectio creature propter se est 
+        <lb ed="#V" n="134"/>actus voluntatis peruersus et vitiosus distinctus ab vsu. 
+        <lb ed="#V" n="135"/>igitur. Secundo quia sicut se habet dilectio inordinata ad 
+        <lb ed="#V" n="136"/>fruitionem inordinatam. sic suo modo dilectio ordinata 
+        <lb ed="#V" n="137"/>ad fruitionem ordinatam. sed omnis dilectio inordinata 
+        <lb ed="#V" n="138"/>quae non est vsus est aliquid fruitionis inordinate formaliter
+        <pb ed="#V" n="48-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>et intrinsece. ex ratione praecedent: igitur omnis dilectio ordinata 
+        <lb ed="#V" n="2"/>ab vsu distincta est aliquid fruitionis ordinate formaliter 
+        <lb ed="#V" n="3"/>et intrinsece. hec est intentio magistri in littera. dicit quod si 
+        <lb ed="#V" n="4"/>deus non fruitur: nec vtitur nobis. non inuenio quomodo 
+        <lb ed="#V" n="5"/>nos diligat. Et sunt verha beati. aug. 1. de 
+        doctrina<lb ed="#V" n="6" break="no"/>christiana. c. 36. igitur omnis dilectio est vsus vel fruitio: 
+        <lb ed="#V" n="7"/>vel aliquid eorum: sed nonomnis est vsus. igitur 
+        ali<lb ed="#V" n="8" break="no"/>qua est fruitio vel aliquid eius formaliter et intrinsece. 
+        <lb ed="#V" n="9"/>Ex istis duabus conclusionibus sequitur: quod fruitio non 
+        <lb ed="#V" n="10"/>sit essentialiter vnus actus: quia dilectio et delectatio non 
+        <lb ed="#V" n="11"/>sunt vnus actus essentialiter sed distincte. vt patet ex questione praecedenti. 
+        <lb ed="#V" n="12"/>Tertia conclusionest quod fruitio essentialiter includit 
+        simul<lb ed="#V" n="13" break="no"/>et coniuncti actum dilectionis et delectationis: tamquam 
+        quod<lb ed="#V" n="14" break="no"/>dam constitutum vel aggregatum ex eis: probatur primo sic: vnus 
+        <lb ed="#V" n="15"/>istorum actuum sine altero istorum non est totaliter fruitio: quia 
+        <lb ed="#V" n="16"/>quocumque eorum circumscripto non manet fruitio consueta 
+        <lb ed="#V" n="17"/>et perfecta: vt patet ex dictis. et quodlibet eorum est aliquid 
+        fruitionis<lb ed="#V" n="18" break="no"/>ex conclusionibus praecedentibus igitur fruitio essentialiter 
+        inclu<lb ed="#V" n="19" break="no"/>dit etc. consequentia patet: quia sequitur anima non est totaliter homo: sed aliquid 
+        <lb ed="#V" n="20"/>eius: corpus non est totaliter homo: sed aliquid eius: igitur homo includit si 
+        <lb ed="#V" n="21"/>mul et semel coniuncti animam et corpus: tamque quoddam 
+        compo<lb ed="#V" n="22" break="no"/>situm et constitutum ex ipsis. Secundo sic: omne constitutum 
+        <lb ed="#V" n="23"/>ex duobus distinctis respectu quorum vnum non est in potentia 
+        <lb ed="#V" n="24"/>respectu altius nec econtra: est vnum vnitate 
+        congrega<lb ed="#V" n="25" break="no"/>tomunis: patet ex terminis: sed fruitio est quoddam constitutum ex 
+        <lb ed="#V" n="26"/>actibus dilectionis et delectationis: quia quocumque eorum 
+        cir<lb ed="#V" n="27" break="no"/>cumscripto non manet totaliter fruitio: et vnus istorum non est 
+        <lb ed="#V" n="28"/>in potentia respectu alterius: vt patet nec econtra igitur etc. 
+        Ter<lb ed="#V" n="29" break="no"/>tio sic: fruitio non est aliquod vnum vnitate 
+        simpli<lb ed="#V" n="30" break="no"/>citatis: quia dilectio et delectatio in ipsa realiter distinguuntur 
+        <lb ed="#V" n="31"/>ex ae. praecedenti nec vnitate compositionis. quia vnus 
+        isto<lb ed="#V" n="32" break="no"/>rum actuum non infert alterum. nec eontr. igitur et vnum 
+        vnita<lb ed="#V" n="33" break="no"/>te agregationis. 
+      </p>
+               <p xml:id="at8va9-e25587-d1e427">
+        Quarto sic: sicut se habet beatitudo 
+        <lb ed="#V" n="34"/>ad visionem et fruitionem: sic se habet fruitio ad dilectionem 
+        <lb ed="#V" n="35"/>et delectationem: quia sicut visio et fruitio sunt aliquid 
+        bea<lb ed="#V" n="36" break="no"/>titudinis: ita dilectio et delectatio aliquid fruitionis: sed 
+        <lb ed="#V" n="37"/>beatitudo essentialiter includit visione et fruitionem 
+        siul<lb ed="#V" n="38" break="no"/>et coniunctim: tamquam quoddam constitutum et aggregatum 
+        ex<lb ed="#V" n="39" break="no"/>ipsis. igitur etc. Ex istis conclusionibus patet: quod fruitio est 
+        <lb ed="#V" n="40"/>essentialiter dilectio et delectatio: et quia de ratione ipsius iutur 
+        <lb ed="#V" n="41"/>doctrinam beati aug. est in herere obiecto fruibili propter 
+        <lb ed="#V" n="42"/>se sequitur quod frui sit amore inherere alicui rei propter 
+        <lb ed="#V" n="43"/>se cum fine delectatio omnis. et ista videtur totalis et copleta 
+        <lb ed="#V" n="44"/>descriptio fruitionis: ex dictis beati aug. et magistri 
+        <lb ed="#V" n="45"/>recollecta. 
+      </p>
+               <p xml:id="at8va9-e25587-d1e457">
+        Quarta conclusio est: quod fruitio 
+        princi<lb ed="#V" n="46" break="no"/>palius consistit in actu delectationis: quam in actu 
+        dilecti<lb ed="#V" n="47" break="no"/>onis: prorobatur. primo sic: fruitio est suprima per ectio 
+        volun<lb ed="#V" n="48" break="no"/>tatis. igitur in eius actu perfectiori principalius consistit: 
+        ta<lb ed="#V" n="49" break="no"/>lis est actus delectationis non dilectionis: ex praecedenti 
+        <lb ed="#V" n="50"/>q. igitur etc. Secundo sic: in illo actu principalius consistit 
+        <lb ed="#V" n="51"/>fruitio: quo augenntato: altero diminuto fruitio dicitur au 
+        <lb ed="#V" n="52"/>gensetata: et qua diminuto altero augmentato fruitio diciturt 
+        di<lb ed="#V" n="53" break="no"/>minuta. sed augensentata delectatione et diminuto amore 
+        <lb ed="#V" n="54"/>fruitio dicitur aucta. et diminuta delectatione: augmenta 
+        <lb ed="#V" n="55"/>to amore fruitio dicitur diminuta. igitur etc. protur minor quia 
+        <lb ed="#V" n="56"/>tantam dilectationem potuit deus dare in via beate 
+        virgi<lb ed="#V" n="57" break="no"/>ni et forte fecit de facto vt qubusdam videtur: quantam minimus 
+        <lb ed="#V" n="58"/>sanctus habet in patria. et tamen constat quod minus perfectius sctus fruitur: 
+        <lb ed="#V" n="59"/>quam perfectius delectatur. ergo etc. 
+      </p>
+               <p xml:id="at8va9-e25587-d1e490">
+        Tertio sic. ille actus 
+        <lb ed="#V" n="60"/>principalius habet rationem fruitionis qua nobis promittitur in praemium: 
+        <lb ed="#V" n="61"/>quam ille qui nobis praecipitur in meritum: tum quia premium nobilius 
+        <lb ed="#V" n="62"/>merito: tum quia fruitio principalius dicitur de termino quam 
+        <lb ed="#V" n="63"/>de via: quia in termino non in via est perfecta quoes: praemium autem est 
+        <lb ed="#V" n="64"/>terminus respectu meriti: sed dilectio nobis praecipitur in 
+        <lb ed="#V" n="65"/>meritum: quia hoc est primum et maximum mandatum in lege: 
+        dili<lb ed="#V" n="66" break="no"/>ges dominum deum tun etc. delectatio vero promittitur in pre 
+        <lb ed="#V" n="67"/>mium: quia Io. 16. Iterum videbo vos et gaudebit cor 
+        ve<lb ed="#V" n="68" break="no"/>strum et gaudium vestrum nemo tollet a vobiem: quod gaudium 
+        <lb ed="#V" n="69"/>be. aug. asserit esse beatitudinem: ergo etc. Est tamen lie aduer
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>tendum: quod in istis conclusionibus: non loquor de delectatione quae 
+        <lb ed="#V" n="71"/>ponitur passio operationis: quia non videtur mihi quod aliqua talis 
+        <lb ed="#V" n="72"/>delectatio sit de ratione formali et intrinseca fruitionis 
+        <lb ed="#V" n="73"/>saltem proprie dicta. NRo huius est: quia quod non est de ratione 
+        for<lb ed="#V" n="74" break="no"/>mali et intrinseca beatitudinis: non est de ratione formali et in 
+        <lb ed="#V" n="75"/>trinseca fruitionis et absolute: cum fruitio sit aliquid 
+        be<lb ed="#V" n="76" break="no"/>atitudinis essentialiter et intrinsece: sed nulla talis 
+        delecta<lb ed="#V" n="77" break="no"/>tio est de ratione formali et intrinseca beatitudinis: ergo: probatur 
+        <lb ed="#V" n="78"/>minor quia quicquid de ratione formali et intrinseca beatitudinis 
+        <lb ed="#V" n="79"/>est gratia sui et non alterius: cum beatitudo sit simpliciter sui gratia. 
+        <lb ed="#V" n="80"/>Et vlterius finis quo: creature rationalis: sed nulla talis 
+        <lb ed="#V" n="81"/>delectatio est sui gratia sed alterius: quia omnis talis est propter 
+        opera<lb ed="#V" n="82" break="no"/>tionem secundum philosophum: ergo loquor de delectatione illa quae est 
+        opera<lb ed="#V" n="83" break="no"/>tio proprie dicta: de quae in praecedenti. q. ondi quod est perfectior 
+        <lb ed="#V" n="84"/>dilectione: talis enim vt mihi videtur est aliquid fruitionis 
+        <lb ed="#V" n="85"/>beatifice essentialiter et intrinsece: vt patet ex supradictis: et hoc 
+        <lb ed="#V" n="86"/>de secundo. 
+      </p>
+            </div>
+            <div xml:id="at8va9-e25587-Dd1e555">
+               <head xml:id="at8va9-e25587-Hd1e557">Articuli 3 et 4</head>
+               <p xml:id="at8va9-e25587-d1e559">
+        Tertius et quartus articulus. 
+        <lb ed="#V" n="87"/>QUantum ad tertium et quartum articulum simil contra conclusiones 
+        <lb ed="#V" n="88"/>istas mouenda et dissoluenda sunt dubia. 
+      </p>
+               <p xml:id="at8va9-e25587-d1e566">
+        Et primo contra 
+        <lb ed="#V" n="89"/>primam conclusionem est quedam opinio satis communis: que 
+        po<lb ed="#V" n="90" break="no"/>nit fruitionem non esse delectationem totaliter nec 
+        partiali<lb ed="#V" n="91" break="no"/>ter: sed dilectionem praecise: pro qua quidam doc. arguit primo sic. 
+        <lb ed="#V" n="92"/>Franciscus de maronis in priemo dio. prima. q. 2. ar. 42 
+        <lb ed="#V" n="93"/>Aug. 83. q. q. 30. dicit: quod summa peruersitas est 
+        vti<lb ed="#V" n="94" break="no"/>fruendis et frui vtendis: puersitas at pecti consistit in 
+        so<lb ed="#V" n="95" break="no"/>lo actu demeritorio. 
+      </p>
+               <p xml:id="at8va9-e25587-d1e584">
+        Preterea: idem primo de 
+        doctri<lb ed="#V" n="96" break="no"/>na christiana dicit quod rui est amore inhere al cui propter 
+        <lb ed="#V" n="97"/>se: actus autem amoris est dilectio non delectatio. 
+      </p>
+               <p xml:id="at8va9-e25587-d1e591">
+        Prete 
+        <lb ed="#V" n="98"/>rea actus fruendi est mereri: et per consequens in ptante voluntatis: 
+        <lb ed="#V" n="99"/>delectari autem aut tristari non. 
+      </p>
+               <p xml:id="at8va9-e25587-d1e599">
+        Preterea: actus 
+        frui<lb ed="#V" n="100" break="no"/>tionis in patria ponitur actus beatitudinis: nulla tamen 
+        dele<lb ed="#V" n="101" break="no"/>ctatio videtur beatificare: cum beatitudo sit operatio 
+        per<lb ed="#V" n="102" break="no"/>fectissima. 
+      </p>
+               <p xml:id="at8va9-e25587-d1e608">
+        Ad rationes francisci. 
+        <lb ed="#V" n="103"/>Ad primum istorum potest vno modo dici: quod fruitio non 
+        praeci<lb ed="#V" n="104" break="no"/>se est delectatio: quia dilectio est aliquid eius formaliter et 
+        in<lb ed="#V" n="105" break="no"/>trinsece sicut delectatio: vt patet ex secunda conclusione: 
+        conce<lb ed="#V" n="106" break="no"/>ditur ergo: quod frui vtendis sit summa peruersitas non tamen ratione 
+        vtri<lb ed="#V" n="107" break="no"/>usque sed dilectionis praecise. Et ideo non sequitur: peruersitas 
+        <lb ed="#V" n="108"/>consistit in actu demeritorio non in delectatione. ergo 
+        dele<lb ed="#V" n="109" break="no"/>ctatio non est aliquid fruitionis sed baen sequitur. igitur fruitio non 
+        <lb ed="#V" n="110"/>est praecise delectatio. quod concedo. Post etiam dici secundo: quod non 
+        <lb ed="#V" n="111"/>solum dilectio inordinata. sed etiam delectatio est 
+        peruersitas<lb ed="#V" n="112" break="no"/>voluntatis: quia qui delectantur cum male faciunt et exultant in 
+        <lb ed="#V" n="113"/>rebus pessimis grauius peccant. 
+      </p>
+               <p xml:id="at8va9-e25587-d1e634">
+        Ad secundum 
+        dedu<lb ed="#V" n="114" break="no"/>ctio est nulla: quia illa diffinitio non est totalis sed partialis. et 
+        <lb ed="#V" n="115"/>ideo non sequitur: quod fruitio sit dilectio totaliter sed partialiter. 
+        <lb ed="#V" n="116"/>Ad tertium potest vno modo dici sicut ad primum: quod 
+        frui<lb ed="#V" n="117" break="no"/>tio ordinata et meritoria in viatore: non ratione 
+        dele<lb ed="#V" n="118" break="no"/>ctationis sed dilectionis praecise. Post etiam dici secundo quod 
+        <lb ed="#V" n="119"/>dilectio amicitie circa deum est actus meritorius in 
+        vi<lb ed="#V" n="120" break="no"/>atore: supposita gratia. Et ad probationem: quando dicitur quod 
+        dele<lb ed="#V" n="121" break="no"/>ctari non est in ptante voluntatis. dicendum quod licet delectari 
+        <lb ed="#V" n="122"/>non sit in ptante voluntatis consequenter. est tamen in eius ptante ante 
+        <lb ed="#V" n="123"/>cedentur: quia in ptante voluntatis est diligere deu propter se vel 
+        <lb ed="#V" n="124"/>non diligere. et sic delectari vel non delectari. et hoc 
+        <lb ed="#V" n="125"/>sufficit ad hoc quod delectatio amicitie sit actus 
+        meri<lb ed="#V" n="126" break="no"/>torius in viatore supposita gratia: ex quo em actus 
+        elici<lb ed="#V" n="127" break="no"/>tus voluntatis. Ad quartum nego minorem: nec 
+        proba<lb ed="#V" n="128" break="no"/>tio valet quia delectatio amicitie circa deum non est 
+        pas<lb ed="#V" n="129" break="no"/>sio sed perfectissima operatio. Contra secundam 
+        conclusio<lb ed="#V" n="130" break="no"/>nem et correlarium illatum potest sic argui. fruitio est essentia 
+        <lb ed="#V" n="131"/>litur vnius actus. igitur correlarium illatum est falsum. et si 
+        con<lb ed="#V" n="132" break="no"/>clusio precedens est vera. dilectio non est fruitio nec 
+        ali<lb ed="#V" n="133" break="no"/>quid eius nec essentialiter nec intrinsece: consequentia patet 
+        quam<lb ed="#V" n="134" break="no"/>tum ad primam partem: quia antecedens assumptum opponitur contradictorie 
+        <lb ed="#V" n="135"/>illi correlario: quantum ad secundam: probatur quia actus 
+        dele<lb ed="#V" n="136" break="no"/>ctationis qua realiter distinguuntur ab actu dilectionis 
+        ex<lb ed="#V" n="137" break="no"/>conclusione praecedenti est aliquid fruitionis essentialiter et 
+        in<lb ed="#V" n="138" break="no"/>trinsece 
+      </p>
+               <p xml:id="at8va9-e25587-d1e691">
+        antecedens autem probatur a quodam doc. nostro primo sic.
+        <pb ed="#V" n="48-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>Forrestarius in primo dio.e prima. q. . ar. 3. 
+        <lb ed="#V" n="2"/>Quia fruitio idem est quod beatitudo iutur illud be. aug. 
+        <lb ed="#V" n="3"/>de doctrina christiana: hec est merces summa: vt deo per 
+        <lb ed="#V" n="4"/>fruamur: sed summa merces est in actu beatifico: igitur 
+        <lb ed="#V" n="5"/>idem est fruitio quod beatitudo: sed beatitudo formaliter 
+        consi<lb ed="#V" n="6" break="no"/>stit in vno actu siue loquimur de beatitudine simpliciter siue 
+        <lb ed="#V" n="7"/>in genere: igitur fruitio tam ista quam illa est vnus simplex actus 
+      </p>
+               <p xml:id="at8va9-e25587-d1e713">
+                  <lb ed="#V" n="8"/>Preterea: obiectum fruibile quod est obiectum fruitionis 
+        <lb ed="#V" n="9"/>simpliciter est vnum simpliciter obiectum etiam fruitionis secundum quid scilictet 
+        <lb ed="#V" n="10"/>visio est vnum simpliciter: igitur actus quo attingitur primo ab vna 
+        po<lb ed="#V" n="11" break="no"/>tentia est vnus loquendo semper tam de fruitione secundum quid quam de 
+        <lb ed="#V" n="12"/>fruitione simpliciter.
+      </p>
+               <p xml:id="at8va9-e25587-d1e726">
+        Preterea: non minoris perfectionis 
+        <lb ed="#V" n="13"/>est ipsa voluntas respectu sui obiecti quam sint alie 
+        poten<lb ed="#V" n="14" break="no"/>tie cognitiue et appetitiue: patet de se: sed qualibet alia 
+        po<lb ed="#V" n="15" break="no"/>tentia sufficientur attingit obiectum suum sibi praesens per vnum 
+        <lb ed="#V" n="16"/>actum: igitur et ipsa voluntas: sed talis actus est ipsa fruitio: ergo 
+        <lb ed="#V" n="17"/>etc.
+      </p>
+               <p xml:id="at8va9-e25587-d1e740">
+        Ad rationem fundamentalem: nego antecedens: quia fruitio de 
+        <lb ed="#V" n="18"/>lectationem et dilectionem includit: qua non sunt essentialiter vnus 
+        <lb ed="#V" n="19"/>actus: vt patet ex dictis. Responsio ad rationes forestarii. 
+        <lb ed="#V" n="20"/>Et ad probationes istius doctoris respondeo Ad primum: 
+        <lb ed="#V" n="21"/>ratio est ad oppositum quia beatitudo non est essentialiter vnus actus 
+        <lb ed="#V" n="22"/>sed plures: consistit enim in visione et fruitione iuter determinta 
+        <lb ed="#V" n="23"/>tionem ecclie. 
+      </p>
+               <p xml:id="at8va9-e25587-d1e756">
+        Et vlterius fruitio non est idem quod beatitudo 
+        con<lb ed="#V" n="24" break="no"/>uertibiliter et adequate: sicut declarabitur. q. sequenti: et 
+        <lb ed="#V" n="25"/>ibi respondebitur ad auctoritatem be aug. 
+      </p>
+               <p xml:id="at8va9-e25587-d1e763">
+        Ad secundum concedo: 
+        <lb ed="#V" n="26"/>quod actus quo obiectum fruitionis simpliciter attigitur. primo a potentia 
+        <lb ed="#V" n="27"/>volitiua est vnus simpliciter: et hec est dilectio: non 
+        delectatio<lb ed="#V" n="28" break="no"/>quia delectatio praesupponit dilectionem naturaliter: non autem 
+        econ<lb ed="#V" n="29" break="no"/>uerso: sed ex hoc non sequitur quod talis sit fruitio totaliter: 
+        sus<lb ed="#V" n="30" break="no"/>ficit enim quod sit aliquid fruitionis partialiter: videmus enim quod 
+        <lb ed="#V" n="31"/>obiectum beatitudinis simpliciter est vnum simpliciter: eo modo 
+        quo<lb ed="#V" n="32" break="no"/>obiectum fruitionis est vnum simpliciter: et tamen actus quo primo 
+        attin<lb ed="#V" n="33" break="no"/>gitur ab intellectu vel voluntate non est beatitudo totaliter: licet 
+        <lb ed="#V" n="34"/>sit aliquid eius partialiter. Et similiter dicendum est de obiecto 
+        beatitu<lb ed="#V" n="35" break="no"/>dinis secundum quid. 
+      </p>
+               <p xml:id="at8va9-e25587-d1e787">
+        Ad tertium dico: quod ex perfectione conuenit 
+        <lb ed="#V" n="36"/>voluntati quod attingat obiectum suum distinctis actibus 
+        subor<lb ed="#V" n="37" break="no"/>dinatis quia delectari est perfectionis et soli conuenit 
+        volunta<lb ed="#V" n="38" break="no"/>ti vel appetitui: vt suppono ad presens. Et aliqua 
+        <lb ed="#V" n="39"/>delectatio est actus et operatio proprie dicta: vt patet ex 
+        <lb ed="#V" n="40"/>dictis: igitur ratio magis est ad oppositum quam ad propositum. 
+        <lb ed="#V" n="41"/>Serardus de senis in primo dio. prima. q. i. art. 3. 
+        <lb ed="#V" n="42"/>Contra tertiam conclusionem quidam doc. noster 
+        argu<lb ed="#V" n="43" break="no"/>it primo sic: Si isti duo actus essentialiter concurrerent ad 
+        <lb ed="#V" n="44"/>fruitionem vnus eorum non poneretur in eius descriptione: 
+        <lb ed="#V" n="45"/>aut diffinitione sine altero: consequens est falsum: igitur et antecedens: 
+        <lb ed="#V" n="46"/>consequentia est de se nota: et falsitas consequentis probatur: quia in diffiniti 
+        <lb ed="#V" n="47"/>one illa be. aug. frui est alicui amore inherere etc. 
+        po<lb ed="#V" n="48" break="no"/>nitur amor sine dilectatione. 
+      </p>
+               <p xml:id="at8va9-e25587-d1e818">
+        Preterea: si fruitio 
+        <lb ed="#V" n="49"/>aggregaret essentialiter istos duos actus: sequeretur quod 
+        <lb ed="#V" n="50"/>vnus eorum non faceret in herere obiecto 
+        fruibili<lb ed="#V" n="51" break="no"/>sine altero: consequens est falsum: igitur et antecedens: 
+        <lb ed="#V" n="52"/>consequentia probatur: quia si vnus eorum faceret inherere obiecto 
+        <lb ed="#V" n="53"/>sine altero ille solus esset vera fruitio: quia ratio fruitionis 
+        <lb ed="#V" n="54"/>est inherere alicui rei propter seipsam sicut diffinit aug. 
+        <lb ed="#V" n="55"/>falsitas consequentis probatur: quia actus amoris cum praecedat 
+        <lb ed="#V" n="56"/>actum delectationis habet omnem suam perfectionem 
+        intrinse<lb ed="#V" n="57" break="no"/>causa antequam delectatio superueniat: et per consequens facit 
+        in<lb ed="#V" n="58" break="no"/>herere sine illo. 
+      </p>
+               <p xml:id="at8va9-e25587-d1e842">
+        Responsio ad rationes gerardi 
+        <lb ed="#V" n="59"/>Ad primum istorum concedo: quod in diffinitione fruitionis 
+        <lb ed="#V" n="60"/>totali et adequata: vnus illorum actuum non ponitur sine 
+        <lb ed="#V" n="61"/>altero: in diffinitione autem partiali sic: sicut in 
+        diffini<lb ed="#V" n="62" break="no"/>tione partiali beatitudinis ponitur visio sine fruitione: 
+        <lb ed="#V" n="63"/>et econuerso: quia tales sunt quam plures diffinitiones aug. 
+        <lb ed="#V" n="64"/>qui quandoque diffinit fruitionem per solam dilectionem: quandoque 
+        <lb ed="#V" n="65"/>persolam delectationem: vt patet per magistrum in littera. 
+        <lb ed="#V" n="66"/>Ad secundum dico: quod non quecumque sufficit inhesio ad 
+        <lb ed="#V" n="67"/>fruitionem: aliter visio esset essentialiter fruitio: quia per ipsam 
+        <lb ed="#V" n="68"/>inheremus obiecto fruibili propter se: concedo igitur qu 
+        <lb ed="#V" n="69"/>amorfacit perfecte inhere re vniendo et transtormam¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>di amantem in id quod amatur sine delectatione: 
+        dele<lb ed="#V" n="71" break="no"/>ctatio tamen facit perfectam inhesionem gaudii et 
+        exultati<lb ed="#V" n="72" break="no"/>onis: et iste due inhesiones faciunt vnam perfectam 
+        inhe<lb ed="#V" n="73" break="no"/>sionem: non quidem vnitate simplicitatis: sed cuiusdam ag 
+        <lb ed="#V" n="74"/>gregationis et totalitatis: et sic integrant naturam fruitionis.
+      </p>
+               <p xml:id="at8va9-e25587-d1e882">
+                  <lb ed="#V" n="75"/>Gerardus vbi supra. 
+        <lb ed="#V" n="76"/>Contra quartam conclusionem quida doc. noster arguit sic. 
+        <lb ed="#V" n="77"/>Primo sic: de illo actu prius et verius dicitur fruitio qui per 
+        <lb ed="#V" n="78"/>fectiorem adhesionem facit obiecto: dilectio ehsmodi 
+        <lb ed="#V" n="79"/>non delectatio: ergo: maior patet ex significato nominis: probatur 
+        <lb ed="#V" n="80"/>minor quia ihesio per amorem est causa inhesionis per delectationem: 
+        <lb ed="#V" n="81"/>ergo perfectior. Secundo sic: de illo actu per pus et verius dicitur 
+        <lb ed="#V" n="82"/>fruitio qua facit voluntatem inherem obiecto fruibili per se et 
+        <lb ed="#V" n="83"/>immediate: huiusmodi est amor et non delectatio: ergo maior patet ex 
+        <lb ed="#V" n="84"/>sigto nominis si ceust prius: probatur minor quia delectatio non facit 
+        inheren<lb ed="#V" n="85" break="no"/>obiecto fruibili nisi mediate amore: amor autem per se et per 
+        <lb ed="#V" n="86"/>mediate. ergo etc. Tertio: sic de illo actu prius et verius 
+        <lb ed="#V" n="87"/>dicitur fruitio in quo consistit formaliter ratio meriti: et iste est 
+        <lb ed="#V" n="88"/>actus amoris non delectationis: ergo: maior patet: quia totum 
+        <lb ed="#V" n="89"/>merintum nostrum consistit infruitione ordinata: et per 
+        opposi<lb ed="#V" n="90" break="no"/>tum totum demeritum in fruitione inordinata. dicit beato 
+        <lb ed="#V" n="91"/>Aug. 10. de tri. c. 10. quod non est alia vita homnum vitiosa 
+        <lb ed="#V" n="92"/>atque culpabilis: quam male vtens et male fruens: 
+        pro<lb ed="#V" n="93" break="no"/>batur minor: quia meritum et demeritum formaliter 
+        consi<lb ed="#V" n="94" break="no"/>stit in actu libero et simpliciter voluntario. talis autem est 
+        <lb ed="#V" n="95"/>amor non delectatio quia delectatio necessario 
+        sequi<lb ed="#V" n="96" break="no"/>tur ad amorem: igitur non est libera nec simpliciter 
+        vo<lb ed="#V" n="97" break="no"/>luntaria: nisi quia actus amoris quem sequitur est voluntarius. 
+      </p>
+               <p xml:id="at8va9-e25587-d1e934">
+                  <lb ed="#V" n="98"/>Michael de masit in primo distictione prima. q. 10. art. i. 
+        <lb ed="#V" n="99"/>Ad idem arguit qudam alius doc noster quarto sic: de 
+        ratio<lb ed="#V" n="100" break="no"/>ne fruitionis est esse vltimum finaliter propter quid: 
+        ran<lb ed="#V" n="101" break="no"/>quam propter finem sunt cetera: igitur illud cui matime 
+        con<lb ed="#V" n="102" break="no"/>uenit esse tale principalius partinet ad fruitionem huiusmodi est 
+        <lb ed="#V" n="103"/>amor non delectatio ergo probatur minor: quia 
+        delecta<lb ed="#V" n="104" break="no"/>tio est per actum amoris tanquam per finem aliquo modo: 
+        derelin<lb ed="#V" n="105" break="no"/>quitur enim ex vnione potentie volitiue cum obiecto 
+        frui<lb ed="#V" n="106" break="no"/>bili per actum amoris: et ex ipsa delectatione 
+        dereli<lb ed="#V" n="107" break="no"/>cta intenditur amor et praestatur fomentum continuationis 
+        <lb ed="#V" n="108"/>amoris: et ideo aliquo modo delectatio amicitie est 
+        pro<lb ed="#V" n="109" break="no"/>pter actum amoris: sicut propterfinem: non econuerso. 
+      </p>
+               <p xml:id="at8va9-e25587-d1e963">
+                  <lb ed="#V" n="110"/>Responsio ad rationes gerardi. 
+        <lb ed="#V" n="111"/>Ad primum nego: minorem: quia inhesio per delectationem 
+        <lb ed="#V" n="112"/>cum sit gaudii et exultationis et quietans vltimate est 
+        sim<lb ed="#V" n="113" break="no"/>pliciter perfectior: quam inhesio per amorem. Nec 
+        probatio<lb ed="#V" n="114" break="no"/>valet: quia inhesio per amorem non est causa efficiens inhesionis 
+        <lb ed="#V" n="115"/>per delectationem: nec perficiens: immo potius econuerso: 
+        <lb ed="#V" n="116"/>quia delectatio de qua loquimur perficit operationem: non 
+        <lb ed="#V" n="117"/>dilectio sed est causa prima et sine qua no: quia 
+        delecta<lb ed="#V" n="118" break="no"/>tio praesupponit amore: sicut cognitio est causa dilectio 
+        <lb ed="#V" n="119"/>nis: quia dilectio cognitionem praesupponit: sed ex hoc 
+        ni<lb ed="#V" n="120" break="no"/>hil concluditur: aliter posset concludi contra eum: quod 
+        fruitio<lb ed="#V" n="121" break="no"/>in visione principalius consisteret etc. 
+      </p>
+               <p xml:id="at8va9-e25587-d1e992">
+        Ad secundum 
+        di<lb ed="#V" n="122" break="no"/>co: quod equiuocatur de immediatione: potest enim ista imme 
+        <lb ed="#V" n="123"/>diatio dupliciter sumi. Uno modo sic: quod inter amorem 
+        <lb ed="#V" n="124"/>et eius obiectum nullum eadit medium: inter 
+        delectatio<lb ed="#V" n="125" break="no"/>nem autem et eius obiectum cadat aliquod medium: et in isto 
+        sen<lb ed="#V" n="126" break="no"/>sumaior est vera: sed illo modo minor est falsa euidenter 
+        <lb ed="#V" n="127"/>quia delectatio amicitie circa deum ita immediate 
+        respi<lb ed="#V" n="128" break="no"/>cit obiectum fruibile sicut amor. Alio modo potest 
+        accipi<lb ed="#V" n="129" break="no"/>immediatio: vt ilud dicatur immediatius: quod est prius: et in 
+        <lb ed="#V" n="130"/>isto sensu licet minor sit vera: maior tamen est falsa: quia in 
+        <lb ed="#V" n="131"/>actibus essentialiter ordinatis prior origine est 
+        perfe<lb ed="#V" n="132" break="no"/>ctione posterior immo fi ratio aliquid concluderet: 
+        fruitio<lb ed="#V" n="133" break="no"/>verius diceretur de visione: quia praecedit actum amoris et 
+        <lb ed="#V" n="134"/>delectationis quod falsum est et iam per eos. 
+      </p>
+               <p xml:id="at8va9-e25587-d1e1023">
+        Ad tertium: 
+        ne<lb ed="#V" n="135" break="no"/>go maiorem: quia vt patet ex dictis fruitio verius dicitur 
+        <lb ed="#V" n="136"/>de actu illo in quo consistit principaliter primum: huiusmodi autem est 
+        <lb ed="#V" n="137"/>delectatio: est igitur ratio ad oppositum: non autem ad 
+        proposi<lb ed="#V" n="138" break="no"/>tum. Nec probatio minoris valet: quicquid sit de veritate
+        <pb ed="#V" n="49-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>eiusdem quia ad claram visionem obiecti beatifici: necessa 
+        <lb ed="#V" n="2"/>rio sequitur amor etiam per eos: et tamen constat quod actus amoris 
+        <lb ed="#V" n="3"/>est ex se formaliter liber et simpliciter voluntarius. 
+      </p>
+               <p xml:id="at8va9-e25587-d1e1045">
+                  <lb ed="#V" n="4"/>Responsio ad rationes michaelis de masa. 
+        <lb ed="#V" n="5"/>Ad quartum: nego minor quia licet delectatio cuius 
+        immedia<lb ed="#V" n="6" break="no"/>tus terminus obiectalis est amor sit propter actum 
+        <lb ed="#V" n="7"/>amoris sit tanquam propter finem: quia talis 
+        dele<lb ed="#V" n="8" break="no"/>ctatio ponitur eius passio: et derelinquit ex vnioue 
+        po<lb ed="#V" n="9" break="no"/>tentie cum obiecto per talem actum: vt dictum est supra: 
+        <lb ed="#V" n="10"/>delectatio tamen amicicie circa deum nullo modo tand 
+        <lb ed="#V" n="11"/>finem respicit actum amoris: nec talis derelinquitur 
+        <lb ed="#V" n="12"/>ex vnione potentie etc. quia non ponitur eius passio: 
+        deci<lb ed="#V" n="13" break="no"/>pitur igitur iste doc. quia non distinguit inter delectationem 
+        <lb ed="#V" n="14"/>que est passio: et illam que non est passio. 
+      </p>
+               <p xml:id="at8va9-e25587-d1e1072">
+                  <lb ed="#V" n="15"/>Ad Argumenta principalia 
+        <lb ed="#V" n="16"/>Ad rationes principales patet: quod per illas 
+        auctorita<lb ed="#V" n="17" break="no"/>tes non diffinitur fruitio formaliter: sed solum partialiter: etc.
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

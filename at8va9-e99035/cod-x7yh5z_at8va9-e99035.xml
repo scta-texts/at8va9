@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#AlphonsusVargas">Alphonsus Vargas Toletanus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2024-10-10">October 10, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-x7yh5z">Venice, 1490</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="158-v"/>
+            <cb ed="#V" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="at8va9-e99035"><!-- l1d31-34q2 -->
+            <head xml:id="at8va9-e99035-Hd1e101">Quaestio 2</head>
+            <head xml:id="at8va9-e99035-Hd1e103" type="question-title">Utrum essentia divina sit eadem formaliter proprietatibus</head>
+            <p xml:id="at8va9-e99035-d1e106">
+               <lb ed="#V" n="27"/>SEcundo quaero: vtrum essentia diuina sit eadem 
+      <lb ed="#V" n="28"/>formaliter proprietatibus. 
+    </p>
+            <p xml:id="at8va9-e99035-d1e113">
+      Et videtur primo quod 
+      <lb ed="#V" n="29"/>non: quia pater per paternitatem distinguitur formaliter a 
+      <lb ed="#V" n="30"/>filio: et per essentiam non distinguitur formaliter 
+      ab<lb ed="#V" n="31" break="no"/>spsto: igitur essentia non est formaliter patrnitas: nec econtra. 
+      <lb ed="#V" n="32"/>militer potest argui de ceteris proprietatibus relatiuis.
+    </p>
+            <p xml:id="at8va9-e99035-d1e124">
+               <lb ed="#V" n="33"/>Contra: illud quod est in eodem supposito non componit 
+      for<lb ed="#V" n="34" break="no"/>maliter cum essentia non distinguit formaliter ab ipsa: sed pater 
+      <lb ed="#V" n="35"/>nitas in supposito patris non componit formaliter cum 
+      essen<lb ed="#V" n="36" break="no"/>tia: quia pater non est compositus formaliter nec realiter. In ista 
+      <lb ed="#V" n="37"/>q. primo ponam aliquis distinctiones: secundo conclusiones: 
+      <lb ed="#V" n="38"/>tertio mouebo dubia. quarto respondebo. 
+    </p>
+            <div xml:id="at8va9-e99035-Dd1e141">
+               <head xml:id="at8va9-e99035-Hd1e143">Articulus 1</head>
+               <p xml:id="at8va9-e99035-d1e145">
+                  <lb ed="#V" n="39"/>Primus articulus. 
+        <lb ed="#V" n="40"/>QUantum ad primum est aduertendum primo: quod ista 
+        pro<lb ed="#V" n="41" break="no"/>positio: essentia diuina est eadem formaliter proprie 
+        <lb ed="#V" n="42"/>tatibus relatiuis: potest intelligi dupliciter. secundum quod licet 
+        forma<lb ed="#V" n="43" break="no"/>liter potest dupliciter accipi. vno modo secundum quod est quidam 
+        mo<lb ed="#V" n="44" break="no"/>dus et facit propositionem: modalem: et sic sumendo 
+        for<lb ed="#V" n="45" break="no"/>maliter intellectus q. est: vtrum essentia diuina de proprieta 
+        <lb ed="#V" n="46"/>te. vel proprietatis. de essentia praedicatio sit formaliter 
+        <lb ed="#V" n="47"/>et quia praedicatio formalis. secundum communem modum loquendi: est 
+        il<lb ed="#V" n="48" break="no"/>la quae est in primo modo dicendi per se. intellectus quaestionis sic 
+        su<lb ed="#V" n="49" break="no"/>medo formaliter esset: vtrum essentia divina praedicetur in primo 
+        <lb ed="#V" n="50"/>modo dicendi per se de proprietatibus relatiuis. vel econtra. 
+        <lb ed="#V" n="51"/>Alio modo potest accipiliet formaliter. secundum quod potest dici a 
+        for<lb ed="#V" n="52" break="no"/>ma litate sicut. realiter a realitate: et tunc est sensus. vtrurm 
+        <lb ed="#V" n="53"/>essentia sit eadem formalis cum proprietatibus relatiuis 
+        <lb ed="#V" n="54"/>vel alia: et alia: siue vtrum essentie et proprietatis sit eadem 
+        <lb ed="#V" n="55"/>formalitas siue alia et alia. vnde sicut. ista 
+        propositio<lb ed="#V" n="56" break="no"/>essentia est eadem realiter paternitati: edualet isti: essentia 
+        <lb ed="#V" n="57"/>est eadem res cum paternitate. siue isti: essentie et 
+        paterni<lb ed="#V" n="58" break="no"/>tatis est eadem realitas et non alia. sic et ista: essentio est 
+        <lb ed="#V" n="59"/>eadem formaliter paternitati: equalet isti: essentia est eade: 
+        <lb ed="#V" n="60"/>formalitas cum paternitate. siue isti: essentie et paternitati est 
+        <lb ed="#V" n="61"/>eadem formalitas et non alia et alia: et licet in vtroque 
+        sen<lb ed="#V" n="62" break="no"/>su possit intelligi praesens quastio: intelligo eam tantum in secundo tum 
+        <lb ed="#V" n="63"/>quia pertractare eam in primo non esset particulatio realis: sed 
+        <lb ed="#V" n="64"/>logicalis tantum: tum quia in secundo sensu. Scotus contra que 
+        <lb ed="#V" n="65"/>eam proposui. tenet conclusionem negatiuam. Iterum 
+        acci<lb ed="#V" n="66" break="no"/>piendo quaestionem in sensu dato: adhuc est vlterius 
+        aduer<lb ed="#V" n="67" break="no"/>tendum secundo: quod assumpta propositio potest dupliciter 
+        intelli<lb ed="#V" n="68" break="no"/>gio. potest enim quari: an essentia diuina sit eadem formaliter 
+        pro<lb ed="#V" n="69" break="no"/>prietatibu relatiuis couertibiliter et adeunte. Ansit ea
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>dem formaliter eis inconuertibiliter et inadequate. vt in 
+        con<lb ed="#V" n="71" break="no"/>clusionibus apparebit. 
+      </p>
+            </div>
+            <div xml:id="at8va9-e99035-Dd1e222">
+               <head xml:id="at8va9-e99035-Hd1e224">Articulus 2</head>
+               <p xml:id="at8va9-e99035-d1e226">
+        Secundus articulus. 
+        <lb ed="#V" n="72"/>QUantum ad secudum articulum quia conformiter videtur: 
+        <lb ed="#V" n="73"/>mihi esse dicendum de formalitate et realitate: 
+        po<lb ed="#V" n="74" break="no"/>no quatuor: conclusiones consimiles conclusionibus positis in qaesio. 
+        prae<lb ed="#V" n="75" break="no"/>cedenti 
+      </p>
+               <p xml:id="at8va9-e99035-d1e237">
+        Prima est: quod essentia divina est eadem formaliter 
+        cui<lb ed="#V" n="76" break="no"/>libet proprietati relatiue: per exclusionem omnis 
+        distinctio<lb ed="#V" n="77" break="no"/>nis et dualitatis formalis. Istius conclusionis primo ostendo 
+        <lb ed="#V" n="78"/>possibilitatem. Secundo necessitate. possibilitatem sic: 
+        <lb ed="#V" n="79"/>n est maior repugnantia tres simplicitates relatiuas 
+        <lb ed="#V" n="80"/>distinctas formaliter esse vnam formalitatem absolutam 
+        for<lb ed="#V" n="81" break="no"/>maliter per exclusionem omnis distinctionis et dualitatis 
+        for<lb ed="#V" n="82" break="no"/>malis quam tres realitates relatiuas distinctas realiter 
+        <lb ed="#V" n="83"/>esse vnam realitatem absolutam realiter per exclusionem omnis 
+        <lb ed="#V" n="84"/>distinctionis et dualitatis realis: patet ex terminis. sed non 
+        <lb ed="#V" n="85"/>obstante huiusmodi repugnantia in creaturis. In diuinis 
+        tun<lb ed="#V" n="86" break="no"/>tres realitates relatiue trium proprietatum: quae secundum fidei 
+        <lb ed="#V" n="87"/>veritatem realiter sunt distincte sunt vna realitas 
+        absolu<lb ed="#V" n="88" break="no"/>ta essentie realiter per exclusionem omnis distinctionis et 
+        duali<lb ed="#V" n="89" break="no"/>tatis realis vt patet ex qone praecedente. Necessitate 
+        ve<lb ed="#V" n="90" break="no"/>ro deduco sic: cuicumque rei essentia diuina est eadem 
+        rea<lb ed="#V" n="91" break="no"/>liter per exclusionem omnis distinctionis et dualitatis realis: 
+        ei<lb ed="#V" n="92" break="no"/>de est eadem formaliter per exclusionem omnis distinctionis et dua 
+        <lb ed="#V" n="93"/>litatis formalis. sed cuilibet proprietati relatiue est eadem 
+        <lb ed="#V" n="94"/>realiter per exclusionem etc. ergo etc. minor patet ex qodne 
+        praeceden<lb ed="#V" n="95" break="no"/>te. maiorem deduco sic: realitas et formalitas cuiuscum 
+        <lb ed="#V" n="96"/>quam rei sunt idem omnibus modis extra intellectum per exclusio 
+        <lb ed="#V" n="97"/>nem omnis distictionis et dualitatis ex naer rei. ergo cuicumque rei 
+        <lb ed="#V" n="98"/>essentia diuina est eadem realiter: eidem est eadem 
+        for<lb ed="#V" n="99" break="no"/>maliter: per exclusionem omnis distinctionis et dominalitatis 
+        forma<lb ed="#V" n="100" break="no"/>lis. consequentia est nota secundum omnes: et antecedens etiam ex fundamentis 
+        <lb ed="#V" n="101"/>tenentium conclusionem oppositam: constat enim secundum omnes quod 
+        reali<lb ed="#V" n="102" break="no"/>tas et formalitas cuiuscumque rei sunt idem aliquo modo 
+        <lb ed="#V" n="103"/>ex natura rei: sequitur quod ex natura rei sunt idem et distantur: quo 
+        <lb ed="#V" n="104"/>posido quero sicut querebatur dicione 13 q. prima. articulo 
+        <lb ed="#V" n="105"/>secundo conclusione. 2. vbi ista ratio tangebatur: an vno et eodem 
+        <lb ed="#V" n="106"/>omnibus modis extra intellectum sint idem et distinguantur: 
+        <lb ed="#V" n="107"/>an alio et alio. Primum dari non potest iuxta printia eorum: quia 
+        <lb ed="#V" n="108"/>potissimum principium eorum et: quod quecumque conueniunt et diffe. 
+        <lb ed="#V" n="109"/>runt: aliquo suicoueniunt: et aliquo sui differunt. si detur 
+        <lb ed="#V" n="110"/>secundum: sequitur quod realitas cuiuscumque rei aliquo sui sit idem 
+        <lb ed="#V" n="111"/>sue formalitati: et alio sui distinguatur ab ea ex 
+        natu<lb ed="#V" n="112" break="no"/>ra rei. Et similiter sequitur quod formalitas cuiuscumque rei 
+        ali<lb ed="#V" n="113" break="no"/>quo sui sit idem sue realitati: et aliquo sui distinguatur 
+        <lb ed="#V" n="114"/>ab ea ex natura rei: et de illis arguitur sicut argutum 
+        <lb ed="#V" n="115"/>est de realitate et formalitate: et concludetur intentum 
+        <lb ed="#V" n="116"/>vel proceditur in infinitum: quod est omnino impossibile etiam per eos. 
+        <lb ed="#V" n="117"/>Ex ista conclusione sequuntur due propositones correlarie. 
+        <lb ed="#V" n="118"/>Prima est: quod essentia divina est eadem formaliter cuilibet 
+        perso<lb ed="#V" n="119" break="no"/>ne divine per exclusionem omnis distinctionis et dualitatis 
+        <lb ed="#V" n="120"/>formalis. deductio est euidens: quia non minus est eadem 
+        perso<lb ed="#V" n="121" break="no"/>ne diuine quam proprietati relatiue. Secunda est: quod 
+        quali<lb ed="#V" n="122" break="no"/>bet proprietas relatiua est sic eadem persone diuine: cuius est 
+        <lb ed="#V" n="123"/>proprietas. Illa patet: quia proprietas relatiua patris non 
+        mi<lb ed="#V" n="124" break="no"/>nus quam essentia est eade patri. 
+      </p>
+               <p xml:id="at8va9-e99035-d1e346">
+        Tertia conclusio principalis 
+        <lb ed="#V" n="125"/>est: quod essentia diuina non est eadem formaliter alicui proprieta 
+        <lb ed="#V" n="126"/>ti relatiue conuertibiliter et adequate. Ista conclusio potest 
+        proba<lb ed="#V" n="127" break="no"/>ri per rationes: qubus probatur secunda conclusio principalis qaestione 
+        praece<lb ed="#V" n="128" break="no"/>dentis: solum mutando realiter informaliter. applicatis est 
+        <lb ed="#V" n="129"/>euidens: ideo pertranseo. Post etiam ex eade conclusione 
+        <lb ed="#V" n="130"/>deduci sic: cuicumque rei essentia diuina non est eadem 
+        reali<lb ed="#V" n="131" break="no"/>ter conuertibiliter et adequate: nec formaliter: hoc 
+        <lb ed="#V" n="132"/>patet: quia realitas et formalitas essentie diuine: 
+        si<lb ed="#V" n="133" break="no"/>cut et cuiuscumque alterius rei sunt idem omnibus 
+        mo<lb ed="#V" n="134" break="no"/>dis extra intellectum per exclusionem omnis distinctionis 
+        <lb ed="#V" n="135"/>et dualitatis ex natura rei: vt patet ex dictis: sed 
+        <lb ed="#V" n="136"/>nulli proprietati relatiue est sic eadem realiter: vt 
+        pa<lb ed="#V" n="137" break="no"/>tet ex conclusione praedicta: igitur nec formaliter. Ex ista 
+        <lb ed="#V" n="138"/>conclusione sequitur quod essentia diuina non est eadem formu¬
+        <pb ed="#V" n="159-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>liter alicui persone diuine econuertibiliter et 
+        adequo<lb ed="#V" n="2" break="no"/>te. deductio est euidens. 
+      </p>
+               <p xml:id="at8va9-e99035-d1e388">
+        Tertia conclusio est: quod ad 
+        <lb ed="#V" n="3"/>hoc quod essentia diuina non sit eadem formaliter alicui 
+        pro<lb ed="#V" n="4" break="no"/>prietati relatiue conuertibiliter et adequate: non 
+        opor<lb ed="#V" n="5" break="no"/>tet ponere aliquam distinctionem vel non identitatem prio 
+        <lb ed="#V" n="6"/>rem intex essentiam et proprietatem: probatur sic: ad hoc quod 
+        essen<lb ed="#V" n="7" break="no"/>tia diuina non sit eadem realiter alicui proprietati 
+        rela<lb ed="#V" n="8" break="no"/>tiue conuertibiliter et adequate: non oportet ponere 
+        <lb ed="#V" n="9"/>talem distinctionem vel non identitatem priorem: igitur nec 
+        ad<lb ed="#V" n="10" break="no"/>hoc quod non sit sic eadem formaliter ei: consequentia est nota: antecedens 
+        <lb ed="#V" n="11"/>patet ex tertia conclusione questionis precedentis: 
+        ra<lb ed="#V" n="12" break="no"/>tiones etiam adducte pro conclusione: nulla mutatio 
+        reali<lb ed="#V" n="13" break="no"/>ter informaliter possunt adduci pro ista. 
+      </p>
+               <p xml:id="at8va9-e99035-d1e415">
+        Quarta 
+        <lb ed="#V" n="14"/>conclusio est: quod de his que sunt vna formalitas: siue 
+        <lb ed="#V" n="15"/>vnum formaliter per exclusionem omnis distinctionis 
+        <lb ed="#V" n="16"/>et dualitatis formalis sine contradictione verificantur 
+        <lb ed="#V" n="17"/>praedicata contradictoria formaliter in diuinis: probatur 
+        <lb ed="#V" n="18"/>sic: de istis que sunt vna realitas: siue vnum realiter 
+        <lb ed="#V" n="19"/>per exclusionem omnis distinctionis et dualitatis 
+        rea<lb ed="#V" n="20" break="no"/>lis sine contradictione verificantur praedicata contradicto 
+        <lb ed="#V" n="21"/>ria realiter in diuinis: igitur de his que sunt vna 
+        for<lb ed="#V" n="22" break="no"/>malitas: siue vnum formaliter per exclusionem etc. sine 
+        <lb ed="#V" n="23"/>contradictione verificantur praedicata contradictoria 
+        for<lb ed="#V" n="24" break="no"/>maliter in diuinis: consequentia est bona: tum quia non est 
+        ma<lb ed="#V" n="25" break="no"/>ior repugnantia hic quam ibi: tum quia realitas et 
+        confor<lb ed="#V" n="26" break="no"/>mitas cuiuscumque rei sunt idem conuertibiliter et 
+        adequa<lb ed="#V" n="27" break="no"/>te: vt patet ex dictis etc. antecedens patet ex quarta 
+        conclu<lb ed="#V" n="28" break="no"/>sione. q. precedentis: ergo etc. Cones etiam probantes 
+        <lb ed="#V" n="29"/>illam conclusionem possent probare istam: mutando realita 
+        <lb ed="#V" n="30"/>tem informalitatem seu realiter informaliter: vt patet. 
+        re<lb ed="#V" n="31" break="no"/>ductiones rationum sunt euidentes: ideo pertramnseo etc. 
+      </p>
+            </div>
+            <div xml:id="at8va9-e99035-Dd1e458">
+               <head xml:id="at8va9-e99035-Hd1e460">Articuli 3 et 4</head>
+               <p xml:id="at8va9-e99035-d1e462">
+                  <lb ed="#V" n="32"/>Tertius et quartus articulus. 
+        <lb ed="#V" n="33"/>QUantum ad tertium et quartum articulos: est quedam 
+        <lb ed="#V" n="34"/>opinio satis communis que quantum partinet ad propositum 
+        <lb ed="#V" n="35"/>ponit duas conclusiones. 
+      </p>
+               <p xml:id="at8va9-e99035-d1e473">
+                  <lb ed="#V" n="36"/>Opinio scoti et suorum. 
+        <lb ed="#V" n="37"/>Prima est: quod essentia et proprietas in diuinis 
+        distin<lb ed="#V" n="38" break="no"/>guuntur: circumscripto omni opere intellectus: et rationis 
+        <lb ed="#V" n="39"/>nostre. Secunda est: quod essentia et proprietas in diuinis 
+        <lb ed="#V" n="40"/>distinguuntur formaliter. Ex istis sequitur quod proprietas 
+        <lb ed="#V" n="41"/>personalis formaliter distinguitur a persona: et quod 
+        persona<lb ed="#V" n="42" break="no"/>formaliter distinguitur ab essentia. Primam istarum 
+        conclu<lb ed="#V" n="43" break="no"/>sionum ex fundametis scoti probat quadam doc. de suis. 
+      </p>
+               <p xml:id="at8va9-e99035-d1e493">
+                  <lb ed="#V" n="44"/>Franciscus de maronis in primo di. 33. q. 2. ar. i. 
+        <lb ed="#V" n="45"/>Sic omnis essentia est ad se: nulla relatio est ad se 
+        cir<lb ed="#V" n="46" break="no"/>cunscripto vtrobique opere intellectus: igitur nulla 
+        rela<lb ed="#V" n="47" break="no"/>tio est essentia. Uel sic: nulla relatio est ad se: omnis 
+        substantia<lb ed="#V" n="48" break="no"/>est ad se: ergo nulla substantia est relatio. Isti duo 
+        silogismi<lb ed="#V" n="49" break="no"/>sunt in primo et in secundo modo secunde figure: et vtraque 
+        <lb ed="#V" n="50"/>praemissarum conceditur: ergo conclusio debet inferri et 
+        conce<lb ed="#V" n="51" break="no"/>di: vt dicit per locum a toto quantitate: quod diuina essentia 
+        <lb ed="#V" n="52"/>non est relatio: et econtra. Ista ratio confirmatur 
+        multi<lb ed="#V" n="53" break="no"/>plici auctoritate be. aug. Prima est in. 7. de tri. dicit quod 
+        <lb ed="#V" n="54"/>si essentia relatiue dicitur et est ad aliud: essentia iam non 
+        <lb ed="#V" n="55"/>est essentia. Secunda est ibidem: vt dicit quod in nomibus 
+        que<lb ed="#V" n="56" break="no"/>relatiue dicuntur in diuinis non ostenditur substantia: et tamen secundum 
+        <lb ed="#V" n="57"/>ipsum ostenditur ibi relatio. Alias auctoritates et rationes 
+        <lb ed="#V" n="58"/>adducit que soluuntur eodem modo: igitur etc. 
+      </p>
+               <p xml:id="at8va9-e99035-d1e528">
+                  <lb ed="#V" n="59"/>Franciscus vbi supra. 
+        <lb ed="#V" n="60"/>Secundam conclusionem probat ibidem doc. 
+        quadruplici<lb ed="#V" n="61" break="no"/>ter. Primo sic: quia ens formaliter diuiditur in absolutum 
+        <lb ed="#V" n="62"/>et respectiuum: et essentia cadit sub absoluto: relatio 
+        ve<lb ed="#V" n="63" break="no"/>ro sub respectiuo. Secundo: quia in diffinitione essentie 
+        po<lb ed="#V" n="64" break="no"/>nitur ad se: in diffinitione relationis ad aliud. Tertio: 
+        <lb ed="#V" n="65"/>quia secundum rationem descriptam essentie: essentia est ens in se: et 
+        re<lb ed="#V" n="66" break="no"/>latio ens in fundamento. Quarto per viam reduplicati 
+        <lb ed="#V" n="67"/>onis: quia relatio inquantum relatio non beatificat: de 
+        in<lb ed="#V" n="68" break="no"/>tas aut inquantum deitas beatificat: et iste sunt 
+        quattu<lb ed="#V" n="69" break="no"/>uia vie vt dicit ad ad inuestigandum distinctionem forma
+      </p>
+               <p xml:id="at8va9-e99035-d1e555">
+                  <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>Contra scotum: 
+        <lb ed="#V" n="71"/>Sed iris non obstantibus: saluo meliori iudicio 
+        vi<lb ed="#V" n="72" break="no"/>detur mihi: quod hec opinio sit irrtionalis omnino: tum quia talis 
+        <lb ed="#V" n="73"/>distinctio est impossibilis inter quecumque: vt patet ex dictis: 
+        <lb ed="#V" n="74"/>tum quia si esset possibilis adhuc per eam non saluaretur 
+        for<lb ed="#V" n="75" break="no"/>ma silogistica in diuinis: quam tamen isti doc. intendunt per 
+        <lb ed="#V" n="76"/>ipsam saluare: nec vitatur repugnantia praedicamentorum 
+        op<lb ed="#V" n="77" break="no"/>positorum que distinguitur de essentia et relatione: qua 
+        cre<lb ed="#V" n="78" break="no"/>dunt omnino vitare: et ideo contra conclusionem istam pono duas 
+        conclusio<lb ed="#V" n="79" break="no"/>nes. Prima est: quod ad tollendum repugnantiam praedicamen 
+        <lb ed="#V" n="80"/>torum oppositorum qua dicuntur de essentia et relatione non 
+        suffi<lb ed="#V" n="81" break="no"/>cit sola distinctio formalis relationis et essentie: etiam si 
+        <lb ed="#V" n="82"/>esset possibilis in divinis. Secunda est: quod forma 
+        silogisti<lb ed="#V" n="83" break="no"/>ca in diuinis per solam distinctionem forma lem saluari non 
+        <lb ed="#V" n="84"/>potest. et loquor in istis conclusionibus de distinctione 
+        formali<lb ed="#V" n="85" break="no"/>secundum imaginationem istorum doctorum praescidendo eam a 
+        distin<lb ed="#V" n="86" break="no"/>ctione reali: sic igitur sumpta distinctione formali pro 
+        dedu<lb ed="#V" n="87" break="no"/>ctione prime conclusionis perimitto duas propoitones. Prima est 
+        <lb ed="#V" n="88"/>quod ad tollendum repugnantiam contradictionis extremorum realium 
+        <lb ed="#V" n="89"/>non sufficit sola distinctio formalis: probatur primo sic. Illa 
+        <lb ed="#V" n="90"/>sola distinctio sufficit ad tollendum repugnantiam 
+        contradictio<lb ed="#V" n="91" break="no"/>nis extremorum realium quae tollitur vnitatem vel gradum 
+        vni<lb ed="#V" n="92" break="no"/>tatis necessario requisita vel requisitum ad contradictionem talium 
+        <lb ed="#V" n="93"/>extremorum: hoc patet: quia distinctio non tollit repugnantiam 
+        <lb ed="#V" n="94"/>prdictionis: nisi quia tolliter vnitatem etc. sed distinctio 
+        forma<lb ed="#V" n="95" break="no"/>lis non tolliter vnitatem nec gradum vnitatis necessario 
+        re<lb ed="#V" n="96" break="no"/>quisitum ad contradictionem extremorum realium: etiam per 
+        ponen<lb ed="#V" n="97" break="no"/>tes ipsam: quia talis est vnitas vel gradus vnitatis realis 
+        <lb ed="#V" n="98"/>et nullum istorum tolliter per distinctionem formalem: quia 
+        distin<lb ed="#V" n="99" break="no"/>ctio formalis vt dicit stat cum vnitate reali et 
+        gradu<lb ed="#V" n="100" break="no"/>vnitatis realis quocumque. 
+      </p>
+               <p xml:id="at8va9-e99035-d1e627">
+        Secundo sic: ista 
+        distinctio<lb ed="#V" n="101" break="no"/>non tollit distinctionem extremorum realium quae stat cum 
+        tali<lb ed="#V" n="102" break="no"/>contradictione: sed distinctio formalis stat cum contradictione 
+        ex<lb ed="#V" n="103" break="no"/>tremorum realium secundum ponetes eam: ergo maior patet: quia quod 
+        tol<lb ed="#V" n="104" break="no"/>lit aliquid non stat simul cum illo: minor probatur: quia intellectus 
+        <lb ed="#V" n="105"/>et voluntas in deo distinguuntur formaliter secundum eos: et tamen contra 
+        <lb ed="#V" n="106"/>dictio est quod voluntas communicetur realiter: et intellectus non 
+        communice<lb ed="#V" n="107" break="no"/>tur realiter: vel econuerso: ergo. 
+      </p>
+               <p xml:id="at8va9-e99035-d1e645">
+        Tertio sic: nulla 
+        distin<lb ed="#V" n="108" break="no"/>ctio minor distinctione formali sufficit ad tollendum 
+        re<lb ed="#V" n="109" break="no"/>ignantiam contradictionis extremorum formalium: igitur nulla 
+        <lb ed="#V" n="110"/>distinctio minor distinctione reali sufficit ad tollendum 
+        <lb ed="#V" n="111"/>distinctionem vel repugnantiam contradictionis extremorum 
+        re<lb ed="#V" n="112" break="no"/>alium: antecedens patet per eos: et consequentia videtur nota: quia non est maior 
+        <lb ed="#V" n="113"/>ratio de vno quam de alio: sed distinctio formalis vt dicunt est 
+        <lb ed="#V" n="114"/>minor distinctione reali: ergo. 
+      </p>
+               <p xml:id="at8va9-e99035-d1e663">
+        Quarto sic: illa 
+        distinctio<lb ed="#V" n="115" break="no"/>sufficit ad tollendum repugnantiam contradictionis realis: 
+        qua<lb ed="#V" n="116" break="no"/>posita adhuc praedicata contradictoria realiter verificantur de 
+        <lb ed="#V" n="117"/>eodem penitus indistincto: patet ex terminis: sic est in proposito. 
+        <lb ed="#V" n="118"/>ergo probatur minor: quia talia praedicata non solum verificantur 
+        <lb ed="#V" n="119"/>de formalitatibus in divinis: sed etiam de realitatibus praecise 
+        <lb ed="#V" n="120"/>sumpti vt praescindunt a formalitatibus: quia sicut iste sunt 
+        ve<lb ed="#V" n="121" break="no"/>re formalitas essentie communicaretur formalitas paternitatis 
+        <lb ed="#V" n="122"/>non communicatur: sic iste realitas essentie communicatur realitas 
+        pri<lb ed="#V" n="123" break="no"/>nitatis non communicatur: tunc quaro ab istis an inter realitatem 
+        <lb ed="#V" n="124"/>essentie et realitatem paternitatis vt praiescindunt a 
+        formalita<lb ed="#V" n="125" break="no"/>tibus sit aliqua distinctio vel non. Si non: patet quod praedicata contras 
+        <lb ed="#V" n="126"/>dictoria realiter verificantur de eodem penitus indistincto 
+        <lb ed="#V" n="127"/>sicut minor probanda ponebat. Si sic: sequitur quod inter 
+        essen<lb ed="#V" n="128" break="no"/>tiam et paternitatem non solum sit distinctio formalis sed etiam 
+        <lb ed="#V" n="129"/>realis: quod est impossibile etiam per eos. 
+      </p>
+               <p xml:id="at8va9-e99035-d1e698">
+        Secunda propositio est: 
+        <lb ed="#V" n="130"/>quod de essentia et relatione verificantur praedicata contradictoria 
+        <lb ed="#V" n="131"/>extremorum realium in divinis: hoc est euidens: quia essentia non 
+        <lb ed="#V" n="132"/>solum non communicatur formaliter: sed etiam nec realiter: vt stati 
+        tam<lb ed="#V" n="133" break="no"/>gebatur. 
+      </p>
+               <p xml:id="at8va9-e99035-d1e709">
+        His propositionibus praemissis deduco conclusionem 
+        <lb ed="#V" n="134"/>primam sic: ad tollendum repugnantiam 
+        contradi<lb ed="#V" n="135" break="no"/>ctionis extremorum realium: non sufficit sola distinctio 
+        <lb ed="#V" n="136"/>formalis: hoc patet ex prima propoitione: sed de essentia 
+        <lb ed="#V" n="137"/>et relatione verificantur praedicata contradictoria extromorum 
+        <lb ed="#V" n="138"/>realium: vt patet ex secunda conclusione. Ex ista conclusione
+        <pb ed="#V" n="159-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>sequitur quod ad tollendum huiusmodi repugnantiam formalem non 
+        <lb ed="#V" n="2"/>sufficit sola diuisio rationis. prout quibusdam doc. videtur. 
+        <lb ed="#V" n="3"/>deductio est euidens: quia distinctio rationis minus potest 
+        <lb ed="#V" n="4"/>sufficere quam formalis: que tamen non sufficit: vt patet ex 
+        di<lb ed="#V" n="5" break="no"/>ctis. 
+      </p>
+               <p xml:id="at8va9-e99035-d1e739">
+        Secundam conclusionem deduco primo sic. In illa ma¬ 
+        in<lb ed="#V" n="6" break="no"/>qua silogismus non est peccans in materia: nec in forma 
+        conclu<lb ed="#V" n="7" break="no"/>dit conclusionem falsam non habet locum forma silogistica: sed in 
+        di<lb ed="#V" n="8" break="no"/>uinis: stante sola diuisione formali inter essentiam et 
+        relati<lb ed="#V" n="9" break="no"/>onem silogismus concludens falsam conclusionem non peccat 
+        in<lb ed="#V" n="10" break="no"/>mam nec in forma: igitur maior supponitur: minor probatur: 
+        <lb ed="#V" n="11"/>arguendo tam affirmatiue quam negatiue. Affirmatiue 
+        <lb ed="#V" n="12"/>quodem sic: omnis realitas proprietatis relatiue in divinis 
+        distin<lb ed="#V" n="13" break="no"/>guit realiter personam a persona: realitas essentie non 
+        distin<lb ed="#V" n="14" break="no"/>guit realiter personam a persona: igitur realitas essentie non est 
+        <lb ed="#V" n="15"/>realitas proprietatis relatiue. Ista conclusio est falsa: 
+        <lb ed="#V" n="16"/>stante sola distinctione formali inter essentiam et proprieta 
+        <lb ed="#V" n="17"/>tem: et tamen praemisse sunt vere: et saluatur forma silogistica: ergo 
+        <lb ed="#V" n="18"/>Negatiue sic: quedam realitas proprietatis relatiue non 
+        <lb ed="#V" n="19"/>est realitas paternitatis: omnis realitas essentie proprieta 
+        <lb ed="#V" n="20"/>tis relatiue est realitas: ergo realitas essentie non est 
+        reali<lb ed="#V" n="21" break="no"/>tas paternitatis: conclusio est falsa sicut praecedens: stante 
+        <lb ed="#V" n="22"/>supposito: et tamen forma est bona. Secundo sic: vbi 
+        prin<lb ed="#V" n="23" break="no"/>cipia roborantia silogismos non haobeunt locum: nec ipsa 
+        for<lb ed="#V" n="24" break="no"/>ma filogistica: sed in diuinis talia principia non habent 
+        <lb ed="#V" n="25"/>locum state sola distinctione formali: ergo etc. maior 
+        <lb ed="#V" n="26"/>patet: quia praemisse non applicantur ad conclusionem nisi virtute 
+        <lb ed="#V" n="27"/>principiorum: minor probatur: quia silogismi affirmatiui 
+        ro<lb ed="#V" n="28" break="no"/>borantur per illud praencipium: quecumque vni et eidem sunt eadem 
+        <lb ed="#V" n="29"/>inter se sunt eadem: vt patet primo priorum. et tamen non habet locum in 
+        di<lb ed="#V" n="30" break="no"/>uinis: stante supposito: quia realitas paternitatis: et 
+        re<lb ed="#V" n="31" break="no"/>alitas filiationis sunt eedem realitati essentie: et tamen non 
+        in<lb ed="#V" n="32" break="no"/>ter se. Idem patet de principio per quod roborantur 
+        silogismi<lb ed="#V" n="33" break="no"/>negatiui quod est: quecumque vni et eidem sunt diuersa: inter 
+        <lb ed="#V" n="34"/>se sunt diuersa. 
+      </p>
+               <p xml:id="at8va9-e99035-d1e804">
+        Ad cuius declarationem est aduertendum: 
+        <lb ed="#V" n="35"/>quod multum refert quod aliqua sint diuersa ab eodem: et quod 
+        <lb ed="#V" n="36"/>sint diuersa eidem: naturm homo et asinus sunt diuersa ad 
+        la<lb ed="#V" n="37" break="no"/>pidem: et vniversaliter quecumque duo realiter differunt ab aliquo 
+        <lb ed="#V" n="38"/>tertio sunt diuersa ab eo. ex talibus tamen terminis non 
+        <lb ed="#V" n="39"/>formatur silogismus negatiuus in quo onem quod altera 
+        prae<lb ed="#V" n="40" break="no"/>missarum sit affirmatiua. Sed illa dicuntur diuersa 
+        eiden<lb ed="#V" n="41" break="no"/>quorum vnum est idem illi: alterum vero ab eodem realiter 
+        dif<lb ed="#V" n="42" break="no"/>fert: et ex terminis sic positis formatur silogismus 
+        ne<lb ed="#V" n="43" break="no"/>gatiuus: dicendo: omnis homo est animal: nullus lapis est animal: ergo 
+        <lb ed="#V" n="44"/>nullus lapis est homo. Istud autem principium non habet 
+        <lb ed="#V" n="45"/>locum in diuinis: stante supposito quod realitas 
+        essen<lb ed="#V" n="46" break="no"/>tie et realitas paternitatis sunt sic diuersa 
+        realitati<lb ed="#V" n="47" break="no"/>relationis: et tamen non inter seut dictum est pluries. 
+        For<lb ed="#V" n="48" break="no"/>te dicetur ad istas rationes quod realitas essentie et 
+        reali<lb ed="#V" n="49" break="no"/>tas proprietatis non sunt idem conuertibiliter: et adequate: et ideo 
+        <lb ed="#V" n="50"/>non sequitur realitas proprietatis esse idem inter se: sed sic 
+        <lb ed="#V" n="51"/>dicendo habetur principale propositum: quia tunc non 
+        sal<lb ed="#V" n="52" break="no"/>uatur forma: sillogistica in diuinis: nec tolliter 
+        repu<lb ed="#V" n="53" break="no"/>gnantia contradictionis per distinctionem formalem: sed per 
+        <lb ed="#V" n="54"/>inconuertibilitatem: et per consequens frustra fingitur talis 
+        distin<lb ed="#V" n="55" break="no"/>ctio: et. illud principaliter mouet me ad non 
+        ponen<lb ed="#V" n="56" break="no"/>dum eam: quia etiam si ponatur nullam vitat difficultatem etc. 
+      </p>
+               <p xml:id="at8va9-e99035-d1e854">
+                  <lb ed="#V" n="57"/>Responsio ad rationes francisci. 
+        <lb ed="#V" n="58"/>Nec motiua opinionis concludunt: quia omnia probant 
+        <lb ed="#V" n="59"/>distinctionem realem: si aliquam probant: quam tamen omnino 
+        <lb ed="#V" n="60"/>negant: et iste est vnus de principalioribus 
+        defecti<lb ed="#V" n="61" break="no"/>bus huius positionis. quia omnis ratio: quam adducunt 
+        <lb ed="#V" n="62"/>ad probandum distinctionem formalem ex natura rei: potest 
+        re<lb ed="#V" n="63" break="no"/>duci contra eos: quia per eam probabitur distinctio realis: vt 
+        <lb ed="#V" n="64"/>patet videnti rationes eorum. Ad rationes ergo pro 
+        pri<lb ed="#V" n="65" break="no"/>ma conclusione: dico primo: quod potest reduci contra eos quia 
+        <lb ed="#V" n="66"/>sicut iste sunt vere: omnis essentia est ad se: nulla 
+        rela<lb ed="#V" n="67" break="no"/>tio est ad se: sic et iste omnis realitas essentie est ad se 
+        nul<lb ed="#V" n="68" break="no"/>la realitas relationis est ad se. et per consequens si probant 
+        ali<lb ed="#V" n="69" break="no"/>quid: probant distinctionem realem: nec tamn illam probat nec aliam
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>quia ad soluendum talia sophismata sufficit quod 
+        essentia<lb ed="#V" n="71" break="no"/>non sit tamtum proprietas: siue quod non sit conuertibiliter et 
+        ade<lb ed="#V" n="72" break="no"/>quate proprietas: vt patet ex dictis. Et per idem patet ad 
+        au<lb ed="#V" n="73" break="no"/>ctoritates be. aug. quia concedo quod si essentia diceret 
+        re<lb ed="#V" n="74" break="no"/>latiue non esset essentia: sed ex hoc non sequitur quod distingua 
+        <lb ed="#V" n="75"/>tur a relatione aliquo modo. sufficit enim ad hoc quod non 
+        <lb ed="#V" n="76"/>sit conuertibiliter relatio. Et conformiter concedo: quod in 
+        omni<lb ed="#V" n="77" break="no"/>bus que relatiue dicuntur: non ostenditur substantia supple 
+        ade<lb ed="#V" n="78" break="no"/>quate: quia ostenditur relatio que non est adequate substantia. Ad 
+        <lb ed="#V" n="79"/>rationes vero secunde conclusionis: satis patet quid dicendum ex 
+        di<lb ed="#V" n="80" break="no"/>ctis. omnes namque possunt reduci contra eos: et solui faciliter: hoc 
+        <lb ed="#V" n="81"/>puaet de primo: quia si ex hoc quod ens diuiditur formaliter per ab 
+        <lb ed="#V" n="82"/>solutum et relatiuum concluditur diuisio formalis relationis 
+        <lb ed="#V" n="83"/>et essentie: pari ratione concludetur realis: quia ens diuiditur 
+        rea<lb ed="#V" n="84" break="no"/>liter per ista: et sic per eos non concluditur ex hoc secunda: nec 
+        <lb ed="#V" n="85"/>secundum veritatem prima: et conformiter est ad alias respondendum. 
+      </p>
+               <p xml:id="at8va9-e99035-d1e922">
+                  <lb ed="#V" n="86"/>Ad principalia. 
+        <lb ed="#V" n="87"/>Ad primam patet ex dictis: quod non concludit quod essentia non sit 
+        <lb ed="#V" n="88"/>eadem formaliter paternitati: sed quod non sit eadem sibi formaliter 
+        <lb ed="#V" n="89"/>conuertibiliter et adequate: quod vtique verum est. Secundam 
+        <lb ed="#V" n="90"/>rationem concedo. 
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#AlphonsusVargas">Alphonsus Vargas Toletanus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2024-10-10">October 10, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-x7yh5z">Venice, 1490</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="165-r"/>
+            <cb ed="#V" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="at8va9-e99950"><!-- l1d40-41q1 -->
+            <head xml:id="at8va9-e99950-Hd1e101">Quaestio 1</head>
+            <head xml:id="at8va9-e99950-Hd1e103" type="question-title">Utrum omnis predestinatus ab eterno fuerit predestinatibus</head>
+            <p xml:id="at8va9-e99950-d1e106">
+               <lb ed="#V" n="71"/>PRedestinatio vero de bonis salutari 
+      <lb ed="#V" n="72"/>bus etc. Circa istam di. 40. et 
+      sequen<lb ed="#V" n="73" break="no"/>tem in quibus magister principaliter 
+      <lb ed="#V" n="74"/>agit de predestinationis et 
+      praedestinati<lb ed="#V" n="75" break="no"/>one. Quero istam questionem: vtrum 
+      <lb ed="#V" n="76"/>omnis predestinatus ab eterno fuerit 
+      predestina<lb ed="#V" n="77" break="no"/>tus.
+    </p>
+            <p xml:id="at8va9-e99950-d1e124">
+      Et videtur quod non: quia si sic: tunc vel deus 
+      pre<lb ed="#V" n="78" break="no"/>destinauit eos propter bonum vsuml iberi arbitri: et 
+      <lb ed="#V" n="79"/>propter bona opera ab eterno a deo precognita: vel 
+      <lb ed="#V" n="80"/>totaliter absque causa se tenente ex parte eorum: hoc 
+      <lb ed="#V" n="81"/>patet: quia nulla alia causa potest assignari eterne 
+      <lb ed="#V" n="82"/>predestinationis: saltem in adultis: sed nullum isto 
+      <lb ed="#V" n="83"/>rum potest dari: igitur probatur minor: non enim 
+      po<lb ed="#V" n="84" break="no"/>test dari primum: quia predestinationis non est 
+      ali<lb ed="#V" n="85" break="no"/>qua causa: nisi voluntas diuina: vt communiter 
+      tene<lb ed="#V" n="86" break="no"/>tur: nec secundum: quia si deus absque causa 
+      tenen<lb ed="#V" n="87" break="no"/>te se ex parte hominu. vnum ordinaret ad gloriam. 
+      <lb ed="#V" n="88"/>alterum vero ad penam ab eterno: sic esset acceptor 
+      <lb ed="#V" n="89"/>personarum: quod non consonat catholice 
+      verita<lb ed="#V" n="90" break="no"/>ti. 
+    </p>
+            <p xml:id="at8va9-e99950-d1e155">
+      Ad oppositum est omnium theologorum sententia 
+      <lb ed="#V" n="91"/>vnde anshel. de concor. c. 8. ait: cum ergo ait apostolum: 
+      <lb ed="#V" n="92"/>quia deus sanctos suos vocauit prae sciuit et prdestinauita 
+      <lb ed="#V" n="93"/>vocauit: iustificauit: magnificauit. nihil horum prius 
+      <lb ed="#V" n="94"/>aut posterius apud eum: sed omnia simul eterno praesenti sunt itel 
+      <lb ed="#V" n="95"/>ligenda. 
+    </p>
+            <p xml:id="at8va9-e99950-d1e169">
+      In ista qodne primo ponam aliquas suppositiones: 
+      <lb ed="#V" n="96"/>secundo conclusiones. tertio mouebo dubia. quarto respondebo.
+    </p>
+            <div xml:id="at8va9-e99950-Dd1e174">
+               <head xml:id="at8va9-e99950-Hd1e176">Articulus 1</head>
+               <p xml:id="at8va9-e99950-d1e178">
+                  <lb ed="#V" n="97"/>Primus articulus: 
+        <lb ed="#V" n="98"/>QUantuum ad primum hec eprima sippositio: quod 
+        dei<lb ed="#V" n="99" break="no"/>nihil facit ignorans: et hec nulli theologorum aut 
+        <lb ed="#V" n="100"/>philosorum est dubia: et ponit eam he. aug. 5. super 
+        gen<lb ed="#V" n="101" break="no"/>litteram. c. 1o. Decunda est: quod nihil noui fit in scientia dei 
+        <lb ed="#V" n="102"/>vt de nouo aliquid incipiati scire: et hac etiam ponit be. 
+        <lb ed="#V" n="103"/>aug. 4. de tri. c. 6. et. c. 17. et inmulti aliis locis . 
+        Ter<lb ed="#V" n="104" break="no"/>tia est: quod deus non nisi volens facit quicquid facit: et hanc 
+        <lb ed="#V" n="105"/>etiam ponit aug. Euchitr. c. 7. Quarta est: quod deus 
+        <lb ed="#V" n="106"/>nihil potest velle voluntate noua accidente: et hac 
+        po<lb ed="#V" n="107" break="no"/>nit. 5. de tri. c. 37. et libro. 15. c. 5o. et hoc de primo. 
+      </p>
+            </div>
+            <div xml:id="at8va9-e99950-Dd1e205">
+               <head xml:id="at8va9-e99950-Hd1e207">Articulus 2</head>
+               <p xml:id="at8va9-e99950-d1e209">
+                  <lb ed="#V" n="108"/>Secundus articulus. 
+        <lb ed="#V" n="109"/>QUantum autm ad secudum: qui conformit est dicendum 
+        <lb ed="#V" n="110"/>proposito de reprobatis et praedestinatis pono quit 
+        <lb ed="#V" n="111"/>tuor conclusiones. Prima est: quod cuicumque dabit deus 
+        vi<lb ed="#V" n="112" break="no"/>tam eternam ab eterno cognoscit illam sibi dare: probatur 
+        <lb ed="#V" n="113"/>sic: nulli dabit deus vita eternam ignorans: hoc patet 
+        <lb ed="#V" n="114"/>ex prima suppositione: ergo cuicumque dabit deus vitam 
+        <lb ed="#V" n="115"/>eternam cognouit illam sibi dare: et non cognitione noua: 
+        <lb ed="#V" n="116"/>quia nis noui fit in eius scientia: nec de nouo incipit 
+        <lb ed="#V" n="117"/>aliquid scire: vt patet ex secunda: igitur cognitione eterna: et 
+        <lb ed="#V" n="118"/>sic intantum. Ex ista conclusione infero correlarie: quod de 
+        <lb ed="#V" n="119"/>ab eterno cognouit determinate numerum electorum. 
+        <lb ed="#V" n="120"/>deductio est euidens: quia omnibus electis deus dabit vita 
+        eter<lb ed="#V" n="121" break="no"/>nam: et cucumque dabit deus vitam eternam ab eterno 
+        cogne<lb ed="#V" n="122" break="no"/>uit illam sibi dare ex conclusione deducta. Secunda conciusio est 
+        <lb ed="#V" n="123"/>quod cuicumque deus non dabit vitam eteina ab eter no cognouit 
+        <lb ed="#V" n="124"/>illi non dare: et hec potest deduci sicut correlarium praecedens. 
+        <lb ed="#V" n="125"/>Ex ista conclusione infero correlarie: quod deus ab eterno 
+        co<lb ed="#V" n="126" break="no"/>gnouit numerum reprobatorum: deductio patet ex dictis. 
+        <lb ed="#V" n="127"/>Tertia conclusio: cuicumque dabit deus vitam etina ab eterno 
+        <lb ed="#V" n="128"/>voluit illam sibi dare. hac probo primo sic. cuicumque deus dabit 
+        <lb ed="#V" n="129"/>vitam eterna: ab ete no voluit illam sibi dare: sed cuicumque 
+        da<lb ed="#V" n="130" break="no"/>bit deus vitam etina volens dabit: quia non nisi volens quicquid 
+        <lb ed="#V" n="131"/>facit: vt patet ex tertia suppoitone: et non voluntate 
+        accede<lb ed="#V" n="132" break="no"/>te noua: vt patet ex secunda: igitur voluntate eterna: et sic 
+        propo<lb ed="#V" n="133" break="no"/>situ. Post etiam ista conclusio deduci ex prima: sed pertranseo propter 
+        <lb ed="#V" n="134"/>breuitatem. Ex illa conclusione infero correlarie: quod omnis 
+        per<lb ed="#V" n="135" break="no"/>destinatus ab eterno fuit praedestinatus quod principaliter 
+        quare<lb ed="#V" n="136" break="no"/>batur. deductio est nota: quia praedestinatus est ille cui proponit 
+        <lb ed="#V" n="137"/>dare vita et natura: igitur si cuicumque deus dabit vita eteinam 
+        <lb ed="#V" n="138"/>ab eterno voluit: et per consequens proposuit illam sibi dare: et per
+        <pb ed="#V" n="165-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>ponsesens praedestinatus ab eterno fuit praedestinatusm. 
+        Quar<lb ed="#V" n="2" break="no"/>ta conclusioest quod cuicumque deus non dabit vitam eternam: ab eterno 
+        vo<lb ed="#V" n="3" break="no"/>luit illi non dare: et potest deduci ratio sicut praecedens. Et 
+        <lb ed="#V" n="4"/>ista conclusione infero correlarie: quod omnis reprobatus ab 
+        <lb ed="#V" n="5"/>eterno fuit reprobatus: deductio patet ex dictis. 
+      </p>
+            </div>
+            <div xml:id="at8va9-e99950-Dd1e295">
+               <head xml:id="at8va9-e99950-Hd1e297">Articuli 3 et 4</head>
+               <p xml:id="at8va9-e99950-d1e299">
+                  <lb ed="#V" n="6"/>Tertius et quartus articulus. 
+        <lb ed="#V" n="7"/>QUantum ad tertium et quartum articulos contra 
+        con<lb ed="#V" n="8" break="no"/>clusiones istas posset multipliciter instari. 
+        ve<lb ed="#V" n="9" break="no"/>rum: quia catholicis non sunt dubie: et ad ea que possunt 
+        <lb ed="#V" n="10"/>adduci contra eas patet quid dicendum ex 
+        precedenti<lb ed="#V" n="11" break="no"/>questione: quia conformiter est loquendum de 
+        predestina<lb ed="#V" n="12" break="no"/>tione et prescientia: cum predestinatio sit quedam species 
+        pre<lb ed="#V" n="13" break="no"/>scientie: igitur ad praesens pertranseo. 
+      </p>
+               <p xml:id="at8va9-e99950-d1e319">
+                  <lb ed="#V" n="14"/>Responsio ad rationes principales. 
+        <lb ed="#V" n="15"/>Ad primam potest responderi iuxta principia cuiusdam 
+        <lb ed="#V" n="16"/>doc. nostri: admittendo primam parte maioris: 
+        videli<lb ed="#V" n="17" break="no"/>cet quod omnis predestinatus saltem adultus fuit ab 
+        eter<lb ed="#V" n="18" break="no"/>no pradestinatus propter bonum vsum liberi arbitrii et 
+        <lb ed="#V" n="19"/>bona opera futura a deo ab eterno prius cognita. 
+      </p>
+               <p xml:id="at8va9-e99950-d1e335">
+        Et 
+        <lb ed="#V" n="20"/>vt clarius videatur ista raespensio doc. iste. 
+        <lb ed="#V" n="21"/>Thomas de argentina in primo di. 41: q. i. ar. i. et. 2. 
+        <lb ed="#V" n="22"/>Circa materiam ista ponit quattuor conclusiones 
+        <lb ed="#V" n="23"/>duas de reprobatis: et duas de praedestinatis: Est 
+        <lb ed="#V" n="24"/>igitur prima sua conclusio: Quod causa reprobationis quam 
+        <lb ed="#V" n="25"/>ad adultos potest dici malus vsus liberi arbit rii vsque 
+        <lb ed="#V" n="26"/>ad finem vite in ipsis duraturus: ab eterno deo 
+        praedesti<lb ed="#V" n="27" break="no"/>natus. Secunda est: quod causa reprobationis quantum ad 
+        <lb ed="#V" n="28"/>paruulos absque sacramento baptismatis dicentes 
+        po<lb ed="#V" n="29" break="no"/>test dici ineptitudo vel inhabilitas ad recipiendum 
+        <lb ed="#V" n="30"/>influxum gratie ab eterno a deo praecognita: que in ipsis 
+        <lb ed="#V" n="31"/>pruenit: vel ex causa naturali: puta quia ex naturali sua 
+        con<lb ed="#V" n="32" break="no"/>plexione: quia tam cito moriuntur quam baptim ari non possunt: 
+        <lb ed="#V" n="33"/>et per consequens ab hac vita decedent cum originali culpa: est 
+        <lb ed="#V" n="34"/>animam reddit ineptam ad recipiendum gratiam: vel ex 
+        causa<lb ed="#V" n="35" break="no"/>voluntaria voluntate aliena: puta qui nascuntur vel 
+        nu<lb ed="#V" n="36" break="no"/>triuntur ab infidelibus quo eos nolunt baptimare. 
+        Ter<lb ed="#V" n="37" break="no"/>tia conclusio est: quia causa predestinationis quantum 
+        <lb ed="#V" n="38"/>ad adultos est bonus vsus liberi arbitrii ab eterno 
+        <lb ed="#V" n="39"/>deo precognitus: finaliter in ipsis duraturis. Et 
+        <lb ed="#V" n="40"/>notanter ponitur in conclusione ista finaliter: quia 
+        ni<lb ed="#V" n="41" break="no"/>hil obstat quin reprobatus quandoquem habeat bonum 
+        <lb ed="#V" n="42"/>vsum liberi arbitrii in presenti: preuidit tamen 
+        de<lb ed="#V" n="43" break="no"/>us: quod sua libertate ab vtendo ab huiusmodi bono vsu se 
+        <lb ed="#V" n="44"/>finaliter auertet: ideo gratiam: nec finaliter 
+        habe<lb ed="#V" n="45" break="no"/>bit in presenti: nec gloriam in futuro. Et eodem 
+        mo<lb ed="#V" n="46" break="no"/>do predestinatus in presenti quandoque potest 
+        habe<lb ed="#V" n="47" break="no"/>ri malum vsum liberi arbitrii: sciuit tamen deus ab 
+        eter<lb ed="#V" n="48" break="no"/>no: quod in tali malo vsufinaliter non manebit: et ideo 
+        <lb ed="#V" n="49"/>vt iste doc. dicit. proposuit deus ab eterno tali 
+        homi<lb ed="#V" n="50" break="no"/>ni dare gratiam finalem in presenti: et gloriam in 
+        futu<lb ed="#V" n="51" break="no"/>ro. Quarta conclusio ipius est: quod causa 
+        predesti<lb ed="#V" n="52" break="no"/>nationis quantum ad paruulos: est quedam 
+        aptitudo<lb ed="#V" n="53" break="no"/>respectu baptismalis gratie: quam deus ab eterno pre 
+        <lb ed="#V" n="54"/>uidens: eos predestinauit ad vitam eternam: et ista 
+        apti<lb ed="#V" n="55" break="no"/>tudo conuenit eis aliquo modo naturaliter: puta quia 
+        <lb ed="#V" n="56"/>non sunt adeo infirme complexionis: quin tantum possint 
+        <lb ed="#V" n="57"/>durare in presenti vita: donec baptim antur: et aliquo 
+        <lb ed="#V" n="58"/>modo voluntarie: voluntate tamen aliena: puta quia 
+        ta<lb ed="#V" n="59" break="no"/>les sunt parentes vel nutritores qui eos baptim are 
+        <lb ed="#V" n="60"/>non prohibent sed procurant. primas duas conclusiones 
+        pro<lb ed="#V" n="61" break="no"/>bat iste doc. multipliciter: rationes tamen ad praesens 
+        <lb ed="#V" n="62"/>non repeto: quia conclusiones illas pro nunc pertracta 
+        <lb ed="#V" n="63"/>turus non intendo. Ultimas vero duas tripliciter 
+        <lb ed="#V" n="64"/>bat. 
+      </p>
+               <p xml:id="at8va9-e99950-d1e435">
+        Primo sic: apostolus ad ra. 8. ait: quos presciuit hos 
+        <lb ed="#V" n="65"/>predestinauit: ergo prescentia alicuius boni tenentis 
+        se<lb ed="#V" n="66" break="no"/>ex parte predestinati videtur fuisse causa vel 
+        ratio<lb ed="#V" n="67" break="no"/>predestinationis. 
+      </p>
+               <p xml:id="at8va9-e99950-d1e445">
+        Secundo sic: bea. ambro. in gloria. 
+        <lb ed="#V" n="68"/>ad ra. o. super illo verbo: miserebor tui: miserebor et 
+        <lb ed="#V" n="69"/>misericordiam prestabo: cui miserebor dicit: mi¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>sericordis prestabo ie ilsimisericordiam dabo illi quem 
+        <lb ed="#V" n="71"/>prescio ex toto corde reuersurum: quod non esset verum: 
+        nisi<lb ed="#V" n="72" break="no"/>causa predestinationis quantumad adultos esset 
+        bon<lb ed="#V" n="73" break="no"/>vsus liberi arbitrii. 
+      </p>
+               <p xml:id="at8va9-e99950-d1e463">
+        Tertio sic: bea. aug: 83e q. q. 
+        <lb ed="#V" n="74"/>68. ait: deus cui vult miseretur et q. vlti. inducatur: per hoc 
+        <lb ed="#V" n="75"/>tamen dei bonitas iniusta esse non potest: velut enim de 
+        oceut<lb ed="#V" n="76" break="no"/>tissimis: et per consequens causa predestinationis eterne: sunt 
+        <lb ed="#V" n="77"/>merita vel bona opera futura: sic et reprobationes 
+        <lb ed="#V" n="78"/>oppositum futura demerita. Contra thoma. 
+        <lb ed="#V" n="79"/>Istis tamen et similibus non obstantibus iste modus 
+        <lb ed="#V" n="80"/>dicendi: et preserti quantum ad duas vltimas 
+        conclu<lb ed="#V" n="81" break="no"/>siones: videtur mihi dubius: et dictis sanctorum 
+        disso<lb ed="#V" n="82" break="no"/>nus: et ideo contra eum pono aliquas conclusiones. 
+        <lb ed="#V" n="83"/>Prima est: quod deus non predestinauit aliquem ab 
+        eter<lb ed="#V" n="84" break="no"/>no propter actum credendi in eum quem preuidit ipse finaliter 
+        <lb ed="#V" n="85"/>habiturum. Istam conclusionem non reputo catholicis 
+        du<lb ed="#V" n="86" break="no"/>biam: quia eius oppositam retractat bea. aug. expresse 
+        <lb ed="#V" n="87"/>primo retractationum. c. 13. et eius retractationem de 
+        <lb ed="#V" n="88"/>verbo ad verbum ponit magister in littera di 41. c. 3. 
+        <lb ed="#V" n="89"/>qua posita infert conclusionem assumptam dicens: non 
+        er<lb ed="#V" n="90" break="no"/>go propter fidem elegit deus aliquos ab eterno: vel ape 
+        <lb ed="#V" n="91"/>ponit gratiam iustificationis in tempore: retractatione 
+        <lb ed="#V" n="92"/>bea. aug. non repeto: quia vt statim dicebatur de verbo 
+        <lb ed="#V" n="93"/>ad verbum ponitur in littera. 
+      </p>
+               <p xml:id="at8va9-e99950-d1e509">
+        Secunda conclusio est: quod 
+        <lb ed="#V" n="94"/>deus non predestinauit aliquem ab eterno propter 
+        bo<lb ed="#V" n="95" break="no"/>na opera futura: quecumque sint illa que scinit ipsum 
+        fina<lb ed="#V" n="96" break="no"/>liter facturum: istam conclusionem deduco sic: deus non 
+        pre<lb ed="#V" n="97" break="no"/>destinauit aliquem ab eterno propter actum credendi 
+        in<lb ed="#V" n="98" break="no"/>eum: quem presciuit ipsum finaliter habiturum: igitur nec propter 
+        <lb ed="#V" n="99"/>aliqua bona operatio futura que presciuit ipsum 
+        fina<lb ed="#V" n="100" break="no"/>liter facturum: antecedens patet ex precedenti conclusione: et 
+        <lb ed="#V" n="101"/>consequentia videtur nota: quia non est maior ratio cur deus 
+        prede<lb ed="#V" n="102" break="no"/>stinauerit aliquem ab eterno propter aliqua bona 
+        ope<lb ed="#V" n="103" break="no"/>ra futura que presciuit ipsum sinaliter facturum quem propter 
+        <lb ed="#V" n="104"/>actum credendi in eum quem presciuit ipsum finaliter 
+        habi<lb ed="#V" n="105" break="no"/>turum: tum quia magis videtur quod aliquem predestinauerit 
+        <lb ed="#V" n="106"/>propter actu credendi in eum quam propter hona opera 
+        fu<lb ed="#V" n="107" break="no"/>tura: sicut patet per bea. aug. vbi supra. vbi fatetur 
+        <lb ed="#V" n="108"/>se questionem istam deduxisse ad hanc ratiotinationem: 
+        <lb ed="#V" n="109"/>vt diceret deum non elegisse opera cuiuscumque: que ipse 
+        <lb ed="#V" n="110"/>daturus est: sed fidem in prescientia et quem sibi crediturum 
+        <lb ed="#V" n="111"/>esse presciuit: ipsum elegit: licet sententiam istam reuocaue 
+        <lb ed="#V" n="112"/>rit ibidem: vt dictum est prius: et hinc est quod multi tenuerunt 
+        <lb ed="#V" n="113"/>antiquitus deum multos predestinasse propter actum 
+        <lb ed="#V" n="114"/>credendi in eum quem preuidit ipsos finaliter 
+        habitu<lb ed="#V" n="115" break="no"/>ros: licet non propter alia bona opera futura que 
+        presci<lb ed="#V" n="116" break="no"/>uit ipsos finaliter facturos. Secundo deduco 
+        con<lb ed="#V" n="117" break="no"/>clusionem expresse determinatione apstoli ad ra. o. vbi 
+        lo<lb ed="#V" n="118" break="no"/>quens de iacob et esau: dicit cum nondum nati fuissent: 
+        <lb ed="#V" n="119"/>aut aliquid egissent boni aut mali: vt secundum electionem 
+        <lb ed="#V" n="120"/>propositum dei maneret: non ex operibus: sed ex 
+        voca<lb ed="#V" n="121" break="no"/>tione: dictum est quod maior seruiret minori: sicut 
+        scriptum<lb ed="#V" n="122" break="no"/>est. Iacob dilexi: esaum autem odio habui. Ex quibus 
+        ver<lb ed="#V" n="123" break="no"/>bis euidenter apparet iacob non fuisse ab eterno 
+        prae<lb ed="#V" n="124" break="no"/>destinatum ex operibus futuris: de talibus enim 
+        operi<lb ed="#V" n="125" break="no"/>bus loquitur apostolum cum dicit. non ex operibus secundum omnes 
+        <lb ed="#V" n="126"/>expositiones. Unde glosa exponens verbum predictum 
+        <lb ed="#V" n="127"/>sic inquit: sicut ostendit non pro meritis precedentibus 
+        <lb ed="#V" n="128"/>illud fuisse dictum: ita nec pro futuris meritis amborum 
+        <lb ed="#V" n="129"/>dictum fuisse. hoc ostendit cum dicit non ex operibus. 
+        i<lb ed="#V" n="130" break="no"/>non ex precedentibus meritis illud dictum est. Item 
+        dico<lb ed="#V" n="131" break="no"/>quod non ex operibus futuris bonis vel malis: que 
+        bo<lb ed="#V" n="132" break="no"/>na vel mala non erant: nisi apposita gratia vel 
+        subtra<lb ed="#V" n="133" break="no"/>cta: et modicum infra super illo verbo: quid ergo dici 
+        <lb ed="#V" n="134"/>mus num quid iniquitas st apud deum: absit: dicit ex 
+        <lb ed="#V" n="135"/>presse glosa: quod si bona futura huius vel mala illius 
+        <lb ed="#V" n="136"/>que vtique deus presciebat attenderet: non diceret: 
+        <lb ed="#V" n="137"/>non ex operibus sed ex futuris operibus et paucis 
+        inter<lb ed="#V" n="138" break="no"/>positis subdit: nemo autem dicat deum: qui futura opera¬
+        <pb ed="#V" n="166-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>preuidebat alterum elegisse: alterum reprobasse. vbi ex 
+        <lb ed="#V" n="2"/>presse ponitur assumpta conclusio. Tertio deduco 
+        <lb ed="#V" n="3"/>conclusionem claris auctoritatibus be. aug. et primo au 
+        <lb ed="#V" n="4"/>ctoritate illa vulgato in de predestinatione sanctorum: 
+        <lb ed="#V" n="5"/>quam magister allegat in littera di 4i. c. 3. vbi sic inquit. 
+        <lb ed="#V" n="6"/>bea. aug. non quia futuros nos tales praesciuit: ideo 
+        eli<lb ed="#V" n="7" break="no"/>git. sed vt essemus tales: per ipsam electionem gratie 
+        <lb ed="#V" n="8"/>sue gratificauit nos in dilecto filio suo. Item Enchitur. 
+        <lb ed="#V" n="9"/>c. 6o pertractans verba apostoli predicta sic inquit: 
+        <lb ed="#V" n="10"/>sentiens autem apostolus quemadmodum posse hoc quod 
+        <lb ed="#V" n="11"/>dictum est monere eos qui penetrare intelligendo non 
+        <lb ed="#V" n="12"/>possunt hanc gratie altitudinem ait: Quid ergo 
+        dice<lb ed="#V" n="13" break="no"/>mus nunquid iniquitas est apud deum. ab sit: iniquum 
+        <lb ed="#V" n="14"/>enim videtur vt sine nullis bonorum malorum ve 
+        operun<lb ed="#V" n="15" break="no"/>meritis. vnum deus diligat. alterum vero odiat: qua 
+        <lb ed="#V" n="16"/>lure si opera futura: vel huius bona: vel mala illius 
+        <lb ed="#V" n="17"/>vellent intelligi: nequaquam diceret: non ex operibus: 
+        <lb ed="#V" n="18"/>sed ex futuris operibus: eo modo quo istam soluet quae 
+        <lb ed="#V" n="19"/>stionem: immo nullam quam solui opus esset facere 
+        questio<lb ed="#V" n="20" break="no"/>nem: nunc vero curespondisset absit ioes absit vt sit in 
+        ini<lb ed="#V" n="21" break="no"/>quitas apud deum. mox vt probaret nulla hec 
+        iniqui<lb ed="#V" n="22" break="no"/>tate dei fieri. inquit: moysi enim dicit miserebor 
+        cui<lb ed="#V" n="23" break="no"/>misertus ero: et misericordiam prest abo cui 
+        miseri<lb ed="#V" n="24" break="no"/>cors fuero: quis enim nisi insipiens deum iniquum putet: 
+        <lb ed="#V" n="25"/>fiue iudicium penale ingerat digno. siue misericor 
+        <lb ed="#V" n="26"/>diam prestet indigno. hec omnia aug. vbi 
+        expres<lb ed="#V" n="27" break="no"/>se ponit conclusionem assumptam. et ostendit eam esse de 
+        <lb ed="#V" n="28"/>mete apostoli: et ponuntur hec verba in glosa pro 
+        ma<lb ed="#V" n="29" break="no"/>iori parte. hec est determinatio. M. in littera. di. 
+        <lb ed="#V" n="30"/>41. c. 2. vbi expresse ponit conclusionem istam dicit quod deus 
+        <lb ed="#V" n="31"/>elegit: iacob. et esau. reprebauit: non fuit pro meritis 
+        <lb ed="#V" n="32"/>ipsorum: quae tunc habuerut: quia nulla habebant: quia 
+        <lb ed="#V" n="33"/>nec ipsa existebant: nec propter merita futura quae 
+        praeui<lb ed="#V" n="34" break="no"/>deret ipsum elegit: vel illu reprobauit. Tertia 
+        con<lb ed="#V" n="35" break="no"/>clusio est: quod deus non praedestinauit aliquam ab eterno 
+        pro<lb ed="#V" n="36" break="no"/>pter bonum vsum liberi arbitrii in quo cognouit ipsum 
+        <lb ed="#V" n="37"/>finaliter duraturum. ista conclusio sequitur ex 
+        prece<lb ed="#V" n="38" break="no"/>dentibus: quia bene sequitur. deus non praedestinauit 
+        <lb ed="#V" n="39"/>aliquem ab eterno propter actum credendi in eum: quem 
+        pre<lb ed="#V" n="40" break="no"/>uidit ipsum finaliter habiturum. nec propter alia 
+        bo<lb ed="#V" n="41" break="no"/>na futura opera que presciuit ipsum facturum: 
+        igi<lb ed="#V" n="42" break="no"/>tur nec propter bonum vsum liberi arbitrii in queo 
+        <lb ed="#V" n="43"/>cognouit finaliter: ipsum duraturum. Ex ista 
+        con<lb ed="#V" n="44" break="no"/>clusione sequitur: quod causa predestinationis 
+        quan<lb ed="#V" n="45" break="no"/>tum ad adultos non est bonus vsus liheri arbitrii ab 
+        <lb ed="#V" n="46"/>eterno deo precognitus. finaliter in ipso duraturus: 
+        <lb ed="#V" n="47"/>cuius oppositum asserit tertia conclusio istius doc: 
+      </p>
+               <p xml:id="at8va9-e99950-d1e715">
+                  <lb ed="#V" n="48"/>Quarta conclusio est: quod deus non praedestinauit 
+        ali<lb ed="#V" n="49" break="no"/>quam ab eterno propter aliquam aptitudinem gratie 
+        <lb ed="#V" n="50"/>baptismalis naturalem. nec voluntariam 
+        volunta<lb ed="#V" n="51" break="no"/>te aliena quam praeuidit ipsum temporaliter habinturum: 
+        <lb ed="#V" n="52"/>et sequitur ista conclusio euidenter ex praecedenti: quia 
+        <lb ed="#V" n="53"/>si illud quod magis videtur inesse non inest: nec illud quod 
+        <lb ed="#V" n="54"/>minus: sed magis videtur quod predestinauerit aliquem 
+        <lb ed="#V" n="55"/>ab eterno propter bonum vsum liberi arbitrii in quo 
+        <lb ed="#V" n="56"/>presciuit ipsum finaliter duraturum: quam propter 
+        ta<lb ed="#V" n="57" break="no"/>sem aptitudinem: quam preuidit ipsum temporaliter 
+        <lb ed="#V" n="58"/>habiturum: et non fecit: vt patet. Ex conclusione 
+        pre<lb ed="#V" n="59" break="no"/>dicta: sequitur quod causa predestinationis quantum 
+        <lb ed="#V" n="60"/>ad paruulos non est aptitudo predicta: cuius 
+        opposi<lb ed="#V" n="61" break="no"/>tum ponit iste doc. in quarta conclusione sua. 
+        Quin<lb ed="#V" n="62" break="no"/>ta conclusio est: quod quencunque deus predestinauit 
+        gra<lb ed="#V" n="63" break="no"/>tis solum et miserabiliter predestinauit: et licet ista 
+        conclu<lb ed="#V" n="64" break="no"/>multis auctoritatibus. vnde gloria. super illo verbo 
+        apostoli<lb ed="#V" n="65" break="no"/>ad. r0. . moysi enim dixit deus. etc. sic ait: deus enim dixit 
+        <lb ed="#V" n="66"/>moysi. i. deus inductus a moyse dixit miserebor 
+        vo<lb ed="#V" n="67" break="no"/>cando interius: tui miserebor predestinando. Et in 
+        <lb ed="#V" n="68"/>mediate ad propositum subdit: ecce nulla merita prece¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="69"/>dunt pro quibus eligatur: sed sola gratia 
+        predesti<lb ed="#V" n="70" break="no"/>nantis est: ex qua vocatur aliquis et saluatur. Et hinc. 
+        <lb ed="#V" n="71"/>est quod apostolus vbi supra: predestinatos vocat vasa 
+        mi<lb ed="#V" n="72" break="no"/>sericordine. dicit vt ostenderet diuitias glorie sue in 
+        va<lb ed="#V" n="73" break="no"/>sa misericordie que preparauit in gloriam: super 
+        quo<lb ed="#V" n="74" break="no"/>verbo dicit glosa: cum igitur ex gratuita misericor 
+        <lb ed="#V" n="75"/>dia apponat gratiam quibus vult: et liberet quos 
+        <lb ed="#V" n="76"/>vult: manifeste ostenditur diues et gloriosa bonitas sua 
+        <lb ed="#V" n="77"/>in vasa misericordie: que preparauit in gloriam 
+        fu<lb ed="#V" n="78" break="no"/>turam: et modicum infra super illo verbo: quos vocauit 
+        <lb ed="#V" n="79"/>non solum ex iudeis: dicit glosa cum ostensum sit: quod ex 
+        so<lb ed="#V" n="80" break="no"/>la gratia sint filii incipit probare per auctoritates 
+        pro<lb ed="#V" n="81" break="no"/>phetarum quod hi sunt ex vtroque populo prophetarum: et 
+        su<lb ed="#V" n="82" break="no"/>per illo verbo qui predestinauit nos in adoptionem 
+        <lb ed="#V" n="83"/>filiorum per iheuem christum et cetera: ad ephilmo. primo ait glosa 
+        <lb ed="#V" n="84"/>ipse vtique praedestinauit nos scilicet sola gratia elegit i 
+        vo<lb ed="#V" n="85" break="no"/>luntate gratuita in adoptionem filiorum. Ex 
+        qui<lb ed="#V" n="86" break="no"/>bus omnibus euidentur apparet omnem predestinatum 
+        <lb ed="#V" n="87"/>ex sola gratia dei fore predestinatum. 
+      </p>
+               <p xml:id="at8va9-e99950-d1e806">
+                  <lb ed="#V" n="88"/>Ad rationes thome. 
+        <lb ed="#V" n="89"/>Nec rationes illius docto. concludunt: concedo 
+        igi<lb ed="#V" n="90" break="no"/>tur: quod deus quos presciuit hos praedestinauit: sicut 
+        app<lb ed="#V" n="91" break="no"/>stolus dicit: quod predestinatio sine prescientia esse non 
+        po<lb ed="#V" n="92" break="no"/>test: sed ex hoc non sequitur quod prescientia alicuius boni se 
+        <lb ed="#V" n="93"/>tenentis ex parte predestinati sit causa 
+        predestinatio<lb ed="#V" n="94" break="no"/>nis: nec illa consequentia probatur per istum docto. Ad secundum 
+        <lb ed="#V" n="95"/>concedo cum ambro. quod deus dat illi misericordiam quem 
+        <lb ed="#V" n="96"/>prescit toto corde reuersurum ad se: sed illud non est 
+        <lb ed="#V" n="97"/>causa predestinationis sed fructus: non est enim 
+        ali<lb ed="#V" n="98" break="no"/>quis predestinatus: quia reuersurus: sed ideo 
+        re<lb ed="#V" n="99" break="no"/>uersurus: quia predestinatus: quia talis nullus 
+        ele<lb ed="#V" n="100" break="no"/>ctus est a deo: quia talis futurus erat: sed ex 
+        electi<lb ed="#V" n="101" break="no"/>one talis est factus: vt patet per magistrum in 
+        litte<lb ed="#V" n="102" break="no"/>ra di. 41. c. 3. Ad tertiam sufficientur vt credo 
+        respon<lb ed="#V" n="103" break="no"/>dit magister in littera di. qua supra. c. 4. vbi 
+        aucto<lb ed="#V" n="104" break="no"/>ritatem illam adducit contra se et respondet diio.e quod 
+        creden<lb ed="#V" n="105" break="no"/>dum est bea. aug. verba illa retractasse cum retractauit 
+        <lb ed="#V" n="106"/>conclusionem illa quam hactenus tenuerat: videlicet: quod 
+        <lb ed="#V" n="107"/>deus aliquem predestinauerit propter fidem: siue propter 
+        <lb ed="#V" n="108"/>actum credendi in eum quem preuidit ipsum habiturum: 
+        <lb ed="#V" n="109"/>et ratio magistri est: qui post verba predicta be. 
+        au<lb ed="#V" n="110" break="no"/>subdit quedam alia que ibidem aperte tractat: nec istam 
+        <lb ed="#V" n="111"/>responsionem improbat iste doc. patet ergo ex dictis: 
+        <lb ed="#V" n="112"/>opinionem illius doc. esse dubiam: et dictis sanctorum disso 
+        <lb ed="#V" n="113"/>nam: et per consequens patet solutionem datam ad primam 
+        <lb ed="#V" n="114"/>rationem adductam in proponendo questionem esse nullam. 
+        <lb ed="#V" n="115"/>Respondeo igitur aliter: et concedo quod deus sic gratus 
+        <lb ed="#V" n="116"/>tis et misericorditer predestinauit quemcumque: quod tota 
+        <lb ed="#V" n="117"/>liter absque causa tenete se ex parte predest inati. Et 
+        <lb ed="#V" n="118"/>quando dicitur quod tunc deus esset acceptator 
+        persona<lb ed="#V" n="119" break="no"/>rum: nego: loquendo de acceptione personarum 
+        vi<lb ed="#V" n="120" break="no"/>tiosa: de qua loquetur apostolus pe. actur 4. Ratio 
+        <lb ed="#V" n="121"/>huius est: quia non est acceptio personarum vitiosa 
+        <lb ed="#V" n="122"/>vbi nulli sit iniustitia aut debitum denegatur: bonum 
+        <lb ed="#V" n="123"/>autem indebitum infertur malum: sicut est in proposito. vnde 
+        <lb ed="#V" n="124"/>bea. aug in fine disputationis de predestinatione: 
+        con<lb ed="#V" n="125" break="no"/>tra pelagianos loquens ad illud propositum: sic inquit: 
+        <lb ed="#V" n="126"/>aliis datur nosse viam salutis: aliis non datur: hoc 
+        <lb ed="#V" n="127"/>tamen facit deus non cum personarum acceptatione non 
+        <lb ed="#V" n="128"/>iniustitia sed iustitia inenarrabili: et misericordia in 
+        <lb ed="#V" n="129"/>dubia. 
+      </p>
+               <p xml:id="at8va9-e99950-d1e900">
+        Ad rationem secundam principalem non oportet 
+        <lb ed="#V" n="130"/>respondere: quia vera est.
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#AlphonsusVargas">Alphonsus Vargas Toletanus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2024-10-10">October 10, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-x7yh5z">Venice, 1490</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="138-r"/>
+            <cb ed="#V" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="at8va9-e85573"><!-- l1d21q1 -->
+            <head xml:id="at8va9-e85573-Hd1e101">Quaestio 1</head>
+            <head xml:id="at8va9-e85573-Hd1e103" type="question-title">Utrum ista propositio sit concedenda ‘solus pater est Deus’</head>
+            <p xml:id="at8va9-e85573-d1e106">
+      Circa di. istam. 2I. in qua 
+      ma<lb ed="#V" n="127" break="no"/>gister arguit de exclusiuis: quero 
+      confor<lb ed="#V" n="128" break="no"/>miter cum ipso. Utrum ista 
+      propositio<lb ed="#V" n="129" break="no"/>tit concedenda: solus pater est deus: 
+    </p>
+            <p xml:id="at8va9-e85573-d1e115">
+      et 
+      <lb ed="#V" n="130"/>videtur primo quod sic hec est concedenda: solus deus est 
+      <lb ed="#V" n="131"/>pater: igitur et hec solus pater est deus: antecedens est notum: 
+      <lb ed="#V" n="132"/>consequentia patet: per conuersionem: quia ista propositio solus 
+      <lb ed="#V" n="133"/>deus est pater debet conuerti in istam solus pater est 
+      <lb ed="#V" n="134"/>deus. 
+    </p>
+            <p xml:id="at8va9-e85573-d1e128">
+      Contra: hoc est vera: filius est deus: ergo 
+      <lb ed="#V" n="135"/>hec est falsa solus pater est deus: antecedens pater: et consequentia 
+      <lb ed="#V" n="136"/>videtur nota: quia sequitur solus pater est deus: igitur 
+      <lb ed="#V" n="137"/>nulus alius a patre est deus. hoc patet: quia proceditur
+      <pb ed="#V" n="138-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>ab exclusiua ad suam exponentem et sequitur 
+      nul<lb ed="#V" n="2" break="no"/>lus alius a patre est deus: igitur filius non est de 
+      <lb ed="#V" n="3"/>us: quod est oppositum antetis. 
+    </p>
+            <p xml:id="at8va9-e85573-d1e149">
+      In ista questione 
+      <lb ed="#V" n="4"/>Primo ponam vnicam distinctionem. Secundo quatuor 
+      <lb ed="#V" n="5"/>conclusiones. Tertio mouebo dubia. Ultimo respondebo.
+    </p>
+            <div xml:id="at8va9-e85573-Dd1e156">
+               <head xml:id="at8va9-e85573-Hd1e158">Articulus 1</head>
+               <p xml:id="at8va9-e85573-d1e160">
+                  <lb ed="#V" n="6"/>Articulus primus. 
+        <lb ed="#V" n="7"/>QUantum ad primum: Aduertendum est: quod ista 
+        pro<lb ed="#V" n="8" break="no"/>positio: solus pater est deus: est distinguenda: eo quod 
+        <lb ed="#V" n="9"/>ltet solus potest teneri exclusiue et praecisiue: Si teneatur ex 
+        <lb ed="#V" n="10"/>clusiue sensus propositionis est: quod pater est vere deus 
+        <lb ed="#V" n="11"/>et quod nullus alius a patre est vere deus: sicut sensus huius: 
+        so<lb ed="#V" n="12" break="no"/>lus sor. currit si lice solus teneatur exclusiue: quod sor. cur 
+        <lb ed="#V" n="13"/>rit: et nil aliud a sor. currit. PRatio huius est: quia 
+        perta<lb ed="#V" n="14" break="no"/>les propositiones vniversaliter de notatur quod predicatum vere 
+        con<lb ed="#V" n="15" break="no"/>petit subiecto: et quod vere negatur ab omni eo a quo vere 
+        <lb ed="#V" n="16"/>negatur subiectum: et hoc onditur per duas exponentes 
+        <lb ed="#V" n="17"/>per vnam affirmatiuam in qua predicatum attribuitur 
+        <lb ed="#V" n="18"/>subiecto: et per vnam negatiuam in qua predicatum 
+        <lb ed="#V" n="19"/>remonetur ab illo: a quo remouetur subiectum: Si vero 
+        <lb ed="#V" n="20"/>teneatur precisiue sensus propositionis est: quod pater per 
+        <lb ed="#V" n="21"/>se et praecise sumptus est vere deus: sicut sensus huius: 
+        <lb ed="#V" n="22"/>solus sor. currit est. si: 1ce solus teneatur precise: quod sor. per 
+        <lb ed="#V" n="23"/>se et precise sumptus: nullo alio sibi addito currit: 
+        si<lb ed="#V" n="24" break="no"/>ue alius ab eo currit: siue non. Ratio huius est: quia 
+        per<lb ed="#V" n="25" break="no"/>tales propositiones non denotatur nisi quod predicatum 
+        ve<lb ed="#V" n="26" break="no"/>re competit subiecto per se: et precise sumptus nullo 
+        alio<lb ed="#V" n="27" break="no"/>sibi addito: et isto modo conceditur: quod solus pater est tantus 
+        <lb ed="#V" n="28"/>quantus est pater: et filius et spiritus sanctui et econuerso et hoc de 
+        <lb ed="#V" n="29"/>primo 
+      </p>
+            </div>
+            <div xml:id="at8va9-e85573-Dd1e216">
+               <head xml:id="at8va9-e85573-Hd1e218">Articulus 2</head>
+               <p xml:id="at8va9-e85573-d1e220">
+        Articulus secundus. 
+        <lb ed="#V" n="30"/>QUantum ad secundum: pono quatuor conclusiones: 
+        du<lb ed="#V" n="31" break="no"/>Cas preambulas necessarias ad propositum: et 
+        <lb ed="#V" n="32"/>duas de principali quesito. 
+      </p>
+               <p xml:id="at8va9-e85573-d1e229">
+        Prima conclusio est: quod 
+        <lb ed="#V" n="33"/>vnum reiatiuum non est de principali conceptu: siue qui 
+        <lb ed="#V" n="34"/>ditatiuo intellectu alterius. probatur. 
+      </p>
+               <p xml:id="at8va9-e85573-d1e236">
+        Primo sic: quod non 
+        <lb ed="#V" n="35"/>est de ratione formali: et intrinseca alicuius: non est de 
+        <lb ed="#V" n="36"/>principali conceptu siue quiditatiuo intellectu illius: 
+        <lb ed="#V" n="37"/>hoc patet: quia tantum illa que sunt de ratione formali et 
+        intri<lb ed="#V" n="38" break="no"/>seca alcuius rei sunt de principali conceptu siue 
+        qui<lb ed="#V" n="39" break="no"/>ditatiuo intellectu ipsius: sed vnum relatiuum non 
+        <lb ed="#V" n="40"/>est de ratione formali et intrinseca alterius cum 
+        distin<lb ed="#V" n="41" break="no"/>guatur realiter ab ipso: ergo etc. Confirmatur: quia quod 
+        <lb ed="#V" n="42"/>distinguitur essentialiter ab aliquo: non est de ratione 
+        for<lb ed="#V" n="43" break="no"/>mali et intrinseca illius: sed vnum relatiuum saltem 
+        <lb ed="#V" n="44"/>in creaturis est ab altero essentialiter distincta secundum 
+        <lb ed="#V" n="45"/>omes. Confirmatur iterum: quia vnum oppositorum 
+        <lb ed="#V" n="46"/>non est de ratione formali et intrinseca alterius: sed duo 
+        re<lb ed="#V" n="47" break="no"/>latiua vere sunt opposita. 
+      </p>
+               <p xml:id="at8va9-e85573-d1e267">
+        Secundo ad principale sic 
+        <lb ed="#V" n="48"/>et est ratio doc. no stri sic: quandocumque aliqua sie se 
+        ha<lb ed="#V" n="49" break="no"/>bent. quod ita vnum est de principali conceptu: siue 
+        quidi<lb ed="#V" n="50" break="no"/>tatiuo intellectu alterius: si vnum additur alteri fit 
+        nu<lb ed="#V" n="51" break="no"/>gatio: sicut patet dicendo: homo animal vel homo 
+        <lb ed="#V" n="52"/>substantia: sed nulla et nugratio cum dicitur: pater filii: ergo fili 
+        <lb ed="#V" n="53"/>us non est de principali conceptu seu intellectu 
+        quidi<lb ed="#V" n="54" break="no"/>tatiuo intellectu patris: et similiter potest argui de 
+        cete<lb ed="#V" n="55" break="no"/>ris relatiuis. 
+      </p>
+               <p xml:id="at8va9-e85573-d1e288">
+        Tertio sic: Si vnum relatiuum esset de 
+        <lb ed="#V" n="56"/>principali conceptu alterius: sequeretur: quod duorum 
+        re<lb ed="#V" n="57" break="no"/>latiuorum: puta patris et filii essent conceptus 
+        sinoni<lb ed="#V" n="58" break="no"/>mi: conminus est falsum secundum omnes: igitur et antecedens: consequentia probatur: 
+        <lb ed="#V" n="59"/>quia conceptus qui sunt de eiusdem obiectis 
+        pri<lb ed="#V" n="60" break="no"/>mo: sunt conceptus sinonimi: si vnum relatiuorum esset 
+        <lb ed="#V" n="61"/>de principali conceptum alterius: tunc conceptus 
+        vtris<lb ed="#V" n="62" break="no"/>usque essent de eisdem obiectis: primo: quod conceptus 
+        <lb ed="#V" n="63"/>vnius esset primo de vtroque: et conceptus alterius esset: primo 
+        <lb ed="#V" n="64"/>de vtroque: igitur si relatiuum esset de principali 
+        conceptu<lb ed="#V" n="65" break="no"/>alterius: conceptus relatiuorum essent conceptus sinoni: 
+        <lb ed="#V" n="66"/>mi: 
+      </p>
+               <p xml:id="at8va9-e85573-d1e314">
+        Secunda conclusio est quod dicto exelusiua addita vni 
+        rela<lb ed="#V" n="67" break="no"/>tiuorum excludit alterum. hanc probo primo: sic 
+        dictio<lb ed="#V" n="68" break="no"/>ne exclusiua addita alicui subiecto excluditur. omne illud 
+        <lb ed="#V" n="69"/>quod non est de principali conceptu siue quoditatiuo intellectu.
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>illius subi hd patet: quia de nullo tali vere dicitur illud subiectum: sed vnum. 
+        <lb ed="#V" n="71"/>relatiuum non est de principali conceptum: seu 
+        quiditati<lb ed="#V" n="72" break="no"/>uo intellectu alterius: vt patet ex conclusione 
+        prece<lb ed="#V" n="73" break="no"/>denti igitur etc. Confirmatur: quia dictio exclusiua 
+        addi<lb ed="#V" n="74" break="no"/>ta alicui subiecto excludit omne illud: a quo subiectum 
+        il<lb ed="#V" n="75" break="no"/>lud vere negatur: vt patet ex articulo. praecedenti sed vnum 
+        <lb ed="#V" n="76"/>relatiuum vere negatur ab alio: quia hec est vera: pater non 
+        <lb ed="#V" n="77"/>est filius: et econuerso. 
+      </p>
+               <p xml:id="at8va9-e85573-d1e343">
+        Secundo sic: solus idem ies quod non 
+        <lb ed="#V" n="78"/>cum alio: vt patet primo elencorum: igitur si solus pater est vel 
+        <lb ed="#V" n="79"/>solus pater generat: filius non est: vel filius non 
+        gene<lb ed="#V" n="80" break="no"/>rat: patet consequentia: quia filius est alius a patre: tam in 
+        cre<lb ed="#V" n="81" break="no"/>aturis quam in diuinis: hec est determinatio philysi primo philesi. 
+        <lb ed="#V" n="82"/>vbi sic arguit: tamtum principium est: ergo principium non est: hec 
+        <lb ed="#V" n="83"/>autem consequentia esset nulla: si dictio exclusiua addita vni 
+        re<lb ed="#V" n="84" break="no"/>latiuorum non excluderet alterum Et confirmatur: quia si detur 
+        <lb ed="#V" n="85"/>oppositum: sequitur: quod ista propositio esset concedenda. tantum 
+        cre<lb ed="#V" n="86" break="no"/>ator est vel tantum creatura est: quod tamen est falsum. consequentia 
+        <lb ed="#V" n="87"/>patet. quia omne quod est: est creator vel creatura: igitur 
+        <lb ed="#V" n="88"/>si non excluditur creatura cum dicitur: tamtum creator est. nec 
+        <lb ed="#V" n="89"/>creatura cum dicitur. tantum creatura est: quelibet istarum 
+        pro<lb ed="#V" n="90" break="no"/>positionum est vera. et per consequens concedenda: quia simul 
+        <lb ed="#V" n="91"/>stant: quod tantum creator sit. quod et tamtum creatura sit ex quo non 
+        <lb ed="#V" n="92"/>excluditur: nec econuerso. Ex ista conclusione: 
+        sequi<lb ed="#V" n="93" break="no"/>tur quod omnes propositiones exclusiue que sunt de 
+        predi<lb ed="#V" n="94" break="no"/>catis que non possunt inesse vni correlatiuo sine altero: 
+        <lb ed="#V" n="95"/>sunt false et simpliciter impossibiles: sed ille que sunt de 
+        pre<lb ed="#V" n="96" break="no"/>dicatis que possunt inesse vni correlatiuo sine 
+        alte<lb ed="#V" n="97" break="no"/>ro possunt vere esse. Une licet ista sit vera: pater solus 
+        <lb ed="#V" n="98"/>generat: quia illud predicatum generat: potest inesse 
+        patri<lb ed="#V" n="99" break="no"/>sine filio: ista tamen est impossibilis et falsa solus pater est: 
+        <lb ed="#V" n="100"/>quia sequitur solus pater est: igitur pater est: et sequitur pater 
+        <lb ed="#V" n="101"/>est: ergo filius et: et sequitur filius est: ergo non solus 
+        pa<lb ed="#V" n="102" break="no"/>ter est: et per consequens sequitur solus pater non est: ergo solus pater 
+        <lb ed="#V" n="103"/>non est: quod est impossibile et implicatiuum contradictionis. 
+        <lb ed="#V" n="104"/>Ex hoc statim apparet: quod iste propositiones. tamen 
+        <lb ed="#V" n="105"/>principium est vel tamtum principiatum est: vel iste. tamtum creator est 
+        <lb ed="#V" n="106"/>vel tantum creatura est: et similes in quibus predicatum non 
+        <lb ed="#V" n="107"/>potest inesse vni correlatiuo fine altero: sunt omnino 
+        impossi<lb ed="#V" n="108" break="no"/>biles et false simpliciter. 
+      </p>
+               <p xml:id="at8va9-e85573-d1e413">
+        Tertia conclusio est: quod ista 
+        propo<lb ed="#V" n="109" break="no"/>sitio: solus pater est: non est concedenda proprie loquendo: 
+        <lb ed="#V" n="110"/>si lictet solus teneatur pure exclusiue. Hanc probo. Primo 
+        <lb ed="#V" n="111"/>sic: sequitur: solus pater est deus: igitur filius non est deus: 
+        <lb ed="#V" n="112"/>consequens est falsum: igitur et antecedens: consequentia patet: quia dicta 
+        exclusi<lb ed="#V" n="113" break="no"/>ua addita vni correlatiuorum excludit alterum: vt patet 
+        <lb ed="#V" n="114"/>ex conclusione precedenti. Secundo sic sensus istius 
+        pro<lb ed="#V" n="115" break="no"/>proositionis: solus pater est: dens est si litet solus teneatur 
+        <lb ed="#V" n="116"/>exclusiue: quod pater est deus et quod nullus alius et pater est 
+        <lb ed="#V" n="117"/>deus: vt patet ex arti. precedenti. Sed constat: quod licet 
+        <lb ed="#V" n="118"/>ista sit vera: pater est deus: ista tamen est falsa: nullus alius a 
+        <lb ed="#V" n="119"/>patre est deus: quia filius et spiritus sancti sunt vere deus 
+        Con<lb ed="#V" n="120" break="no"/>firmatur: quia si altera exponentum propositionis 
+        exclusi<lb ed="#V" n="121" break="no"/>ue est falsa tota propositio erit falsa: vbi gratia: solus 
+        <lb ed="#V" n="122"/>sor. currit. exponitur per istas exponentes sora currit 
+        <lb ed="#V" n="123"/>et nihil aliud a sor. currit: quacumque istarum existente 
+        fal<lb ed="#V" n="124" break="no"/>sa: propositio est falsa: sed altera exponentium istius 
+        <lb ed="#V" n="125"/>solus pater est deus: est falsa. quia licet affirmatiua sit vera. 
+        <lb ed="#V" n="126"/>negatiuatamen est falsa. 
+      </p>
+               <p xml:id="at8va9-e85573-d1e455">
+        Tertio sic. propositio 
+        exclusi<lb ed="#V" n="127" break="no"/>ua de subiecto finito equipollet vniversali negatiue de 
+        infi<lb ed="#V" n="128" break="no"/>nito. verbi gratia. solus sor. curret. equipollet huic. 
+        nt<lb ed="#V" n="129" break="no"/>hil non sor. curret: ergo ista. solus pater est deus: 
+        equi<lb ed="#V" n="130" break="no"/>pollet: huic nullus non pater est deus. sed hec est falsa. 
+        <lb ed="#V" n="131"/>nullus non pater est deus. cum filius sit deus. ergo etc. 
+        <lb ed="#V" n="132"/>Ad istum intellectum loquitur in ista. ma: di. c. 2. 
+        <lb ed="#V" n="133"/>vbi querit istam questionem. et respondet dicens. ad quod 
+        <lb ed="#V" n="134"/>dicimus quod pater filius et spiritus sanctus dicitur. et est vnus deus. 
+        tri<lb ed="#V" n="135" break="no"/>nitas proprie dicitur solus deus esse sicut solus 
+        sapi<lb ed="#V" n="136" break="no"/>ens. solus potens. Et subdit statim. quod videtur 
+        debe<lb ed="#V" n="137" break="no"/>re dici a nobis nostris verbis vtentibus nisi vbi 
+        ser<lb ed="#V" n="138" break="no"/>mo auctoritatis occurrit. solus pater est deus. et ita
+        <pb ed="#V" n="139-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>de filio: et de spiritus sanctus dicimus: hec magister. Ad istum in 
+        <lb ed="#V" n="2"/>tellectum loquitur etiam b. Aug. 3. de tri. c. penultimo 
+        <lb ed="#V" n="3"/>dici. quoniam ostendimus quomodo posset dici solus pater: 
+        <lb ed="#V" n="4"/>quia non nisi ipse ibi pater. Consideranda est illa 
+        senten<lb ed="#V" n="5" break="no"/>tia qua dicitur verum deum solum non esse solum patrem: sed 
+        <lb ed="#V" n="6"/>patrem filium et spiritus sancti si quis enim interroget: pater solus: vtrum 
+        <lb ed="#V" n="7"/>sit deus quo respondebitur non esse: nisi forte ita dicamus 
+        <lb ed="#V" n="8"/>esse quidem patrem deum: sed non eum solum esse solum deum 
+        <lb ed="#V" n="9"/>autem solum deum patrem fi. et spiritus sanctus hec Aug. vbi euidenter 
+        <lb ed="#V" n="10"/>apparet sicut dicit magister in littera: quod pater non debet 
+        <lb ed="#V" n="11"/>dici solus deus. si litet solus teneatur exciusiue sicut b. 
+        <lb ed="#V" n="12"/>Aug. et magister loquuntur. 
+      </p>
+               <p xml:id="at8va9-e85573-d1e514">
+        Quarta conclusio est: quod 
+        <lb ed="#V" n="13"/>licet ista propositio solus pater est deus: non sit 
+        concedenda<lb ed="#V" n="14" break="no"/>si lictet solus teneatur exclusiue verum tamen est concedenda. si 
+        let<lb ed="#V" n="15" break="no"/>solus teneatur praecisiue Probatur. primo sic: pater per se et 
+        pre<lb ed="#V" n="16" break="no"/>cise sumptus: nullo alio sibi addito est vere deus: igitur 
+        <lb ed="#V" n="17"/>hec est vera: solus pater est deus. si litet solus teneatur 
+        <lb ed="#V" n="18"/>precise: et antecedens notum est: consequentia patet: quia hic est sensus 
+        <lb ed="#V" n="19"/>illius propositionis: sim litet solus teneatur precise: vt patet 
+        <lb ed="#V" n="20"/>ex ar. precedenti: igitur etc. et hoc de. 2. ar. 
+      </p>
+            </div>
+            <div xml:id="at8va9-e85573-Dd1e535">
+               <head xml:id="at8va9-e85573-Hd1e537">Articuli 3 et 4</head>
+               <p xml:id="at8va9-e85573-d1e539">
+                  <lb ed="#V" n="21"/>Articulus tertius et quartus. 
+        <lb ed="#V" n="22"/>QUantum ad tertium et quartum articulos. Con 
+        conclusio<lb ed="#V" n="23" break="no"/>nes istas mouenda et dissoluenda sunt dubia. et 
+        Pri<lb ed="#V" n="24" break="no"/>mo contra primam: est quedam opinio que ponit: quod nu llum 
+        <lb ed="#V" n="25"/>relatiuum est de quiditatiuo intellectu alterius: siue quod 
+        <lb ed="#V" n="26"/>vnum includit aliud in primo intellectu suo: quod idem eqst 
+        <lb ed="#V" n="27"/>Potest probari. primo sic: illud sine quo res non potest 
+        intel<lb ed="#V" n="28" break="no"/>ligi et diffiniri est de primo et quiditatiuo intellectu ipsius: 
+        <lb ed="#V" n="29"/>sed vnum relatiuum non potest intelligi et diffiniri sine 
+        alte<lb ed="#V" n="30" break="no"/>ro: vt patet per philosophum in predicamentis. 
+      </p>
+               <p xml:id="at8va9-e85573-d1e563">
+        Preserea: 
+        <lb ed="#V" n="31"/>illud de cuius ratione primaria est esse ad aliud in 
+        <lb ed="#V" n="32"/>primo intellectu suo includit aliud: sed de ratione 
+        per<lb ed="#V" n="33" break="no"/>maria relatiui est esse ad aliud: quia relatiua sunt: quo 
+        <lb ed="#V" n="34"/>rum esse: est ad aliud se habere secundum philosophum vbi supra: ergo 
+        re<lb ed="#V" n="35" break="no"/>latiuum in primo intellectu suo includit aliud: illud autem em 
+        <lb ed="#V" n="36"/>alterum correlatiuum. Confirmatur: quia vel primarius 
+        <lb ed="#V" n="37"/>conceptus relatiui est esse ad se: vel esse ad aliud: non potest 
+        <lb ed="#V" n="38"/>dici: quod sit esse ad se: quia tunc primarius conceptus relatiui 
+        <lb ed="#V" n="39"/>esset absolutus: quod non est verum: relinquitur ergo quod sit esse 
+        <lb ed="#V" n="40"/>ad aliud: sed esse ad aliud includit aliud igitur primarius 
+        <lb ed="#V" n="41"/>conceptus relatiui includit aliud: istud autem non est nisi 
+        al<lb ed="#V" n="42" break="no"/>
+                  <lb ed="#V" n="43"/>rius rei potest absolui per intellectum a conceptu alterius 
+        <lb ed="#V" n="44"/>secundario: sed conceptus vnius relatiui no potest 
+        absolut<lb ed="#V" n="45" break="no"/>per intellectum a conceptu alterius: quia qui diffinite nouit 
+        <lb ed="#V" n="46"/>vnum diffinite nouit reliquum: igitur vnum non est de 
+        conceptu<lb ed="#V" n="47" break="no"/>relatiuo alterius: igitur est de conceptu primario: 
+        Con<lb ed="#V" n="48" break="no"/>firmatur: quia per diuinam potentiam conceptus primarius 
+        rei<lb ed="#V" n="49" break="no"/>potest absolui a conceptu secundario sed per diuinam 
+        poten<lb ed="#V" n="50" break="no"/>tiam conceptus vnius relatiui non potest absolui a 
+        conceptu<lb ed="#V" n="51" break="no"/>alterius: quia deus non potest facere quod cognito vno 
+        relati<lb ed="#V" n="52" break="no"/>uorum non cognoscatur reliquum. 
+      </p>
+               <p xml:id="at8va9-e85573-d1e613">
+        Preterea: nullum 
+        rela<lb ed="#V" n="53" break="no"/>tiuum magss est de intellectu alterius quod rationale de 
+        in<lb ed="#V" n="54" break="no"/>tellectu hominis: vnum includit reliquum in primo 
+        intel<lb ed="#V" n="55" break="no"/>lectu suo: consequentia nota. quia constat quod rationale est de intellectu 
+        <lb ed="#V" n="56"/>primo hominis: antecedens probatur: quia homo potest concipi alique 
+        <lb ed="#V" n="57"/>conceptu sine rationali: quia saltem vt est animal potest 
+        intelli<lb ed="#V" n="58" break="no"/>gi sine ipso: vnum autem relatiuum nullo conceptu potest 
+        conci<lb ed="#V" n="59" break="no"/>pi sine altero ergo etc. Responsio ad rationes opinionum. 
+        <lb ed="#V" n="60"/>Ad primam nego maiorem: quia materia non potest concipi sine 
+        <lb ed="#V" n="61"/>forma: vt patet. 7 meta. et etiam per comentatorem ibi de 
+        <lb ed="#V" n="62"/>comento. 35. vbi expresse dicit quod materia non cognoscitur per 
+        <lb ed="#V" n="63"/>se: sed per forma: et si non potest intelligi sine forma nec 
+        <lb ed="#V" n="64"/>diffiniri: et tamen forma non est de primo et quiditatiuo 
+        intelle<lb ed="#V" n="65" break="no"/>ctu materie cum: sint due res absolute essentialiter 
+        <lb ed="#V" n="66"/>et quiditatiue distincte. Iterum relatio non potest 
+        in<lb ed="#V" n="67" break="no"/>telligi nec diffiniri sine fundamento: sicut nec sine 
+        ter<lb ed="#V" n="68" break="no"/>mino cum non sit nisi habitudo terminiad 
+        fundamen<lb ed="#V" n="69" break="no"/>um: et tamen nullus ponit: quod fundamentum sit de primo
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>et quiditatiuo intellectu ipsius: quare. 
+      </p>
+               <p xml:id="at8va9-e85573-d1e657">
+        Ad secundum etiam 
+        <lb ed="#V" n="71"/>nego maiorem quia illud de cuius ratione primaria est esse 
+        <lb ed="#V" n="72"/>ad aliud tamquam ad terminum extrinsecum id es tamquam ad 
+        ter<lb ed="#V" n="73" break="no"/>minum essentialiter. vel saltem realiter distinctu in primo 
+        intel<lb ed="#V" n="74" break="no"/>lectu suo non includit aliud: ratio huius est: quia quod 
+        distingui<lb ed="#V" n="75" break="no"/>tur essentialiter vel realiter ab aliquo non est de primo et quiditati 
+        <lb ed="#V" n="76"/>uo intellectu illius. et sic est in proposito: quia de ratione 
+        pri<lb ed="#V" n="77" break="no"/>maria vnius relatiui non est esse ad aliud nisi tamquam ad 
+        ter<lb ed="#V" n="78" break="no"/>minum ex trinsecum id es essentialiter distinctum in si est creaturis 
+        <lb ed="#V" n="79"/>vel realiter sicut in diuinis: et per home patet quid 
+        dicen<lb ed="#V" n="80" break="no"/>dum ad confirmationem: quia concedo: quod prsmarius 
+        con<lb ed="#V" n="81" break="no"/>ceptus relatiui non est ad se: sed ad aliud modo iam dicto 
+        <lb ed="#V" n="82"/>quia non est ad aliud tamquam ad aliquid intrinsecum: sed extrinsecum 
+        ter<lb ed="#V" n="83" break="no"/>minans tendentiam et lationem ipsius. Et cuius 
+        con<lb ed="#V" n="84" break="no"/>ceptus sic est ad aliquid in primo intellectu suo: non includit 
+        il<lb ed="#V" n="85" break="no"/>lud: vt patet ex dictis supra: 
+      </p>
+               <p xml:id="at8va9-e85573-d1e693">
+        Ad tertium: ne 
+        labo<lb ed="#V" n="86" break="no"/>remus in equiuoco. distinguo de conceptu primario et 
+        <lb ed="#V" n="87"/>secundario: cuius gratia est aduertendum: quod conceptus 
+        <lb ed="#V" n="88"/>accipitur aliquotiens pro actu intelligendi: siue 
+        concipi<lb ed="#V" n="89" break="no"/>endi aliquotiens pro re concepta: et vocatur a doc: 
+        conce<lb ed="#V" n="90" break="no"/>ptus obiectiuus: conceptus ergo primarius et 
+        secun<lb ed="#V" n="91" break="no"/>darius possint distinguere actus intellectus: et sic non 
+        <lb ed="#V" n="92"/>est verum: quod relatiuum habeat conceptum primarium 
+        <lb ed="#V" n="93"/>et secundarium: quia eodem simplici actu intellectus 
+        <lb ed="#V" n="94"/>quo intelligit vnum correlatiuorum: intelligit 
+        reli<lb ed="#V" n="95" break="no"/>quum. cum sit simul naturali intelligentia secundum philosteum vel 
+        <lb ed="#V" n="96"/>possunt distinguere conceptum obiectiuum id estrem 
+        conce<lb ed="#V" n="97" break="no"/>ptam et secundum hoc relatiuum habet duos conceptus: vnum 
+        <lb ed="#V" n="98"/>quidem primarium in recto: alterum quidem secunda 
+        <lb ed="#V" n="99"/>rium et in obliquo: quia licet eodem actu intellectus 
+        quo<lb ed="#V" n="100" break="no"/>intelligitur vnum relatiuum intelligatur reliquum: vnum 
+        <lb ed="#V" n="101"/>tamen eorum intelligitur siue concipitur principaliter. 
+        <lb ed="#V" n="102"/>et in recto et sic primario alterum indirecte et in obliquo et sic 
+        <lb ed="#V" n="103"/>secundario: verbi gratia: cum concipio patrem: pater 
+        <lb ed="#V" n="104"/>concipitur principaliter et in recto: et per consequens est primari 
+        <lb ed="#V" n="105"/>um obiectum talis conceptus: filius vero concipitur in 
+        <lb ed="#V" n="106"/>directe et in obliquo: quia solum per modum 
+        extremi<lb ed="#V" n="107" break="no"/>terminantis tendentiam et lationem ipsius et per consequens 
+        <lb ed="#V" n="108"/>erit obiectum secundarium. His premissis dico ad 
+        <lb ed="#V" n="109"/>formam rationis quod conceptus primarius rei: potest 
+        <lb ed="#V" n="110"/>absolui per intellectum a secundario accipiendo 
+        con<lb ed="#V" n="111" break="no"/>ceptum primarium et secundarium pro actu 
+        intelli<lb ed="#V" n="112" break="no"/>gendi. Sed propositio non est vniuersaliter vera 
+        acci<lb ed="#V" n="113" break="no"/>piendo intellectum primarium et secundarium 
+        obie<lb ed="#V" n="114" break="no"/>ctiue sicut est in proposito: Et per hoc patet quid 
+        <lb ed="#V" n="115"/>dicendum ad confirmatiouem. 
+      </p>
+               <p xml:id="at8va9-e85573-d1e761">
+        Ad vltimum nego 
+        <lb ed="#V" n="116"/>antecedens: quia rationale est differentia constitutiua hominis: 
+        <lb ed="#V" n="117"/>et per consequens de intrinseca ratione ipsius et vnum 
+        rela<lb ed="#V" n="118" break="no"/>tiuum non est intrinsecum alteri. Et ad probationem 
+        <lb ed="#V" n="119"/>dico. quod homo vt homo est. non potest concipi aliquo 
+        con<lb ed="#V" n="120" break="no"/>ceptu sine rationali: homo tamen vt animal potest 
+        con<lb ed="#V" n="121" break="no"/>cipi sine ipso: sed talis conceptus proprie 
+        loquendo<lb ed="#V" n="122" break="no"/>non est hominis: sed animalis: et isto modo relatiuum 
+        <lb ed="#V" n="123"/>potest etiam concipi sine altero: quia potest concipi vt 
+        <lb ed="#V" n="124"/>est ens: altero non concepto. 
+      </p>
+               <p xml:id="at8va9-e85573-d1e783">
+                  <lb ed="#V" n="125"/>Opinio aliorum. 
+        <lb ed="#V" n="126"/>Contra secundam conclusionem est etiam quedam opinio 
+        <lb ed="#V" n="127"/>qua ponit: quod dictio exclusiua addita vni correlatiuo 
+        <lb ed="#V" n="128"/>rum non excludit reliquum: quod probatur primo: quia 
+        <lb ed="#V" n="129"/>per dictionem exclusiuam non excluditur illud. quod est 
+        <lb ed="#V" n="130"/>de intellectu termini: cui additur. non enim sequitur 
+        <lb ed="#V" n="131"/>solus homo est: ergo animalis non est: quia animal est 
+        <lb ed="#V" n="132"/>de intellectu hominis: sed vnum relatiuum est de 
+        intel<lb ed="#V" n="133" break="no"/>lectu alterius 
+      </p>
+               <p xml:id="at8va9-e85573-d1e805">
+        Preterea dictio exclusiua non videtur 
+        <lb ed="#V" n="134"/>excludere nisi ea que possunt mutuo separari. sed vnum 
+        <lb ed="#V" n="135"/>relatiuum non potest ab alio separari. nec in essendo 
+        <lb ed="#V" n="136"/>nec intelligendo. igitur etc. Et confirmatur. quia 
+        se<lb ed="#V" n="137" break="no"/>quitur: solus pater est. ergo pater est. et sequitur pater 
+        <lb ed="#V" n="138"/>est. ergo filius est et per consequens dicendo pater est: non ex
+        <pb ed="#V" n="139-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>cluditur fiius. 
+      </p>
+               <p xml:id="at8va9-e85573-d1e825">
+        Preterea. maior est comnexio vnius 
+        re<lb ed="#V" n="2" break="no"/>
+                  <lb ed="#V" n="3"/>latiui ad alterum quam totius ad suam partem iutegralem: ho 
+        <lb ed="#V" n="4"/>patet: quia relatiua posita se ponunt et perempta se per 
+        <lb ed="#V" n="5"/>rimunt: et tamen posita parte integrali non necessario 
+        poni<lb ed="#V" n="6" break="no"/>tur suum totum: sed dictione exclusiua addita toti non 
+        <lb ed="#V" n="7"/>excluditur pars: quia non sequitur sola domus est: ergo 
+        pa<lb ed="#V" n="8" break="no"/>ries non est. aut sola domus est alba. ergo paries non est 
+        al<lb ed="#V" n="9" break="no"/>ba: immo totum oppositum. igitur etc.
+      </p>
+               <p xml:id="at8va9-e85573-d1e845">
+                  <lb ed="#V" n="10"/>Responsio ad rationem contra secundam opinionem. 
+        <lb ed="#V" n="11"/>Ad primum: patet quod minor est falsa. etc. 
+      </p>
+               <p xml:id="at8va9-e85573-d1e853">
+        Ad 
+        se<lb ed="#V" n="12" break="no"/>cundam nego maiorem: quia dictio exclusiua addita 
+        ali<lb ed="#V" n="13" break="no"/>cui subiecto: excluditur omne illud a quo subiectum il 
+        <lb ed="#V" n="14"/>lud vere negatur: siue talia possunt se mutuo separari: siue 
+        <lb ed="#V" n="15"/>non: vt patet ex articulo precedenti: Et ad 
+        confirma<lb ed="#V" n="16" break="no"/>tionem patet ex eodem articulo: quod non probat: quod 
+        di<lb ed="#V" n="17" break="no"/>ctio exclusiua addita vni correlatiuorum non 
+        exclu<lb ed="#V" n="18" break="no"/>dit alterum: sed quia omnes propositiones exclusiue 
+        <lb ed="#V" n="19"/>que sunt de predicatis: que non possunt inesse 
+        vni<lb ed="#V" n="20" break="no"/>correlatiuorum siue altero sunt simpliciter impossibiles 
+        <lb ed="#V" n="21"/>et implicatiue contradictionis: quod vtique verum est. 
+      </p>
+               <p xml:id="at8va9-e85573-d1e877">
+        Ad 
+        <lb ed="#V" n="22"/>vltimum potest responderi dupliciter. Primo quidem potest 
+        ne<lb ed="#V" n="23" break="no"/>gari maior. quia paro integralis realiter est aliquid totius 
+        <lb ed="#V" n="24"/>et per consequens aliquo modo scilicet ibi intrinseca: vnum autem relatiuum 
+        <lb ed="#V" n="25"/>non est realiter aliquid alterius nec intrinsecum alteri: 
+        <lb ed="#V" n="26"/>igitur etc. Secundo potest dici: quod de virtute sermonis 
+        di<lb ed="#V" n="27" break="no"/>ctione exclusiua addita toti: excluditur pars. vnde non 
+        <lb ed="#V" n="28"/>stant simil: sola domus est et pries est: vel sola domus est alba. et 
+        <lb ed="#V" n="29"/>paries est alba: quia ista non est vera paries est domus. Et 
+        <lb ed="#V" n="30"/>dictione exclusiua addita subiecto excluditur omne illud 
+        <lb ed="#V" n="31"/>a quo subiectum illud vere negatur: vt dictum est 
+        plu<lb ed="#V" n="32" break="no"/>ries: ex communi tamen vsu loquendi admittuntur tales 
+        propo<lb ed="#V" n="33" break="no"/>sitiones propter breuiorem modum loquendi: 
+      </p>
+               <p xml:id="at8va9-e85573-d1e906">
+                  <lb ed="#V" n="34"/>Opinio quorundam. 
+        <lb ed="#V" n="35"/>Con tertiam conclusionem sunt due opiniones: quarum 
+        <lb ed="#V" n="36"/>prima ponit absolute: quod illa propositio: solus pater est 
+        <lb ed="#V" n="37"/>deus: si ltet solus teneatur exclusiue de virtute sermonis 
+        <lb ed="#V" n="38"/>et natura dictionis exclusiue est vera et simpliciter 
+        conceden<lb ed="#V" n="39" break="no"/>da. CRaon fundamentalis huius opinionis et: quia dictio 
+        <lb ed="#V" n="40"/>exclusiua addita vni relatiuorum non excludit alterum 
+        <lb ed="#V" n="41"/>sed persone diuine sunt correlatiue. igitur dictio 
+        exclu<lb ed="#V" n="42" break="no"/>siua addita vni persone non excludit alteram: et per 
+        <lb ed="#V" n="43"/>consequens hec est vera ex natura dictionis exclusiue. solus pater 
+        <lb ed="#V" n="44"/>est deus: quia cum hoc stat: quod filius et spiritus sancti sint deus. 
+      </p>
+               <p xml:id="at8va9-e85573-d1e932">
+                  <lb ed="#V" n="45"/>Aureolus in. 1. di. 21. q. 1. ar. 2. 
+        <lb ed="#V" n="46"/>Alia vero ponit cum precedente: quod ista 
+        proposi<lb ed="#V" n="47" break="no"/>tio: solus pater est deus: est vera: et concedenda: quia 
+        <lb ed="#V" n="48"/>dictio exclusiua addita vni persone in ordine ad 
+        pre<lb ed="#V" n="49" break="no"/>dicatum essentiale: alteram non excludit: sed hoc non 
+        pr<lb ed="#V" n="50" break="no"/>uenit ex natura dictionis exclusiue in generali: nec ex 
+        na<lb ed="#V" n="51" break="no"/>relatiuorum sicut precedens opinio ponebat: quoniam 
+        di<lb ed="#V" n="52" break="no"/>ctio exclusiua addita vni potest excludere reliquum: sed 
+        <lb ed="#V" n="53"/>hoc prouenit ex dictione diuinarum personarum que 
+        <lb ed="#V" n="54"/>omnino sunt vnum in ordine ad predicatum essentiale. vnde 
+        <lb ed="#V" n="55"/>si conditio diuinarum personarum vt isti dicunt 
+        lor<lb ed="#V" n="56" break="no"/>co non. esset: eque daretur regula ab eodem: quod dictio ex 
+        <lb ed="#V" n="57"/>clusiua addita vni persone aliam non excluderet in or 
+        <lb ed="#V" n="58"/>dine ad predicatum essentiale in quo simpliciter sunt vnum 
+        <lb ed="#V" n="59"/>sicut datur ab eo relatiua de toto integrali et partibus 
+        <lb ed="#V" n="60"/>vel de superiori et inferiori Ron fundamentalis est: quia 
+        <lb ed="#V" n="61"/>manente eadem ratione debet idem manere: nunc autem quod 
+        di<lb ed="#V" n="62" break="no"/>ctio exclusiua addita inferiori superius non excludit 
+        re<lb ed="#V" n="63" break="no"/>spectu predicatorum in quibus sunt idem superius 
+        <lb ed="#V" n="64"/>et inferius: excludit autem respectu eorum in quo non sunt idem 
+        <lb ed="#V" n="65"/>verbi gratia dicendo: tamtum sor. erit non excluditur homo: quia 
+        <lb ed="#V" n="66"/>in currere non distinguitur homo: et sor. et tamen si non esset 
+        <lb ed="#V" n="67"/>aliud indiuiduum homiuis nisi sor. dicendo: tamtum sor. est 
+        <lb ed="#V" n="68"/>indiuiduum hominis excluderetur animalis et corpus 
+        ani<lb ed="#V" n="69" break="no"/>matum: que non sunt indiuidua hominis: quod vtique sic 
+        <lb ed="#V" n="70"/>contingat: hoc peruenit vt isti dicunt ex eo quod superius
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="71"/>et inferins sunt vnum respectu vnius predicati: et non 
+        <lb ed="#V" n="72"/>sunt vnum respectu alterius. et simile vt dicunt reper 
+        <lb ed="#V" n="73"/>ritur in toto integrali et eius partibus: nam dicendo 
+        <lb ed="#V" n="74"/>solus paries. et albus: non excluditur lapis. dicendo 
+        ve<lb ed="#V" n="75" break="no"/>ro quod solus paries componitur ex lapidibus et cemen 
+        <lb ed="#V" n="76"/>to excluderetur lapis: totum enim integrale et partes 
+        <lb ed="#V" n="77"/>sunt vnum in esse album: et non sunt vnum in esse 
+        compo<lb ed="#V" n="78" break="no"/>situm. Ergo pari ratione persone diuine cum sint vnum 
+        <lb ed="#V" n="79"/>in ordine ad predicata essentialia: non vnum in ordine 
+        <lb ed="#V" n="80"/>ad notiobilia non videntur se mutuo excludere ab illa: 
+        <lb ed="#V" n="81"/>quamuis in ordine ad ista. Ista positio confirmatur 
+        au<lb ed="#V" n="82" break="no"/>ctoritate. b. Aug. contra maximum libro 3. c. 13. dicit 
+        <lb ed="#V" n="83"/>quod si de solo patre diceretur: quod esset sapiens et deus: non 
+        <lb ed="#V" n="84"/>tamen excluderetur filius et spiritus sanctus quia hii tres vnum sunt: 
+        <lb ed="#V" n="85"/>et quia inseparabiles sunt. 
+      </p>
+               <p xml:id="at8va9-e85573-d1e1026">
+                  <lb ed="#V" n="86"/>Ad rationes opinionum. 
+        <lb ed="#V" n="87"/>Istis opinionibus non obstantibus adhuc videtur esse dicendum 
+        <lb ed="#V" n="88"/>vt prius propter rationes et auctoritatates superius adductas: nec 
+        <lb ed="#V" n="89"/>motiua harum opinionum concludunt: non quidem prime: quia 
+        <lb ed="#V" n="90"/>non est verum: quod dictio exclusiua addita vni 
+        correlati<lb ed="#V" n="91" break="no"/>uorum non excludat alterum: vt dictum est supra. Nec 
+        <lb ed="#V" n="92"/>secunde: accipit enim non causam pro causa: quia quod dictio 
+        exclusi<lb ed="#V" n="93" break="no"/>ua addita alicui subiecto excludat alterum: vel non ex 
+        <lb ed="#V" n="94"/>cludat: non prouenit ex hoc: quod illa subiecta sunt vnum 
+        <lb ed="#V" n="95"/>respectu vnius predicati. et non sunt vnum respectu 
+        <lb ed="#V" n="96"/>alterius: sed ex hoc: quod subiectum illud: cui additur 
+        di<lb ed="#V" n="97" break="no"/>ctio exclusiua vere negatur: vel non negatur ab altero: vl 
+        <lb ed="#V" n="98"/>patet ex dictis. 
+      </p>
+               <p xml:id="at8va9-e85573-d1e1057">
+        Ad auctoritatem vero. be. Aug. 
+        pa<lb ed="#V" n="99" break="no"/>tet per auctoritates ipsius superius allegatas: quod er 
+        <lb ed="#V" n="100"/>est intentio sua: quod ista propositio: solus pater est deus: 
+        <lb ed="#V" n="101"/>proprie et de virtute sermonis sit concedenda: si licet 
+        <lb ed="#V" n="102"/>solus teneatur exclusiue: et idem etiam patet. 3. contra 
+        ma<lb ed="#V" n="103" break="no"/>ximum: vbi nunc allegatur: quia ante verba per istum 
+        <lb ed="#V" n="104"/>doc. allegata in. ca. immediate precedenti loquens de 
+        <lb ed="#V" n="105"/>aduentum domini nostri ibu christi ostendet vtique deus 
+        <lb ed="#V" n="106"/>qui non solus est pater: quia secundum veritatem: non secundum 
+        ve<lb ed="#V" n="107" break="no"/>strum errorem loquitur illis hereticis. Ttrinitas vnus e 
+        <lb ed="#V" n="108"/>deus: et solus potens rex regum. dominus dominam 
+        <lb ed="#V" n="109"/>tium. Ecce: quod expresse dicit. b. Aug. quod non solus 
+        pa<lb ed="#V" n="110" break="no"/>ter est deus: sed tota trinitas. et per consequens non est 
+        in<lb ed="#V" n="111" break="no"/>tentio sua: quod ista propositio sit sic concedenda: sicut 
+        <lb ed="#V" n="112"/>isti doc: imaginari videntur. Sed intentio ipsius est 
+        <lb ed="#V" n="113"/>quod quando tales auctoritates inueniuntur in 
+        scrip<lb ed="#V" n="114" break="no"/>tura: quia in pluribus locis occurrunt: vt patet per 
+        <lb ed="#V" n="115"/>magistrum in littera non sunt sic intelligende: quod si 
+        <lb ed="#V" n="116"/>dictio exclusiua additur vni persone. scriptura 
+        inten<lb ed="#V" n="117" break="no"/>dat ceteras excludere. quia tunc auctoritates ille essent 
+        <lb ed="#V" n="118"/>false: quia diuine persone vnum sunt: et inseparabiles 
+        <lb ed="#V" n="119"/>et hoc intendit probare contra maximum: qui dicit 
+        pa<lb ed="#V" n="120" break="no"/>trem esse sapientiorem filio: quia apostolus dicit: soli sapienti deo: 
+        <lb ed="#V" n="121"/>d. etiam quod si diceret scriptura: soli sapienti 
+        patri<lb ed="#V" n="122" break="no"/>adhuc intendit excludere filium sicut non intendit ex 
+        <lb ed="#V" n="123"/>cludere patrem quando de filio dicit in apocalis. quod 
+        ha<lb ed="#V" n="124" break="no"/>bet nomen scriptum: quod nemo scit nisi ipse. Et si dicitur 
+        <lb ed="#V" n="125"/>cur scriptura vtitur talibus propositionibus: 
+        dico<lb ed="#V" n="126" break="no"/>quod vtitur eis propter breuiorem modum loquendi 
+        sup<lb ed="#V" n="127" break="no"/>ponens in talibus debere intelligi de omnibus 
+        perso<lb ed="#V" n="128" break="no"/>nis: quod diciiur tantum de vna propter vnitatem 
+        <lb ed="#V" n="129"/>et inseparabilitatem earum: vtitur et ina eis aliquotiens 
+        <lb ed="#V" n="130"/>prout lictet solus tenetur precisiue et sic sunt simpliciter 
+        con<lb ed="#V" n="131" break="no"/>cedende. Contra quartam conclusionem posset 
+        <lb ed="#V" n="132"/>argui: verum quia satis est nota transeo. 
+      </p>
+               <p xml:id="at8va9-e85573-d1e1134">
+                  <lb ed="#V" n="133"/>Ad argumenta principalia. 
+        <lb ed="#V" n="134"/>Ad primam dico: quod non sequitur: solus deus est 
+        pa<lb ed="#V" n="135" break="no"/>ter. ergo solus pater est deus: Et ad probationem 
+        dico<lb ed="#V" n="136" break="no"/>quod hec propositio solus deus est pater: non debet 
+        con<lb ed="#V" n="137" break="no"/>uerti in exclusiuam. sed in vniversalem affirmatiuam de terminis 
+        <lb ed="#V" n="138"/>transpositis. non ergo debet conuerti: in istam: solus 
+        <lb ed="#V" n="139"/>pater est deus. sed in istam. omnis pater vel omnis per
+        <pb ed="#V" n="140-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>sona patris est deus: et hec est vera. Secundam rationem 
+        con<lb ed="#V" n="2" break="no"/>cedo: quia sufficienter probat: quod hec propositio non est 
+        <lb ed="#V" n="3"/>concedeuda. solus pater est deus si litet solus teneatur 
+        ex<lb ed="#V" n="4" break="no"/>clusiue: etc. 
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

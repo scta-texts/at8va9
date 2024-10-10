@@ -1,0 +1,1321 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 10</title>
+            <author ref="#AlphonsusVargas">Alphonsus Vargas Toletanus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 10</title>
+               <date when="2024-10-10">October 10, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-x7yh5z">Venice, 1490</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="40-v"/>
+            <cb ed="#V" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="at8va9-e20777"><!-- l1prolq10 -->
+            <head xml:id="at8va9-e20777-Hd1e101">Quaestio 10</head>
+            <p xml:id="at8va9-e20777-d1e103">
+               <pb ed="#V" n="40-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>SEcundo quero: vtrum habitus theologicus 
+      <lb ed="#V" n="2"/>possibilis viatori de lege communi sit practicus vel 
+      <lb ed="#V" n="3"/>speculatiuus. 
+    </p>
+            <p xml:id="at8va9-e20777-d1e116">
+      Et videtur primo quod practicus: 
+      <lb ed="#V" n="4"/>quia diciniumnis habitus directus et regulatiuus est vere 
+      <lb ed="#V" n="5"/>practicus: hoc patet: quia dirigere et regulare facit 
+      ha<lb ed="#V" n="6" break="no"/>bitum practicum: sed habitus theologicus viatoris est 
+      <lb ed="#V" n="7"/>huiusmodi. dicit beato dioni. de vniuoca et districta 
+      theolo<lb ed="#V" n="8" break="no"/>gia: quod ista scientia est nobis ad modum luminis et regule: 
+      <lb ed="#V" n="9"/>qua regulamur in processibis nostris circa diuina: 
+      <lb ed="#V" n="10"/>igitur etc. 
+    </p>
+            <p xml:id="at8va9-e20777-d1e134">
+      Contra theologia in vi atore est habitus 
+      <lb ed="#V" n="11"/>nobilissimus: igitur non est practicus sed speculatiuus: 
+      <lb ed="#V" n="12"/>antecedens conceditur: consequentia probatur: quia habius speculatiuus est 
+      <lb ed="#V" n="13"/>nobili or practico: cum sit sui gratia: ex prohemio 
+      meta<lb ed="#V" n="14" break="no"/>phisice: ergo etc. 
+    </p>
+            <p xml:id="at8va9-e20777-d1e145">
+      Responsio iIn ista. q. erunt quattuor 
+      <lb ed="#V" n="15"/>articuli: quia primo ponam aliquorum terminorum 
+      declara<lb ed="#V" n="16" break="no"/>tiones: secundo conclusiones. tertio mouebo dubia. et vel 
+      <lb ed="#V" n="17"/>timo respondebo. 
+    </p>
+            <div xml:id="at8va9-e20777-Dd1e155">
+               <head xml:id="at8va9-e20777-Hd1e157">Articulus 1</head>
+               <p xml:id="at8va9-e20777-d1e159">
+        Primus articulus. 
+        <lb ed="#V" n="18"/>QUantum ad primum articulum: primo declarabitur quid 
+        <lb ed="#V" n="19"/>sit habitus practicus: secundo quid 
+        speculati<lb ed="#V" n="20" break="no"/>suns: pro quorum declaratione: dimissis varis mddis 
+        <lb ed="#V" n="21"/>sdicendi doctorum videtur mihi iuxta doctrinam philysi et 
+        <lb ed="#V" n="22"/>commentatoris: quod practicum dicitur a praxi et 
+        speculati<lb ed="#V" n="23" break="no"/>vuum a speculatione: sicut intellectiuum dicitur ab 
+        intelle<lb ed="#V" n="24" break="no"/>ctione: et volitiuum a volitione: vt habitus dicatur 
+        practi<lb ed="#V" n="25" break="no"/>cus denominatiue a praxi: quam dirigit: et speculatiuus 
+        <lb ed="#V" n="26"/>a speculatione qua elicit. Est igitur habitus practicus 
+        <lb ed="#V" n="27"/>ille: cuius finis proprius et principaliter intentus est 
+        <lb ed="#V" n="28"/>praxis: et speculatiuus cuius finis proprius: et 
+        princi<lb ed="#V" n="29" break="no"/>paliter intentus est speculatio: hec est sententia phiysi 2 me 
+        <lb ed="#V" n="30"/>taphi dicit quod finis scientie speculatiue est veritas: 
+        practi<lb ed="#V" n="31" break="no"/>ce autem opius: et istud accipit pro medio ibidem. Et in 
+        <lb ed="#V" n="32"/>se. ad probandum quod prima phsia sit simpliciter 
+        speculati<lb ed="#V" n="33" break="no"/>ua. Et in. 3. ethi. probat: quod moralis physia ideo est 
+        practi<lb ed="#V" n="34" break="no"/>ca: quia non est contemplationis gratia: sed vt boni efficiamur: 
+        <lb ed="#V" n="35"/>he autem deductiones essent nulle nisi habitus 
+        specula<lb ed="#V" n="36" break="no"/>tiuus sit ille cuius finis est tantum speculari et practicus 
+        <lb ed="#V" n="37"/>cuius finis est tantum operari. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e205">
+        Preterea: intellectus 
+        spe<lb ed="#V" n="38" break="no"/>culatiuus fine differt ab intelleeiu practico. igitur 
+        <lb ed="#V" n="39"/>et habitus speculatiuus ab habitum practico: consequentia est 
+        <lb ed="#V" n="40"/>euidens: et antecedens ponit expresse philosos. 3 de anima. super quo 
+        <lb ed="#V" n="41"/>verbo dicit commentator commento quarto: quod finis in 
+        <lb ed="#V" n="42"/>tellectus speculatiui est scientie tantum: operatiui autem id es pra 
+        <lb ed="#V" n="43"/>ctici operari. Et idem dicit. 2. metaphi. commento. 3. Et 
+        <lb ed="#V" n="44"/>commentator celestis hicrarchie dicit: quod speculatiua 
+        <lb ed="#V" n="45"/>solum verum scrutari eligit pro suo fine: nil aliud nisi 
+        te<lb ed="#V" n="46" break="no"/>deus. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e227">
+        Scotus in proio i q. vlti. arti. 3. 
+        <lb ed="#V" n="47"/>Sed contra modum istum dicendi quidam doc. arguit 
+        pr<lb ed="#V" n="48" break="no"/>mo sic: vel habitus dicitur practicus propter extensio 
+        <lb ed="#V" n="49"/>nem actualem ad opus: vel propter aptitudinem non propter 
+        <lb ed="#V" n="50"/>actualitatem: quia tunc faber non intendens operari: non 
+        habe<lb ed="#V" n="51" break="no"/>ret cognitionem practicam: igitur propter extensionem 
+        apti<lb ed="#V" n="52" break="no"/>tudinalem: sed aptitudo non conuenit vni nature et 
+        re<lb ed="#V" n="53" break="no"/>pugnat alteri: nisi propter aliquod absoluntum in tali 
+        na<lb ed="#V" n="54" break="no"/>tura: nam quia hec natura est talis ideo conuenit sibi 
+        ta<lb ed="#V" n="55" break="no"/>lis aptitudo: igitur praesupponimus in ipsa consideratio 
+        <lb ed="#V" n="56"/>ne aliquam conditionem intrinsecam per quam sibi 
+        conueni<lb ed="#V" n="57" break="no"/>at talis aptitudo: hec autem condictio considerationis in se 
+        <lb ed="#V" n="58"/>est ab aliqua causa eius priore: cause autem eius prio 
+        <lb ed="#V" n="59"/>res sunt intellectus et obiectum: igitur conuenit 
+        sibi<lb ed="#V" n="60" break="no"/>ab intellectu vel obiecto. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e260">
+        Preterea: aut finis vt 
+        <lb ed="#V" n="61"/>elicitus extra facit habitum esse practicum: aut vt 
+        co<lb ed="#V" n="62" break="no"/>gnitus: aut vt consideratus et intentus. Non vt 
+        elici<lb ed="#V" n="63" break="no"/>tus: quia sic est posterior habitum et effectus aliquo 
+        mo<lb ed="#V" n="64" break="no"/>do: effectus autem non distinguit causam. Nec vt intentus: 
+        <lb ed="#V" n="65"/>quia naturaliterantequam intendatur est talis cognitio. S 
+        <lb ed="#V" n="66"/>vt cognitus: sic habet rationem obiecti: igitur obiectum 
+        di<lb ed="#V" n="67" break="no"/>stinguit. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e279">
+        Preterca: si scientiam esse practicam et 
+        ordi<lb ed="#V" n="68" break="no"/>nari ad praxim: vt ad finem conuertantur: tuc moralis 
+        <lb ed="#V" n="69"/>scientia non esset practica: consequens est contra philosophum i es et 4. ethi.
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>igitur antecedens consequentia probatur: quia finis eius est felicitas que secundum 
+        <lb ed="#V" n="71"/>ipsum 4. ethi. consistit in speculatione: non in praxi. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e292">
+        Pre 
+        <lb ed="#V" n="72"/>terea: non omnis cognitionis practice: finis est praxis: 
+        <lb ed="#V" n="73"/>aliqua enim intellectio est respectu praxis potentie 
+        <lb ed="#V" n="74"/>inferiorum: puta appetitus sensitiui: vel potentie 
+        moti<lb ed="#V" n="75" break="no"/>ue: nullus autem actus potentie inferioris est finis actus 
+        <lb ed="#V" n="76"/>intellectus: quia nihil ignobilius est per se finis actus 
+        no<lb ed="#V" n="77" break="no"/>bilioris: actus autem intelligendi est nobilior et 
+        perfecti<lb ed="#V" n="78" break="no"/>or quocumque actum cuiuscumque potentie sensitiue inferio 
+        <lb ed="#V" n="79"/>ris: ergo et c. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e312">
+        Responsio ad rationes scoti. 
+        <lb ed="#V" n="80"/>Ad primum istorum potest dupliciter responderi. Primo qui 
+        <lb ed="#V" n="81"/>dem potest dici: quod habitus non dicitur formaliter practicus 
+        <lb ed="#V" n="82"/>aliquo respectu: nec actuali nec aptitudinali sicut 
+        <lb ed="#V" n="83"/>ratio pasupponit: quia omnis habitus practicus: 
+        nquan<lb ed="#V" n="84" break="no"/>tum practicus: est actiuus et factiuus: et relatio non est 
+        <lb ed="#V" n="85"/>principium actionis: nec factionis: procedit igitur ratio ex 
+        <lb ed="#V" n="86"/>falso fundamento: nec est bona consequentia: habitus dicitur 
+        pra<lb ed="#V" n="87" break="no"/>cticus denominatiue a praxi: igitur dicitur practicus 
+        pro<lb ed="#V" n="88" break="no"/>pter respectum actualem: vel habitualem ad opus: licet 
+        ta<lb ed="#V" n="89" break="no"/>lis respectus sequatur naturam habitus. Secundo: 
+        <lb ed="#V" n="90"/>potest dici si concedatur quod habitus dicitur practicus 
+        pro<lb ed="#V" n="91" break="no"/>pter extensionem aptitudinalem ad opieus quod talis 
+        apti<lb ed="#V" n="92" break="no"/>tudo praesupponit in ipsa consideratione aliquam 
+        conditio<lb ed="#V" n="93" break="no"/>nem intrinseeam: per qua conuenit sibi: quia conuenit ei per 
+        pro<lb ed="#V" n="94" break="no"/>priam eius natura. Et quando dicitur quod ista conditio 
+        consi<lb ed="#V" n="95" break="no"/>derationis in se est ab aliqua causa eius priore vel 
+        <lb ed="#V" n="96"/>intelligit de causa intrinseca vel extrinseca: si 
+        pri<lb ed="#V" n="97" break="no"/>mo mo: non est verum: quod cause eius priores sint 
+        intelle<lb ed="#V" n="98" break="no"/>ctus et obiectum: quia nec intellectus: nec obiectum sunt 
+        <lb ed="#V" n="99"/>de intrinseca ratione habitus: sie secundo modo: cum 
+        cau<lb ed="#V" n="100" break="no"/>se extrinsece sint efficiens et finis: vel intelligit de 
+        causa<lb ed="#V" n="101" break="no"/>finali: vel de causa effectiua: si primo modo: ratio est ad 
+        <lb ed="#V" n="102"/>oppositum quia non sequitur quod talis aptitudo conueniat 
+        <lb ed="#V" n="103"/>habitui ab intellectu vel ab obiecto: sed a fine: quod 
+        <lb ed="#V" n="104"/>est propositum: si secundo modo: concedo quod talis contradictio est 
+        <lb ed="#V" n="105"/>effectiue ab eo a quo effectiue causatur habitus: quia 
+        <lb ed="#V" n="106"/>ista condictio non est aliqua res distincta ab habitu: sed 
+        <lb ed="#V" n="107"/>pa eius natura: siue causa eius effectiua sit obiectum: 
+        <lb ed="#V" n="108"/>siue intellectus: quod magis credo: sed ex hoc non 
+        sequi<lb ed="#V" n="109" break="no"/>tur: quod habitus dicatur practicus ab obiecto: etiam 
+        <lb ed="#V" n="110"/>si ponatur eius causa effectiua: nisi eo modo quo 
+        crea<lb ed="#V" n="111" break="no"/>tura dicitur creatura a deo: quia est effectuis eius: et 
+        il<lb ed="#V" n="112" break="no"/>lud non est ad propositum: quia causa effectiua non est 
+        distin<lb ed="#V" n="113" break="no"/>cta eo modo quo nunc loquimur. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e388">
+                  <lb ed="#V" n="114"/>Thonas de argentina in prologo i q. vlti. arti. i. 
+        <lb ed="#V" n="115"/>Ad secundum respondet quida doc. noster dicit quod 
+        di<lb ed="#V" n="116" break="no"/>stinctio est insufficiens: quia nec sic: nec sic: sed finis est 
+        <lb ed="#V" n="117"/>illius distinctionis et denominationis causa: inquantum 
+        <lb ed="#V" n="118"/>determinatur obiectum ad causandum habitum iuxta 
+        exi<lb ed="#V" n="119" break="no"/>gentiam ipsius finis. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e404">
+        Contra thoma. 
+        <lb ed="#V" n="120"/>Ista tamen solutio non fatisfacit: propter duo. Primo: 
+        <lb ed="#V" n="121"/>quia praesupponit obiectum esse causam effectiuam ipsius habitus: 
+        <lb ed="#V" n="122"/>quod non reputo esse verum: de hoc tamen alias. Secundo: quia 
+        <lb ed="#V" n="123"/>finis non potest determinare obiectum ad causandum 
+        ha<lb ed="#V" n="124" break="no"/>bitum: etiam si ponatur eius causa effectiua: nisi vt 
+        elici<lb ed="#V" n="125" break="no"/>tus extra: vel vt cognitus: vel consideratus et 
+        inten<lb ed="#V" n="126" break="no"/>tus: gitur adhuc reddit prima difficultas. Dimissa 
+        <lb ed="#V" n="127"/>igitur hac repraesensione potest ad rationem tripliciter responderi. 
+        <lb ed="#V" n="128"/>Primo: quidem potest dici: quod finis facit habitum esse 
+        pra<lb ed="#V" n="129" break="no"/>cticum vt elicitus extra. Et quando dicitur: quod sic est posterior 
+        <lb ed="#V" n="130"/>habitum et effectus aliquo modo: dico quod licet repugnet 
+        po<lb ed="#V" n="131" break="no"/>steriori distinguere suum prius formaliter et intrinsece per 
+        <lb ed="#V" n="132"/>modum efficientis: non tamen per modum finis: et ideo quamuis 
+        <lb ed="#V" n="133"/>finis habitus practici: vt ponitur in esse per habintum 
+        <lb ed="#V" n="134"/>practicum fit posterior babitum: et vt sic repugnet 
+        sibi<lb ed="#V" n="135" break="no"/>quod distinguat habitum practicum a speculatiuo 
+        forma<lb ed="#V" n="136" break="no"/>liter et intrinsece per modum efficientis: non tamen 
+        repu<lb ed="#V" n="137" break="no"/>gnat sibi quod distinguat per modum finis quia licet finis 
+        sem<lb ed="#V" n="138" break="no"/>per sit prior intentione his que sunt ad finem: non tamen
+        <pb ed="#V" n="41-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>executione. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e454">
+        Secundo potest dici: quod sicut habitu facit ese 
+        <lb ed="#V" n="2"/>practicum vt consideratus et intentus. Et ad probatio 
+        <lb ed="#V" n="3"/>nem potest dici. Primo: quod talis cognitio non est naturaliter 
+        <lb ed="#V" n="4"/>antequam intendatur finis: quod patet ex duobus Primo: quia 
+        <lb ed="#V" n="5"/>tunc finis non esset prior intetione his qui sunt ad finte 
+        <lb ed="#V" n="6"/>Secundo: quia ad productionem talis cognitionis non 
+        requi<lb ed="#V" n="7" break="no"/>ritur concursus quatuor causarum: quarum: quod licet est falsum 
+        <lb ed="#V" n="8"/>Secundo potest dici: quod si concedatur: quod talis cognitio sit 
+        na<lb ed="#V" n="9" break="no"/>literantequam intendatur finis: quod ex hoc non sequitur: quod finis 
+        <lb ed="#V" n="10"/>non faciat esse practicum habitum de nominatione 
+        extrinse<lb ed="#V" n="11" break="no"/>ca et arguitiue: sed bene sequitur: quod non facit ipsum esse 
+        <lb ed="#V" n="12"/>practicum formaliter et intrinsece: nec etiam effectiue: et 
+        <lb ed="#V" n="13"/>hoc nullus negat. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e484">
+        Tertio potest dici: quod finis facit 
+        ha<lb ed="#V" n="14" break="no"/>bitum esse practicum vt cognitus. Et ad probationem 
+        Pri<lb ed="#V" n="15" break="no"/>mo potest dici: quod saltem non est realiter verum: quod finis vt 
+        co<lb ed="#V" n="16" break="no"/>gnitus habeat rationem obiecti: quia finis proprius theologie 
+        no<lb ed="#V" n="17" break="no"/>stre est dilectio dei: et tamen constat: quod dilectio: qua 
+        crea<lb ed="#V" n="18" break="no"/>tura diligit deum non habet rationem obiecti: nec 
+        subie<lb ed="#V" n="19" break="no"/>cti: nec vt elicita extra: nec vt cognita: nec vt intenta: cum 
+        <lb ed="#V" n="20"/>subiectum theologie etiam per eos sit deus ipse: vel sub ratione 
+        <lb ed="#V" n="21"/>deitatis: sicut in patria: vel infinitatis: sicut in via vt 
+        di<lb ed="#V" n="22" break="no"/>cunt. Secundo potest dici etiam si concedatur: quod finis vt 
+        co<lb ed="#V" n="23" break="no"/>gnitus habeat rationem obiecti: quia ex hoc non sequitur: quod 
+        obie<lb ed="#V" n="24" break="no"/>ctum distinguat inquantum obiectum quia non distinguit: 
+        <lb ed="#V" n="25"/>vt habet rationem obiecti: sed vt habet rationem finis. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e513">
+        Ad 
+        <lb ed="#V" n="26"/>tertium dico: quod felicitas non est finis proprius et 
+        immedia<lb ed="#V" n="27" break="no"/>tus scientie moralis: sed vltimus et remotus: et a tali 
+        sci<lb ed="#V" n="28" break="no"/>entia non denominatur: quia sic omnes scientie tendunt ad vnum 
+        <lb ed="#V" n="29"/>finem: quia quaelibet ordinatur ad beatitudinem vltimate. 
+        <lb ed="#V" n="30"/>Ad quartum nego antecedens Et ad probatione concedo: quod 
+        <lb ed="#V" n="31"/>aliqua intellecto est respectu praxis potentie inferio 
+        <lb ed="#V" n="32"/>ris. Et quando dicitur: quod nullus actus potentie inferioris est 
+        fi<lb ed="#V" n="33" break="no"/>nis actus intellectus: quia nihil ignobilius est finis 
+        nob<lb ed="#V" n="34" break="no"/>lioris. distinctio de fine: quia quidam est finis vltimus: et 
+        qui<lb ed="#V" n="35" break="no"/>dam intermedius: verbi gratia: in motum ad finitatem 
+        <lb ed="#V" n="36"/>est duplex finis: finis intermedius: et hec est sanitas: 
+        <lb ed="#V" n="37"/>propter quam homo mouetur: et finis vltimus in isto ordine 
+        <lb ed="#V" n="38"/>et iste non est sanitas: sed perfectio hominis: quia homo non 
+        <lb ed="#V" n="39"/>appetit sibi propter se sed propter perfectionem sui: cuius signum 
+        <lb ed="#V" n="40"/>est. quia si sanitas non esset perfectio homonis non appetere 
+        <lb ed="#V" n="41"/>tur ab homine perfecto: perfectio igitur hominis vel 
+        <lb ed="#V" n="42"/>homo: habet homo rationem vltimi finis: et non ipsa sanitas. His 
+        <lb ed="#V" n="43"/>prem issis dico: quod nullus actus potentie inferioris est finis 
+        <lb ed="#V" n="44"/>vltimus intellect onis: quia nihil ignobilius est finis 
+        no<lb ed="#V" n="45" break="no"/>bilioris: aliquis tamen actus potentie inferioris potest esse finis 
+        <lb ed="#V" n="46"/>eius intermedius: quia sic non repugnat ignobiliori: quod sit 
+        <lb ed="#V" n="47"/>finis nobilioris: quia sanitas corporalis ignobilior est 
+        <lb ed="#V" n="48"/>intellectione: et tamen est finis medicine modo 
+        predi<lb ed="#V" n="49" break="no"/>dicto: et hec de prima. 
+      </p>
+            </div>
+            <div xml:id="at8va9-e20777-Dd1e569">
+               <head xml:id="at8va9-e20777-Hd1e571">Articulus 2</head>
+               <p xml:id="at8va9-e20777-d1e573">
+        Secundus articulus. 
+        <lb ed="#V" n="50"/>QUantum ad secundum arti. pono quattuor conclusio. 
+        <lb ed="#V" n="51"/>nes Premitto tamen ad earum intellectionem sicut et in 
+        <lb ed="#V" n="52"/>praecedenti. q. quod theologia viatoris potest accipi: vno modo 
+        pro<lb ed="#V" n="53" break="no"/>habitu vnius conclusionis theologice tantum. Alio modo pro 
+        habitu<lb ed="#V" n="54" break="no"/>omnium conclusionum pertinentium ad ipsam Et intelligo 
+        <lb ed="#V" n="55"/>q. de theologia secundo modo dicta: quia sic doc. querunt communiter 
+        <lb ed="#V" n="56"/>an sit practica vel speculatiua: cuius ratio est: quia 
+        posi<lb ed="#V" n="57" break="no"/>to: quod aliquis habitus thelogie primo modo dicte sit vere 
+        <lb ed="#V" n="58"/>practicus: et aliquis vere speculatiuus: adhuc 
+        isti<lb ed="#V" n="59" break="no"/>habitus habent ordinem inter se: vel ad vnum tertium 
+        <lb ed="#V" n="60"/>cuius finis principaliter intenditur in tota thelogia: et a quo 
+        <lb ed="#V" n="61"/>per consequens debet tota denominari.
+      </p>
+               <p xml:id="at8va9-e20777-d1e602">
+        His premissis 
+        <lb ed="#V" n="62"/>pro intellectu. q. Prima conclusio est: quod habitus 
+        theo<lb ed="#V" n="63" break="no"/>logicus viatoris non est proprie practicus: probatur. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e609">
+        
+        Pri<lb ed="#V" n="64" break="no"/>mo sic: nullus habitus cuius finis non est proprie 
+        pra<lb ed="#V" n="65" break="no"/>xis est practicus: hoc patet per diffinitionem habitus 
+        <lb ed="#V" n="66"/>practici: sed finis theologie non est proprie praxis: quia eius 
+        <lb ed="#V" n="67"/>finis proprius et principalis est dilectio dei: ex. q. pre 
+        <lb ed="#V" n="68"/>cedenti: que non habet proprie rationem praxis: vt patet 
+        ibi<lb ed="#V" n="69" break="no"/>dem ergo etc. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e625">
+        Secundo sic: nullus habitus practicus in¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>nobis est nobilissimus: sed habitus theologie in nobis est 
+        nobi<lb ed="#V" n="71" break="no"/>lissimus: igitur non est practicus: minor supponitur: maior 
+        pro<lb ed="#V" n="72" break="no"/>batur: quia habitus speculatiuus est nobilior practico: igitur 
+        <lb ed="#V" n="73"/>practicus non est nobilissimus: consequentia est nota. et antecedens est 
+        <lb ed="#V" n="74"/>physi 6. et hicorum vbi dicit: quod intellectus speculatiuus 
+        <lb ed="#V" n="75"/>melior est: quam practicus: et habitus speculatiuus 
+        perfe<lb ed="#V" n="76" break="no"/>ctior practico: super quo verbo sicut inquit comenta 
+        <lb ed="#V" n="77"/>tor: nec melioris particule anime prudentia est virtus: quam 
+        <lb ed="#V" n="78"/>sapientia: si quidem sapientia speculatiui intellectus habitus 
+        <lb ed="#V" n="79"/>et virtus: prudentia vero practici: melior autem inteellectus 
+        <lb ed="#V" n="80"/>speculatiuus practico quemadmodum speculatio melior 
+        <lb ed="#V" n="81"/>actione: ergo etc. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e657">
+        Tertio sic: omnis notitia practica ordi 
+        <lb ed="#V" n="82"/>natur principaliter ad dirigendam operationem aliquam: que 
+        <lb ed="#V" n="83"/>vere sit pratis: hoc patet in omnibus inductiue: sed 
+        theo<lb ed="#V" n="84" break="no"/>logia viatoris non ordinatur: etc. igitur non est practica: proba 
+        <lb ed="#V" n="85"/>tur minor: quia principaliter ordinatur ad dirigendum actus 
+        <lb ed="#V" n="86"/>voluntatis circa finem vltimum: talis autem actus 
+        <lb ed="#V" n="87"/>non est proprie praxis: sicut patet ex conclusione 
+        prece<lb ed="#V" n="88" break="no"/>denti: igitur etc. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e675">
+        Secunda conclusio est: quod theologia viatoris non 
+        <lb ed="#V" n="89"/>est habitus speculatiuus: probatur Primo sic: nullus 
+        <lb ed="#V" n="90"/>habitus cuius finis proprius et principaliter non est 
+        specula<lb ed="#V" n="91" break="no"/>tio est pure speculatiuus. hoc patet per diffinitionem 
+        <lb ed="#V" n="92"/>speculatiui: sed finis proprius et principaliter 
+        inten<lb ed="#V" n="93" break="no"/>tus in habitu theologico viatoris non est 
+        specula<lb ed="#V" n="94" break="no"/>tio: quia eius finis est dilectio: de qua constat: quod 
+        <lb ed="#V" n="95"/>non sit speculatio. ergo. Et confirmatur: quia finis 
+        <lb ed="#V" n="96"/>scientie speculatiue est scire: tantum vt patet: per 
+        comentato<lb ed="#V" n="97" break="no"/>rem. 3. de anima comento. 4o. et 2. metaphisice comento 
+        <lb ed="#V" n="98"/>3. sed finis theologie non est tantum scire quia diligere non est scire 
+        <lb ed="#V" n="99"/>igitur etc. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e701">
+        Secundo sic: finis principaliter intentus in 
+        theo<lb ed="#V" n="100" break="no"/>logia viatoris est nohilior omni speculatione saltem pro 
+        statu<lb ed="#V" n="101" break="no"/>vie: igitur t heologia viatoris non est habitus speculatiuus: antecedens 
+        <lb ed="#V" n="102"/>patet: quia dilectio dei meritoria est nobilior omni 
+        speculatio<lb ed="#V" n="103" break="no"/>ne: saltem pro statu vie: consequentia probatur: quia vel 
+        speculari<lb ed="#V" n="104" break="no"/>est aliquo modo finis theologie viatoris vel non: si non: nullo modo 
+        <lb ed="#V" n="105"/>potest dici speculatiua: quod est propositum: si sic: idem sequitur 
+        <lb ed="#V" n="106"/>quia quando aliqua scientia habet plures fines: a nobiliori tamntum 
+        <lb ed="#V" n="107"/>debet denominari: sed speculatio: etiam si sit aliquo modo 
+        fi<lb ed="#V" n="108" break="no"/>nis theologie non est nobilior: sed dilectio saltem pro 
+        statu<lb ed="#V" n="109" break="no"/>vie: vt assumitur in antete: ergo etc. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e725">
+        Tertio sic: nulla 
+        noti<lb ed="#V" n="110" break="no"/>tiadirectiua alterius operationis: quam intellectus est pure 
+        spe<lb ed="#V" n="111" break="no"/>culatiua: hoc patet: in omnibus inductiue: sed constat quod thelogia 
+        <lb ed="#V" n="112"/>dirigit actus nostros etiam exteriores circa diuina igitur 
+        <lb ed="#V" n="113"/>etc. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e736">
+        Tertia conclusio est: quod habitus theologicus viatoris non 
+        <lb ed="#V" n="114"/>est simul practicus et speculatiuus: probatur Primo sic: 
+        <lb ed="#V" n="115"/>impsicatio contradictionis est: quod finis proprius et princi paliter 
+        <lb ed="#V" n="116"/>intentus eiusdem habitus sit scire tamntum et operari. hoc patet: 
+        <lb ed="#V" n="117"/>quia sequitur finis istius habitus: demonstrato: quocumque 
+        <lb ed="#V" n="118"/>est operari: igitur non est scire tantum: igitur implicatio 
+        con<lb ed="#V" n="119" break="no"/>tradictionis est: quod habitus theologicus sit siul practicus et 
+        <lb ed="#V" n="120"/>speculatiuus: patet ista consequentia: quia finis habitus speculatiui est 
+        <lb ed="#V" n="121"/>scire tantum practici est operari vt patet ex supradictis. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e756">
+        
+        Se<lb ed="#V" n="122" break="no"/>cundo sic: implicatio contradictionis est: quod idem habitus sit 
+        sui<lb ed="#V" n="123" break="no"/>gatia: et non sit sui gratia: igitur implicatio contradictionis est: quod 
+        <lb ed="#V" n="124"/>idem habitus sit simul practicus et speculatiuus: antecedens patet 
+        <lb ed="#V" n="125"/>consequentia probatur: quia habitus speculatiuus est sui gratia: practicus 
+        <lb ed="#V" n="126"/>autem non primo metaphisice: ergo etc. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e770">
+        Tertio sic: impossibile 
+        <lb ed="#V" n="127"/>est habitum theologicum primo et principaliter ordinari ad duos 
+        <lb ed="#V" n="128"/>per se fines: quorum vnus non deducatur ad alterum: nec 
+        <lb ed="#V" n="129"/>ambo ad vnum tertium: igitur impossibile est ipsum simul esse 
+        pra<lb ed="#V" n="130" break="no"/>cticum et speculatiuum: consequentia patet quia habitus practicus et 
+        spe<lb ed="#V" n="131" break="no"/>culatiuus distinguuntur finibus: ex articulo precedenti: 
+        <lb ed="#V" n="132"/>antecedens probatur: quia vel habitus theologicus est vnus 
+        <lb ed="#V" n="133"/>vnitate simplicis forme vel non si sic: clarum est antecedens: 
+        <lb ed="#V" n="134"/>quia vnius talis habitus est tantum vnus finis principaliter intentus: 
+        <lb ed="#V" n="135"/>si non: sed plures facientes tantum vnum vnitate cuiusdam 
+        <lb ed="#V" n="136"/>totalitatis et per se ordinis: quod credo verius adhuc idem 
+        <lb ed="#V" n="137"/>sequitur: quia licet vnus eorum possit ordinari ad vnum finem: et 
+        <lb ed="#V" n="138"/>alius ad alterum: totus tamen habitus includens vtrumque: nul¬
+        <pb ed="#V" n="41-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>lo modo: tum quia omnis multitudo reducitur ad vnitatem: tum 
+        <lb ed="#V" n="2"/>quia tales habitus partiales habeunt per se ordinem inter se 
+        <lb ed="#V" n="3"/>vel ad vnum tertium: cuius finis principaliter intenditur in 
+        <lb ed="#V" n="4"/>toto habitu: ergo etc.
+      </p>
+               <p xml:id="at8va9-e20777-d1e812">
+        Quarto sic: finis principaliter intent 
+        <lb ed="#V" n="5"/>in habitu theologico viatoris: non est praxis: nec 
+        speculatio<lb ed="#V" n="6" break="no"/>igitur non est practicus: nec speculatiuus: nec per consequens 
+        pra<lb ed="#V" n="7" break="no"/>cticus siul et speculatiuus tota inducto: patet ex dictis. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e821">
+                  <lb ed="#V" n="8"/>Quarta conclusio est: quod habitus theologicus viatoris 
+        <lb ed="#V" n="9"/>oprie dicitur affectiuus: probatur Primo sic: illa scientia cuim 
+        <lb ed="#V" n="10"/>finis principaliter intentus est dilectio vel affectio: 
+        pro<lb ed="#V" n="11" break="no"/>prie dicitur affectiua: thelogia viatoris est huiusmodi: igitur 
+        <lb ed="#V" n="12"/>etc. minor patet ex. q. precedenti: maior probatur: quia sicut 
+        <lb ed="#V" n="13"/>illa scientia proprie dicitur practica cuius finis est operari: et 
+        il<lb ed="#V" n="14" break="no"/>la proprie dicitur speculatiua: cuius finis est taum 
+        speculari<lb ed="#V" n="15" break="no"/>sic et illa cuius finis principliciter est affectio proprie dicetur 
+        af<lb ed="#V" n="16" break="no"/>fectiua. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e843">
+        Secundo sic: ille habitus qui per nam suam 
+        incli<lb ed="#V" n="17" break="no"/>nat ad operationem quae non est praxis nec speculatio: sed 
+        <lb ed="#V" n="18"/>affectio non est practicus nec speculatiuus: sed 
+        affecti<lb ed="#V" n="19" break="no"/>uus: habitus theologie est huiusmodi: ergo minor patet ex 
+        supra<lb ed="#V" n="20" break="no"/>dictis: maior probatur: quia sicut ille habitus qui per naturam 
+        <lb ed="#V" n="21"/>suam inclinatad operationem: quae non est pratis sed 
+        specu<lb ed="#V" n="22" break="no"/>latio non est practicus sed speculatiuus: et ille qui per 
+        <lb ed="#V" n="23"/>naturam suam inclinat ad operationem: que non est 
+        specula<lb ed="#V" n="24" break="no"/>tio: sed praxis est practicus non speculatiuus sic etiam 
+        <lb ed="#V" n="25"/>omnem dicere in proposito. Ex his infero: quod sicut scientia 
+        <lb ed="#V" n="26"/>quadam est practica quedam speculatiua: et quedam 
+        affecti<lb ed="#V" n="27" break="no"/>ua: sicut etiam et intellectus: quidam est practicus: quidam 
+        <lb ed="#V" n="28"/>speculatiuus: et quidam affectiuus: ratio huius est: quia sicut 
+        sci<lb ed="#V" n="29" break="no"/>entia speculatiui est habitus intellectus speculatiui: et 
+        pro<lb ed="#V" n="30" break="no"/>ctica practici: sicut affectiua erit affectiui. Et confir 
+        <lb ed="#V" n="31"/>matur: quia sicut intellectus dicitur practicus a 
+        denominatio<lb ed="#V" n="32" break="no"/>ne extrinseca: quia extenditur ad praxim: sic etiam dicetur 
+        <lb ed="#V" n="33"/>affectiuus: quia intenditur ad affectionem: que proprie non 
+        <lb ed="#V" n="34"/>habet rationem praxis. 
+      </p>
+            </div>
+            <div xml:id="at8va9-e20777-Dd1e886">
+               <head xml:id="at8va9-e20777-Hd1e888">Articuli 3 et 4</head>
+               <p xml:id="at8va9-e20777-d1e890">
+        Tertius et quartus arti. 
+        <lb ed="#V" n="35"/>QUantum ad tertium et quartum arti. simul contra 
+        conclu<lb ed="#V" n="36" break="no"/>siones istas: mouenda et dissoluenda sunt 
+        du<lb ed="#V" n="37" break="no"/>bia. Et primo contra primam conclusionem est quedam opinio: que 
+        <lb ed="#V" n="38"/>ponit theologiam esse pure practica: pro qua quidam 
+        <lb ed="#V" n="39"/>doctor arguit. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e903">
+        Scotus in prolo. i. q. 4. 
+        <lb ed="#V" n="40"/>Primo sic: illa cognitio est practica: que est 
+        apti<lb ed="#V" n="41" break="no"/>tudinaliter conformis volitioni recte: et naturaliter prior ipsa 
+        <lb ed="#V" n="42"/>tota thelogia necessaria intellectui creato est sic 
+        confor<lb ed="#V" n="43" break="no"/>mis actui voluntatis create et prior eo: ergo maior patet: quia 
+        <lb ed="#V" n="44"/>ratio propria et conuertibilis cognitionis: proprie praectice est 
+        <lb ed="#V" n="45"/>habere istum duplicem respectum aptitudinalem ad volitionem 
+        <lb ed="#V" n="46"/>elicitam: que vere est praxis. probatur minor: quia primum 
+        <lb ed="#V" n="47"/>obiectum est virtualiter conforme volitioni recte: quia a 
+        ratio<lb ed="#V" n="48" break="no"/>ne eius sumuntur prima principia rectitudinis in volitio 
+        <lb ed="#V" n="49"/>ne: ipsum etiam determinat intellectum creatum ad 
+        noti<lb ed="#V" n="50" break="no"/>tiam rectitudinis ipsius pratis: quo ad omnia 
+        theologi<lb ed="#V" n="51" break="no"/>ca necessaria prius naturaliter: quam aliqua voluntas 
+        crea<lb ed="#V" n="52" break="no"/>ta velit: aliter non esset necessaria igitur ex primo obiecto 
+        <lb ed="#V" n="53"/>sequitur tam conformitas: quam prioritas thelogie ad 
+        volitio<lb ed="#V" n="54" break="no"/>nem: et sic patet minor. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e938">
+        Preterea: primum obiectum 
+        <lb ed="#V" n="55"/>theologie est finis vltimus: et principia in intellectu 
+        crea<lb ed="#V" n="56" break="no"/>to sumpta a fine vltimo sunt principia practica: igitur 
+        <lb ed="#V" n="57"/>principia theologie sunt practica: itur et conclusiones practice. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e947">
+                  <lb ed="#V" n="58"/>Aureolus in prolo i. q. 5. ar. 
+        <lb ed="#V" n="59"/>Preterea: ad idem quidam alius doc. arguit: 
+        Pri<lb ed="#V" n="60" break="no"/>mo sic: ille habitus est pure practicus qua est de obiecto at 
+        <lb ed="#V" n="61"/>tingibili absolute ex cellentibus operationib:us et per 
+        <lb ed="#V" n="62"/>nobiliores actus: quam sit actus illius habitus: habitus 
+        theo<lb ed="#V" n="63" break="no"/>logicus est huiusmodi: igitur maior patet: tum quia 
+        tala<lb ed="#V" n="64" break="no"/>obiectum comparatur ad scibilitatem non ad speculibile tantum 
+        <lb ed="#V" n="65"/>sed vt operabile i operibus attingibile: tum quia scientie 
+        pra<lb ed="#V" n="66" break="no"/>ctice ideo dicuntur practice: quia nobiliori modo attingunt 
+        <lb ed="#V" n="67"/>obiectum: quam per intelligere: sicut patet de 
+        medicina<lb ed="#V" n="68" break="no"/>et similibus: quia melius est habere sanitatem: quam ipsa. 
+        <lb ed="#V" n="69"/>intelligere: et esse egrotum Et melius est habere virtu¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>tes quam intelligere vel scire quid virtus sit: vt patet: 
+        <lb ed="#V" n="71"/>2. eth co. minor probatur: quia si quis adheret deo per 
+        fi<lb ed="#V" n="72" break="no"/>dem in eum assurgit per specie: et ipsum diligit per chari 
+        <lb ed="#V" n="73"/>tatem: nobilibus operationibus deum attingit quod sit 
+        co<lb ed="#V" n="74" break="no"/>gnitio: quae habet per theologiam 
+      </p>
+               <p xml:id="at8va9-e20777-d1e990">
+        Preterea: quando obiectum 
+        <lb ed="#V" n="75"/>est operabile id est operationibus attingibile habitus 
+        trans<lb ed="#V" n="76" break="no"/>iens super ipsum: qui maxime negociatur circa 
+        ope<lb ed="#V" n="77" break="no"/>ra: et docet operibus ipsam attingi est pure practicus 
+        <lb ed="#V" n="78"/>theologia est huiusmodi: vt patet: ergo. Preterea: 
+        il<lb ed="#V" n="79" break="no"/>le habitus: qui non habet profine actum solum quem eliciter 
+        <lb ed="#V" n="80"/>immo et actum quem dirigitet pure practicus: thelogia est 
+        <lb ed="#V" n="81"/>huiusmodi: quia habet pro fine actum credendi: quem 
+        <lb ed="#V" n="82"/>dirigit: quia per theologiam fides defenditur nutritur et 
+        ro<lb ed="#V" n="83" break="no"/>boratur: vt patet per. b. Aug. 14. de tri. c. igitur etc. Pre 
+        <lb ed="#V" n="84"/>terea: illa scientia. quae non est vt scientiamus. sed vt boni fiamus 
+        <lb ed="#V" n="85"/>est pure practica: quia eius finis non est scire: sed operari: 
+        <lb ed="#V" n="86"/>sed theologia est huiusmod secundum Aug. contra academicos: 
+      </p>
+               <p xml:id="at8va9-e20777-d1e1019">
+                  <lb ed="#V" n="87"/>Franciscus de maronis in prolo. i. q. vltima ar 2. 
+        <lb ed="#V" n="88"/>Preterea: quidam alius doc. ad idem arguit sic: illa 
+        <lb ed="#V" n="89"/>scientia: que regulat actum voluntatis nostre circa diuina est 
+        <lb ed="#V" n="90"/>mere practica: theologia viatoris est huiusmodi: quia ipsa 
+        <lb ed="#V" n="91"/>ostendit diuinis non esse vtendum: sed fruendum vt ait Aug. de 
+        <lb ed="#V" n="92"/>doctrina christiana: igitur etc. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e1035">
+        Preterea: illa 
+        noti<lb ed="#V" n="93" break="no"/>tia: que dirigit actus nostros exteriores ad cultum 
+        di<lb ed="#V" n="94" break="no"/>uinum secundum virtutem latr est est mere practica: theologia viato 
+        <lb ed="#V" n="95"/>ris est huiusmod. dicit domino: osee. 4. quia tum scientiam 
+        repulisti<lb ed="#V" n="96" break="no"/>repellam te ne sacerdotio fungaris mihi. ergo. Sed istis 
+        <lb ed="#V" n="97"/>non obstantibus videtur mihi: quod thelogia proprie loquendo non 
+        <lb ed="#V" n="98"/>possit dici de scientia practica: pro solutione tamen prime 
+        ratio<lb ed="#V" n="99" break="no"/>nis et aliquali impugnatione illius doc qui facit eam 
+        <lb ed="#V" n="100"/>Premitto duas propositiones. Prima est: quod ratio 
+        forma<lb ed="#V" n="101" break="no"/>lis et adequate habitus speculatiui non consistit in 
+        priua<lb ed="#V" n="102" break="no"/>tione illius duplicis respectus: quos ponit ille doc. 
+        primo<lb ed="#V" n="103" break="no"/>ritatis scilicet et conformitatis. et volitionem rectam: ista 
+        propo<lb ed="#V" n="104" break="no"/>sitio patet: quia habitus speculatiuus vt speculatiuus est 
+        no<lb ed="#V" n="105" break="no"/>bilior practico vt est practicus secundum arist. et secundum omnes: 
+        iu<lb ed="#V" n="106" break="no"/>ratio formalis et adequata habitus practici quod non est 
+        pos<lb ed="#V" n="107" break="no"/>sibile si consistat in tali priuatione: quia cum omnis 
+        priuatio<lb ed="#V" n="108" break="no"/>sit purum nihil vt patet per anshel. de conceptu 
+        virgi<lb ed="#V" n="109" break="no"/>nali per totum: et de casu diaboli. ca. 11. et in multi 
+        ali<lb ed="#V" n="110" break="no"/>is locige: nulla praeuatio est nobilior ratione formali 
+        habi<lb ed="#V" n="111" break="no"/>tus practici. Et confirmatur per eum. quia ratio formalis 
+        ha<lb ed="#V" n="112" break="no"/>bitus practici vt dicit consistit in duplici respectu pre 
+        <lb ed="#V" n="113"/>dicto. sed nulla priuatio alicuius respectus posti est 
+        <lb ed="#V" n="114"/>nobilior illo respectu: ergo etc.
+      </p>
+               <p xml:id="at8va9-e20777-d1e1085">
+        Preterea: propria 
+        pas<lb ed="#V" n="115" break="no"/>sio entis positiui: non potest esse pura priuatio. hoc patet. 
+        <lb ed="#V" n="116"/>quia non ens non est propria passib entis. priuatio aut est non 
+        <lb ed="#V" n="117"/>ens: sed esse speculatiuum secundum istum doc. est propria 
+        pas<lb ed="#V" n="118" break="no"/>sio scientie igitur esse speculatiuum non est priuatio: nec 
+        con<lb ed="#V" n="119" break="no"/>sistit in priuatione. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e1098">
+        Secunda propositio est: quod ratio propria 
+        <lb ed="#V" n="120"/>et conuertibilis cognitionis practice non consistit in 
+        dupli<lb ed="#V" n="121" break="no"/>ci respectu aptitudinali predicto. sicut iste doctor 
+        <lb ed="#V" n="122"/>imaginatur. Ista propositio sequitur ex precedenti. quia 
+        <lb ed="#V" n="123"/>sequitur etiam per eum ratio formalis habitus speculatiui 
+        <lb ed="#V" n="124"/>non consistit in priuatione istius duplicis respecius. 
+        iu<lb ed="#V" n="125" break="no"/>non est ratio formalis habitus practici in positione eiusdem. 
+        <lb ed="#V" n="126"/>et ideo de plano negat antecedens: quod tamen patet ex propositione praecedenti 
+        <lb ed="#V" n="127"/>Et confirmatur: quia habitus praecticus inquantum practicus est 
+        ali<lb ed="#V" n="128" break="no"/>cuius aptitudo actum vt cophendit factiuum. ergo eius ratio 
+        for<lb ed="#V" n="129" break="no"/>malis et adquite non contrasistit in respectu: antecedens patet. quia 
+        vbi<lb ed="#V" n="130" break="no"/>cumque arist. facit mentionem de habitu practico dicit ipsum 
+        <lb ed="#V" n="131"/>esse actiuum modo praedicto: sit patet 1. et 6 methaphisice: tum 
+        <lb ed="#V" n="132"/>quia praxis grece idem est quod operatio latine. igitur praecticum 
+        <lb ed="#V" n="133"/>ide est quod operatiuum vel actiuu. consequentia probatur: quia respectus 
+        <lb ed="#V" n="134"/>non est principium actus vt patet per philosophum 5. phisicorum igitur. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e1133">
+                  <lb ed="#V" n="135"/>Preterea: ideo habitus est vere practicus quia dirigit et 
+        <lb ed="#V" n="136"/>conformat sibi operationem alterius potentie ab inellectu 
+        <lb ed="#V" n="137"/>secundum illum doc. seoper nullum respectum actualem vel 
+        aptitu<lb ed="#V" n="138" break="no"/>dinalem habitus practicus dirigit et conformat sibi ope¬
+        <pb ed="#V" n="42-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>rationem huiusmodi: ergo: probatur minor: quia dirigere et 
+        <lb ed="#V" n="2"/>conformare est quoddam mouere: respectus autem non est 
+        princi<lb ed="#V" n="3" break="no"/>pium mouendi: igitur idem quod prius. Responsio ad rationes scoti. 
+        <lb ed="#V" n="4"/>
+                  <!-- error -->
+                  <lb ed="#V" n="5"/>Istis probationibus primissis potest ad primam rationem 
+        du<lb ed="#V" n="6" break="no"/>pliciter responderi: primo quidem potest dici: quod procedit ex falso 
+        <lb ed="#V" n="7"/>fundamento: quia non est verum: quod ratio formalis et 
+        adequa<lb ed="#V" n="8" break="no"/>ta habitus practici consistat in duplici respectu predicta 
+        <lb ed="#V" n="9"/>sicut in ratione supponitur: vt patet ex dictis: potest vlterius 
+        di<lb ed="#V" n="10" break="no"/>ci. secundo etiam supposito: quod ratio formalis habitus 
+        practici<lb ed="#V" n="11" break="no"/>consisteret in huiusmodi respectu duplici: quia illa 
+        cogni<lb ed="#V" n="12" break="no"/>tio est practica quae est aptitudinaliter conformis volitioni 
+        <lb ed="#V" n="13"/>in ratione: que pro prie habet rationem praxis et naturaliter prior ipsa 
+        <lb ed="#V" n="14"/>sed sub isto sensu minor est falsa: quia volitio siue 
+        dile<lb ed="#V" n="15" break="no"/>ctio dei ad quam principaliter ordinatur theologia non est proprie 
+        <lb ed="#V" n="16"/>praxis: vt patet ex supra dictis. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e1186">
+        Ad secundum potest vno modo 
+        <lb ed="#V" n="17"/>dici supposito: quod finis vlterius coincidat cum subiecto 
+        <lb ed="#V" n="18"/>scientie. sicut est in proposito: quia principia scientie non sumuntur 
+        <lb ed="#V" n="19"/>ab eo vt habeunt rationem finis: sed vt habeunt rationem subiecti: 
+        qua<lb ed="#V" n="20" break="no"/>litercumque huiusmodi rationes distiuguantur: et ideo non omne 
+        <lb ed="#V" n="21"/>quod talia sint principia practica. Pot etiam dici secundo quod 
+        prin<lb ed="#V" n="22" break="no"/>cipia sumpta a fine vltimo attingibili operationibus 
+        <lb ed="#V" n="23"/>que non sunt in ptante nostra non sunt principia practica: quia 
+        <lb ed="#V" n="24"/>praxis est in ptante nostra: et sic in proposito: quia deus est 
+        <lb ed="#V" n="25"/>attingibilis a nobis dilectione meritoria: que non est 
+        <lb ed="#V" n="26"/>in ptate nostra: vt declaratum est supra. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e1210">
+                  <lb ed="#V" n="27"/>Responsio ad rationes aureoli. 
+        <lb ed="#V" n="28"/>Ad primum vero alterius doc. dico: quod maior est 
+        fal<lb ed="#V" n="29" break="no"/>sa si operationes ille nobiliores non haobesunt proprie rationem 
+        <lb ed="#V" n="30"/>praxis: quia scientia non dicitur practica nisi a praxi. et sic est 
+        <lb ed="#V" n="31"/>in proposito: quia dilectio dei: quae est operatio excellentior: 
+        <lb ed="#V" n="32"/>et ad quam omnis alia saltem pro statu vie finaliter ordinatur 
+        <lb ed="#V" n="33"/>non est proprie praxis. Nec probationes sue concludunt: non 
+        <lb ed="#V" n="34"/>quidem prima: quia licet tale obiectum non comparetur ad scibilitatem 
+        <lb ed="#V" n="35"/>vt speculibile tantum: non tamen operatur vt attingibile 
+        operationi<lb ed="#V" n="36" break="no"/>bus: quae sunt vere praexis. nec secunda: quia scientie non dicuntur 
+        praecti<lb ed="#V" n="37" break="no"/>ce: quia nobiliori modo attingunt obiectum: quam per intelligere: 
+        <lb ed="#V" n="38"/>immo accidit omnino scientie practice: quod tales operationes sint 
+        <lb ed="#V" n="39"/>nobiliores vel minus nob iles quam intelligere: sed ideo 
+        sci<lb ed="#V" n="40" break="no"/>entie dicuntur practice: quia finis principaliter intentus in ipsis 
+        <lb ed="#V" n="41"/>est aliqua operatio: quae vere habet rationem praxis. Et per hec 
+        <lb ed="#V" n="42"/>patet: quid dicendum ad 2. et 3. quia thelogia non negociatur 
+        <lb ed="#V" n="43"/>maxime circa opus: quod vere sit praxis: nec eius finis 
+        <lb ed="#V" n="44"/>principaliter intentus est proprie praxis. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e1252">
+        Ad quartum 
+        conce<lb ed="#V" n="45" break="no"/>do maiorem: si talis habitus principaliter ordinetur vt boni 
+        fia<lb ed="#V" n="46" break="no"/>mus per aliquam operationem existentem in ptante nostra quae vere 
+        <lb ed="#V" n="47"/>sit praxis: sed sub isto sensu neganda est minor quia 
+        theo<lb ed="#V" n="48" break="no"/>logia ordinatur principaliter vt boni fiamus per dilectionem 
+        <lb ed="#V" n="49"/>dei meritoriam: quae non est in ptante nostra nec habet 
+        pro<lb ed="#V" n="50" break="no"/>prie rationem praxis: vt nunc loquimur. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e1268">
+                  <lb ed="#V" n="51"/>Responsio ad rationes francisci. 
+        <lb ed="#V" n="52"/>Ad primum vero alterius doc. dico: quod maior non est 
+        ve<lb ed="#V" n="53" break="no"/>ra: nisi actus voluntati regulatus sit finis principaliter in 
+        <lb ed="#V" n="54"/>tentus illius scientie: et sic vere praxis: et sub isto sensu 
+        mi<lb ed="#V" n="55" break="no"/>nor est falsa: quia actus voluntatis: qui ponitur finis 
+        theo<lb ed="#V" n="56" break="no"/>est dilectio dei que non est vere praxis. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e1284">
+        Ad vltimum 
+        <lb ed="#V" n="57"/>etiam dico: quod maior non est vera: nisi actus exterior 
+        di<lb ed="#V" n="58" break="no"/>rectus sit finis principalis illius habitus: et sic minor est 
+        <lb ed="#V" n="59"/>falsa: quia nullus actus exterior est finis principalis 
+        theo<lb ed="#V" n="60" break="no"/>Contra secundam conclusionem est quedam alia opinio: quae 
+        po<lb ed="#V" n="61" break="no"/>nit thologiam esse pure speculatiuam. Illorum vero qui se 
+        <lb ed="#V" n="62"/>quntur ista opinonem: quidam diuidunt scientiam sicut: et communis 
+        <lb ed="#V" n="63"/>opinio in practicam et speculatiuam: et dicunt theologia 
+        <lb ed="#V" n="64"/>non esse practicam: sed speculatiuam: quidam vero nouiores 
+        <lb ed="#V" n="65"/>dicunt omnem scientiam speculatiuam et nullam practicam: et ex 
+        <lb ed="#V" n="66"/>hoc concludunt theologiam esse speculatiuam et non practicam. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e1308">
+                  <lb ed="#V" n="67"/>Henricus in summa arti. 8. q. 2. 
+        <lb ed="#V" n="68"/>Sequens primam viam arguit Primo sic pro conclusione 
+        <lb ed="#V" n="69"/>principali: nobilissima scientia: que maxime est sui gra est 
+        <lb ed="#V" n="70"/>pure speculatiua: vt dicitur primo metaphisice: sed theologia est
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="71"/>nobillissima scientia et matine sui gratia: igitur etc. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e1325">
+        Preterea: 
+        <lb ed="#V" n="72"/>quando aliqua scientia habet plures fines: a perfectiori et principaliori 
+        <lb ed="#V" n="73"/>tantum debet denominari: hoc patet: quia licet scientia moralis contempletur 
+        <lb ed="#V" n="74"/>potentias anime. tamen quia talem considerationem ordinat ad 
+        opera<lb ed="#V" n="75" break="no"/>tionem: ideo solum est practica: sed perfectior et vltimus finis 
+        <lb ed="#V" n="76"/>theologie est cognitio veri: igitur etc. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e1338">
+        Preterea: illa scientia 
+        cu<lb ed="#V" n="77" break="no"/>ius subiectum non est ordinabile ad opus est simpliciter 
+        specula<lb ed="#V" n="78" break="no"/>tiua: theologia est huiusmodi: igitur minor patet: maior probatur per 
+        <lb ed="#V" n="79"/>arist. 6 metaphisice qui probat metaphisicam esse 
+        specu<lb ed="#V" n="80" break="no"/>latiuam: quia considerat de ente eterno et immobili et non 
+        ordi<lb ed="#V" n="81" break="no"/>nabili ad opus sit pure speculatiua. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e1351">
+        Preterea: illa 
+        <lb ed="#V" n="82"/>scientia cuius principia sunt precise speculatiua: etiam precise est 
+        <lb ed="#V" n="83"/>speculatiua: thelogia viatoris est huiusmodi: igiu maior patet 
+        <lb ed="#V" n="84"/>quia tota denominatio scientie residet in principiis. Et 
+        con<lb ed="#V" n="85" break="no"/>firmatur: quia scientia cuius principia sunt precise practica: est 
+        <lb ed="#V" n="86"/>praecise practica: igitur scientia cuius principia sunt praecise 
+        specu<lb ed="#V" n="87" break="no"/>latiua: est precise speculatiua: minor probatur: quia 
+        praienci<lb ed="#V" n="88" break="no"/>pia theologie sunt articuli fidei quae sunt pure speculatiui: siest 
+        <lb ed="#V" n="89"/>patet in isto: deus est trinus et vuus. Et confirmatur: quia 
+        ha<lb ed="#V" n="90" break="no"/>bitus principiorum et conclusionum sunt eiusdem rationis et ad 
+        <lb ed="#V" n="91"/>eandem difturiam partinent: sed fides: quae est habitus 
+        principio<lb ed="#V" n="92" break="no"/>rum est habitus speculatiuus: igitur et thelogia que est habitus 
+        conclu<lb ed="#V" n="93" break="no"/>sionum. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e1380">
+        Preterea: idem est finis scientie perfecte et imperfecte 
+        <lb ed="#V" n="94"/>igitur si vna est speculatiua et alia: sed theologia vie est 
+        imper<lb ed="#V" n="95" break="no"/>fecta respectu thelogie patrie: et illa est speculatiua: igitur 
+        <lb ed="#V" n="96"/>et ista. Et confirmatur: quia theologia nostra est quedam participatio 
+        <lb ed="#V" n="97"/>theologie diuine secn theologia dei est pure speculatiua: igitur et ista 
+      </p>
+               <p xml:id="at8va9-e20777-d1e1391">
+                  <lb ed="#V" n="98"/>NRodd: in prolo. i q. vltima ar. i. 
+        <lb ed="#V" n="99"/>Sequentes vero secundam viam distinguunt Primo de 
+        <lb ed="#V" n="100"/>thelogia dicit quod theologia potest accipi pro habitu distincto contra habitus 
+        <lb ed="#V" n="101"/>naturaliter acquisitos: vel pro habitu tali quem habet 
+        theolo<lb ed="#V" n="102" break="no"/>gus distinguendo eum contra non theologum sicut laicum aliquem 
+        <lb ed="#V" n="103"/>Ista distinctione premissa ponunt duas conclusiones: 
+      </p>
+               <p xml:id="at8va9-e20777-d1e1407">
+                  <lb ed="#V" n="104"/>Prima est: quod theologia secundo modo dicta non est 
+        practi<lb ed="#V" n="105" break="no"/>ca: nec speculatiua nec affectiua. sed est tamtum habitus assen 
+        <lb ed="#V" n="106"/>tiens. Ista conclusio probatur: quia cuius per se finis non est 
+        <lb ed="#V" n="107"/>speculari nec operari nec diligere: sed tantum 
+        assen<lb ed="#V" n="108" break="no"/>tire: illud non est habitus speculatiuus sed sic est de 
+        <lb ed="#V" n="109"/>habitu theologico predicto cum non sit nisi fides: ergo etc.
+      </p>
+               <p xml:id="at8va9-e20777-d1e1424">
+                  <lb ed="#V" n="110"/>Secunda est: quod thelogia accepta secundo modo est pure 
+        specu<lb ed="#V" n="111" break="no"/>latiua: quod sic deducunt. omnis scientia de mundo inquantum 
+        <lb ed="#V" n="112"/>scientia est ponitur speculatiua: sed theologia secundo modo est scientia 
+        <lb ed="#V" n="113"/>cum sit habitus cognitus: igitur minor supponitur: maior 
+        pro<lb ed="#V" n="114" break="no"/>batur multipliciter: 
+      </p>
+               <p xml:id="at8va9-e20777-d1e1437">
+        Primo sic: ex per se actu alicuius 
+        ha<lb ed="#V" n="115" break="no"/>bitus cognoscimus qualis est habitus: habitus enim non dicitur 
+        <lb ed="#V" n="116"/>practicus vel speculatiuus: vel affectiuus: vel 
+        quod<lb ed="#V" n="117" break="no"/>cumque tale nisi denomination e extrinseca: quia habitus non 
+        <lb ed="#V" n="118"/>speculatur sed inclinat ad speculandum: sed per se actus 
+        <lb ed="#V" n="119"/>cuiuscunque scientie est speculari: sue scire: igitur quaelibet scientia 
+        <lb ed="#V" n="120"/>est speculatiua: probatur minor: quia ille est per se actus 
+        ali<lb ed="#V" n="121" break="no"/>cuius habitus cogniti per quem distinguitur a quolibet 
+        ha<lb ed="#V" n="122" break="no"/>bitu non cognitiuo: sed per speculationem: vel scire 
+        distin<lb ed="#V" n="123" break="no"/>guitur scientia a quolibet habitu non cognitiuo non per alium 
+        <lb ed="#V" n="124"/>actum: igitur. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e1461">
+        Secundo sic: ille habitus cuius actui 
+        acci<lb ed="#V" n="125" break="no"/>dit esse elicitus vel imperatus a voluntate. non est 
+        pu<lb ed="#V" n="126" break="no"/>rus practicus: cum a tali actus deberet dici practicus: 
+        <lb ed="#V" n="127"/>sed scientie actus qui est a scire est huiusmodi patet: quia quod est 
+        <lb ed="#V" n="128"/>exra euidentia rei non dependet a voluntate: et scire 
+        huius<lb ed="#V" n="129" break="no"/>modi: igitur nulla scientia est practica: et per consequens 
+        que<lb ed="#V" n="130" break="no"/>libet est pure speculatiua.  
+      </p>
+               <p xml:id="at8va9-e20777-d1e1477">
+        PRreterea: 
+        impossibi<lb ed="#V" n="131" break="no"/>le est: quod habitus practicus sit per se speculatiuus: 
+        <lb ed="#V" n="132"/>vel econuerso: sed omnis habitus scientie est speculatiuus: 
+        <lb ed="#V" n="133"/>per se cum per se sit ordinatus ad scire: igitur nullus potest esse 
+        <lb ed="#V" n="134"/>per se practicus: quia inquantum talis non requirit 
+        cognitio<lb ed="#V" n="135" break="no"/>nem primam nisi ad dirigendum.  
+      </p>
+               <p xml:id="at8va9-e20777-d1e1490">
+        PRreterea: habitus 
+        <lb ed="#V" n="136"/>non inclinant nisi ad consimiles actus ex quibus 
+        generan<lb ed="#V" n="137" break="no"/>tur: cum igitur scientia generetur tantum ex actibus cognitionis 
+        <lb ed="#V" n="138"/>patet: quod per se inclinant ad cognitionem: et per consequens 
+        <lb ed="#V" n="139"/>quelibet erit speculatiua. Istis tamen non obstan¬
+        <pb ed="#V" n="42-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>tibus: non videtur mihi: quod thelogia sit pure speculatlua: 
+        <lb ed="#V" n="2"/>cum multo minus videtur: quod omnis scientia sit speculatiua: 
+        <lb ed="#V" n="3"/>nec rationes istarum opinionum conuincunt. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e1512">
+                  <lb ed="#V" n="4"/>Responsio ad rationes henrici. 
+        <lb ed="#V" n="5"/>Ad primum igitur: pro prima opinione: concedo maiorem: 
+        si<lb ed="#V" n="6" break="no"/>fiat comparatio inter scientias practicas et speculatiuas 
+        prae<lb ed="#V" n="7" break="no"/>cise: quia omni scientia practica aliqua speculatiua est 
+        nobi<lb ed="#V" n="8" break="no"/>lior: et sic loquitur arist. sed absolunte et simpliciter non est 
+        ve<lb ed="#V" n="9" break="no"/>ra: quia scientia nobilissima creature: nec est practica nec 
+        <lb ed="#V" n="10"/>speculatiua: vt patet ex supradictis. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e1531">
+        Ad secundum: 
+        admis<lb ed="#V" n="11" break="no"/>sa maiore: nego minore: quia finis proprius et principaliter 
+        <lb ed="#V" n="12"/>intentus in theologia veri non est cognitio sed dilectio dei: 
+        <lb ed="#V" n="13"/>sicut patet ex q. precedenti: vbi responsum fuit ad 
+        pro<lb ed="#V" n="14" break="no"/>bationes istius doc. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e1542">
+        Ad tertium: quia praxis 
+        grece<lb ed="#V" n="15" break="no"/>idem est quod opus vel operatio latine: opus potest 
+        acci<lb ed="#V" n="16" break="no"/>pi quadrupliciter sicut et praxis: vt spectattamen ad 
+        propo<lb ed="#V" n="17" break="no"/>situm accipitur dupliciter: communiter et proprie: Primo modo omnis 
+        <lb ed="#V" n="18"/>comparatio alterius potentie ab in tellectu siue 
+        habe<lb ed="#V" n="19" break="no"/>at rationem praxis: siue non: dicitur opus. Secundo modo sola 
+        ope<lb ed="#V" n="20" break="no"/>ratio que proprie habet rationem praxis dicitur opus: si 
+        per<lb ed="#V" n="21" break="no"/>mo modo accipiatur opius: potest concedi maior in bono sen 
+        <lb ed="#V" n="22"/>su: sed tunc minor est falsa: quia speculatio de subiecto 
+        <lb ed="#V" n="23"/>theologie saltem pro statu vie ad dilectionem dei merito 
+        <lb ed="#V" n="24"/>riam finaliter ordinatur: si vero accipiatur secundo modo minor 
+        <lb ed="#V" n="25"/>est vera: sed maior est falsa: quia non oportet: quod omnis 
+        sci<lb ed="#V" n="26" break="no"/>entia sit speculatiua: cuius consideratio non ordinatur 
+        <lb ed="#V" n="27"/>ad praxim: quia poterit ordinari ad aliquam 
+        operatio<lb ed="#V" n="28" break="no"/>nem voluntatis que nec est praxis: nec speculatio: et 
+        <lb ed="#V" n="29"/>talis non erit speculatiua nec practica. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e1577">
+        Ad 
+        quari<lb ed="#V" n="30" break="no"/>tum patet: quod de theologia acquisita illa ratio nihil valet de 
+        theo<lb ed="#V" n="31" break="no"/>logia acquisita: quia articuli fidei non sunt eius 
+        principia<lb ed="#V" n="32" break="no"/>vt declaratum est supra: nec etiam concludit de theologia 
+        re<lb ed="#V" n="33" break="no"/>uelata: quia licet illi articuli fidei qui ponuntur eius 
+        princi<lb ed="#V" n="34" break="no"/>pia aliquo modo: sunt speculatiui: speculatio tamen eorum 
+        <lb ed="#V" n="35"/>ad dilectionem dei meritoriam finaliter ordinantur: et ideo non 
+        se<lb ed="#V" n="36" break="no"/>quitur: quod ipsa sit speculatiua. Et per hoc patet quid dicendum 
+        <lb ed="#V" n="37"/>ad confirmationem: fides enim ad dilectionem ordinatur: quia 
+        <lb ed="#V" n="38"/>licet fides et spes possint esse sine charitat e: non est tamen 
+        pu<lb ed="#V" n="39" break="no"/>ra fides: vel spes sine char.tate: vt dicit gloriae super 
+        il<lb ed="#V" n="40" break="no"/>lo verbo. 1 ad corin. 13. maior autem horum est charitas 
+        <lb ed="#V" n="41"/>et ideo ad ipsam sicut ad suum complementum finaliter ordinatur 
+        <lb ed="#V" n="42"/>Ad quitum dico: quod theologia patrie non est speculatiua 
+        <lb ed="#V" n="43"/>quia eius finis principaliter intentus non est visio: sed 
+        dile<lb ed="#V" n="44" break="no"/>ctio vel delectatio: tamen beatitudo praiencipalius consistat 
+        <lb ed="#V" n="45"/>in fruitione: quam in visione vt suppono pro nunc. Et 
+        si<lb ed="#V" n="46" break="no"/>mimiliter ad confirmationem: quia concedo: quod thelogia dei non sit 
+        <lb ed="#V" n="47"/>speculatiua sed affectiua: patet: igitur rationes illius doc. non 
+        con<lb ed="#V" n="48" break="no"/>cludere. rationes vero alterius melius concludunt 
+        Pro<lb ed="#V" n="49" break="no"/>solutione tamen illarum: et aliquali impugnatione illius 
+        opi<lb ed="#V" n="50" break="no"/>nionis praemitto duas propositiones. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e1625">
+        Condue rodd. 
+        <lb ed="#V" n="51"/>Prima est: quod habitus theologie distinctus contra naturaliter 
+        <lb ed="#V" n="52"/>acquisitos est practicus vel speculatiuus vel affectiuus 
+        <lb ed="#V" n="53"/>Istam propositionem deduco sic: primo ex concessis ab ipso 
+        <lb ed="#V" n="54"/>doc. omnis habitus cognitus est practicus vel speculatiuus 
+        <lb ed="#V" n="55"/>vel affectiuus: sed habitus theologie distinctus contra naturaliter 
+        acqui<lb ed="#V" n="56" break="no"/>sitos est habitus cognitiuus: ergo maiorem ipse concedit in 
+        pro<lb ed="#V" n="57" break="no"/>lo. 1 q. vltima. arti. 2. conclusuione 4. vbi probat 
+        theolo<lb ed="#V" n="58" break="no"/>giam. secundo modo dictam esse pure speculatiuam: quia omnis 
+        <lb ed="#V" n="59"/>habitus cognitiuus in eo quod talis: est semper 
+        specu<lb ed="#V" n="60" break="no"/>latiuus: minore vero deduco extra dictis suis sic: omnis 
+        habi<lb ed="#V" n="61" break="no"/>tus qui est de aliquo tamquam de subiecto est habitus 
+        cogni<lb ed="#V" n="62" break="no"/>tiuus: habitus theologie distinctus contra naturaliter acquisitos est 
+        huius<lb ed="#V" n="63" break="no"/>modi: ergo: maiore ipse ponit in prolo i. q. 4. ar. 2. conclusio 
+        <lb ed="#V" n="64"/>3. vbi probando maiorentertie rationis siue dicit sequitur 
+        <lb ed="#V" n="65"/>est aliquod subiectum accipiendo subiectum pro re extra: igitur 
+        <lb ed="#V" n="66"/>est cognitio illius: ex qua propositione patet secundum eum: quod 
+        <lb ed="#V" n="67"/>omnis habitus qui est de aliquo tamquam de subiecto est habitus 
+        <lb ed="#V" n="68"/>cognitiuus. Et confirmatur: quia habitus ex quo non elicitur 
+        <lb ed="#V" n="69"/>cognitio non habet aliquid pro subiecto: secundum eum ibidem
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>igitur ex opposito si aliquid habet habitus pro subiecto 
+        <lb ed="#V" n="71"/>sequitur: quod sit cognitiuus et sic patet maior: minor vero fuit 
+        <lb ed="#V" n="72"/>sufficienter deducta contra eundem. q. 3. istius prolo ar 4. 
+        <lb ed="#V" n="73"/>ergo etc. Secundo deduco propositione absolute: quia omnis 
+        ha<lb ed="#V" n="74" break="no"/>bitus cuius finis proprius et principliciter intentus est 
+        prie<lb ed="#V" n="75" break="no"/>xis: vel speculatio vel affectio: est practicus vel 
+        spe<lb ed="#V" n="76" break="no"/>culatiuus: vel affectiuus hoc patet: quia a tali proprio fine 
+        de<lb ed="#V" n="77" break="no"/>nominatur habitus: sed finis proprius et principaliter 
+        inten<lb ed="#V" n="78" break="no"/>tus in habitu theologie predicte est praxis vel 
+        speculatio<lb ed="#V" n="79" break="no"/>vel affectio: ergo probatur minor: quia thelogie sic sumpte 
+        ali<lb ed="#V" n="80" break="no"/>quis est finis: et non nisi praxis: vel speculatio: vel 
+        <lb ed="#V" n="81"/>affectio: vt patet: ergo: patet igitur assumpta propositio: verum quod 
+        <lb ed="#V" n="82"/>finis principalis theologie sic sumpte non est praxis. nec 
+        <lb ed="#V" n="83"/>speculatio sed affectio prout in precedenti articulo de 
+        <lb ed="#V" n="84"/>claratum est: ergo etc. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e1703">
+        Secunda propositio est quod non omnis scientia inquam 
+        <lb ed="#V" n="85"/>tum scientia est: ponitur speculatiua sicut imaginatur iste 
+        <lb ed="#V" n="86"/>doc. Ista propositio patet primo: per arist. qui in diuersis 
+        lo<lb ed="#V" n="87" break="no"/>cis diuidit scientiam in practicam et speculatiuam: et 
+        practi<lb ed="#V" n="88" break="no"/>ca in actiuam et factiuam: et vtraque diuisio esset nulla: 
+        si<lb ed="#V" n="89" break="no"/>nulla scientia esset practica: sed omnis speculatiua. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e1716">
+        
+        Prete<lb ed="#V" n="90" break="no"/>rea sinis scientie speculatiue est scire tantum vt patet per 
+        comen<lb ed="#V" n="91" break="no"/>tatorem. 2. metaphisice comento. 3. Et. 3 de anima 
+        comen<lb ed="#V" n="92" break="no"/>to. 4. igitur non omnis scientia est speculatiua: consequentia patet: quia 
+        mul<lb ed="#V" n="93" break="no"/>tarum finis est operari non scire tamtum est per comentato 
+        <lb ed="#V" n="94"/>rem vbi supra. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e1730">
+        Euasio rodd. 
+        <lb ed="#V" n="95"/>Hic dicitur: quod non diuiditur scientia in practicam et 
+        specu<lb ed="#V" n="96" break="no"/>latiuam tamquam in aliquod per se contentum sub scientia sed 
+        solum<lb ed="#V" n="97" break="no"/>in aliquod quod per se pertinet ad intentionem scientis: et ideo 
+        <lb ed="#V" n="98"/>speculari est per se finis scientie sub modo quo scientia est: 
+        prae<lb ed="#V" n="99" break="no"/>cticum autem facere aliquem actum elicitum: vel imperatum 
+        <lb ed="#V" n="100"/>a voluntate: et per accidens finis scientie et per se finis 
+        scien<lb ed="#V" n="101" break="no"/>tis: et ideo non sequitur: quod per se finis scientie non sit tamtum scire: 
+        <lb ed="#V" n="102"/>et sic exponunt omnes auctoritates. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e1750">
+                  <lb ed="#V" n="103"/>Contra euasionem rodod. 
+        <lb ed="#V" n="104"/>Ista tamen euasio est nulla: quia primo vel aliqua scientia 
+        di<lb ed="#V" n="105" break="no"/>citur practica denominatione extrinseca ex intentione 
+        <lb ed="#V" n="106"/>scientis vel non: quod patet esse falsum etiam per eum: si sic: sequi 
+        <lb ed="#V" n="107"/>tur: quod omnis scientia poterit esse practica: quia ex intentione 
+        <lb ed="#V" n="108"/>scientis: omnis poterit ordinari ad opus vt ad lucrum: 
+        <lb ed="#V" n="109"/>hoc autem contradicit arist. et rationi: quia arist. non dicit omnem 
+        <lb ed="#V" n="110"/>scientiam esse practicam et speculatiuam: sed aliqua 
+        specu<lb ed="#V" n="111" break="no"/>latiuam. aliquam practicam. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e1772">
+        Preterea: arist. in 
+        prohe<lb ed="#V" n="112" break="no"/>mino metaphisice: quia scientia speculatiua est sui gratia: 
+        pra<lb ed="#V" n="113" break="no"/>ctica autem non: quia est gratia vsus: vel igitur intelligit: quod 
+        sci<lb ed="#V" n="114" break="no"/>entia practica non sit sui gratia: quia ordinatur ad vsum tamquam 
+        <lb ed="#V" n="115"/>ad per se finem scientie vel tamquam ad per se finem scientis 
+        <lb ed="#V" n="116"/>si detur primum: habetur intentum: si secundum: cum omnis scientia 
+        spe<lb ed="#V" n="117" break="no"/>culatiua ex intentione scientis possit ordinari ad vsum 
+        <lb ed="#V" n="118"/>nulla erit sui gratia: quod contradicit arist. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e1790">
+        Preterea: si ista 
+        <lb ed="#V" n="119"/>opinio sit bona sequitur: quod eadem scientia in eodem homine 
+        <lb ed="#V" n="120"/>erit vno tempore practica et alio non: quod est sine ratione 
+        di<lb ed="#V" n="121" break="no"/>ctum: consequentia patet: qui ex intentione scientis potest vno 
+        tempo<lb ed="#V" n="122" break="no"/>re ordinari ad vsum: et alio non. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e1801">
+        Preterea: 
+        seque<lb ed="#V" n="123" break="no"/>retur: quod metaphisica non esset magis speculatiua: quam 
+        <lb ed="#V" n="124"/>moralis philosntia: nec illa magis practica: quod philoso 
+        con<lb ed="#V" n="125" break="no"/>tradicit et ratiom: consequentia patet: quia quaelibet earum secundum istam 
+        <lb ed="#V" n="126"/>viam est per se speculatiua et certum est: quod ex 
+        inten<lb ed="#V" n="127" break="no"/>tione scientis quaelibet potest ad vsum ordinari: et sic esset 
+        <lb ed="#V" n="128"/>practica secundum istum modum dicendi: immo sequeretur quod 
+        <lb ed="#V" n="129"/>metaphisica in aliquo posset praectica esse: in quo 
+        philysia<lb ed="#V" n="130" break="no"/>moralis non esset practica: quod est loqui ad placitum 
+        <lb ed="#V" n="131"/>consequentia est nota: quia ex intentione scientis posset 
+        meta<lb ed="#V" n="132" break="no"/>phisica ordinari ad opus et moralis philostia non: igitur. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e1825">
+                  <lb ed="#V" n="133"/>Responsio ad rationes roduod. 
+        <lb ed="#V" n="134"/>Istis propositionibus praemissis respondeo ad rationes: 
+        <lb ed="#V" n="135"/>Ad rationem: igitur pro prima conclusione nego minorem: 
+        quiai<lb ed="#V" n="136" break="no"/>per se finis theologie sic sumpte est dilectio dei: quia 
+        fri<lb ed="#V" n="137" break="no"/>nis legis est dilectio secundum apostolum. Et ad probationem quando 
+        <lb ed="#V" n="138"/>dicitur: quod theologia sic sumpta non est nisi fides concedenda
+        <pb ed="#V" n="43-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>sed ex hoc non sequitur: quod elus per se finis non sit 
+        dilectio<lb ed="#V" n="2" break="no"/>quia fides ad dilectionem ordinatur. Ad rationem vero 
+        pro<lb ed="#V" n="3" break="no"/>secunda conclusione: nego maiorem quia non est verum: quod omnis 
+        sci<lb ed="#V" n="4" break="no"/>entia inquantum scientia sit speculatiua: sicut patet ex 
+        pro<lb ed="#V" n="5" break="no"/>positione precedenti. Et ad probationes respondeo. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e1857">
+        Ad 
+        <lb ed="#V" n="6"/>primam concedo: quod ex actu per se finis alicuius habitus 
+        <lb ed="#V" n="7"/>cognoscimus qualis est habitus: quia habitus non dicitur praecticus vel 
+        <lb ed="#V" n="8"/>speculatiuus: vel affectiuus: nisi quia actus: qui est per 
+        <lb ed="#V" n="9"/>se finis eius est praxis vel speculatio vel 
+        affectio<lb ed="#V" n="10" break="no"/>sed in isto sensu nego minorem: quia non est verum quod per se 
+        <lb ed="#V" n="11"/>finis cuiuscumque scientie sit speculari siue scire: v. patet per 
+        <lb ed="#V" n="12"/>philosophum et comentatorem pluries allegatos. Et ad proba 
+        <lb ed="#V" n="13"/>tionem nego mainore in sensu dato: quia non oportet quod 
+        <lb ed="#V" n="14"/>actus ille per quem distinguitur habitus cognitiuus a 
+        quoli<lb ed="#V" n="15" break="no"/>bet non cognitiuo sit per se finis habitus non cognitiui: eo 
+        <lb ed="#V" n="16"/>modo quo loquimur nunc de fine: loquimur enim de fine 
+        cu<lb ed="#V" n="17" break="no"/>ius: non de fine quo: sicut patet ex. q. precedenti: concedo: quro 
+        <lb ed="#V" n="18"/>quod omnis scientia tam practica: quam speculatiua 
+        distingui<lb ed="#V" n="19" break="no"/>ab habitum non cognitiuo per fcire vel cognoscere: quia 
+        qui<lb ed="#V" n="20" break="no"/>libet est habitus cognitiuus: inter se autem non 
+        distinguut<lb ed="#V" n="21" break="no"/>quia per se finis cuiuslibet scientie speculatiue est scire tamntumn 
+        <lb ed="#V" n="22"/>practice autem operari. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e1896">
+        Ad secundum: eodem modo dico: 
+        <lb ed="#V" n="23"/>quia concedo maiorem de actu qui est per se finis cuius 
+        <lb ed="#V" n="24"/>ipsius habitus et sub isto sensu: minor non est ad 
+        proposi<lb ed="#V" n="25" break="no"/>tum: quia non est verum: quod scire sit actus cuiusiibet scientie 
+        <lb ed="#V" n="26"/>isto modo: vt patet ex dictis: concedo ergo quod actus ille qui est per 
+        <lb ed="#V" n="27"/>se finis scientie practione est per se elicitus vel imperatus 
+        <lb ed="#V" n="28"/>a voluntate: sed talis non est scire sed operari. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e1912">
+        Ad 
+        ter<lb ed="#V" n="29" break="no"/>tium nego minorem quia physia moralis non est per se 
+        spe<lb ed="#V" n="30" break="no"/>culatiua: quia non est vt sciamus: sed vt boni efficiamuus 
+        <lb ed="#V" n="31"/>vt patet per philosophum 2. ethicorum. Et ad probationem dico: quod non 
+        <lb ed="#V" n="32"/>omnis scientia ordinatur ad scire praecise quia aliqua ipsum scire 
+        <lb ed="#V" n="33"/>ordinat ad operari: et ideo non omnis est per se speculatiua 
+        <lb ed="#V" n="34"/>Ad quartum: concedo maiorem de actu elicito per 
+        habi<lb ed="#V" n="35" break="no"/>tum: et sub isto sensu concedo minor conclusionem: verum. est: 
+        <lb ed="#V" n="36"/>quod scientia solum inclinat ad cognitionem sicut ad actum 
+        eli<lb ed="#V" n="37" break="no"/>citum: sed ex hoc non sequitur: quod omnis scientia sit speculatiua 
+        <lb ed="#V" n="38"/>quia scientia non denominatur practica ab actu quem elicit: sed 
+        <lb ed="#V" n="39"/>ab actu quem dirigit. Contra tertiam conclusionem: est 
+        <lb ed="#V" n="40"/>quedam opinio que ponit theologiam esse practicam 
+        <lb ed="#V" n="41"/>et speculatiuam: pro qua quidam doc. arguit. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e1943">
+                  <lb ed="#V" n="42"/>Sanctus thomas parte. i. q. 1. arti. 4. 
+        <lb ed="#V" n="43"/>Primo sic: illa scientiaque vna existens se extendit 
+        <lb ed="#V" n="44"/>ad ea que partinent ad diuerisas scientias humanitus adin 
+        <lb ed="#V" n="45"/>uentas: quarum vna est practica: alia speculatiua: est 
+        <lb ed="#V" n="46"/>practica et speculatiua thelogia est huiusmodi: 
+        exten<lb ed="#V" n="47" break="no"/>dit enim se ad ea que pertinent ad diuersas scientias 
+        phi<lb ed="#V" n="48" break="no"/>sicas: propter rationem communem quam in diuersis attendit 
+        pro<lb ed="#V" n="49" break="no"/>ut sunt diuino lumine cognoscibilia: igitur etc. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e1963">
+        
+        Pre<lb ed="#V" n="50" break="no"/>terea: thelogianostra est quedam imago: sed thelogia dei vna 
+        <lb ed="#V" n="51"/>existens erit speculatiua respectu sui eorum que facit 
+        i<lb ed="#V" n="52" break="no"/>thelogia nostra vna existens est speculatiua respectu 
+        <lb ed="#V" n="53"/>dei cogniti: et practica espectu operum virtutum que 
+        <lb ed="#V" n="54"/>dirigit. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e1976">
+        Preterea: illa scientia que per se considerat de 
+        <lb ed="#V" n="55"/>speculationibus vt speculabilia sunt et de agibilibus 
+        <lb ed="#V" n="56"/>vt agibilia sunt est simpliciter practica et speculatiua: 
+        <lb ed="#V" n="57"/>patet de se: theologia est huiusmodi: igitur probatur minor: quia 
+        <lb ed="#V" n="58"/>thelogia considerat de diuinis et actibus virtuosis: igitur 
+        <lb ed="#V" n="59"/>de speculibilibus et agibilibus: vel igitur de 
+        specul<lb ed="#V" n="60" break="no"/>bilibus considerat propter se vel gratia agibilium: si det primum 
+        <lb ed="#V" n="61"/>igitur per se considerat de speculibilibus vt 
+        speculsbi<lb ed="#V" n="62" break="no"/>lia sunt: et sic intentum: si detur secundum speculibilia sua ac 
+        <lb ed="#V" n="63"/>ciperet ab aliqua alia scientia: quod est falsum: et per 
+        ean<lb ed="#V" n="64" break="no"/>dem rationem probatur de agibilibusc. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e2001">
+        Preterea: illa 
+        <lb ed="#V" n="65"/>scientia cuius finis est veritas et operatio est simul. 
+        spe<lb ed="#V" n="66" break="no"/>culatiua et practica quia finis speculatiue est veritas 
+        <lb ed="#V" n="67"/>et practice est opus. 2. metaphisice: theologia est 
+        huius<lb ed="#V" n="68" break="no"/>modi: ergo: probatur minor: quia theologia habet veritatem 
+        fi<lb ed="#V" n="69" break="no"/>dei et bonitatem morum pro fide: ordinatur enim ad illumi¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>nandum intellectum in fide et infammandum affectum 
+        <lb ed="#V" n="71"/>in charitate. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e2021">
+        Responsio ad rationes thome. 
+        <lb ed="#V" n="72"/>Ad primum istorum concedo maiorem: si illa scientia vna 
+        exi<lb ed="#V" n="73" break="no"/>stens ordinatur ad praxim vel speculationem tamquam ad 
+        <lb ed="#V" n="74"/>duos per se fines: quorum vnus non ordinatur ad alium: 
+        <lb ed="#V" n="75"/>nec ambo ad vnum tertium: sed sub isto sensu minor 
+        <lb ed="#V" n="76"/>est falsa: vt patet ex dictis. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e2034">
+        Ad tertium potest Primo 
+        <lb ed="#V" n="77"/>dici: quod theologia dei non est speculatiua: nec practica: sed 
+        <lb ed="#V" n="78"/>affectiua: quia eius finis principaliter intentus est 
+        affectio<lb ed="#V" n="79" break="no"/>vel dilectio: non praxis vel speculatio: Post etiam dici 
+        <lb ed="#V" n="80"/>se deo: concesso quod thelogia dei sit simul practica et 
+        specu<lb ed="#V" n="81" break="no"/>latiua: quod non est simile de theologia nostra: theologia 
+        nostra<lb ed="#V" n="82" break="no"/>non est imago illius perfecta: sed diminuta. Et 
+        vlte<lb ed="#V" n="83" break="no"/>rius theologia dei est infinita: et ideo vna existens equipollet 
+        <lb ed="#V" n="84"/>scientiis per se distinctis: thelogia vero nostra est 
+        fini<lb ed="#V" n="85" break="no"/>ta: et ideo nulla existens non equipollet diuersis: sic quod 
+        <lb ed="#V" n="86"/>simulpossit esse practica et speculatiua. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e2058">
+                  <lb ed="#V" n="87"/>Ad rationes gofredi. 
+        <lb ed="#V" n="88"/>Ad tertium: conceditur maior sicut ad primum: valet si illa 
+        <lb ed="#V" n="89"/>scientia ordinetur ad praxim: et ad speculationem sicut 
+        ad<lb ed="#V" n="90" break="no"/>duos per se fines: etc. sed tunc minor est falsa: vt 
+        pa<lb ed="#V" n="91" break="no"/>tet: Ad quartum eodem modo dico: quia tam veritas quam 
+        <lb ed="#V" n="92"/>opinio in nostro habitu theologico ad dilectionem 
+        dei<lb ed="#V" n="93" break="no"/>finaliter ordinatur. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e2076">
+        Opinio communis. 
+        <lb ed="#V" n="94"/>Contra quartam conclusionem: est communis opinio quasi omnium 
+        <lb ed="#V" n="95"/>doctorum: pro qua ex dictis diuersorum doctorum potest 
+        ar<lb ed="#V" n="96" break="no"/>gui Primo sic: quando aliquid diuiditur per opposita: 
+        pro<lb ed="#V" n="97" break="no"/>prietas vnius oppositi non denominat aliud oppositum: 
+        <lb ed="#V" n="98"/>exemplum animal diuiditur in hominem et asinum: ideo 
+        rationali<lb ed="#V" n="99" break="no"/>tas: que est proprietas hominis non denominat a 
+        si<lb ed="#V" n="100" break="no"/>num: igitur cu habitus diuidatur per intellectum et affectiuum 
+        <lb ed="#V" n="101"/>proprietas affectiui quae est affectiuitas non potest 
+        deno<lb ed="#V" n="102" break="no"/>minare intellectum. et sic non potest dici scientia affectiua. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e2098">
+                  <lb ed="#V" n="103"/>Preterea: omnis scientia ponitur in potentia vt dirigatur 
+        <lb ed="#V" n="104"/>actus. sed omnis actus qui dirigitur est speculatio vel 
+        opera<lb ed="#V" n="105" break="no"/>tio: igitur omnis scientia est speculatiua vel practica. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e2108">
+        
+        Prete<lb ed="#V" n="106" break="no"/>rea: omnis intellectus est specnlatiuus vel practicus: 
+        ter<lb ed="#V" n="107" break="no"/>tio de anima: igitur omnis scientia similiter nulla est: igitur affectiua. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e2115">
+                  <lb ed="#V" n="108"/>Preterea: si dilectio dei denominat theologiam: 
+        <lb ed="#V" n="109"/>quia est meritoria: omnis actus meritorius denominabit 
+        <lb ed="#V" n="110"/>ipsum: igitur cum credere et orare et huiusmodi actus sint 
+        meri<lb ed="#V" n="111" break="no"/>torii: theologia erit creditiua et oratiua et sic de aliis: quod 
+        <lb ed="#V" n="112"/>est inconueniens. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e2128">
+        Preterea omnis scientia cuius 
+        subie<lb ed="#V" n="113" break="no"/>ctum est a no bis agile et operabile: est scientia practica 
+        <lb ed="#V" n="114"/>et omnis cuius subiectum non est a nobis agibile: nec 
+        ope<lb ed="#V" n="115" break="no"/>rabile est scientia speculatiua. Istam propositionem ponit 
+        ari<lb ed="#V" n="116" break="no"/>sto. 6 metaphisice. dicit de ente cuius principium est in nobis 
+        <lb ed="#V" n="117"/>est scientia practica: et de ente cuius principiumuon est in nobis est 
+        <lb ed="#V" n="118"/>scientia speculatiua. Et idem vult auicen. primo metaphisice 
+        <lb ed="#V" n="119"/>sue. c. 1. dicit quod de ente: quod est opus nostrum: et nostre 
+        dispositio<lb ed="#V" n="120" break="no"/>nis est scientia practica: de ente vero: quod non est opius nostrum 
+        <lb ed="#V" n="121"/>est scientia speculatiua: sed omnis scientia de mundo est de sub 
+        ecto<lb ed="#V" n="122" break="no"/>a nobis agibili vel non agibili: igiur omnis scientia est practica vel 
+        <lb ed="#V" n="123"/>speculatiua. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e2154">
+        Preterea: finis ad quam finaliter habitus 
+        or<lb ed="#V" n="124" break="no"/>dinatur vel est in intellectu subiectiue: vel extra intellectum: si 
+        <lb ed="#V" n="125"/>in intellectu: est habitus speculatiuus: si extra: erit practicus 
+        <lb ed="#V" n="126"/>igitur ficticie ponitur tertium menbrum. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e2163">
+        Preterea: omnis scientia 
+        <lb ed="#V" n="127"/>est sui gratia: vel non est sui gra: si sui gratia: igitur speculatiua ex 
+        <lb ed="#V" n="128"/>prohemio metaphisice: si non est sui gratia: igiur gratia vsus: et 
+        <lb ed="#V" n="129"/>sic practica: vt patet ibidem. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e2172">
+        Preterea illud: quod conue 
+        <lb ed="#V" n="130"/>nit scientie practice non facit: tertium genus scientie distinctum 
+        <lb ed="#V" n="131"/>a practica: sed bonitas effectus conuenit scientie practice 
+        <lb ed="#V" n="132"/>quia tota scientia moralis finaliter ordinatur vt boni fiamus 
+        <lb ed="#V" n="133"/>et affectus perficiatur bonitate virtutum ergo bonitas et 
+        perfe<lb ed="#V" n="134" break="no"/>ctio affectus non faclt tertium genus scientie distinctum a 
+        pra<lb ed="#V" n="135" break="no"/>ctica: et per consequens si theologia finaliter ordinatur ad perfectionem 
+        <lb ed="#V" n="136"/>effectus et vt boni fiamus non facit tertium genus etc. sed 
+        <lb ed="#V" n="137"/>erit praectica 
+      </p>
+               <p xml:id="at8va9-e20777-d1e2193">
+        Pretera: aut theologia affectiua dei est: quia 
+        fi<lb ed="#V" n="138" break="no"/>nis eius sit cognitio charitatiue affectionis: aut quia fi¬
+        <pb ed="#V" n="43-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>nis eius est cognitio qualiter charitatiua affectio h 
+        abet<lb ed="#V" n="2" break="no"/>fieri Primum dari non potest: quia cognitiocharitatis est 
+        specu<lb ed="#V" n="3" break="no"/>latiua non affectiua: sicut cognitio sapientie vel 
+        bont<lb ed="#V" n="4" break="no"/>tatis: vel cuiuscunquem alterius potentie: seu virtutis. Nec 
+        <lb ed="#V" n="5"/>secundum: quia cognitio quae cognoscitur qualiter charitatiua 
+        affe<lb ed="#V" n="6" break="no"/>ctio fiert debeat est practica: sicut cognitio quae 
+        cogno<lb ed="#V" n="7" break="no"/>scitur qualiter sit credendum vel virtuonse operandum. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e2217">
+        Pre 
+        <lb ed="#V" n="8"/>terea: arist. 6 metaphisice volens probare scientiam naturalem 
+        <lb ed="#V" n="9"/>esse speculatiuam sic procedit. scientia naturalis vel est actiua vel 
+        <lb ed="#V" n="10"/>speculatiua: et accipit actiuam: vt comprehendit factiuam 
+        <lb ed="#V" n="11"/>sed non est actiua: igiur speculatiua: hec autem deductio esset 
+        <lb ed="#V" n="12"/>nulla: nisi practicum et speculatiuum sufficientur diuiderent 
+        <lb ed="#V" n="13"/>scientiam in communi. Ad idem est philosns expresse 6 
+        metaphi<lb ed="#V" n="14" break="no"/>sice et 6. ethicorum: qui omnes scientias ad genus speculatiui 
+        <lb ed="#V" n="15"/>vel practici reducit. Idem est vult auicen. primo 
+        metaphi<lb ed="#V" n="16" break="no"/>sice sue. c. 1. Et algam el in metaphisica sua: et vniversaliter omnes 
+        <lb ed="#V" n="17"/>phantes iur R no ad rationes pro opinione communi. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e2241">
+                  <lb ed="#V" n="18"/>Ad primum istorum potest vno modo dici: quod intellectiuum 
+        <lb ed="#V" n="19"/>non opponitur affectiuo quia non contrarie: nec contradictorie: 
+        <lb ed="#V" n="20"/>nec puatiue: nec relatiue vt patet: igitur concessis premissis 
+        <lb ed="#V" n="21"/>nihil sequitur Post etiam dici secundo large loquendo de 
+        opposi<lb ed="#V" n="22" break="no"/>tione: quod non est aliquod inconueniens: quod proprietas 
+        vni<lb ed="#V" n="23" break="no"/>ius opposti iest dispati denominet: aliud: dicitur enim opus 
+        <lb ed="#V" n="24"/>humanum humanitate quae est in homine: et in proposito dicitur 
+        <lb ed="#V" n="25"/>habitus practicus operatione alterius potentie ab 
+        in<lb ed="#V" n="26" break="no"/>tellectu: igitur non est mirum si dicitur affectiuus ab operatione 
+        <lb ed="#V" n="27"/>ipsius affectus: vnde si ratio concluderet: probaret nullum 
+        ha<lb ed="#V" n="28" break="no"/>bitum intellectiuum esse practicum: quia habitus intellectiuus 
+        <lb ed="#V" n="29"/>non posset denominari ab operatione alterius 
+        poten<lb ed="#V" n="30" break="no"/>tie: quam intellectus: Potest vlterius dici tertio: quod proprie 
+        <lb ed="#V" n="31"/>tas affectionis est affici: sicut proprietas intellectus 
+        <lb ed="#V" n="32"/>est intelligere: et a tali non dicitur habitus affectiuus: 
+        <lb ed="#V" n="33"/>quia habitus non afficitur sed dicitur affectiuus: quia 
+        incli<lb ed="#V" n="34" break="no"/>nat ad dilectionem et affectum: sicut dicitur speculatiuus 
+        <lb ed="#V" n="35"/>non quia ipse speculetur: sed quia inclinat ad speculandum: 
+        <lb ed="#V" n="36"/>inclinare aut ad dilectionem. et affectum non est proprie 
+        <lb ed="#V" n="37"/>tas affectus: equiuocatur igitur de affectiuitate: vt patet 
+        <lb ed="#V" n="38"/>Ad secundum dico: quod non omnis actus qui dirigitur est 
+        spe<lb ed="#V" n="39" break="no"/>culatio vel op eratio quae sit praxis proprie dicta: igitur non 
+        <lb ed="#V" n="40"/>omnis scientia est practica vel speculatiua: equiuocatur enim de 
+        <lb ed="#V" n="41"/>operatione que potest accipi large et stricte: vt dictum 
+        <lb ed="#V" n="42"/>est super. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e2298">
+        Ad tertium: negatur maior: quia aliquis intellectus dicitur 
+        <lb ed="#V" n="43"/>affectiuus: vt patet ex dictis. Et ad philosophum dicendum: quod sicut 
+        <lb ed="#V" n="44"/>non vidit habitum qua ndon esset practicus nec speculatiuus: sic nec 
+        <lb ed="#V" n="45"/>intellectum: cur autem ad talium notitiam non peruenit dicetur 
+        <lb ed="#V" n="46"/>infra. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e2309">
+        Ad quartum potest vno modo dici: quod solus finis 
+        prin<lb ed="#V" n="47" break="no"/>cipaliter intentus denominat habitum vel scientiam: quia ille 
+        so<lb ed="#V" n="48" break="no"/>lus intenditur gratia sui: alii autem propter illum et quia talis in 
+        pro<lb ed="#V" n="49" break="no"/>posito est sola dilectio: non credere vel orare etiam si quod 
+        <lb ed="#V" n="50"/>libet istorum esset per se meritorium: theologia tamtum dicitur 
+        affecti<lb ed="#V" n="51" break="no"/>ua non creditiua: nec oratiua. Post etiam dici secundo: quod sola 
+        <lb ed="#V" n="52"/>dilectio est per se meritoria: alii autem actus nostri non sunt et 
+        <lb ed="#V" n="53"/>per se meritori: sed ratione dilectionis: quia non sine 
+        dile<lb ed="#V" n="54" break="no"/>crione: vt patet 1 ad corin. 13. et 1. 4. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e2329">
+        Ad quintum: nego 
+        <lb ed="#V" n="55"/>maiorem: quia adhoc quod scientia sit speculatiua non solumrequi 
+        <lb ed="#V" n="56"/>ritur quod eius subiecum non sit nobis agibile: sed vna cum 
+        <lb ed="#V" n="57"/>hoc requiritur quod eius finis principliciter intentus sit 
+        specu<lb ed="#V" n="58" break="no"/>latio: quod in proposito dici non potest: cum speculatio ordi 
+        <lb ed="#V" n="59"/>netur ad dei dilectionem per quam perfectius attingitur 
+        su<lb ed="#V" n="60" break="no"/>biectum theologie: quam per speculationem. Et ad philosophum 
+        conce<lb ed="#V" n="61" break="no"/>do: quod de ente cuius principium non est in nobie: est scientia 
+        spe<lb ed="#V" n="62" break="no"/>culatiua: sed ad hoc non sequitur: quod de tali non possit esse 
+        <lb ed="#V" n="63"/>nisi scientia speculatiua: sicut de ente cuius principium est 
+        <lb ed="#V" n="64"/>in nobis: est scientia practica: et tamen non sequitur quod de tali non 
+        <lb ed="#V" n="65"/>sit nisi scientia practica: quia de actibus intelligendi: et 
+        vo<lb ed="#V" n="66" break="no"/>lendi cuius principia sunt in nobis: est scientia naturalis 
+        que<lb ed="#V" n="67" break="no"/>ius principium non esset in nobis possit esse scientia: que non sit 
+        <lb ed="#V" n="68"/>non est practica. Et eodem modo ad auicen. Nec valet 
+        <lb ed="#V" n="69"/>si dicatur: quod nec philosos nec auicen. dixerunt: quod de ente cu¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>speculatiua: quia locus ab auctoritate non tenet neg 
+        a<lb ed="#V" n="71" break="no"/>tiue: nec est bona consequentia: nec presertim theologo: phosi non 
+        <lb ed="#V" n="72"/>fecerunt de hoc mentionem: ergo non est ponendum aliter nullus 
+        <lb ed="#V" n="73"/>habitu st super naturaliter infusus esset ponendus: quia de 
+        nul<lb ed="#V" n="74" break="no"/>lo tali phi tractauerunt. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e2378">
+        Ad sextum concedo: quod 
+        fi<lb ed="#V" n="75" break="no"/>nis ad quem habitus theologicus principaliter ordinatur est extra 
+        <lb ed="#V" n="76"/>intellectum: sed ex hoc non sequitur quod sit practicus: quia non 
+        <lb ed="#V" n="77"/>omnis operatio alterius potentie ab intellectu est proprie 
+        <lb ed="#V" n="78"/>praxis vt dictum est pluries 
+      </p>
+               <p xml:id="at8va9-e20777-d1e2389">
+        Ad septimum dico: quod 
+        sci<lb ed="#V" n="79" break="no"/>entia dicitur dupliciter sui gra. vno modo: quia non ordinatur ad aliam 
+        <lb ed="#V" n="80"/>et sic sola methaphisica ab arist. ponitur sui gratia in 
+        pro<lb ed="#V" n="81" break="no"/>hemio metaphisice. Alio modo: quia eius actus elicitus 
+        <lb ed="#V" n="82"/>qui est scire vel speculari non ordinatur ad actum 
+        alte<lb ed="#V" n="83" break="no"/>rius potentic dirigendum vel regulandum: et sic omnis scientia 
+        <lb ed="#V" n="84"/>speculatiua dicitur sui gratia vt patet ibidem His premissis 
+        <lb ed="#V" n="85"/>concedo quod scientia: quae non est sui gratia. secundo modo non est 
+        spe<lb ed="#V" n="86" break="no"/>culatiua: sed ex hoc non sequitur quod sit practica nisi sit 
+        <lb ed="#V" n="87"/>gratia vsus id es operationis quae vere sit praxis. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e2411">
+        Ad 
+        octa<lb ed="#V" n="88" break="no"/>uum dico: quod bonitas affectionis est duplex: quedam 
+        <lb ed="#V" n="89"/>est que proprie habet rationem praxis: et talis est omnis actus 
+        <lb ed="#V" n="90"/>voluntatis existens in ptante nosra electiua: vel sequens 
+        ele<lb ed="#V" n="91" break="no"/>ctionem: quedam vero quae proprie non habet rationem praxis et 
+        ta<lb ed="#V" n="92" break="no"/>lis est omnis actus voluntatis elicitus circa finem. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e2424">
+        Pre 
+        <lb ed="#V" n="93"/>terea bonitas affectus conuenit scientie practice: et ideo scientia 
+        <lb ed="#V" n="94"/>moralis est vere practica. secunda aut non et talis facit 
+        <lb ed="#V" n="95"/>tertium genus distinctum a practica: Et quia ad talem 
+        theo<lb ed="#V" n="96" break="no"/>logia finaliter ordinatur: non sequitur quod sit practica Ad 
+        no<lb ed="#V" n="97" break="no"/>rnum dico: quod procedit ex insufficienti: quia thelogia dicitur 
+        affe<lb ed="#V" n="98" break="no"/>ctiua: quia finis eius est dilectio vel affectio: que 
+        distin<lb ed="#V" n="99" break="no"/>cta est ab omni cognitione existente in intellectu. Ad 
+        deci<lb ed="#V" n="100" break="no"/>mum concedo: quod arist. omnem scientiam posuit practicam vel 
+        <lb ed="#V" n="101"/>speculatiuam. sed ex hoc non sequitur ita esse: quia multa 
+        po<lb ed="#V" n="102" break="no"/>suit arist. inixus rationi naturali: que non sunt vera: nec 
+        ab<lb ed="#V" n="103" break="no"/>aliquo theologo tenenda: arist. igitur et alii phiysi tantum 
+        <lb ed="#V" n="104"/>diuiserunt scientiam in practicam et speculatiuam: quia non 
+        vi<lb ed="#V" n="105" break="no"/>derunt nec forte potuerunt secundum principia naturalia: quod in 
+        no<lb ed="#V" n="106" break="no"/>bis esset aliquis actus ad quem habitus existens in intellectu: 
+        <lb ed="#V" n="107"/>posset ordinari sicut ad finem: qui proprie non est 
+        pra<lb ed="#V" n="108" break="no"/>xis: nec speculatio: cuius tamen oppositum theologi debent 
+        <lb ed="#V" n="109"/>concedere: vt patet ex q. precedenti. Et per hoc patet quid 
+        dicen<lb ed="#V" n="110" break="no"/>dum ad auctoritates sequentes: et vlterius non est 
+        bo<lb ed="#V" n="111" break="no"/>na consequentia et presertim theologo: philosi non fecerunt 
+        men<lb ed="#V" n="112" break="no"/>tionem de aliquo habitu qui non sit practicus vel 
+        specula<lb ed="#V" n="113" break="no"/>tiuus: igitur non est alius ponendus. 
+      </p>
+               <p xml:id="at8va9-e20777-d1e2472">
+                  <lb ed="#V" n="114"/>Responsio ad argumenta principalia 
+        <lb ed="#V" n="115"/>Ad rationes praencipales. Ad primam concedo maiorem 
+        <lb ed="#V" n="116"/>si actus directus siue regulatus sit finis illius habitus 
+        <lb ed="#V" n="117"/>et sit vere praxis: et sub isto sensu minor est falsa: vt patet 
+        <lb ed="#V" n="118"/>ex supradictis 
+      </p>
+               <p xml:id="at8va9-e20777-d1e2485">
+        Ad secundum concedo: quod theologia in 
+        viato<lb ed="#V" n="119" break="no"/>re est habitus nobilissimus: sed ex hoc non sequitur: quod sit 
+        <lb ed="#V" n="120"/>speculatiuus: quia habitus nobilissimus viatoris non est 
+        <lb ed="#V" n="121"/>practicus nec speculatiuus: vt declaratum est 
+        supra<lb ed="#V" n="122" break="no"/>Et hec de prologo huins libri dicta sufficiantur.
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

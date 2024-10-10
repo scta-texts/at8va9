@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#AlphonsusVargas">Alphonsus Vargas Toletanus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2024-10-10">October 10, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-x7yh5z">Venice, 1490</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="140-r"/>
+            <cb ed="#V" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="at8va9-e86641"><!-- l1d22-23q1 -->
+            <head xml:id="at8va9-e86641-Hd1e101">Quaestio 1</head>
+            <head xml:id="at8va9-e86641-Hd1e103" type="question-title">Utrum nomina dicta de Deo dicuntur de ipso formaliter</head>
+            <p xml:id="at8va9-e86641-d1e106">
+               <lb ed="#V" n="5"/>Os predicta: etc. diferendum nobis: etc. 
+      <lb ed="#V" n="6"/>Circa distinctionem. istam. 22. et sequentem 
+      <lb ed="#V" n="7"/>in quibus magister agit de diuinis 
+      no<lb ed="#V" n="8" break="no"/>minibus. Quero vtrum nomina dicta de 
+      <lb ed="#V" n="9"/>deo dicantur de ipso formaliter. 
+    </p>
+            <p xml:id="at8va9-e86641-d1e119">
+      Et videtur 
+      <lb ed="#V" n="10"/>primmo quod non: quia deus non potest aliquo nomine proprie 
+      <lb ed="#V" n="11"/>nominari: ergo nullum nomen dicitur de ipso formaliter: 
+      <lb ed="#V" n="12"/>consequentia nota: antecedens est. b. Aug. de verbis domini sermo 
+      <lb ed="#V" n="13"/>ne. 34 di. quicquid potest fari non est ineffabile 
+      ineffabi<lb ed="#V" n="14" break="no"/>lis autem est deus: ex quibus euidenter sequitur: quod deus 
+      <lb ed="#V" n="15"/>non potest fari: et si non potest fari: non potest aliquo nomine 
+      pro<lb ed="#V" n="16" break="no"/>prio nominari. Contra deus est formaliter iustus 
+      sapi<lb ed="#V" n="17" break="no"/>ens et bonus. et sic de singulis que dicunt perfectio 
+      <lb ed="#V" n="18"/>nem simpliciter: ergo saltem ista nomina dicuntur de deo 
+      <lb ed="#V" n="19"/>formaliter. In ista questione primo ponam aliquas 
+      <lb ed="#V" n="20"/>distinctiones. Secundo conclusiones. Tertio dubia. 
+      Quar<lb ed="#V" n="21" break="no"/>to respondebo. 
+    </p>
+            <div xml:id="at8va9-e86641-Dd1e148">
+               <head xml:id="at8va9-e86641-Hd1e150">Articulus 1</head>
+               <p xml:id="at8va9-e86641-d1e152">
+        Primus articulus 
+        <lb ed="#V" n="22"/>QUantum ad primum distinguo: Primo de nominibus 
+        <lb ed="#V" n="23"/>que de deo dicuntur: priuatiue. siue negatiue: 
+        <lb ed="#V" n="24"/>sicut infinitus immortalis inuisibilis et huiusmodi 
+        que<lb ed="#V" n="25" break="no"/>dam vero dicuntur de deo positiue: siue affirmatiue: 
+        <lb ed="#V" n="26"/>sicut ens viuens: omnipotens: etc. 
+      </p>
+               <p xml:id="at8va9-e86641-d1e165">
+        Secundo distinguo de 
+        <lb ed="#V" n="27"/>no ibus que dicuntur de deo positiue seu affirmatiue: 
+        <lb ed="#V" n="28"/>quia queda dicnutr tantum figuraliter et metaphorice sicut agnus 
+        <lb ed="#V" n="29"/>deo: etc. veto quedam dicuntur de ipso proprie et non vt 
+        co<lb ed="#V" n="30" break="no"/>gnoscens diligens et similia metaphorice. 
+      </p>
+               <p xml:id="at8va9-e86641-d1e176">
+        Tertio 
+        <lb ed="#V" n="31"/>distinguo de nominibus que dicuntur de deo proprie: 
+        <lb ed="#V" n="32"/>quia quedam dicuntur de deo ex tempore: et tantum in ordine 
+        <lb ed="#V" n="33"/>ad creaturam: sicut creator et conseruator dominus: etc. de 
+        qui<lb ed="#V" n="34" break="no"/>bus tractat. b. Aug. 5. de tri. c. vltimo quedam 
+        ve<lb ed="#V" n="35" break="no"/>ro dicuntur de eo simpliciter: et sine habitudine ad aliquam 
+        <lb ed="#V" n="36"/>creaturam: sicut sapiens iustus generans. 
+      </p>
+               <p xml:id="at8va9-e86641-d1e192">
+        Quarto 
+        dis<lb ed="#V" n="37" break="no"/>tinguo de nomibus que de deo dicuntur simpliciter: et si 
+        <lb ed="#V" n="38"/>ne habitudine ad creaturam quia quedam de singulis 
+        di<lb ed="#V" n="39" break="no"/>cuntur personis: vel saltem de duabus non tamen de omnibus 
+        <lb ed="#V" n="40"/>et huiusmodi nomina relatiue dicuntur ad inuicem sicut 
+        <lb ed="#V" n="41"/>pater: filius: spirare: et spirari: siue spiratio actiua: et 
+        pas<lb ed="#V" n="42" break="no"/>siua: quod idem est. 
+      </p>
+               <p xml:id="at8va9-e86641-d1e209">
+        Quedam vero de singulis sigillatim 
+        <lb ed="#V" n="43"/>dicuntur de personis et de omnibus communiter: non tamen pluraliter: se 
+        <lb ed="#V" n="44"/>singuliter: sicut deus bonus: magnus et huiusmodi: quedam 
+        <lb ed="#V" n="45"/>autem vel saltem aliquod de singulis personis sigillatim: et 
+        <lb ed="#V" n="46"/>de omnibus communiter ne tamen singuliter: sed pluraliter. sicut perso 
+        <lb ed="#V" n="47"/>na. Dicimus enim quod pater est persona: filius est persona scilicet 
+        <lb ed="#V" n="48"/>sanctus est persona: et tamen non dicimus quod pater et filius: et spiritus sancti 
+        <lb ed="#V" n="49"/>sint vna persona: sed tres persone: Quedam vero de 
+        <lb ed="#V" n="50"/>nulla persona dicitur sigillatim: sed de omnibus simlis: sicut 
+        <lb ed="#V" n="51"/>trinitas: et istud nomen non dicitur secundum substantiam: sed quasi 
+        col<lb ed="#V" n="52" break="no"/>lectiuum pluralitatem designat personarum: vt patet per 
+        <lb ed="#V" n="53"/>lmagistrum in littera. His premissis patent septem difturie 
+        <lb ed="#V" n="54"/>nomium quibus vti possumus loquendo de deo: et de 
+        omni<lb ed="#V" n="55" break="no"/>bus potest intelligi questio.
+      </p>
+            </div>
+            <div xml:id="at8va9-e86641-Dd1e242">
+               <head xml:id="at8va9-e86641-Hd1e244">Articulus 2</head>
+               <p xml:id="at8va9-e86641-d1e246">
+        Articulus secundus. 
+        <lb ed="#V" n="56"/>QUantum ad secundum articulum. Prima conclusio: est 
+        <lb ed="#V" n="57"/>quo aliqua nomina dicta de deo priuatiue dicuntur 
+        <lb ed="#V" n="58"/>de ipso formaliter: aliqua vero non Pro cuius 
+        declaratio<lb ed="#V" n="59" break="no"/>ne premitto duas distinctiones de nominibus 
+        pri<lb ed="#V" n="60" break="no"/>uatiuis: cum quibusdam propositionibus. Prima 
+        <lb ed="#V" n="61"/>distinctio est de nominibus priuatiuis absolute: quia 
+        <lb ed="#V" n="62"/>quedam sunt priuatiua absoluta secundum rem et vecundum 
+        vo<lb ed="#V" n="63" break="no"/>cem: sicut tenebra in aere: et cecitas in visu: et vniversaliter iomnia 
+        <lb ed="#V" n="64"/>quibus significantur subiectum primuari aliqua 
+        perfectio<lb ed="#V" n="65" break="no"/>ne sibi debita. Quedam vero sunt priuatiua secundum voce 
+        <lb ed="#V" n="66"/>non autem secundum rem. sicut in visibilitas in sono: insensibilis 
+        <lb ed="#V" n="67"/>tas in angelo et huiusmodi: quibus non subiectum 
+        pri<lb ed="#V" n="68" break="no"/>nari aliqua perfectione debita sibi. et tamen quantum ad
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="69"/>modum signisicandi sunt prinationes vel significant 
+        aquimo<lb ed="#V" n="70" break="no"/>dum priuationum Secuda distinctio est de nominibus 
+        <lb ed="#V" n="71"/>priuatiuis secundum voce et non secundum rem: quia talia sunt adhuc 
+        <lb ed="#V" n="72"/>in duplici difturia: quedam enim sunt priuatiua secundum voce 
+        <lb ed="#V" n="73"/>et non positiua secundum rem. et talia sunt nomina quibus 
+        signifi<lb ed="#V" n="74" break="no"/>catur quid res sit: et tamen habent modum significandi priuati 
+        <lb ed="#V" n="75"/>uum: et quod alique sint huinsmodi apparebit inferins: 
+        que<lb ed="#V" n="76" break="no"/>dam enim sunt priuatiua secundum vocem et pure negatiua secundum 
+        <lb ed="#V" n="77"/>rem: et talia sunt omnia nominia priuatiua secundum vocem: qui 
+        <lb ed="#V" n="78"/>bus non significant quid res sit: sed tantum quid non sit. sicut in 
+        <lb ed="#V" n="79"/>uisibilitas in sono insensibilitas in angelo: etc. et hec de 
+        <lb ed="#V" n="80"/>primo. De secundo premitto aliquas propositiones. 
+        <lb ed="#V" n="81"/>Prima est: quod nullum priuatiuum secundum voce et secundum re potest 
+        ve<lb ed="#V" n="82" break="no"/>re dici de deo. et hec est euidens: quia impossibile est deum 
+        <lb ed="#V" n="83"/>priuari vel carere aliquo sibi debito. Secunda est: quod 
+        ali<lb ed="#V" n="84" break="no"/>qua nomina dicta de deo sunt priuatiua secundum vocem et tamen 
+        <lb ed="#V" n="85"/>positiua secundum rem Probatur sic: infinitas et inmensitas 
+        <lb ed="#V" n="86"/>vere dicuntur de deo. et sunt nomina priuatiua secundum voce et 
+        po<lb ed="#V" n="87" break="no"/>sitiua secundum rem: consequentia est nota: et antecedens quantum ad duas 
+        pri<lb ed="#V" n="88" break="no"/>mas partes: quantum ad tertiam probatur sic: infinitas est 
+        <lb ed="#V" n="89"/>de per se: et primo intellectu quiditatiuo deitatis: 
+        <lb ed="#V" n="90"/>ergo non est ratio priuatiua: nec negatiua: sed positiua secundum 
+        <lb ed="#V" n="91"/>rem: antecedens fuit declaratum in prolis. q. 5. art. 2: conclusione 
+        <lb ed="#V" n="92"/>3. et consequentia videtur nota: quia nulla ratio priuatiua vel negati 
+        <lb ed="#V" n="93"/>ua. secundum re potest esse de per se et primo intellectu quiditati 
+        <lb ed="#V" n="94"/>ua rationis positue: qualis est ratio deitatis ergo etc. Secundo sic 
+        <lb ed="#V" n="95"/>infinitas in deo dicit perfectionem simpliciter: ergo non est 
+        ratio<lb ed="#V" n="96" break="no"/>priuatiua nec negatiua: sed positina secundum rem: antecedens communiter 
+        <lb ed="#V" n="97"/>est concessum: et consequentia patet: quia nulla ratio priuatiua nec 
+        ne<lb ed="#V" n="98" break="no"/>gatiua secundum rem dicit perfectionem simpliciter: cum omnis 
+        perfe<lb ed="#V" n="99" break="no"/>ctio simpliciter sit aliquid in re etiam circumscripto opere 
+        in<lb ed="#V" n="100" break="no"/>tellectus et nulla ratio priuatiua seu negatiua secundum rem sit 
+        <lb ed="#V" n="101"/>sic aliquid in re. 
+      </p>
+               <p xml:id="at8va9-e86641-d1e350">
+        Tertio sic: substantia diuina est ratio positiua 
+        <lb ed="#V" n="102"/>non priuatiua: nec negatiua secundum rem infinitas 
+        diuina<lb ed="#V" n="103" break="no"/>est substantia divina: ergo infinitas divina est ratio positiua non priuatiua 
+        <lb ed="#V" n="104"/>maior est nota: et minorem ponit Ricardus. 2. de tri. c. 2. 
+        <lb ed="#V" n="105"/>d. pro certo habemus quod substantia diuina non sit aliud: quam in 
+        <lb ed="#V" n="106"/>mensitas sua: immensitas autem diuina non est aliud quam 
+        in<lb ed="#V" n="107" break="no"/>finitas sua nec econuerso: igitur etc. 
+      </p>
+               <p xml:id="at8va9-e86641-d1e366">
+        Ultimo sic: 
+        infini<lb ed="#V" n="108" break="no"/>tas et immensitas dicta de deo significant quid deus sit: et 
+        <lb ed="#V" n="109"/>non solum quid non sit: igitur non sunt nomina pure negatiua sed 
+        <lb ed="#V" n="110"/>positiua secundum rem: consequentia est nota. et antecedens videtur clarum: quia cum 
+        <lb ed="#V" n="111"/>dicitur: quod deus est infinitas non solum significat quod deus non 
+        <lb ed="#V" n="112"/>est finitus: quia tunc infinitas ita verificaretur de chime 
+        <lb ed="#V" n="113"/>ra sicut de deo: quia hec est simpliciter vera: chimera non est 
+        <lb ed="#V" n="114"/>finita: quia non est: sed significat: quod deus est quo maius nec 
+        <lb ed="#V" n="115"/>esse: nec cogitari potest: vel quod omnem perfectionem et omnem 
+        gra<lb ed="#V" n="116" break="no"/>dum perfectionis in seipso coprehendit iuxta sententiam 
+        da<lb ed="#V" n="117" break="no"/>masirin libro 1. c. 11. dicit quod totum in seipso comprehendit velud 
+        <lb ed="#V" n="118"/>quodam pelago substantiam infinite. 
+      </p>
+               <p xml:id="at8va9-e86641-d1e392">
+        Tertia 
+        proposi<lb ed="#V" n="119" break="no"/>tio est quod aliqua nomina dicta de deo: sunt priuatiua secundum 
+        vo<lb ed="#V" n="120" break="no"/>cem: et pure negatiua secundum rem Probatur sic: aliqua 
+        no<lb ed="#V" n="121" break="no"/>mina priuatiua secundum vocem distinguuntur de deo quibus 
+        <lb ed="#V" n="122"/>non signifiantur quid deus sit sed solum quid non sit: igitur 
+        <lb ed="#V" n="123"/>aliqua nomina priuatiua secundum vocem dicuntur de deo 
+        <lb ed="#V" n="124"/>que non sunt positiua: sed pure negatiua secundum rem: consequentia 
+        <lb ed="#V" n="125"/>est nota: et antecedens videtur clarum: quia incorporitas 
+        insensi<lb ed="#V" n="126" break="no"/>bilitas inuisibilitas et huiusmodi: que vero de deo 
+        <lb ed="#V" n="127"/>dicuntur sunt nomina priuatiua secundum vocem et constat: quod per 
+        <lb ed="#V" n="128"/>ipsa non seruitur quid deus sit: sed solum quid non sit. ergo 
+        <lb ed="#V" n="129"/>aliqua nominia priuatiua secundum vocem dictum de deo: quibus 
+        <lb ed="#V" n="130"/>non significatur quid deus sit: quia eum dicitur. quod deus est 
+        <lb ed="#V" n="131"/>incorporeus non significantur enisi: quod deus non est corpus 
+        <lb ed="#V" n="132"/>Et quando dicitur: quod est insenbilis: non significatur nisi quod non 
+        <lb ed="#V" n="133"/>potest sentire. nec sentiri seusui corporeo. Et quando 
+        <lb ed="#V" n="134"/>dicitur: quod est inuisibilis non significatur nisi. quod non potest 
+        <lb ed="#V" n="135"/>videri oculo corporali. 
+      </p>
+               <p xml:id="at8va9-e86641-d1e432">
+        Quarta propositio est quod 
+        no<lb ed="#V" n="136" break="no"/>mina dicta de deo priuatiue secundum voce et positiue secundum 
+        <lb ed="#V" n="137"/>rem. sicut infinitas imensitas et huiusmodi vere dicuntur
+        <pb ed="#V" n="140-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>de iunso formaliter. Probatur sic: infinitas et immensitas sunt de 
+        <lb ed="#V" n="2"/>tatione formali et intrinseca deitatis: igitur formaliter 
+        <lb ed="#V" n="3"/>distinguuntur de deo: consequentia est nota: quia benen sequitur. 
+        <lb ed="#V" n="4"/>animalis est de ratione formali hominis: igitur 
+        forma<lb ed="#V" n="5" break="no"/>liter dicitur de homine: et sic de ceter quibuscunque 
+        <lb ed="#V" n="6"/>et antecedens etiam patet: quia infinitas: et per consequens immensitas sunt 
+        <lb ed="#V" n="7"/>de per se: et primo intellectu quiditatiuo dietatis: vt 
+        <lb ed="#V" n="8"/>dictum est: 
+      </p>
+               <p xml:id="at8va9-e86641-d1e461">
+        Ultima propositio est: quod nonia dicta de 
+        <lb ed="#V" n="9"/>deo priuatiue secundum vocem et pure negatiue secundum rem non 
+        <lb ed="#V" n="10"/>dicuntur de ipso formaliter: et hoc est euidens: quia illa 
+        no<lb ed="#V" n="11" break="no"/>mina quibus non significatur quid deus sit: sed solum quid non sit: non 
+        <lb ed="#V" n="12"/>distinguuntur de ipso formaliter. His premissis patet 
+        con<lb ed="#V" n="13" break="no"/>clusio principalis neque: quod aliqua nomina dicta de 
+        <lb ed="#V" n="14"/>deo priuatiue dicantur de deo formaliter: aliqua vero 
+        <lb ed="#V" n="15"/>non: quia illa que dicuntur de deo priuatiue secundum vocem et 
+        <lb ed="#V" n="16"/>positiue secundum rem distinguunt de ipso fomaliter. Illa 
+        ve<lb ed="#V" n="17" break="no"/>ro que dicuntur de deo priuatiue secundum vocem: et 
+        <lb ed="#V" n="18"/>pure negatiue secundum rem dicuntur de ipso formaliter: 
+      </p>
+               <p xml:id="at8va9-e86641-d1e485">
+                  <lb ed="#V" n="19"/>Secunda conclusio est: quod nomina positiua dicta de deo 
+        <lb ed="#V" n="20"/>tantum figuraliter: et metaphorice non dicuntur de ipso 
+        <lb ed="#V" n="21"/>formaliter: et hoc est euidens: certum est enim: quod deus 
+        <lb ed="#V" n="22"/>non est formaliter petra. nec leo. nec agnus: et sic de 
+        <lb ed="#V" n="23"/>aliis que dicuntur de ipso per similitudinem non per proprie 
+        <lb ed="#V" n="24"/>tatem: propter quod b. Aug. in quadam homl. dicit. 
+        <lb ed="#V" n="25"/>quod magis ipsa sunt vera ex quibus dicuntur iste simi 
+        li<lb ed="#V" n="26" break="no"/>tudines non proprietates. 
+      </p>
+               <p xml:id="at8va9-e86641-d1e505">
+        Tertia conclusio est: quod 
+        no<lb ed="#V" n="27" break="no"/>mina positiua dicta de deo ex tempore: et tamtum in 
+        ordi<lb ed="#V" n="28" break="no"/>ne ad creaturas non dicuntur de ipso formaliter: et 
+        <lb ed="#V" n="29"/>hoc est euidens: quia quod conuenit deo formaliter 
+        con<lb ed="#V" n="30" break="no"/>uenit sibi circum scripto omni eo: quod non est deus. sed quod 
+        <lb ed="#V" n="31"/>conuenit deo ex tempore: et tamen in ordine ad 
+        creatu<lb ed="#V" n="32" break="no"/>ras non conuenit: sibi circumscripto omni eo: quod non est. deus 
+        <lb ed="#V" n="33"/>Quarta est: quod nomina positiua dicta de deo 
+        simpli<lb ed="#V" n="34" break="no"/>citer et sine habitudine ad creaturas quecumque sint pr 
+        <lb ed="#V" n="35"/>vere dicuntur de ipso formaliter: Probatur primo de 
+        o<lb ed="#V" n="36" break="no"/>mnibus in generali sic: quod proprie competit deo 
+        circun<lb ed="#V" n="37" break="no"/>scripto omni eo: quod non est deus conuenit formaliter ei. sed 
+        <lb ed="#V" n="38"/>omnia nomina predicta proprie dicuntur de ipso deo: 
+        <lb ed="#V" n="39"/>patet de se ex articulo precedenti. et circumscripto 
+        omni<lb ed="#V" n="40" break="no"/>eo: quod non est deus: cum dicantur de eo simpliciter et sine 
+        ha<lb ed="#V" n="41" break="no"/>bitudine ad creaturam. Secundo probo conclusionem 
+        in<lb ed="#V" n="42" break="no"/>speciali de nominibus importantibus perfectionem 
+        <lb ed="#V" n="43"/>simpliciter sic: quod conuenit deo per propriam rationem 
+        for<lb ed="#V" n="44" break="no"/>malem conuenit ei formaliter: sed esse bonum: esse 
+        sa<lb ed="#V" n="45" break="no"/>pientem: esse intelligentem. et sic de singulis: que docent 
+        <lb ed="#V" n="46"/>perfectionem simpliciter conueniunt deo per suam 
+        pro<lb ed="#V" n="47" break="no"/>priam rationem foimalem: ergo maior est euidens. et 
+        mi<lb ed="#V" n="48" break="no"/>nor videtur clara: quia deus est: ergo maius cogitari non 
+        <lb ed="#V" n="49"/>potest: vt patet per anshel. prosologion. 2. et. 3. deus 
+        <lb ed="#V" n="50"/>per suam propria rationem formalem est bonus 
+        sapi<lb ed="#V" n="51" break="no"/>ens. et intelligens: et huiusmodi: ista consequentia patet: quia se 
+        <lb ed="#V" n="52"/>quitur. deus non est sapiens: ergo non est illud. quo maius 
+        <lb ed="#V" n="53"/>cogitari non potest: et similiter potest argui de bonitate 
+        <lb ed="#V" n="54"/>et huiusmodi que sunt perfectiones simpliciter. et hoc de secundo 
+      </p>
+            </div>
+            <div xml:id="at8va9-e86641-Dd1e569">
+               <head xml:id="at8va9-e86641-Hd1e571">Articuli 3 et 4</head>
+               <p xml:id="at8va9-e86641-d1e573">
+                  <lb ed="#V" n="55"/>Articulus tertius et quartus. 
+        <lb ed="#V" n="56"/>QUantum ad tertium et quartum arti. simul contra 
+        <lb ed="#V" n="57"/>oclusiones istas mouenda et dissoluenda sunt 
+        du<lb ed="#V" n="58" break="no"/>bia: et primo contra primam: est quedam opinio que 
+        <lb ed="#V" n="59"/>ponit vniuersaliter: quod nullum nomen de deo dictum priuatiue 
+        <lb ed="#V" n="60"/>conuenit sibi formaliter extra intellectum: sed solum 
+        <lb ed="#V" n="61"/>per considerationem intellectus: nec infinitas: nec 
+        im<lb ed="#V" n="62" break="no"/>mensitas: nec aliud quodcumque sit illud: 
+      </p>
+               <p xml:id="at8va9-e86641-d1e593">
+        et pro ista 
+        opi<lb ed="#V" n="63" break="no"/>nione quidam doc. arguit Primo sic: 
+        <lb ed="#V" n="64"/>Franciscus de marchia in. 1. di. 22. q. 1. arti. 2. 
+        <lb ed="#V" n="65"/>Omne quod conuenit alicui formaliter: aut 
+        conue<lb ed="#V" n="66" break="no"/>nit sibi formaliter per informationem. aut per identi 
+        <lb ed="#V" n="67"/>tatem: sed nulla priuatio vel negatio conuenit deo 
+        for<lb ed="#V" n="68" break="no"/>maliter per informationem: quia actus simplex et purus
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="69"/>nos potest esse subiectum alicuius petr 
+        informatio<lb ed="#V" n="70" break="no"/>nem secundum boetium. 1. de tri: c. 2. nec conuenit sibi per identi 
+        <lb ed="#V" n="71"/>tatem: quia nec negatiuum nec priuatiuum potest coincidere 
+        <lb ed="#V" n="72"/>per identitatem cum positiuo: quia tunc positiuum esset 
+        rea<lb ed="#V" n="73" break="no"/>liter positiuum et priuatiuum: ergo nulla priuatio vel 
+        <lb ed="#V" n="74"/>negatio conuenit deo formaliter extra intellectum. 
+      </p>
+               <p xml:id="at8va9-e86641-d1e624">
+        Pre 
+        <lb ed="#V" n="75"/>terea: nullum finitum conuenit deo formaliter extra 
+        in<lb ed="#V" n="76" break="no"/>tellectum. quia tunc in deo esset formaliter extra intellectum: 
+        <lb ed="#V" n="77"/>quia func in deo formalitas esset extra intellectum: sed 
+        imu<lb ed="#V" n="78" break="no"/>tabilitas infinitas huiusmodi priuat ones sunt 
+        for<lb ed="#V" n="79" break="no"/>maliter finite intensiue: probatur: tanta est priuatio 
+        in<lb ed="#V" n="80" break="no"/>ordine priuationis: quantus est habitus in 
+        ordine<lb ed="#V" n="81" break="no"/>positionis: et non maior: quia si maior in aliquo esset 
+        <lb ed="#V" n="82"/>priuatio: et nullius esset priuatio: sed mutabilitas 
+        s<lb ed="#V" n="83" break="no"/>nitas et huiusmodi qui sunt habitus oppositi istis 
+        pri<lb ed="#V" n="84" break="no"/>uationibus sunt formaliter finite intensiue: quia quic 
+        <lb ed="#V" n="85"/>quid est formaliter in creatura est simpliciter: ergo 
+        <lb ed="#V" n="86"/>ista non sunt formaliter extra in deo. 
+      </p>
+               <p xml:id="at8va9-e86641-d1e653">
+        Preterea: 
+        <lb ed="#V" n="87"/>nihil quod est in determinato genere accidentis est 
+        <lb ed="#V" n="88"/>formaliter in deo extra intellectum: quia deus non 
+        <lb ed="#V" n="89"/>est subiectum alicuius accidentis positiui nec 
+        nega<lb ed="#V" n="90" break="no"/>tiui secundum rem: sed mutabilitas est in genere 
+        acciden<lb ed="#V" n="91" break="no"/>tis determinato: quia priuatio et habitus ad idem 
+        <lb ed="#V" n="92"/>genus reducuntur: ergo ista non sunt in deo extra. 
+      </p>
+               <p xml:id="at8va9-e86641-d1e670">
+                  <lb ed="#V" n="93"/>Preterea: habitus et priuatio habent consimilem 
+        <lb ed="#V" n="94"/>modum essendi in subiecto: sed mutabilitas est in 
+        su<lb ed="#V" n="95" break="no"/>biecto suo per informationem: ergo immutabilitas 
+        <lb ed="#V" n="96"/>in quocunque ponatur formaliter esset in eo per 
+        infor<lb ed="#V" n="97" break="no"/>mationem: in deo autem nihil est per informationem: 
+        <lb ed="#V" n="98"/>igitur ista non sunt in deo formaliter: sed tantum per 
+        <lb ed="#V" n="99"/>considerationem inte llectus: qui non inueuiens in 
+        <lb ed="#V" n="100"/>deo affirmationes oppositas concipit circa ipsum 
+        <lb ed="#V" n="101"/>negatiuas earum. 
+      </p>
+               <p xml:id="at8va9-e86641-d1e692">
+                  <lb ed="#V" n="102"/>Responsio ad rationes francisci. 
+        <lb ed="#V" n="103"/>Ad primam dico: quod infinitas imensitas et 
+        hulus<lb ed="#V" n="104" break="no"/>modi: que dicuntur de deo priuatiue secundum vocem et 
+        posi<lb ed="#V" n="105" break="no"/>tiue secundum rem: conueniunt deo per identitatem non minus 
+        <lb ed="#V" n="106"/>quam illa que dicuntur de ipso positiue: siue 
+        affirmati<lb ed="#V" n="107" break="no"/>ue. Ad probationem dico: quod priuatiuum siue negatiuum 
+        <lb ed="#V" n="108"/>secundum rem non potest coineidere per identitatem 
+        posi<lb ed="#V" n="109" break="no"/>tiuo: priuatiuum tamen vel negatiuum secundum vocem: et 
+        <lb ed="#V" n="110"/>positiuum secundum rem bene potest coincidere per 
+        iden<lb ed="#V" n="111" break="no"/>titatem cum positiuo: sic est hic Ad secundam nego 
+        <lb ed="#V" n="112"/>minorem: quia implicatio contradictionis est: quod 
+        infi<lb ed="#V" n="113" break="no"/>nitas intensiue que vere dicitur de deo. sit 
+        formali<lb ed="#V" n="114" break="no"/>ter finita intensiue. Etad probationem patet quid 
+        <lb ed="#V" n="115"/>dicendum: quia talis finitas non est priuatio. sed vera 
+        <lb ed="#V" n="116"/>entitas positiua secundum rem: et per idem patet ad 
+        <lb ed="#V" n="117"/>tertium et ad quartum quid dicendum. Contra se 
+        <lb ed="#V" n="118"/>cundam et tertiam conclusionem posset argui: sed quia 
+        <lb ed="#V" n="119"/>non sunt dubie nec opinabiles pertranseo: 
+      </p>
+               <p xml:id="at8va9-e86641-d1e734">
+                  <lb ed="#V" n="120"/>Franciscus de marchia libro: 2. di. quibus 
+        supra<lb ed="#V" n="121" break="no"/>q. 2. articulo tertio et quarto. 
+        <lb ed="#V" n="122"/>Sed contra quartam est opinio cuiusdam doc. qui ponit. 
+        <lb ed="#V" n="123"/>quod nomina positiua dicta de deo perfectionaliter 
+        si<lb ed="#V" n="124" break="no"/>cut ens: sapiens viuens: etc. que dicunt 
+        perfectio<lb ed="#V" n="125" break="no"/>nem simpliciter non dicuntur de ipso formaliter sed 
+        emi<lb ed="#V" n="126" break="no"/>nenter Et vt clarius videatur quod dicero. Primo doctor 
+        <lb ed="#V" n="127"/>iste ponit quandam distinctionem. Secundo 
+        dedu<lb ed="#V" n="128" break="no"/>cit conclusionem. Quantum ad primum dicit: quod 
+        <lb ed="#V" n="129"/>aliquid esse in alio potest intelligi tripliciter. natura aliquid est 
+        <lb ed="#V" n="130"/>in alio causaliter. sicut calor in sole: vnde sol dicitur 
+        <lb ed="#V" n="131"/>calidus: non quod calor sit in ipso formaliter sed 
+        so<lb ed="#V" n="132" break="no"/>lum virtualiter. Secundo aliquid est in aliquo 
+        for<lb ed="#V" n="133" break="no"/>maliter: sicut calor est in igne formaliter. Tertio 
+        ali<lb ed="#V" n="134" break="no"/>quid est in alio perfectionaliter et quodammodo eminenter: 
+        <lb ed="#V" n="135"/>sicut vegetatiuum in sensitiuo: et sensitiuum in intellectiuo 
+        <lb ed="#V" n="136"/>vt patet secundo de anima: vegetatiuum tamen non est in sensitiuo
+        <pb ed="#V" n="141-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>formaliter: quia sunt gradus specie distincti nec virtua 
+        <lb ed="#V" n="2"/>liter quia sensitiuum no potest per se causare vegetatiuum specie 
+        <lb ed="#V" n="3"/>distinctum: sed continet ipsum aliquo modo perfectionaliter. et 
+        emi<lb ed="#V" n="4" break="no"/>nenter secundum modum essendi altiorem et superiorem: quia in 
+        <lb ed="#V" n="5"/>quantum sensitiuum habet gradum vite altiorem et superiorem: 
+        <lb ed="#V" n="6"/>continet perfectionaliter et quadam modo eminentur perfectiones. 
+        <lb ed="#V" n="7"/>simpliciter: sicut sapientia bonitas: et huiusmodi non sunt in deo 
+        for<lb ed="#V" n="8" break="no"/>maliter extra intellectum. nec sunt in ipso tantum causaliter siue 
+        vir<lb ed="#V" n="9" break="no"/>tualiter: sed sunt perfectionaliter siue eminenter modo 
+        <lb ed="#V" n="10"/>altiori et superiori: quod multipliciter deducitur. Primo 
+        <lb ed="#V" n="11"/>sic: nulla ratio si mpliciter contrahibilis et determinabilis est 
+        <lb ed="#V" n="12"/>formaliter in eo in quo nihil est contrahibile. nec 
+        determi<lb ed="#V" n="13" break="no"/>nabile: patet de se: quia si aliqua earum esset in eo: esset 
+        <lb ed="#V" n="14"/>ipsa contrahibilis: et per consequens aliquid esset contrahibile in eo: 
+        <lb ed="#V" n="15"/>in quo nihil est contra hibile: sed quelibet 
+        transcenden<lb ed="#V" n="16" break="no"/>tis ratio: siue entitas: siue sapientia: bonitas: et sic 
+        <lb ed="#V" n="17"/>de aliis est de se contrahibilis et determinabilis 
+        du<lb ed="#V" n="18" break="no"/>pliciter per inferiores rationes transcendens In deo autem 
+        <lb ed="#V" n="19"/>extra intellectum nihil est formaliter contrahibile nec de 
+        <lb ed="#V" n="20"/>terminabile: quia tunc extra intellectum esset ex actuali 
+        po<lb ed="#V" n="21" break="no"/>tentiali: cum omne conthibile sit potentiale respcum conthetis: ergo 
+        nul<lb ed="#V" n="22" break="no"/>la perfectio transcendens est formaliter in deo extra intellectum 
+        <lb ed="#V" n="23"/>maior istius rationis patet ex dictis. sed minor probatur 
+        quam<lb ed="#V" n="24" break="no"/>tum ad vtramque partem: et primo quantum ad primam partem sic: 
+        il<lb ed="#V" n="25" break="no"/>lud quod non est de se hoc et singulare est contrahibile et 
+        <lb ed="#V" n="26"/>determinabile per illud quod seipso est: hoc: sed nulla 
+        perfe<lb ed="#V" n="27" break="no"/>ctio transcendens est seipsa hoc: patet quia illi quod est seipso 
+        <lb ed="#V" n="28"/>hoc: repugnat contradictorie praedicari de pluribus ergo 
+        <lb ed="#V" n="29"/>nulla seipsa est hoc: ergo quaelibet est contrahibilis et deter 
+        <lb ed="#V" n="30"/>minabilis per rationem inferiorem. Secundo probatur alia 
+        <lb ed="#V" n="31"/>pars sic: illud quod cum alio reddit conceptum particulario 
+        <lb ed="#V" n="32"/>rem: quam sine illo: est contrahibile et determinabile: sed quae 
+        <lb ed="#V" n="33"/>libet perfectio per ipsum transcendens accepta simul um 
+        <lb ed="#V" n="34"/>aliis perfectionibus transcendentibus reddit conceptum 
+        parti<lb ed="#V" n="35" break="no"/>culariorem et magis determinatum: quam eris et viuens 
+        tan<lb ed="#V" n="36" break="no"/>tum: ergo qualibet earum est contrahibilis per aliam. Secundo 
+        <lb ed="#V" n="37"/>ad principale sic: quando aliqua seipsis totaliter 
+        distinguun<lb ed="#V" n="38" break="no"/>tur: et in nullo formaliter conueniunt: nulla ratio abstracta 
+        <lb ed="#V" n="39"/>formaliter ab vno conuenit alteri formaliter patet: 
+        <lb ed="#V" n="40"/>quia omnis ratio formaliter abstracta ab aliquo et 
+        commu<lb ed="#V" n="41" break="no"/>nis formaliter: alteri est communis formaliter ei a 
+        quo<lb ed="#V" n="42" break="no"/>Pormaliter abstrabitur et rei cui attribuitur: sed deus est 
+        <lb ed="#V" n="43"/>creatura ex parte rei se totis distinguuntur et in 
+        nul<lb ed="#V" n="44" break="no"/>lo formaliter conueniunt: quia si in aliquo tertio 
+        eonueni<lb ed="#V" n="45" break="no"/>rent ex parte rei formaliter: tunc illud tertium esset contra 
+        <lb ed="#V" n="46"/>hibile per vtrumque: et ita deus esset compositus ex potentia 
+        <lb ed="#V" n="47"/>li et actuali: ergo nulla perfectio abstracta formaliter 
+        <lb ed="#V" n="48"/>a creatura conuenit formaliter deo: sed omnis 
+        perfe<lb ed="#V" n="49" break="no"/>ctio formaliter abstracta transcendens quam habet 
+        intel<lb ed="#V" n="50" break="no"/>lectus viatoris de communi lege est abstracta formaliter 
+        acrea<lb ed="#V" n="51" break="no"/>tura. ergo nulla earum conuenit formaliter deo extra. in 
+        <lb ed="#V" n="52"/>tellectum: probatur minor. quia queritur vnde intellectus 
+        ha<lb ed="#V" n="53" break="no"/>bet perfectiones transcendens: aut accipit eos immediate a 
+        <lb ed="#V" n="54"/>deo. aut fabricat eas a se. aut abstrahit ab aliquo 
+        <lb ed="#V" n="55"/>creato. primum dari non potest: quia deus non mouet per 
+        <lb ed="#V" n="56"/>se et immediate intellectum viatoris. igitur non 
+        accipit<lb ed="#V" n="57" break="no"/>eas immediate a deo. nec potest dari secundum: quia si 
+        intelle<lb ed="#V" n="58" break="no"/>ctus sabricaret eas a seipso non essent perfectiones 
+        <lb ed="#V" n="59"/>simpliciter: cum nullum fabricatum per intellectum sit 
+        per<lb ed="#V" n="60" break="no"/>fectiso simpliciter: relinquitur ergo tertio scilict quod sit abstracta 
+        <lb ed="#V" n="61"/>a creatura. et per consequens conuenit cum deo formaliter. 
+        Ter<lb ed="#V" n="62" break="no"/>tio sic. si volitio. non est formaliter in deo: igitur nec 
+        bo<lb ed="#V" n="63" break="no"/>nitas nec sapientia: nec aliqua perfectio simpliciter 
+        <lb ed="#V" n="64"/>quecumque sit illa: consequentia nota: quia non est maior 
+        ratio<lb ed="#V" n="65" break="no"/>de vna quam de alia. antecedens probatur sic: illud quod per vnam 
+        <lb ed="#V" n="66"/>rationem continet vnitiue perfectionem duorum 
+        opposi<lb ed="#V" n="67" break="no"/>torum non est formaliter magis vnum illorum: quam alterum: 
+        <lb ed="#V" n="68"/>sed deus per vnicam rationem continet perfectionem 
+        volitio<lb ed="#V" n="69" break="no"/>nis et nolitionis: quia eodem actu formaliter est vo¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>lens et nolensi volens bonum et nolens malum: igitur non est 
+        <lb ed="#V" n="71"/>magis formaliter volens bonum quam sit formaliter 
+        no<lb ed="#V" n="72" break="no"/>lens malum: sed nolitio non est formaliter in deo: quia 
+        <lb ed="#V" n="73"/>tunc in eo possent formaliter esse actus contrarum 
+        <lb ed="#V" n="74"/>cum velle et nolle sint contraria: ergo in ipso non est 
+        <lb ed="#V" n="75"/>formaliter volitio. Confirmatur: quia sicut vel 
+        <lb ed="#V" n="76"/>le bonum est perfectionis: ita nolle malum et iniustum 
+        <lb ed="#V" n="77"/>est perfectionis in creatura rationali: sed nolle non 
+        <lb ed="#V" n="78"/>est formaliter in deo: quam uis sit perfectionis: ergo nec 
+        <lb ed="#V" n="79"/>velle est in ipso formaliter quamuis sit perfectionis. 
+        Con<lb ed="#V" n="80" break="no"/>firmatur iterum: quia nullus actus habens contra 
+        <lb ed="#V" n="81"/>rium positiue est formaliter in deo: sed actus volendi 
+        <lb ed="#V" n="82"/>in communi habet formaliter actum contrarium nolendi: ergo 
+        <lb ed="#V" n="83"/>actus nolendi non est formaliter in deo. 
+      </p>
+               <p xml:id="at8va9-e86641-d1e960">
+                  <lb ed="#V" n="84"/>Contra franciscum. 
+        <lb ed="#V" n="85"/>Sed ad veritatem ista positio non videtur 
+        ihi<lb ed="#V" n="86" break="no"/>rationalis nec benetuta: quia quod non est tale 
+        for<lb ed="#V" n="87" break="no"/>maliter: sed solum eminenter simpliciter et 
+        absolu<lb ed="#V" n="88" break="no"/>te non dicitur tale: hoc patet etiam. per 
+        exempla<lb ed="#V" n="89" break="no"/>istius doctoris. Anima en im intellectiua non est 
+        ani<lb ed="#V" n="90" break="no"/>ma sensitiua: nec vegetatiua formaliter: nec 
+        virtua<lb ed="#V" n="91" break="no"/>liter: vt dicit: sed solum eminenter: et ideo 
+        simplici<lb ed="#V" n="92" break="no"/>ter: et absolute loquendo: anima intellectiua non est 
+        <lb ed="#V" n="93"/>anima sensitiua nec vegetatiua: immo specifice et sic 
+        re<lb ed="#V" n="94" break="no"/>aliter distinguitur ab ipsis: etiam per eum. Iterum 
+        <lb ed="#V" n="95"/>secundum eum ibidem: sol quando est aura serena et 
+        clara<lb ed="#V" n="96" break="no"/>dicitur candidus et albus: non quidem formaliter 
+        <lb ed="#V" n="97"/>nec virtualiter: sed solum eminenter. Sed constat 
+        <lb ed="#V" n="98"/>quod simpliciter et absolute loquendo: sol non est 
+        cau<lb ed="#V" n="99" break="no"/>didus nec albus: igitur quod non est tale formaliter: sed 
+        <lb ed="#V" n="100"/>solum eminentur simpliciter et absolute non dicitur tale: etiam 
+        <lb ed="#V" n="101"/>per eum: sed deus non est ens nec viuens nec bonus: 
+        <lb ed="#V" n="102"/>nec sapiens formaliter: sed solum eminenter secundum istam 
+        <lb ed="#V" n="103"/>positionem: igitur deus absolute loquendo non est 
+        <lb ed="#V" n="104"/>eus: nec bonus etc. quod non videtur rationabiliter 
+        di<lb ed="#V" n="105" break="no"/>ctum. ergo etc. Confirmatur: quia quod non est 
+        in<lb ed="#V" n="106" break="no"/>aliquo formaliter: sed solum eminenter simpliciter et 
+        <lb ed="#V" n="107"/>absolute non est in illo: hoc patet etiam per eum: anima 
+        <lb ed="#V" n="108"/>enim sensitiua non est intellectiua simpliciter et 
+        abso<lb ed="#V" n="109" break="no"/>lute: nec candor in sole: et sic de ceteris: sed secundum istam 
+        <lb ed="#V" n="110"/>positionem entitas bonitas sapientia etc. non sunt 
+        <lb ed="#V" n="111"/>in deo formaliter: sed solum eminenter: ergo talia non sunt 
+        <lb ed="#V" n="112"/>in deo absolute loquendo: et per consequens 
+        abso<lb ed="#V" n="113" break="no"/>lute et simpliciter loquendo: deus natodo est bonus nec 
+        <lb ed="#V" n="114"/>sapiens etc. Et ne fiat cauillatio verbalis in 
+        conclu<lb ed="#V" n="115" break="no"/>sione huius rationis accipio esse in: non quid est per in 
+        <lb ed="#V" n="116"/>formationem: sed per identitatem. sicut etiam iste 
+        <lb ed="#V" n="117"/>doctor concedit: aliquid esse in deo. Confirmatur 
+        <lb ed="#V" n="118"/>iterum: quia quod in vno quoque melius est esse quam non 
+        <lb ed="#V" n="119"/>esse: non solum eminenter: sed etiam formaliter est 
+        <lb ed="#V" n="120"/>in deo: accipiendo esse in: sicut stati dicebatur: hoc 
+        <lb ed="#V" n="121"/>patet: quia quod non est in deo formaliter: sed solum. 
+        <lb ed="#V" n="122"/>eminenter simpliciter et absolute non est in eo: vt 
+        pa<lb ed="#V" n="123" break="no"/>tet ex dictis: sed quod in vno quoquam melius est esse quam 
+        <lb ed="#V" n="124"/>non esse simpliciter et absolute est in deo: igitur quod in 
+        <lb ed="#V" n="125"/>vno quoque melius est esse quam non esse non solum 
+        emi<lb ed="#V" n="126" break="no"/>nenter sed forma liter est in deo: sed constat quod in vno 
+        <lb ed="#V" n="127"/>quoque melius est esse sapientem intelligentem etc. 
+        <lb ed="#V" n="128"/>que dicunt perfectionem simpliciter quam non esse: 
+        igi<lb ed="#V" n="129" break="no"/>tur hec omnia formaliter sunt in deo: non solum 
+        emi<lb ed="#V" n="130" break="no"/>nenter. Istam rationem pro conclusione ista 
+        ex<lb ed="#V" n="131" break="no"/>presse facit anshelmus. mono. 15. vt patet 
+        videnti<lb ed="#V" n="132" break="no"/>bus ipsum etc. 
+      </p>
+               <p xml:id="at8va9-e86641-d1e1069">
+                  <lb ed="#V" n="133"/>ihsesponsio ad rationes francisci. 
+        <lb ed="#V" n="134"/>Ad primum ergo istorum quando dicitur in 
+        mi<lb ed="#V" n="135" break="no"/>nori quod quodlibet transcendens siue entitas siue 
+        sapi<lb ed="#V" n="136" break="no"/>entia: et sic de aliis est de se contrahibilis et determinabilis 
+        <lb ed="#V" n="137"/>etc. dico quod ratio peccat per fallaciam equiuocationis: quia per 
+        <lb ed="#V" n="138"/>huiusmodi rationes transcendentes iste doc. intelligit entita
+        <pb ed="#V" n="141-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>rem et sapientiam et bonitatem in communique de entita 
+        <lb ed="#V" n="2"/>te sapientia et bonitate creata et increata vere 
+        predi<lb ed="#V" n="3" break="no"/>cantur: vel intelligit bonitatem sapientiam et entitatem in 
+        <lb ed="#V" n="4"/>creatam que est deus. Si detur primum: 
+        concedo<lb ed="#V" n="5" break="no"/>maiorem minorem et conclusionem: vt patet: quia nulla talis 
+        <lb ed="#V" n="6"/>ratio tramscendens conuenit deo formaliter extra 
+        intel<lb ed="#V" n="7" break="no"/>lectum: quia talia communia non sunt aliqua res: prout res 
+        <lb ed="#V" n="8"/>distinguitur contra voces et conceptus et entia rat omnis: 
+        <lb ed="#V" n="9"/>et quod non est aliqua res non conuenit deo formaliter ex 
+        <lb ed="#V" n="10"/>tra intellectum. Si detur secum sum: minor est falsa: quia 
+        nul<lb ed="#V" n="11" break="no"/>la perfectio que est deus: est contrahibilis vel 
+        deter<lb ed="#V" n="12" break="no"/>minabilis per aliam: entitas enim vel bonitas 
+        increa<lb ed="#V" n="13" break="no"/>ta non est contrabibilis: sed seipsa est hec et singularis 
+        <lb ed="#V" n="14"/>cum non sit nisi ipsamet essentia diuina. 
+      </p>
+               <p xml:id="at8va9-e86641-d1e1119">
+        Ad secundum: si 
+        <lb ed="#V" n="15"/>ratio esset bona sequeretur quod homo formaliter non esset 
+        <lb ed="#V" n="16"/>animalis quod est euidenter falsum. Deductio est 
+        mihi<lb ed="#V" n="17" break="no"/>clara: quia homo et asinus seipsis formaliter distinguum 
+        <lb ed="#V" n="18"/>tur: sic quod in nullo formaliter conueniunt ex parte rei: 
+        <lb ed="#V" n="19"/>quia nulla entitas de modo est realis: nisi sit entitas 
+        sin<lb ed="#V" n="20" break="no"/>gularis. vt suppono pro nunc: igitur si per hoc quod ratio bonita 
+        <lb ed="#V" n="21"/>tis abstrahitur a creatura: deus qui in nullo conuenit 
+        <lb ed="#V" n="22"/>cum creatura ex parte rei non esset formaliter bonus: 
+        <lb ed="#V" n="23"/>pari ratione: quia ratio animalitatis que abstrabitur ab 
+        <lb ed="#V" n="24"/>asino homo qui in nullo conuenit cum asino ex parte 
+        <lb ed="#V" n="25"/>rei non esset formaliter animal. Ad forma igitur 
+        ratio<lb ed="#V" n="26" break="no"/>nis dico quod non probat nisi quod ratio abstracta per 
+        intelle<lb ed="#V" n="27" break="no"/>ctum a creatura non conuenit deo formaliter extra 
+        in<lb ed="#V" n="28" break="no"/>tellectum: et hoc est verum: quia talis ratio communis et 
+        ab<lb ed="#V" n="29" break="no"/>tracta non habet esse reale sed rationis tantum: ex hoc tamen non 
+        <lb ed="#V" n="30"/>sequitur: quod bonitas et sapientia increata non conueniant 
+        <lb ed="#V" n="31"/>deo formaliter: quia bonitas et sapientia increata non 
+        <lb ed="#V" n="32"/>abstrahuntur a creatura: sicut iste doc. videtur 
+        imagi<lb ed="#V" n="33" break="no"/>nari. 
+      </p>
+               <p xml:id="at8va9-e86641-d1e1164">
+        Ad tertium: nego antecedens: et ad probationem 
+        conce<lb ed="#V" n="34" break="no"/>do totam primam deductionem scilicet quando dicitur: quod nolitio 
+        <lb ed="#V" n="35"/>non esset formaliter in deo: nego: quia nolle malum est actus 
+        po<lb ed="#V" n="36" break="no"/>sitiuus: sicut velle bonum: et ideo sicut deus est 
+        forma<lb ed="#V" n="37" break="no"/>liter volens bonum: sic etiam est formaliter nolens 
+        <lb ed="#V" n="38"/>malum. Et quando dicitur: quod tunc in ipso essent formaliter 
+        <lb ed="#V" n="39"/>actus contrarii: nego quia velle bonum et nolle malur: non 
+        <lb ed="#V" n="40"/>sunt actus contr irii: quia non sunt respectu eiusdem: et hoc 
+        <lb ed="#V" n="41"/>est euindens: quia anima christi est formaliter vols bonum 
+        <lb ed="#V" n="42"/>et formaliter nolens malum: et tamen ex hoc non sequitur: quod 
+        <lb ed="#V" n="43"/>in iona sint formaliteractus contrarii et non nisi: quia 
+        ta<lb ed="#V" n="44" break="no"/>les actus non sunt contrariis proprie loquendo: et per hoc 
+        <lb ed="#V" n="45"/>patet quid dicendum ad confirmationem. Ad primam 
+        di<lb ed="#V" n="46" break="no"/>co quod deus potest a nobis aliquo nomine proprio 
+        no<lb ed="#V" n="47" break="no"/>mnari: licet imperfecte. Et ad probationem be. aug. 
+        con<lb ed="#V" n="48" break="no"/>cedo: quod ineffabilis est deus. quia non potest a nobis per 
+        <lb ed="#V" n="49"/>fecte nominari: sicut loquitur ipse. Sed ex hoc non se 
+        <lb ed="#V" n="50"/>quitur quod non possit aliquo nomine simpliciter proprio imperfecte 
+        <lb ed="#V" n="51"/>nomiari. Secundam rationem concedo etc. 
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

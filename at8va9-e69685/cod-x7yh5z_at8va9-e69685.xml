@@ -1,0 +1,1471 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#AlphonsusVargas">Alphonsus Vargas Toletanus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2024-10-10">October 10, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-x7yh5z">Venice, 1490</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="114-r"/>
+            <cb ed="#V" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="at8va9-e69685"><!-- l1d17q1 -->
+            <head xml:id="at8va9-e69685-Hd1e101">Quaestio 1</head>
+            <head xml:id="at8va9-e69685-Hd1e103" type="question-title">Utrum charitas augeatur secundum esse</head>
+            <p xml:id="at8va9-e69685-d1e106">
+               <lb ed="#V" n="94"/>Am nunc accedamuo: etc. CTirca di. 
+      <lb ed="#V" n="95"/>¶u istam. 17. in qua magister principaliter agat. 
+      <lb ed="#V" n="96"/>de modo missionis spiritus sanctus per infusionem 
+      cha<lb ed="#V" n="97" break="no"/>ritatis: consueuit communiter queri de intensio 
+      <lb ed="#V" n="98"/>ue et remissione ipsius: iuxta quod 
+      quero<lb ed="#V" n="99" break="no"/>vtrum charitas augeatur secundum esse. 
+    </p>
+            <p xml:id="at8va9-e69685-d1e122">
+      Et videtur primo: quod sic: 
+      <lb ed="#V" n="100"/>quia charitas augeretur: et non secundum essentiam: igitur secundum esse: 
+      <lb ed="#V" n="101"/>consequentia est nota: quia nulla forma potest augeri nisi secundum essentiam 
+      <lb ed="#V" n="102"/>vel secundum essetans: quantum ad primam partem est. b. Aug. dicit 
+      <lb ed="#V" n="103"/>super Io. quod charitas meretur augeri: et aucta meretur. 
+      <lb ed="#V" n="104"/>perfici: quantum ad secundam partem patet: quia omnis 
+      forma<lb ed="#V" n="105" break="no"/>et sic charitas in simplici et inuariabili essentia: 
+      consi<lb ed="#V" n="106" break="no"/>stit secundum auctorem. 6. principiorum. 
+    </p>
+            <p xml:id="at8va9-e69685-d1e140">
+      Contra: vel esse 
+      cha<lb ed="#V" n="107" break="no"/>ritatis est idem realiter: quod essentia eius: vel est quedam 
+      <lb ed="#V" n="108"/>realitas distincta ab ipsa. Cum non sit nihil: si detur 
+      <lb ed="#V" n="109"/>primum cum charitas non augeatur secundum essentiam ex ratione 
+      peri<lb ed="#V" n="110" break="no"/>cedenti: igitur nec secundum esse: Si detur secundum idem sequitur: 
+      <lb ed="#V" n="111"/>quia esse non est minus simplex quam essentia: igitur si 
+      cha<lb ed="#V" n="112" break="no"/>ritas non potest augeri secundum essentiam propter simplicitatem 
+      <lb ed="#V" n="113"/>essentie. pari ratione nec secundum esse. In ista questione 
+      <lb ed="#V" n="114"/>erunt quatuor articuli. Primo ponam vnius 
+      termi<lb ed="#V" n="115" break="no"/>ni declarationem. Secundo quadruplicem conclusionem. 
+      Ter<lb ed="#V" n="116" break="no"/>tio mouebo dubia. Quarto respondebo. 
+    </p>
+            <div xml:id="at8va9-e69685-Dd1e165">
+               <head xml:id="at8va9-e69685-Hd1e167">Articulus 1</head>
+               <p xml:id="at8va9-e69685-d1e169">
+                  <lb ed="#V" n="117"/>Primus articulus. 
+        <lb ed="#V" n="118"/>QUantum ad primum. terminus declarandus est 
+        au<lb ed="#V" n="119" break="no"/>geri secundu esse: pro uius declaratione notandum 
+        <lb ed="#V" n="120"/>quod de esse charitatis: et cuiuskibet alterius forme 
+        ac<lb ed="#V" n="121" break="no"/>cidentalis diuersi sunt modi dicendi: 
+      </p>
+               <p xml:id="at8va9-e69685-d1e182">
+        quia quidam dicunt. 
+        <lb ed="#V" n="122"/>Sanctus thomas. 212. q. 14. articulo. 5. Et eg indius e 
+        <lb ed="#V" n="123"/>1. di. 1. q. 8. ar. 
+        <lb ed="#V" n="124"/>d esse charitatis et cuiusibe alterius forme ac. 
+        <lb ed="#V" n="125"/>cidentalis non est aliud: quam suum in esse: et intimari 
+        subie<lb ed="#V" n="126" break="no"/>cto siue suum participari a subiecto: quod idem est. 
+        TRespo<lb ed="#V" n="127" break="no"/>sio eorum est: quia accidentis esse est in esse. cum accidentia 
+        <lb ed="#V" n="128"/>non sint entia nisi: quia entis. 7 meta. et sic accipiendo 
+        <lb ed="#V" n="129"/>esse charitatis: patet quod intellectus questionis est 
+        vtrum<lb ed="#V" n="130" break="no"/>charitas augeatur secundum quid magis inheret subiecto: 
+        <lb ed="#V" n="131"/>siue secundum maiorem partitionem et radicationem sui in 
+        subie<lb ed="#V" n="132" break="no"/>cto prout istis doctoribus videtur. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e208">
+                  <lb ed="#V" n="133"/>Gerardus de senis. 1. di. 17. q. 2. ar. d. 
+        <lb ed="#V" n="134"/>Quidam vero nouiores volentes declarare posi. 
+        e<lb ed="#V" n="135" break="no"/>tionem doc. nostri predictam: dicunt: quod esse forme substam. 
+        <lb ed="#V" n="136"/>tialis: secundum quod dicitur magis suscipere: est esfectus 
+        for<lb ed="#V" n="137" break="no"/>malis ipsiust forme qui nihil aliud est quam quidam mo¬
+        <pb ed="#V" n="114-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>dus derelicta a forma in suo subiecto: et licet iste modus 
+        <lb ed="#V" n="2"/>sit aliud distinctum a forma: tamen non est res medinta 
+        inter<lb ed="#V" n="3" break="no"/>subiectum et forma: sed tamntum modus quidam subiecti 
+        stan<lb ed="#V" n="4" break="no"/>tis sub forma et participantis eam: et si sic accipiatur esse 
+        <lb ed="#V" n="5"/>charitatis: patet quod intellectus questionis est vtrum ex vnio 
+        <lb ed="#V" n="6"/>ne charitatis cum anima derelinquatur in ipsa aliquis talis 
+        <lb ed="#V" n="7"/>modus realis intensibilis et remissibilis prout videtur 
+        <lb ed="#V" n="8"/>istis: et hoc de primo. 
+      </p>
+            </div>
+            <div xml:id="at8va9-e69685-Dd1e244">
+               <head xml:id="at8va9-e69685-Hd1e246">Articulus 2</head>
+               <p xml:id="at8va9-e69685-d1e248">
+        Secundus articulus. 
+        <lb ed="#V" n="9"/>QUantum ad secundum: pono quatuor conclusines: tres 
+        con<lb ed="#V" n="10" break="no"/>tra secundum modum dicendi tactum in ar. 
+        preceden<lb ed="#V" n="11" break="no"/>ti: et vnam contra primum. Prima est: quod ex colunctione 
+        <lb ed="#V" n="12"/>forme accidentalis ad subiectum non derelinquitur aliquis 
+        <lb ed="#V" n="13"/>modus realis in subiecto: qui non sit idem realiter cum 
+        essen<lb ed="#V" n="14" break="no"/>tia forme. nec res medians inter subiectum et forma. 
+        <lb ed="#V" n="15"/>Pro deductione istius conclusionis: pono duas 
+        propsitio<lb ed="#V" n="16" break="no"/>nes. Prima est quod omnis modus realis cuiuscumque rei: est 
+        <lb ed="#V" n="17"/>aliqua res: hanc probo sic: omnis talis modus est 
+        ali<lb ed="#V" n="18" break="no"/>quid et ens: et nullus talis modus est ens rationis: igitur 
+        <lb ed="#V" n="19"/>omnis talis modus est aliqua res: antecedens quantum ad primam 
+        <lb ed="#V" n="20"/>partem patet: quia nullus est omnino nihil: patet etiam quo 
+        <lb ed="#V" n="21"/>ad secundam: quia si aliquis esset ens rationis: iam non esset modus 
+        re<lb ed="#V" n="22" break="no"/>alis: quod est contra positum: consequentia probatur: quia omne ens reale est 
+        <lb ed="#V" n="23"/>aliqua res: nec aliud intelligo nomen rei: et si 
+        docto<lb ed="#V" n="24" break="no"/>res isti aliquid intelligunt non disputant nisi de 
+        nomi<lb ed="#V" n="25" break="no"/>nibus tantum: sed omne quod est et non est ens rationis: est verum ens 
+        <lb ed="#V" n="26"/>reale: vt patet: ergo. Secundo sic: nullus talis modus est 
+        mi<lb ed="#V" n="27" break="no"/>noris entitatis: quam sit relatio realis in creaturis: igitur omnis 
+        <lb ed="#V" n="28"/>est aliqua res: consequentia patet: quia relatio realis in 
+        creatu<lb ed="#V" n="29" break="no"/>ris est aliqua res: antecedens est de se clarum cum relatio in 
+        <lb ed="#V" n="30"/>creaturis sit minime entitatis: vt patet per comentatorem. 12. 
+        <lb ed="#V" n="31"/>meta. Et confirmatur: quia modus rei non est minoris rea 
+        <lb ed="#V" n="32"/>litatis. quam sit relatio distinctionis qua distinguitur ab 
+        alio<lb ed="#V" n="33" break="no"/>modo: que tamen est aliqua res. Tertio patet: hoc idem 
+        <lb ed="#V" n="34"/>auctoritate illa vulgata. Aug. primo de doctri. christiana 
+        <lb ed="#V" n="35"/>dicit. Quod vna res est: omnino nihil est: et auctoritate an 
+        <lb ed="#V" n="36"/>shel. de incar. verbi. c. 2. Solemus dicere rem quic 
+        <lb ed="#V" n="37"/>quid dicimus esse aliquo modo aliquid. Et hoc iste 
+        do<lb ed="#V" n="38" break="no"/>ctor: concedit expresse vbi supra in solutione cuiusdam 
+        <lb ed="#V" n="39"/>argumenti respondendo ad auctoritatem. b. Aug. statim 
+        al<lb ed="#V" n="40" break="no"/>legatam: igitur etc. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e320">
+        Secunda propositio est: quod ex coniunctione. 
+        <lb ed="#V" n="41"/>forme accidentalis ad substaniectum: non derelinquitur aliquis 
+        <lb ed="#V" n="42"/>modus realis in subiecto qui sit idem realiter cum ipso: 
+        <lb ed="#V" n="43"/>et quia propositionem istam negant doc. isti de plano 
+        probo<lb ed="#V" n="44" break="no"/>eam multipliciter: 
+      </p>
+               <p xml:id="at8va9-e69685-d1e331">
+        Primo sic: Si ex coniunctione forme 
+        acci<lb ed="#V" n="45" break="no"/>dentalis cum subiecto derelinqueretur aliquis talis 
+        <lb ed="#V" n="46"/>modus realis in ipso: subiectum recipiens forma: esset 
+        <lb ed="#V" n="47"/>effectus formalis illius forme: quod est omnino impossibile 
+        <lb ed="#V" n="48"/>aliter materia esset effectus formalis quantitatis: et anima esset 
+        <lb ed="#V" n="49"/>effectus formalis charitatis ipsam informantis: quod 
+        nul<lb ed="#V" n="50" break="no"/>lus sane mentis diceret: consequentia probatur: per sillogissimum ex 
+        <lb ed="#V" n="51"/>positorium sic. hic modus derelictus a forma in 
+        subie<lb ed="#V" n="52" break="no"/>cto est effectus formalis illius forme per eos: hoc 
+        su<lb ed="#V" n="53" break="no"/>biectum est hic modus ex supposito: igitur etc. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e353">
+        Secundo 
+        <lb ed="#V" n="54"/>sic: si ex coniunctione forme cum subiecto derelinqueretur 
+        <lb ed="#V" n="55"/>etc: Sequitur quod idem erit prius et posterius seipso realiter 
+        <lb ed="#V" n="56"/>quod est impossibile: et contra. b: Aug. 1. de tri. c. 1. consequentia patet: 
+        <lb ed="#V" n="57"/>quia quicquid est prius priore: est prius posteriore. Sed 
+        <lb ed="#V" n="58"/>subiectum est realiter prius forma ipsum informante: cum 
+        <lb ed="#V" n="59"/>sit receptiuum ipsius: et forma est realiter prior isto modo: cum 
+        <lb ed="#V" n="60"/>sit effectus formalis ipsius: et derelictus ab ipsa: 
+        igi<lb ed="#V" n="61" break="no"/>tur subiectum est realiter prius tali modo: tunc sic: vel subiectum 
+        <lb ed="#V" n="62"/>et modus iste sunt idem realiter: vel non. Si non habetur 
+        <lb ed="#V" n="63"/>principalis conclusio: si sic: patet: quod idem est prius et 
+        po<lb ed="#V" n="64" break="no"/>sterius seipso realiter: que fuit consequentia declaranda. Et 
+        po<lb ed="#V" n="65" break="no"/>test ex istis argui ad principale sic: hoc subiectum: de 
+        <lb ed="#V" n="66"/>mostrato quocumquem subiecto: est realiter prius hac 
+        for<lb ed="#V" n="67" break="no"/>ma informante ipsum. hic modus derelictus a forma: etiam 
+        <lb ed="#V" n="68"/>supposito: quod aliquis sit talis: non est realiter prior 
+        ea<lb ed="#V" n="69" break="no"/>de forma. igitur hmo modus non est realiter hoc subiectum:
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>quod est praencipale propositum. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e396">
+        Tertio sit: illud non est idem 
+        <lb ed="#V" n="71"/>realiter alicui sine quo potest illud realiter esse absquem 
+        con<lb ed="#V" n="72" break="no"/>tradictione: sed sine modo derelicto a forma in 
+        subie<lb ed="#V" n="73" break="no"/>cto: subiectum potest realiter esse absquam contradictione: ergo 
+        <lb ed="#V" n="74"/>maior patet per primum principium complexum: minor est 
+        <lb ed="#V" n="75"/>euidens: quia anima potest realiter esse sine charitate. igitur et 
+        <lb ed="#V" n="76"/>sine modo in ipsa derelicto ex charitate. Et confirmatur: 
+        <lb ed="#V" n="77"/>quia hec anima non potest esse hac anima non existente: sed hec anima 
+        <lb ed="#V" n="78"/>potest esse hoc modo derelicto in ipsa a charitate non 
+        exi<lb ed="#V" n="79" break="no"/>stente: igitur hic modus non est hec anima: et similiter potest 
+        ar<lb ed="#V" n="80" break="no"/>gui in aliis Ultimo arguitur sic: illa non sunt idem 
+        reali<lb ed="#V" n="81" break="no"/>ter: quorum vnum potest intendi realiter et de facto 
+        inten<lb ed="#V" n="82" break="no"/>ditur altero non intenso: patet exterminis: sed modus 
+        <lb ed="#V" n="83"/>iste potest realiter intendi et de facto intenditur secundum istum 
+        <lb ed="#V" n="84"/>doc. subiectam autem non: erg etc. His 
+        proposi<lb ed="#V" n="85" break="no"/>tionibus premissis patet conclusio principalis: quia vel ex 
+        <lb ed="#V" n="86"/>cdoniunctione forme ad subiectum derelinquitur aliquis 
+        mo<lb ed="#V" n="87" break="no"/>dus realis in subiecto: vel non: si non: euidens est conclusio: 
+        <lb ed="#V" n="88"/>si sic: cum talis modus sit aliqua res: vt patet ex 
+        pri<lb ed="#V" n="89" break="no"/>ma propositione: et non sit aliqua res que est subiectum 
+        <lb ed="#V" n="90"/>vt patet ex secunda: relinquitur quod illud sit idem realiter 
+        cu<lb ed="#V" n="91" break="no"/>forma: vel res medians inter subiectum et forma: quod 
+        <lb ed="#V" n="92"/>est propositum. ergo. Secunda conclusio principalis: dato per 
+        <lb ed="#V" n="93"/>impossibile: quod ex coniunctione forme accidentalis ad 
+        su<lb ed="#V" n="94" break="no"/>biectum derelinquatur aliquis modus realis in 
+        subie<lb ed="#V" n="95" break="no"/>cto qui non sit idem realiter: quod essentia forme: nec res 
+        medi<lb ed="#V" n="96" break="no"/>ans inter subiectum et forma: quod talis modus 
+        dereli<lb ed="#V" n="97" break="no"/>ctus non est esse forme accidentalis a qua derelinquitur: 
+        <lb ed="#V" n="98"/>cuius oppositum istis doc. videtur. Probatur primo sic: 
+        subie<lb ed="#V" n="99" break="no"/>ctum forme accidentalis non est esse illius: igitur dato quod ex 
+        <lb ed="#V" n="100"/>coniunctione forme accidentalis ad subiectum 
+        derelinqua<lb ed="#V" n="101" break="no"/>tur in ipso aliquis modus realis: etc. talis non erit esse 
+        <lb ed="#V" n="102"/>forme accidentalis: consequentia est euidens: quia cum talis modus 
+        <lb ed="#V" n="103"/>derelictus: si ponatur sit aliqua res: vt patet ex prima 
+        pro<lb ed="#V" n="104" break="no"/>positione precedentis lsionis: etiam per eos: si non sit idem realiter 
+        <lb ed="#V" n="105"/>cum forma: nec res medians inter subiectum et formam 
+        <lb ed="#V" n="106"/>relinquitur quod sit idem realiter cum subiecto: et hoc ipsi 
+        con<lb ed="#V" n="107" break="no"/>cedunt de plano: antecedens probatur: licet nulli intelligenti 
+        debe<lb ed="#V" n="108" break="no"/>at esse dubium. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e481">
+        Primo: quia essentia forme non est prior 
+        for<lb ed="#V" n="109" break="no"/>ma: saltem aliqua forma accidentali: et constat: quod 
+        subie<lb ed="#V" n="110" break="no"/>ctum potest esse prius duratione saltem aliqua forma 
+        acci<lb ed="#V" n="111" break="no"/>dentali. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e490">
+        Secundo: quia nulla substantia est esse forme 
+        acci<lb ed="#V" n="112" break="no"/>dentalis: et tamen aliqui est subiectum ipsius. Tertio: quia 
+        su<lb ed="#V" n="113" break="no"/>biectum charitatis est anima siue voluntas et constat: quod nullum 
+        <lb ed="#V" n="114"/>istorum est charitas: ergo etc. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e499">
+        Tertio sic: et est quasi 
+        confir<lb ed="#V" n="115" break="no"/>matio siue declaratio precedentis rationis: nulla materia est 
+        <lb ed="#V" n="116"/>esse existentie quantitatis de quo nunc loquimur. Sed talis 
+        mo<lb ed="#V" n="117" break="no"/>dus derelictus a quantitate in ma: etiam posito: quod sit 
+        <lb ed="#V" n="118"/>possibilis non est nisi materia: igitur talis modus derelictus: etiam 
+        <lb ed="#V" n="119"/>si sit possibilis non est esse existentie quantitatis: minorem 
+        <lb ed="#V" n="120"/>ipsi concedunt expresse: et patet ex ratione precedenti. quia cum 
+        <lb ed="#V" n="121"/>talis modus: si ponatur sit aliqua res si non sit realiter 
+        qua<lb ed="#V" n="122" break="no"/>titas nec res medians inter quantitatem et materiam: relinqui 
+        <lb ed="#V" n="123"/>tur quod realiter sit ipsa maeio et minor videtur clara: tum: quia 
+        <lb ed="#V" n="124"/>quantitas potest existere sine matera: tum quia esse existentie quam 
+        <lb ed="#V" n="125"/>titatis vel non est res distincta a quantitate vel saltem non 
+        <lb ed="#V" n="126"/>est substantia: et materia est vere substantia: tum quia quod est 
+        pu<lb ed="#V" n="127" break="no"/>ra potentia in genere entium sicut est materia non est actualis existentia 
+        <lb ed="#V" n="128"/>forme: igitur etc. Tertio ex fundamentis docto. 
+        nostri<lb ed="#V" n="129" break="no"/>quem tamen ilte doc. credit defendere et declarare: aro. 
+        <lb ed="#V" n="130"/>sic: esse forme accidentalis non est aliud: quam suum inese et 
+        in<lb ed="#V" n="131" break="no"/>timari subiecto: vt patet ex positione doc. Sed talis 
+        <lb ed="#V" n="132"/>modus derelictus a forma in subiecto: etiam si 
+        pona<lb ed="#V" n="133" break="no"/>tur non est idem quod suum inesse et intimari subiecto. ergo 
+        proba<lb ed="#V" n="134" break="no"/>tur minor: quia talis modus derelictus est idem realiter 
+        <lb ed="#V" n="135"/>cum subiecto secundum istum doc. et constat: quod inherentia 
+        acci<lb ed="#V" n="136" break="no"/>dentis non est idem realiter cum subiecto cui inheret. 
+        Se<lb ed="#V" n="137" break="no"/>cundo quia talis inherentia accidentis est idem realiter 
+        <lb ed="#V" n="138"/>cum accidente: vt dicit vna opinio: vel saltem est modus
+        <pb ed="#V" n="115-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>accidentis: vt dicit etiam alia et talis modus 
+        dere<lb ed="#V" n="2" break="no"/>lictus a forma in subiecto non est idem realiter cum 
+        <lb ed="#V" n="3"/>forma secundum istum doc. nec est modus ipsius 
+        <lb ed="#V" n="4"/>forme. sed subiecti stantis sub forma. igitur. 
+        Ulti<lb ed="#V" n="5" break="no"/>mo sic: implicatio contradictionis est forma esse sine suo esse 
+        <lb ed="#V" n="6"/>sed non est implicatio contradictionis forma accidentalem esse 
+        <lb ed="#V" n="7"/>sine talte modo derelicto: etiam suppposito quod sit possibilis: igitur 
+        <lb ed="#V" n="8"/>modus ille non est eius esse: maior patet ex terminis: et 
+        <lb ed="#V" n="9"/>minor est clara: quia non est implicatio ipsam esse sine modo de 
+        <lb ed="#V" n="10"/>relicto ab ipsa in subiecto. ergo. Et confirmatur: quia sicut 
+        <lb ed="#V" n="11"/>se habet esse forme substantialis ad forma 
+        substan<lb ed="#V" n="12" break="no"/>tialem: sic esse forme accidentalis ad forma accidenta 
+        <lb ed="#V" n="13"/>lem. Sed esse forme substantialis non est modus 
+        dere<lb ed="#V" n="14" break="no"/>lictus ab ipsa in materia: etiam supposito: quod derelinquatur 
+        <lb ed="#V" n="15"/>de facto cum possit esse sine tali modo: sicut patet in anima 
+        <lb ed="#V" n="16"/>separata: igitur etc. Ex ista conclusione. et 
+        presertim<lb ed="#V" n="17" break="no"/>ex hac vltima ratione infero correlarie.
+      </p>
+               <p xml:id="at8va9-e69685-d1e595">
+                  <lb ed="#V" n="18"/>Contra sanctum thoma et doc. nostrum 
+        <lb ed="#V" n="19"/>Quod esse accidentalis non est suum inesse et intimari 
+        su<lb ed="#V" n="20" break="no"/>biecto: deductio est clara: quia forma accidentalis potest 
+        <lb ed="#V" n="21"/>esse et non esse: nec intimari subiecto cum possit esse sine ipsu 
+        <lb ed="#V" n="22"/>Et confirmatur. quia non magis inesse est esse accidentis: quam per 
+        <lb ed="#V" n="23"/>se esse sit esse substantie: sed per se esse non esse substantie: cum 
+        <lb ed="#V" n="24"/>substantia possit esse sine tali esse: sicut patet de natura 
+        hu<lb ed="#V" n="25" break="no"/>mana assumpta a verbo. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e615">
+        Tertia conclusio 
+        principa<lb ed="#V" n="26" break="no"/>lis est: etiam dato per impossibile: quod esse forme 
+        accidenta<lb ed="#V" n="27" break="no"/>lis sit talis modus derelictus ab ipsa in subiecto: quia 
+        <lb ed="#V" n="28"/>nulla forma intentionalis suscipit magis et minus: 
+        <lb ed="#V" n="29"/>quantum ad tale esse: 
+      </p>
+               <p xml:id="at8va9-e69685-d1e627">
+        Probatur primo sic: si albedo susci 
+        <lb ed="#V" n="30"/>peret magis et minus quantum ad tale esse: quantitas 
+        veri<lb ed="#V" n="31" break="no"/>us susciperet magis et minus: quam albedo: quod tamen est 
+        fal<lb ed="#V" n="32" break="no"/>sum et contra omnes: consequentia probatur: quia illud verius competit 
+        <lb ed="#V" n="33"/>quantitati: quam albedini: quod tamen competit ei quod est idem 
+        rea<lb ed="#V" n="34" break="no"/>liter cum quantitate: et non est idem realiter cum albedine: 
+        <lb ed="#V" n="35"/>patet ex terminis. sed stante supposito: sic esset in 
+        propost<lb ed="#V" n="36" break="no"/>to: igitur: probatur minor: quia suscipere magis et minus stam 
+        <lb ed="#V" n="37"/>te supposito tantum conuenit modo qui est effectus formalis 
+        <lb ed="#V" n="38"/>albedinis vt esse ipsius: et iste modus secundum istos doc. est 
+        <lb ed="#V" n="39"/>idem realiter cum quatitate que est subiectum albedinis: vt 
+        <lb ed="#V" n="40"/>differet realiter ab albedine: ergo etc. Et similiter potest 
+        ar<lb ed="#V" n="41" break="no"/>gui de charitate: quia si susciperet magis et minus 
+        quam<lb ed="#V" n="42" break="no"/>tum ad tale esse: sequeretur: quod anima vel voluntas verius 
+        <lb ed="#V" n="43"/>susciperet magis et minus: quam charitas: quod non videtur 
+        <lb ed="#V" n="44"/>sane dictum. Secundo sic: si albedo susciperet magis et 
+        <lb ed="#V" n="45"/>minus quantum ad tale esse: motus augmenti in 
+        albedi<lb ed="#V" n="46" break="no"/>ne non esset dealbatio: nec esset motus ad qualitatem sed 
+        <lb ed="#V" n="47"/>ad quantitatem: quod nullus diceret: consequentia probatur: quia 
+        mo<lb ed="#V" n="48" break="no"/>tus secundum doctrinam arist. et omnium phlsantium specificatur 
+        <lb ed="#V" n="49"/>a termino ad quem: sed in augmento albedinis 
+        termi<lb ed="#V" n="50" break="no"/>nus formalis est quantitas: non albedo nec qualitas 
+        ali<lb ed="#V" n="51" break="no"/>qua: stante supposito: igitur motus augmenti in 
+        albe<lb ed="#V" n="52" break="no"/>dine non erit motus ad qualitatem sed ad quantitatem: 
+        <lb ed="#V" n="53"/>nec erit per consequens dealbatio. probatur minor: quia in augmento 
+        al<lb ed="#V" n="54" break="no"/>bedinis: stante supposito: terminus formalis esset 
+        mo<lb ed="#V" n="55" break="no"/>dus ille derelictus ab albedine secundum determinatum 
+        <lb ed="#V" n="56"/>gradum. et hic modus vt docsunt isti doc. est idem. igitur cum 
+        quam<lb ed="#V" n="57" break="no"/>titate et differt realiter ab albedine et ab omni qualita 
+        <lb ed="#V" n="58"/>te: ergo etc. Et confirmantur iste due rationes sic: subiectum 
+        al<lb ed="#V" n="59" break="no"/>bedinis cum sit quantitas non suscipit magis et minus: 
+        <lb ed="#V" n="60"/>sed stante supposito: est realiter idem cum subiecto ipsius: vt 
+        <lb ed="#V" n="61"/>patet ex supradictis: igitur esse albedinis non suscepit 
+        <lb ed="#V" n="62"/>magis nec minus: nec per consequens albedo quatum ad 
+        tan<lb ed="#V" n="63" break="no"/>le esse: et idem videndum est de qualibet alia forma accidenta 
+        <lb ed="#V" n="64"/>tali. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e705">
+        Tertio ad principale: ex fundamentis istorum doc. 
+        <lb ed="#V" n="65"/>arguitur sic: qualitas non augetur secundum essentiam: igitur nec secundum 
+        <lb ed="#V" n="66"/>esse illud: antecedens suum est et consequentia probatur: quia sicut se habet modus 
+        <lb ed="#V" n="67"/>derelictus a quantitate ad quantitatem ipsam: ita modus 
+        <lb ed="#V" n="68"/>derelictus a qualitate ad qualitate: propositio patet 
+        <lb ed="#V" n="69"/>ex terminis: supposito quod tales modi ponantur: sed numquam
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>extensio que est modus quantitatis augmentatur nec 
+        <lb ed="#V" n="71"/>variatur: nisi varietur quantitas vt docet experientia: ergo 
+        <lb ed="#V" n="72"/>etc. Et confirmatur: quia effectus cause formalis nunquam 
+        <lb ed="#V" n="73"/>variatur nisi ex variatione cause. Sed iste modus 
+        qui<lb ed="#V" n="74" break="no"/>ponitur esse ipsius forme: est effectus cause formalis: igitur 
+        <lb ed="#V" n="75"/>non variatur: et per consequens non suscipit magis nec minus 
+        <lb ed="#V" n="76"/>nisi varietur forma: minor est sua: maior probatur: quia 
+        <lb ed="#V" n="77"/>omnis variatio est effectiue ab aliquo agente: ergo quando agens 
+        <lb ed="#V" n="78"/>variat modum derelictum ab albedine: vel variat ipsum 
+        <lb ed="#V" n="79"/>immediate vel variat ipsum variando albedinem. Si detur 
+        <lb ed="#V" n="80"/>secundum sequitur: quod albedo varietur in se et natura sua: quod est 
+        <lb ed="#V" n="81"/>propositum. Si detur primuisequitur: quod agens posset in el 
+        <lb ed="#V" n="82"/>fectum cause formalis sine causa formali media quod est 
+        im<lb ed="#V" n="83" break="no"/>possibile. Et confirmatur: quia per idem aliquid generatur et 
+        <lb ed="#V" n="84"/>augmentatur: sed agens non potest generare illum modum 
+        <lb ed="#V" n="85"/>nisi generando forma: igitur nec augmentari nisi 
+        augmen<lb ed="#V" n="86" break="no"/>tando ipsam 
+      </p>
+               <p xml:id="at8va9-e69685-d1e757">
+        Quarta conclusio est: quod impossibile est 
+        forman<lb ed="#V" n="87" break="no"/>accidental est et precise charitate intendi propter maiorem 
+        <lb ed="#V" n="88"/>radicationem et participationem subiecti: nisi sit 
+        intenst<lb ed="#V" n="89" break="no"/>bilis in natura sua Probat primo sic. Impossibile est 
+        forma<lb ed="#V" n="90" break="no"/>accidentalem intendi propter maiorem dispositionem 
+        subiecti<lb ed="#V" n="91" break="no"/>nisi sit intensibilis in essentia et natura sua: igitur impossibile est 
+        <lb ed="#V" n="92"/>ipsam intendi propter maiorem radicationem et participationem 
+        <lb ed="#V" n="93"/>sui a subiecto nisi sit intensibilis: etc. consequentia est nota: quia non 
+        <lb ed="#V" n="94"/>maior vel minor participatio forme nisi propter maiorem vel 
+        <lb ed="#V" n="95"/>minorem dispositionem subiecti: vt docnunt tenentes 
+        op<lb ed="#V" n="96" break="no"/>positum: Antecedens autem a quo dependet tota deductio 
+        pro<lb ed="#V" n="97" break="no"/>batur multipliciter: primo quia cum illa dispositio sit forma 
+        quae<lb ed="#V" n="98" break="no"/>dam intensibilis et remissibilis: cum possit esse maior vel 
+        <lb ed="#V" n="99"/>minor vel intenditur secundum essentiam suam et habetur propositum: quia 
+        <lb ed="#V" n="100"/>pari ratione et alia forma intensibilis quecumque intenditur 
+        <lb ed="#V" n="101"/>secundum essentiam: vel intenditur secundum esse propter aliam maiorem 
+        dis<lb ed="#V" n="102" break="no"/>positionem subiecti ad ipsam et de illa: queram vt prius: 
+        <lb ed="#V" n="103"/>et proceditur in infinitum in dispositionibus istis: quod est 
+        in<lb ed="#V" n="104" break="no"/>conueniens: vel est deuenire ad aliquam quae secundum suam essentiam 
+        <lb ed="#V" n="105"/>intenditur et habetur vt prius. Et confirmatur specialiter de 
+        cha<lb ed="#V" n="106" break="no"/>ritate: quia cum dispositio illa qua magis disponimur 
+        ad<lb ed="#V" n="107" break="no"/>charitatem non sit voluntas: nec substantia ipsius: quia voluntas vel 
+        <lb ed="#V" n="108"/>substantia vnius anime non magis disponit quantum est de se ad 
+        cha<lb ed="#V" n="109" break="no"/>ritatem: quam voluntas vel substantia alterius erit dispositio quae 
+        <lb ed="#V" n="110"/>dam voluntati vel anime superaddita: quo posito quero 
+        <lb ed="#V" n="111"/>an sit dispositio naturalis et naturaliter acquisita vel 
+        superna<lb ed="#V" n="112" break="no"/>lis et infusa. Si detur primum: sequitur: quod ex puris naturalibus 
+        <lb ed="#V" n="113"/>possumus charitate intendere et simpliciter 
+        mere<lb ed="#V" n="114" break="no"/>ri quod est error pelagii: Si detur secundum: queram vt prius 
+        <lb ed="#V" n="115"/>an talis dispositio intendatur secundum essentiam: et habetur 
+        pro<lb ed="#V" n="116" break="no"/>positum: quia pari ratione poterat charitas intendi secundum 
+        <lb ed="#V" n="117"/>essentiam: cum sit quedam forma supernaturalis et infusa: vel 
+        <lb ed="#V" n="118"/>solum secundum esse propter aliam maiorem dispositionem subiecti: et 
+        <lb ed="#V" n="119"/>de illa: queram vt prius: et proceditur in infinitum: vel 
+        <lb ed="#V" n="120"/>erit deuenire: etc. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e833">
+                  <lb ed="#V" n="121"/>Comas de argentina. 1. di. 17. q. 2. ar. 2. 
+        <lb ed="#V" n="122"/>Sed ad istam rationem in suo simili quidam doc. noster 
+        ni<lb ed="#V" n="123" break="no"/>titur respondere dicit quod quamuis illud argumentum. aliquam apparenti 
+        <lb ed="#V" n="124"/>am habeat de aliis accidentibus magis et minus 
+        su<lb ed="#V" n="125" break="no"/>sceptibilibus via naturali de charitate tamen et gratia 
+        <lb ed="#V" n="126"/>ceterisque virtutibus a deo per creationem infusis 
+        ni<lb ed="#V" n="127" break="no"/>hil concludit: quia omnem talem formam deus potest secundum 
+        ma<lb ed="#V" n="128" break="no"/>gis et minus intimare subiecto nulla preuia 
+        requisi<lb ed="#V" n="129" break="no"/>ta dispositione: ita quod eadem essentia charitatis 
+        indiuisi<lb ed="#V" n="130" break="no"/>bilis secundum gradus essentiales secundum: quod magis a suo 
+        crea<lb ed="#V" n="131" break="no"/>tore intimatur subiecto et intimius radicatur in eo secundum h 
+        <lb ed="#V" n="132"/>dat magis et nobilius esse subiecto et magis 
+        partici<lb ed="#V" n="133" break="no"/>patur a subiecto. Sed quantum ad susceptione magis 
+        <lb ed="#V" n="134"/>et minus prout est in rebus naturalibus respondet iste doc. 
+        si<lb ed="#V" n="135" break="no"/>cut et doc. noster: secundo suo quolibet. q. 14 dicit quod 
+        inten<lb ed="#V" n="136" break="no"/>sio et remissio que est in secundis qualitatibus reduci 
+        <lb ed="#V" n="137"/>tur vlterius in intensionem et remissionem que est 
+        rari<lb ed="#V" n="138" break="no"/>tate et densitate. hec autem que est in raro et denso non
+        <pb ed="#V" n="115-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>reducitur vlterius in aliquam accidentalem 
+        dispositio<lb ed="#V" n="2" break="no"/>nem: sed immediate reducitur in partes quantitatiuas 
+        <lb ed="#V" n="3"/>materie: que est ex sua natura: hoc habent quod possunt 
+        <lb ed="#V" n="4"/>ab agente constringi: et sic intenditur densitas et possunt 
+        <lb ed="#V" n="5"/>ab eodem distendi et dilatari: et sic intenditur raritas: et 
+        <lb ed="#V" n="6"/>per hoc vt dicit iste doc. cessant multe cauillationes 
+        <lb ed="#V" n="7"/>que a modernis doc. inducuntur contra doc. nostrum 
+        <lb ed="#V" n="8"/>quia procedunt ex ignorantia illius solutionis. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e896">
+                  <lb ed="#V" n="9"/>Contra thomam de argentina. 
+        <lb ed="#V" n="10"/>Ista tamen solutio non valet propter duo. Primo quia in 
+        <lb ed="#V" n="11"/>primo puncto contradicit doc. nostro quem tamen credit de 
+        <lb ed="#V" n="12"/>tendere: secundo quia solutio doc. quam adducit in. 2. 
+        pun<lb ed="#V" n="13" break="no"/>cto non satis facit rationi. Primum istorum patet: quia doc. noster 
+        <lb ed="#V" n="14"/>in primo suo di. 17. q. 8. dicit expresse quod inherentia 
+        in<lb ed="#V" n="15" break="no"/>accidente maior et minor esse non potest nisi secundum maiorem 
+        <lb ed="#V" n="16"/>et minorem dispositionem subiecti: et in speciali loquens 
+        <lb ed="#V" n="17"/>de charitate sic ait. Et sicut est in aliis accidentibus 
+        <lb ed="#V" n="18"/>sic quantum ad aliquid est in charitate: nam quia nulla anima 
+        <lb ed="#V" n="19"/>est magis disposita ad susceptionem talis forme quam 
+        <lb ed="#V" n="20"/>alia: vel vna eadem est magis vno tempore 
+        disposi<lb ed="#V" n="21" break="no"/>ta: quam alio sequitur maior et minor charitatis susceptio: 
+        <lb ed="#V" n="22"/>hec doc: formaliter. Ex qubus eusdenter apparet quod 
+        cha<lb ed="#V" n="23" break="no"/>ritas sicut et qualibet alia forma intensiblis intenditur 
+        <lb ed="#V" n="24"/>secundum doc. et magis vel minus intimatur subiecto secundum 
+        ma<lb ed="#V" n="25" break="no"/>iorem vel minorem dispositionem ipsius: cuius oppositum 
+        <lb ed="#V" n="26"/>expresse asserit iste doc. Et confirmatur: quia vel iste 
+        do<lb ed="#V" n="27" break="no"/>ctor intelligit quod de facto sit in anima maior vel minor 
+        <lb ed="#V" n="28"/>charitatis susceptio nulla prima requisita 
+        disposi<lb ed="#V" n="29" break="no"/>tione ad eam: vel solum de possibili. Si detur por imum 
+        <lb ed="#V" n="30"/>patet quod contradicit doctori qui de facto dicit 
+        opposi<lb ed="#V" n="31" break="no"/>tum Si detur secundum: non soluitur ratio: quia quicquid sit de 
+        pos<lb ed="#V" n="32" break="no"/>sibili si de facto intenditur charitas propter maiorem 
+        dispo<lb ed="#V" n="33" break="no"/>sitionem subiecti: vel erit processus in infinitum in 
+        dis<lb ed="#V" n="34" break="no"/>positionibus istis: vel deuenietur ad aliquam que secundum 
+        <lb ed="#V" n="35"/>suam essentiam intenditur: quod est propositum: Secundum etiam 
+        per<lb ed="#V" n="36" break="no"/>Primo quia forme spirituales non solum infuse: sed etiam 
+        <lb ed="#V" n="37"/>acquisite existentes in anima rationali intenduntur et remit 
+        <lb ed="#V" n="38"/>tuntur: sicut patet de iustitia et similibus: tamen nulla est 
+        ra<lb ed="#V" n="39" break="no"/>ritas vel densitas: igitur saltem in talibus intensio et 
+        re<lb ed="#V" n="40" break="no"/>missio non potest reduci in raritatem et densitatem: et per 
+        <lb ed="#V" n="41"/>consequens in istis ratio est insolubilis. secundo quia non oportet et 
+        <lb ed="#V" n="42"/>in formis corporalibus quandocumque aliquod subiectum sit 
+        <lb ed="#V" n="43"/>magis vel minus tale: ipsum rarefiat vel condensetur 
+        <lb ed="#V" n="44"/>quod patet in multis. Primo: quia cum ferrum vel lapis 
+        ali<lb ed="#V" n="45" break="no"/>quis durissimus fit magis vel minus calidus: non est 
+        <lb ed="#V" n="46"/>necesse: quod rarefiat vel condensetur: aliter non posset 
+        <lb ed="#V" n="47"/>fieri magis vel minus calidus nisi maiorem vel mino 
+        <lb ed="#V" n="48"/>rem locum occuparet quam prius: quod non videtur 
+        verisimi<lb ed="#V" n="49" break="no"/>le. Secundo quia si lune vel alicui stellarum per diuinam 
+        <lb ed="#V" n="50"/>potentiam approquinquaretur aliquod corus potens 
+        eam<lb ed="#V" n="51" break="no"/>illuminare: quanto magis approquinquaretur: tam 
+        <lb ed="#V" n="52"/>to lumen eius magis intenderetur: et tamen ipsa non rare 
+        <lb ed="#V" n="53"/>fieret nec condensaretur: quia nec maiorem nec minorem 
+        <lb ed="#V" n="54"/>locum occuparent: quam prius. Tertio: quia cum 
+        lumen<lb ed="#V" n="55" break="no"/>intenditur in aere ab aliqua candela: non est necesse 
+        <lb ed="#V" n="56"/>ipsum rarefieri vel condensari: quia vel candela prius 
+        <lb ed="#V" n="57"/>vel saltem ita cito rarefacit vel condensat aerem: sicut 
+        <lb ed="#V" n="58"/>lumen intenditur in ipso vel prius lumen intenditur in aere 
+        <lb ed="#V" n="59"/>quam candela rarefaciet vel condenset ipsum Primum 
+        dari<lb ed="#V" n="60" break="no"/>no potest quia candela non rarefacit: nec condenset aerem 
+        <lb ed="#V" n="61"/>priusquam illuminat ipsum: nec ita cito intendit 
+        lumen<lb ed="#V" n="62" break="no"/>in aere sicut illuminat ipsum. Relinquitur ergo secundum 
+        <lb ed="#V" n="63"/>et sic propositum: quia in illo priori aererit magis lucidus 
+        <lb ed="#V" n="64"/>et tamen non rarefiet: nec condensabitur: ergo etc. Et 
+        <lb ed="#V" n="65"/>idem posset in multis aliis demonstrari: Exclusa igitur 
+        <lb ed="#V" n="66"/>solutione: deduco antecedens assumptum: secundo sic aer eodem 
+        <lb ed="#V" n="67"/>modo dispositus ad lumen perfectius illuminatura 
+        <lb ed="#V" n="68"/>sole quam a luna: igitur lumen non intenditur in ipso 
+        ma<lb ed="#V" n="69" break="no"/>gis propter maiorem dispositionem ipsius: consequentia est nota: et
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>antecedens docet experientia. igitur etc Et confirmatur: quia 
+        <lb ed="#V" n="71"/>si existente indiuisibili forma in natura sua subiectum: et 
+        <lb ed="#V" n="72"/>magis vel minus tale propter maiorem vel minorem 
+        dispo<lb ed="#V" n="73" break="no"/>sitionem illius ad illam: forma sequeretur: quod semper 
+        su<lb ed="#V" n="74" break="no"/>biectum minus dispositum ad aliquam forma et minus 
+        <lb ed="#V" n="75"/>tale dum perficitur per eam: et magis dispositum 
+        ma<lb ed="#V" n="76" break="no"/>gis tale: cuius oppositum patet ad sensum: quia posito 
+        <lb ed="#V" n="77"/>quod aer fit magis dispositus ad lumen in sui parte vna: quam 
+        <lb ed="#V" n="78"/>in alia: et quod candela parua esset lumen in parte magis 
+        <lb ed="#V" n="79"/>disposita causet et sol in parte minus disposita: 
+        pa<lb ed="#V" n="80" break="no"/>tet: quod minus disposita: qui illuminatur a sole erit 
+        mul<lb ed="#V" n="81" break="no"/>to luminosior: quam pars magis disposita que 
+        illumi<lb ed="#V" n="82" break="no"/>natur a candela: igitur etc. Et confirmatur vlterius: 
+        <lb ed="#V" n="83"/>quia si forma intenderetur pro pter dispositionem subiecti: ipsa 
+        <lb ed="#V" n="84"/>non intensa in natura sua in subiecto summe disposito de 
+        ne<lb ed="#V" n="85" break="no"/>cessitate erit forma in summo: cuius oppositum experitur 
+        <lb ed="#V" n="86"/>in aere: quia ipso existente summe disposito ad lucem non fit 
+        lu<lb ed="#V" n="87" break="no"/>minosius in summo: quacumque luce posita in ipso: igitur etc. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e1072">
+                  <lb ed="#V" n="88"/>Thomas de argenti na vbi supra 
+        <lb ed="#V" n="89"/>Sed ad istam rationem ex fundamentis doc nostri idem 
+        <lb ed="#V" n="90"/>doc. qui respondebat ad primum nititur respondere dicit quod 
+        <lb ed="#V" n="91"/>non est simile de luce et de aliis formis realibus de 
+        qui<lb ed="#V" n="92" break="no"/>bus ad praesens fit sermo: quia lumen intentionaliter est 
+        in<lb ed="#V" n="93" break="no"/>medio: quod probat: quia due intentiones solo 
+        nume<lb ed="#V" n="94" break="no"/>ro differentes in duabus candelis deriuate possunt 
+        <lb ed="#V" n="95"/>simul esse in eadem parte medii: et quia talia intentionalia de 
+        <lb ed="#V" n="96"/>pendent totaliter ab agente: quia non solum in fieri sed 
+        <lb ed="#V" n="97"/>etiam in facto esse: et in conseruari dependent a suis 
+        pro<lb ed="#V" n="98" break="no"/>ductiuis hinc est: quod afortiori agente puta a sole 
+        aer<lb ed="#V" n="99" break="no"/>minus dispositus potest magis illuminari quam a luna 
+        vi<lb ed="#V" n="100" break="no"/>a debiliori agente: aer prauior. est magis est dispositus 
+        <lb ed="#V" n="101"/>illuminetur. H inc est etiam quod plura lumina simils praesentia eidem 
+        <lb ed="#V" n="102"/>aeri magis illuminant eum quam vnum lumen: quorum omni et vt 
+        <lb ed="#V" n="103"/>dicut oppositum videmus in formis realibus. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e1110">
+                  <lb ed="#V" n="104"/>Contra thomam. 
+        <lb ed="#V" n="105"/>Hec tamen responsio est nulla: quia simile est deformis realibus 
+        <lb ed="#V" n="106"/>et de luce. tum quia ratio dissimilitudinis assignata non valibet 
+        <lb ed="#V" n="107"/>Primum istorum patet: quia quicquid dictum est: et potest dici de 
+        luce<lb ed="#V" n="108" break="no"/>post ex dici de calore quae tamen est forma realis: quia si est aer 
+        eo<lb ed="#V" n="109" break="no"/>dem modo dispositus ad lucem perfectius illuminatur a 
+        so<lb ed="#V" n="110" break="no"/>le: quam a luna. sic eodem modo dispositus ad calorem 
+        perfe<lb ed="#V" n="111" break="no"/>ctius calefit a sole quam a luna vel a parua candela vel 
+        <lb ed="#V" n="112"/>ab vno maximo igne: quam ab vno paruo carbone: 
+        sup<lb ed="#V" n="113" break="no"/>posita equali distantia vtriusque igitur non solum 
+        lumen<lb ed="#V" n="114" break="no"/>sed etiam calor non intenditur in aere propter maiorem 
+        disposi<lb ed="#V" n="115" break="no"/>tionem ipsius: antecedens et consequentia patent: vt prius: et sicut 
+        ar<lb ed="#V" n="116" break="no"/>gutum est de vno calefactibili: potest etiam argui de duo 
+        <lb ed="#V" n="117"/>bus: quia posito quod sint duo calefactibilia per omnia equa 
+        dis<lb ed="#V" n="118" break="no"/>posita: et vnum ponatur iuxta vnum magnum igne: 
+        <lb ed="#V" n="119"/>et vnum iuxta vnum paruum carbonem non obstante 
+        dis<lb ed="#V" n="120" break="no"/>positionis equalitate in eis illud: quod calefit a 
+        maxi<lb ed="#V" n="121" break="no"/>mo igne erit calidius alio. Et confirmatur de calore 
+        <lb ed="#V" n="122"/>sicut de luce: quia si calore existente indiuisibili in 
+        natu<lb ed="#V" n="123" break="no"/>ra sua: subiectum erit magis vel minus calidum propter 
+        <lb ed="#V" n="124"/>maiorem dispositionem ipsius ad calorem: sequeretur 
+        <lb ed="#V" n="125"/>quod semper subiectum minis dispositum ad calorem 
+        <lb ed="#V" n="126"/>erit minus calidum dum informatur calore: et magis 
+        <lb ed="#V" n="127"/>dispositum magis calidum: cuius oppositum 
+        expe<lb ed="#V" n="128" break="no"/>rimur: quia si aer sit magis dispositus ad calorem 
+        in<lb ed="#V" n="129" break="no"/>vna sui parte quam in alia: et candela parua causet 
+        ca<lb ed="#V" n="130" break="no"/>lorem in parte magis disposita: et fol vel maximus ignis 
+        <lb ed="#V" n="131"/>positus in equali distantia in parte minus 
+        disposi<lb ed="#V" n="132" break="no"/>ta non est dubium quod pars minus disposita que 
+        cale<lb ed="#V" n="133" break="no"/>fit a sole vel maximo igne esset multo calidior alia: 
+        <lb ed="#V" n="134"/>igitur. Et similiter potest reduci secunda ratio: quia 
+        si<lb ed="#V" n="135" break="no"/>calor intenderetur propter maiorem dispositionem 
+        su<lb ed="#V" n="136" break="no"/>biecti ipso non intenso in natura sua: in subiecto sum 
+        <lb ed="#V" n="137"/>me disposito per necessitatem erit calor in summo: quod 
+        <lb ed="#V" n="138"/>tamen est salsum: quia posito quod aer sit summe dispositus
+        <pb ed="#V" n="116-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>ud calorem adhuc non fit calidus in summo quocunque 
+        <lb ed="#V" n="2"/>calore posito in ipso: quia si calefiat ab vno paruo 
+        <lb ed="#V" n="3"/>carbone non fiet calidus in summo: quia adhuc calidior 
+        <lb ed="#V" n="4"/>fieret ab vno maximo igne simul cum carbone: vel 
+        <lb ed="#V" n="5"/>si carbo ille magis approximaretur sibi. Sed ad 
+        <lb ed="#V" n="6"/>hec iste doc. conatur respondere: ad illud quidem 
+        de<lb ed="#V" n="7" break="no"/>duobus calefactibilibus per omnia eque dispositis 
+        <lb ed="#V" n="8"/>dicit: quod predicto ca su posito. quamuis talia passa in 
+        <lb ed="#V" n="9"/>principio sint eodem modo disposita: perseuerante 
+        <lb ed="#V" n="10"/>tamen actione predictorum agentium circa 
+        huiusmo<lb ed="#V" n="11" break="no"/>di passa immedia: e fit difformis dispositio: quia ille 
+        ma<lb ed="#V" n="12" break="no"/>ximus ignis ratione sui predominii supertale passum 
+        <lb ed="#V" n="13"/>velociter disponit ipsum et intense: propter quod tale paset 
+        <lb ed="#V" n="14"/>sum quamuis non recipiat plures gradus caliditatis 
+        <lb ed="#V" n="15"/>quantum ad essentiam: quam aliud passum: illa tamen 
+        ca<lb ed="#V" n="16" break="no"/>liditas tribuit sibi magis esse calidum ratione maioris 
+        <lb ed="#V" n="17"/>dispositionis inducte per actionem ipsius ignis ipsum 
+        <lb ed="#V" n="18"/>alterantis. Et ex his patet satis: quid iste doc. 
+        di<lb ed="#V" n="19" break="no"/>ceret ad rationem prinicipalem et prim am 
+        confirmatio<lb ed="#V" n="20" break="no"/>nem. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e1236">
+        Ad secundam vero confirmationem dicit: quod 
+        aer<lb ed="#V" n="21" break="no"/>vel quocumque alio subiecto existente summe disposito 
+        <lb ed="#V" n="22"/>ad calorem: carbo ita perfectum calorem non 
+        cau<lb ed="#V" n="23" break="no"/>saret in ipso sicut maximus ignis: immo vna sola scintilla 
+        <lb ed="#V" n="24"/>continges talem materiam sumum calorem induceret 
+        <lb ed="#V" n="25"/>in eam: sicut ad sensum videmus de scintilla excussa 
+        <lb ed="#V" n="26"/>de lapide si cadat in fauillam extinctam vel in aliam 
+        <lb ed="#V" n="27"/>escam sufficienter dispositam. Iste tamen euasio 
+        <lb ed="#V" n="28"/>nes non euacuant rationes: non quidem prima: quia illa duo 
+        <lb ed="#V" n="29"/>passa in principio sint eodem modo disposita: et 
+        ta<lb ed="#V" n="30" break="no"/>men in principio non sunt equaliter calida: quia pro qua 
+        <lb ed="#V" n="31"/>cunque mensura: quod calefit a maximo igne est 
+        cali<lb ed="#V" n="32" break="no"/>dus eo: quod calefit a paruo carbone: supposita 
+        equali<lb ed="#V" n="33" break="no"/>tate distantie et dispositionis. Et confirmatur: quia 
+        <lb ed="#V" n="34"/>illa duo passa que ponuntur in principio eodem modo 
+        <lb ed="#V" n="35"/>disposita vel sunt eodem modo disposita per aliquod 
+        <lb ed="#V" n="36"/>tempus: vel per aliquod instans: non quidem per instas 
+        <lb ed="#V" n="37"/>quia esset dare vltimum in quo essent eodem modo 
+        dis<lb ed="#V" n="38" break="no"/>posita: tum quia actio istorum argentum ratione cuius fit 
+        <lb ed="#V" n="39"/>difformis dispositio fit in tempore non in instanti: 
+        igi<lb ed="#V" n="40" break="no"/>tur per aliquod tempus et pro nullo tempore sunt 
+        equa<lb ed="#V" n="41" break="no"/>liter calida: quod est propositum. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e1284">
+        Preterea: vel illa 
+        <lb ed="#V" n="42"/>duo passa pro mensura illa pro qua ponuntur eodem 
+        <lb ed="#V" n="43"/>modo disposita equaliter calefiant a maximo et a 
+        <lb ed="#V" n="44"/>paruo carbone: vel non Si non: propositum. Si sic: 
+        igi<lb ed="#V" n="45" break="no"/>tur igins non magis disponit ad calor est passum in quod 
+        a<lb ed="#V" n="46" break="no"/>git: quam carbo: quia in subiectis equaliter dispositis: e 
+        <lb ed="#V" n="47"/>liter calefaciendo non possunt inequales 
+        dispositio<lb ed="#V" n="48" break="no"/>nes inducere: cum nullum istorum inducat 
+        dispositio<lb ed="#V" n="49" break="no"/>nem ad cabrem in passo nisi calefaciat ipsum: nec per 
+        <lb ed="#V" n="50"/>consequens maiorem nisi magis calefaciat Et confirmatur 
+        <lb ed="#V" n="51"/>quia ex quo pro illa mensura in qua huiusmodi passa 
+        <lb ed="#V" n="52"/>ponuntur eodem modo disposita: magnus ignis non 
+        ma<lb ed="#V" n="53" break="no"/>gis calefacit nec maiorem calorem inducit in passo: quam 
+        <lb ed="#V" n="54"/>carbo: nec potest assignari ratio cur magis disponat 
+        <lb ed="#V" n="55"/>ipsum. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e1317">
+        Preterea: si ista solutio sit possibilis non 
+        opor<lb ed="#V" n="56" break="no"/>tebit eos dicere: quod non esset simile de formis realibus et 
+        <lb ed="#V" n="57"/>de luce: quia sicut nunc respondent de calore possent 
+        <lb ed="#V" n="58"/>etiam respondere de luce et dicere: quod aer eodem modo 
+        <lb ed="#V" n="59"/>dispositus ad lucem in principio perfectius illumine 
+        <lb ed="#V" n="60"/>tur sicut perfectius calefit a sole: quam a parua cande 
+        <lb ed="#V" n="61"/>la ratione maioris dispositionis inducte per actionem 
+        <lb ed="#V" n="62"/>solis ipsum alterantis. Et ad veritatem negare hoc 
+        <lb ed="#V" n="63"/>in vno et concedere in alio est ad placitum et sine 
+        ratio<lb ed="#V" n="64" break="no"/>ne loqui: patet igitur quod ista prima solutio non satisfacit: nec 
+        <lb ed="#V" n="65"/>secunda. Prima quia non magis repugnat subiecto 
+        sum<lb ed="#V" n="66" break="no"/>me disposito ad calorem magis et minus calefieri quam 
+        <lb ed="#V" n="67"/>subiecto summe disposito ad lucem magis et minus 
+        il<lb ed="#V" n="68" break="no"/>beinuari: et tamen secundum est possibile per eum: igitur pri¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="69"/>mu: etc. Secundo quia ad illam soluntionem sequitur 
+        <lb ed="#V" n="70"/>quod in calefactibili disposito summe ad calorem non solum 
+        <lb ed="#V" n="71"/>maximus ignis: sed etiam deus non posset 
+        perfe<lb ed="#V" n="72" break="no"/>ctiorem calorem producere: quam vna scintilla: quantumcumque 
+        <lb ed="#V" n="73"/>minima: quod non videtur bene dictum: consequentia patet: quia 
+        <lb ed="#V" n="74"/>talis scintilla vt dicit summum calorem induceret. 
+        <lb ed="#V" n="75"/>Tertio etiam posito: quod in calefactibili summe 
+        dispo<lb ed="#V" n="76" break="no"/>sito ad calorem per neccessitatem fit calor in summo: 
+        <lb ed="#V" n="77"/>quod est satis euidenter falsum: tum quia si infiniti ignes 
+        <lb ed="#V" n="78"/>essent non magis calefacerent: quam minimus carbo: 
+        <lb ed="#V" n="79"/>tum quia ignis magis approximatus non 
+        intende<lb ed="#V" n="80" break="no"/>ret calorem in ipso: que sunt satis euidenter 
+        absur<lb ed="#V" n="81" break="no"/>da. Adhuc tamen non videtur necessarium de qualibet 
+        <lb ed="#V" n="82"/>alia forma reali: quia posito quod aliqua potentia visiua 
+        <lb ed="#V" n="83"/>sit summe disposita ad videndum: adhuc non est neces 
+        <lb ed="#V" n="84"/>se eam habere visionem in summo: quia poterit in ipsa 
+        <lb ed="#V" n="85"/>magis vel minus intendi propter maiorem vel 
+        mi<lb ed="#V" n="86" break="no"/>norem claritatem medii vel distantiam obiecti: clari 
+        <lb ed="#V" n="87"/>us enim videbit si medium sit debite illuminatum: 
+        <lb ed="#V" n="88"/>et obiectum in proportionata distantia: quam si obiectum 
+        <lb ed="#V" n="89"/>magis distet: vel medium non sit illuminatum 
+        suffi<lb ed="#V" n="90" break="no"/>cienter. Exclusis igitur: istis solutionibus: patet: 
+        <lb ed="#V" n="91"/>quod simile est omnino de formis realibus et de luce: quod erat 
+        <lb ed="#V" n="92"/>primum deciarandum. Secundum vero probatur videlibet 
+        <lb ed="#V" n="93"/>quia ratio dissimilitudinis assignata in prima solutione 
+        <lb ed="#V" n="94"/>sit nulla: quia aer minus dispositus ad lucem: non 
+        <lb ed="#V" n="95"/>ideo magis illuminatur a sole: quam magis dispositus 
+        il<lb ed="#V" n="96" break="no"/>luminatur a luna: quia lux que in ipso causatur a 
+        sole<lb ed="#V" n="97" break="no"/>in facto esse et in conseruari dependet ab agente fortio 
+        <lb ed="#V" n="98"/>re sicut isti doctori videtur: quia posito: quod deus 
+        conser<lb ed="#V" n="99" break="no"/>uet immediate totum lumen causatum a sole in vna 
+        par<lb ed="#V" n="100" break="no"/>te aeris: et totum lumen causatum a luna in alia parte 
+        <lb ed="#V" n="101"/>sic quod nullum eorum dependeat amplius a sole vel a 
+        lu<lb ed="#V" n="102" break="no"/>na vel nulla alia mutatio fiet circa partes illas: ad 
+        <lb ed="#V" n="103"/>huc vna pars aeris erit lucidior alia: sicut prius: tamen 
+        <lb ed="#V" n="104"/>lux non conseruabitur in ea ab agente fortiore: quia 
+        in<lb ed="#V" n="105" break="no"/>vtraquoe parte conseruatur a solo deo: ex supposito: vel 
+        po<lb ed="#V" n="106" break="no"/>sito: quod solus deus conseruat immediate totum lumen 
+        cau<lb ed="#V" n="107" break="no"/>satum a luna in aliqua parte aeris nulla alia 
+        mutatio<lb ed="#V" n="108" break="no"/>ne luminis facta circa partem illam: adhuc pars aeris 
+        <lb ed="#V" n="109"/>cuius lux conseruatur a sole erit lucidior illa: et tamen 
+        <lb ed="#V" n="110"/>lux non conseruatur ab agente fortiore: immo a debiliori 
+        <lb ed="#V" n="111"/>quod ergo aer magis illuminetur a sole: non ideo est: quia 
+        lux<lb ed="#V" n="112" break="no"/>que causatur a sole conseruatur ab agente fortiore: sed quia 
+        <lb ed="#V" n="113"/>in se est maior intensiue. Improbata igitur illa 
+        <lb ed="#V" n="114"/>solutione deduco assumptum antecedens tertio sic: si 
+        forma<lb ed="#V" n="115" break="no"/>accidentalis intenderetur propter maiorem 
+        dispositio<lb ed="#V" n="116" break="no"/>nem subiecti ipsa non intensa in natura sua: sequeretur 
+        <lb ed="#V" n="117"/>quod forma substautialis esset intensibilis et 
+        remissibi<lb ed="#V" n="118" break="no"/>lis sicut accidentalis: quod est falsum et contra eos: 
+        con<lb ed="#V" n="119" break="no"/>sequentia videtur nota: quia subiectum siue materia 
+        for<lb ed="#V" n="120" break="no"/>me substantialis potest esse magis et minus 
+        disposi<lb ed="#V" n="121" break="no"/>ta ad illam formam substantialem: sicut subiectum siue 
+        <lb ed="#V" n="122"/>materia forme accidentalis ad formam 
+        accidenta<lb ed="#V" n="123" break="no"/>lem. Uidemus enim: quod aliqua corpora sunt magis 
+        <lb ed="#V" n="124"/>disposita ad animam: quam ad alia: et quod aliqua materia est 
+        <lb ed="#V" n="125"/>ad formam ignis magis disposita quam alia: et sic de 
+        mul<lb ed="#V" n="126" break="no"/>tis aliis: igitur etc. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e1476">
+        Secundo ad principale arguo sic: 
+        <lb ed="#V" n="127"/>si forma accidentalis intenderetur propter maiorem 
+        <lb ed="#V" n="128"/>radicationem sui in subiecto: ipsa non intensa in 
+        na<lb ed="#V" n="129" break="no"/>tura sua: semper forma magis radicata et firmius 
+        <lb ed="#V" n="130"/>inherens subiecto esset intensior forma minus 
+        radi<lb ed="#V" n="131" break="no"/>cata et debilius inherente: cuius oppositum patet ad 
+        <lb ed="#V" n="132"/>sensum: quia multotiens videmus quod rubor ex verecum 
+        <lb ed="#V" n="133"/>dia proueniens qui tamen est passio quedam faciliter de 
+        <lb ed="#V" n="134"/>libilis est in aliquo maior et intensior quam sit in alio cum 
+        <lb ed="#V" n="135"/>rubor naturalis qui est passibilis qualitas et 
+        ma<lb ed="#V" n="136" break="no"/>gis firmatus et radicatus in subiecto. Et idem vide¬
+        <pb ed="#V" n="116-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>mus de palledine procedente ex timore et de 
+        palledi<lb ed="#V" n="2" break="no"/>ne magis radicata subiecto qui est passibilis 
+        qua<lb ed="#V" n="3" break="no"/>litas in aliquo: quia multi fiunt subito pallidiores ex primo 
+        <lb ed="#V" n="4"/>quam aliqui sint ex secundo. Secundo sic: impossibile est 
+        <lb ed="#V" n="5"/>idem indiuisibile magis et minus ab aliquo 
+        partici<lb ed="#V" n="6" break="no"/>pari: igitur impossibile est formam intendi propter 
+        ma<lb ed="#V" n="7" break="no"/>iorem participationem subiecti: nisi sit intensibilis in 
+        <lb ed="#V" n="8"/>natura sua: consequent ia patet: quia si detur 
+        oppo<lb ed="#V" n="9" break="no"/>situm eadem forma indiuisibilis poterit ab aliquo 
+        ma<lb ed="#V" n="10" break="no"/>gis vel minus participari: quod repugnat 
+        antece<lb ed="#V" n="11" break="no"/>denti: et consequentia videtur clara: quia 
+        indiuisibi<lb ed="#V" n="12" break="no"/>le non potest nisi totum haberi: totum autem haberi et 
+        <lb ed="#V" n="13"/>magis et minus participari repsengnant. Ex ista 
+        <lb ed="#V" n="14"/>conclusione infero duas propositiones 
+        correlari<lb ed="#V" n="15" break="no"/>as. Prima est: quod charitas non augetur secundum esse: nisi 
+        <lb ed="#V" n="16"/>sit intensibilis secundum essentiam: supposito: quod esse 
+        charita<lb ed="#V" n="17" break="no"/>tis sit esse earum: quod dat suo subiecto: sicut esse 
+        albe<lb ed="#V" n="18" break="no"/>dinis dat esse album: sicut supradictis doctoribus 
+        vi<lb ed="#V" n="19" break="no"/>detur: Deductio istius propositionis est euidens: quia 
+        <lb ed="#V" n="20"/>charitas vel alia forma accidentalis: quecumque 
+        au<lb ed="#V" n="21" break="no"/>geretur secundum tale esse ipsa existente indiuisibili in natu 
+        <lb ed="#V" n="22"/>ra sua: vel hoc esset propter maiorem dispositionem 
+        <lb ed="#V" n="23"/>subiecti ad ipsam: vel esset propter maiorem 
+        parti<lb ed="#V" n="24" break="no"/>cipationem et radicationem ipsius in subiecto: quorum 
+        <lb ed="#V" n="25"/>quodlibet est impossibile: vt patet ex dictis. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e1559">
+        
+        Secun<lb ed="#V" n="26" break="no"/>da propositio est: quod charitas et vniuersaliter omnis 
+        <lb ed="#V" n="27"/>forma intensihilis augetur secundum essentiam: et hoc 
+        sequi<lb ed="#V" n="28" break="no"/>tur ex precedenti: quia constat quod charitas et 
+        vniuer<lb ed="#V" n="29" break="no"/>saliter omnis forma intensibilis augetur vel potest 
+        au<lb ed="#V" n="30" break="no"/>geri secundum esse: quod dat subiecto: quod non esset possibile 
+        <lb ed="#V" n="31"/>nisi augeretur secundum essentiam: vt patet ex 
+        precedenti<lb ed="#V" n="32" break="no"/>propositione. et hoc de secundo.
+      </p>
+            </div>
+            <div xml:id="at8va9-e69685-Dd1e1578">
+               <head xml:id="at8va9-e69685-Hd1e1580">Articuli 3 et 4</head>
+               <p xml:id="at8va9-e69685-d1e1582">
+                  <lb ed="#V" n="33"/>Tertius et quartus articulus 
+        <lb ed="#V" n="34"/>QUantum ad tertium et quartum articulos 
+        si<lb ed="#V" n="35" break="no"/>mul contra conclusiones istas mouenda et 
+        dis<lb ed="#V" n="36" break="no"/>soluenda sunt dubia: et primo contra primam doctor 
+        <lb ed="#V" n="37"/>ille noster contra quem est posita. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e1595">
+                  <lb ed="#V" n="38"/>Derardus vbi supra. 
+        <lb ed="#V" n="39"/>Probat tres conclusiones. Prima: quod 
+        subie<lb ed="#V" n="40" break="no"/>ctum vt stat sub forma quecunque sit illa sortitur quem 
+        <lb ed="#V" n="41"/>dam modum realem derelictum ab ipsa. Secunda est: quod 
+        <lb ed="#V" n="42"/>talis modus derelictus ab ipsa forma in subiecto non 
+        <lb ed="#V" n="43"/>est idem realiter quod essentia forme. Tertia est: quod ille 
+        mo<lb ed="#V" n="44" break="no"/>dus non est aliqua res medians inter subiectum et 
+        for<lb ed="#V" n="45" break="no"/>mam: et ex his vt patet euidenter sequitur oppositum 
+        con<lb ed="#V" n="46" break="no"/>clusionis mee. Primam conclusionem probat iste doc. 
+        <lb ed="#V" n="47"/>Primo sic: materia existens sub quantitate necessario sorti 
+        <lb ed="#V" n="48"/>tur quendam modum realem derelictum a quantitate: 
+        igi<lb ed="#V" n="49" break="no"/>tur subiectum existens sub forma quecumque sit illa 
+        neces<lb ed="#V" n="50" break="no"/>sario sortitur aliquem talem modum derelictum ab ipsa: 
+        con<lb ed="#V" n="51" break="no"/>sequentia videtur satis nota quia non est maior ratio de 
+        quam<lb ed="#V" n="52" break="no"/>titate. quam de alia forma quacumque: antecedens probatur: quia 
+        si<lb ed="#V" n="53" break="no"/>materia existens sub quantitate non sentiretur: etc. 
+        seque<lb ed="#V" n="54" break="no"/>retur quod non haberet aliquam partibilitatem 
+        intrinse<lb ed="#V" n="55" break="no"/>ce in sua natura: consequens est falsum: igitur et antecedens: 
+        con<lb ed="#V" n="56" break="no"/>sequentia patet: quia si materia sortitur intrinsece in 
+        <lb ed="#V" n="57"/>sua essentia partibilitatem ex ipsa quantitate 
+        sta<lb ed="#V" n="58" break="no"/>tim haberetur propositum: quia talis partibilitas 
+        <lb ed="#V" n="59"/>non est aliud: quam quidam modus realis derelictus a 
+        <lb ed="#V" n="60"/>quantitate: falsitas consequentis prabatur: quia si 
+        ma<lb ed="#V" n="61" break="no"/>teria remaneret impartibilis sub quantitate: 
+        sequaren<lb ed="#V" n="62" break="no"/>tur duo inconuenientia: primum est: quod partes illius 
+        <lb ed="#V" n="63"/>quantitatis essent sine subiecto. Secundum est: quod mate 
+        <lb ed="#V" n="64"/>ria non posset recipere diuersas formas nisi forte 
+        <lb ed="#V" n="65"/>velleturus dicere: quod diuerse forme reperiuntur in 
+        di<lb ed="#V" n="66" break="no"/>uersis partibus quantitatis et non materie: quod est 
+        ab<lb ed="#V" n="67" break="no"/>surdum. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e1663">
+        Preterea: si materia existens sub 
+        qua<lb ed="#V" n="68" break="no"/>cunque forma reali non sortiretur aliquem modum re¬
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="69"/>alem intrinsecum qui sit effectus formalis illius 
+        for<lb ed="#V" n="70" break="no"/>me: sequitur quod ipsa posita sub diuersis forminis simul: 
+        <lb ed="#V" n="71"/>fuccessiue esset eadem: non solum secundum essentiam: sed etiam 
+        <lb ed="#V" n="72"/>secundum esse: consequens est falsum: igitur et antecedens: falsitas consequentis 
+        pa<lb ed="#V" n="73" break="no"/>tet: per arist. primo de generatione vbi querens 
+        de<lb ed="#V" n="74" break="no"/>vnitate materie sub diuersis formis dicit: quod est 
+        ea<lb ed="#V" n="75" break="no"/>dem secundum essentiam et non secundum esse: consequentia probatur: quia 
+        <lb ed="#V" n="76"/>non potest dici: quod ibi per esse ipse arist. intelligat 
+        <lb ed="#V" n="77"/>ipsamet formas: quia tunc esset ibi petitio principii. natura 
+        <lb ed="#V" n="78"/>ide erit dicere materia existens sub diuersis formis est diuersa 
+        <lb ed="#V" n="79"/>secundum esse: et dicere et diuersa secundum formas: relinquitur ergo 
+        <lb ed="#V" n="80"/>quod ibi per se intelligat effectum formalem forme: qui 
+        <lb ed="#V" n="81"/>est modus ille realis de quo est sermo. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e1698">
+        Preterea 
+        <lb ed="#V" n="82"/>si non ponatur talis modus realis relinqui in materia ex 
+        qui<lb ed="#V" n="83" break="no"/>cunque forma: sequitur quod materia non sit magis 
+        perfe<lb ed="#V" n="84" break="no"/>cta sub forma quam sub priuatione: quod est euideter 
+        fal<lb ed="#V" n="85" break="no"/>sum: probatur consequentia: quia sicut substantia forme 
+        <lb ed="#V" n="86"/>non fit substantia materie: ita perfectio intrinseca: 
+        <lb ed="#V" n="87"/>et essentialis ipsius forme nunque fit intrinseca et 
+        essen<lb ed="#V" n="88" break="no"/>tialis ipsi materie. Si ergo materia existens sub 
+        for<lb ed="#V" n="89" break="no"/>ma non acquirat ex ea aliquam perfectionem 
+        sibi<lb ed="#V" n="90" break="no"/>intrinseam quam vocamus modum realisem: siue ef 
+        <lb ed="#V" n="91"/>fectu mforma lem forme non habebit aliquam per 
+        <lb ed="#V" n="92"/>fectionem propter illam: que est intrinseca et 
+        essen<lb ed="#V" n="93" break="no"/>tialis formen: per illam autem solam non potest dici magis 
+        <lb ed="#V" n="94"/>perfecta: quia illa est propria forma: quemadmodum 
+        <lb ed="#V" n="95"/>et sua substantia: qua propter sicut existens sine 
+        for<lb ed="#V" n="96" break="no"/>ma non dicitur magis substantia: quam existens sub 
+        pri<lb ed="#V" n="97" break="no"/>uatione: ita pari ratione existens sub forma non dicere 
+        <lb ed="#V" n="98"/>turmagis perfecta quam sub priuatione. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e1738">
+        Preterea 
+        <lb ed="#V" n="99"/>si ponatur quod forma non habeat aliquem effectum 
+        for<lb ed="#V" n="100" break="no"/>malem super materiam: quem vocamus modum 
+        re<lb ed="#V" n="101" break="no"/>alem sequitur: quod non habeat causalitat est cause 
+        for<lb ed="#V" n="102" break="no"/>malis respectu ipsius: quod patet esse falsum: quia cum 
+        <lb ed="#V" n="103"/>sit forma solius materie non haberet causalitatem 
+        <lb ed="#V" n="104"/>eause formalis nisi respectu ipsius: consequentia 
+        <lb ed="#V" n="105"/>probatur: quia causalitas forme supra materiam: 
+        <lb ed="#V" n="106"/>vel extendit se vsque ad substantiam materie vel vsque 
+        <lb ed="#V" n="107"/>ad aliquem effectum formalem derelictum a forma 
+        in<lb ed="#V" n="108" break="no"/>materia quem vocamus modum realem primum 
+        da<lb ed="#V" n="109" break="no"/>ri non potest: quia materia quantum ad substantiam praeuenit ipsam 
+        <lb ed="#V" n="110"/>sormam cum sit prior ea secundum originem: et ideo quantum ad 
+        <lb ed="#V" n="111"/>suam substantiam non potest subesse causalitati 
+        pri<lb ed="#V" n="112" break="no"/>us: relinquitur ergo secundum: et sic propositum. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e1771">
+        Preterea: 
+        <lb ed="#V" n="113"/>si non ponitur talis modus realis relinqui a forma in 
+        <lb ed="#V" n="114"/>materia sequitur: quod materia non variabitur in esse 
+        <lb ed="#V" n="115"/>specifico. per ipsam formam: quod patet esse falsum: 
+        <lb ed="#V" n="116"/>quia materia subaiecta alie et alie forme pertinet ad aliam et 
+        <lb ed="#V" n="117"/>aliam speciem: et per consequens variatur in esse 
+        spe<lb ed="#V" n="118" break="no"/>cifico: consequentia probatur: quia queratur de 
+        isto<lb ed="#V" n="119" break="no"/>esse specifico in quo variatur materia: vtrum sit ipsa 
+        <lb ed="#V" n="120"/>met forma: vel ipsamet materia vel aliquid 
+        dereli<lb ed="#V" n="121" break="no"/>ctum aforma in materia: non primum: quia cum esse 
+        <lb ed="#V" n="122"/>specificum sit esse substantiale: sicut substantia 
+        for<lb ed="#V" n="123" break="no"/>me est alia a substantia materie ita esse specificum 
+        <lb ed="#V" n="124"/>forme aliud ab esse specifico materie. Nec potest 
+        <lb ed="#V" n="125"/>dari secundum quod sit ipsamet ma quia cum materia sit 
+        incorruptibi<lb ed="#V" n="126" break="no"/>lis et inuariabilis: sequitur quod suum esse specificu erit 
+        <lb ed="#V" n="127"/>incorruptibile et inuariabile: quod patet esse falsum 
+        <lb ed="#V" n="128"/>Relinquitur ergo quod sit aliquid derelictum a 
+        forma<lb ed="#V" n="129" break="no"/>in materia et illud vocamus modum realem siue 
+        es<lb ed="#V" n="130" break="no"/>fectum formalem ipsius forme. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e1813">
+        Preterea si 
+        ta<lb ed="#V" n="131" break="no"/>lis modus ponatur: sequitur quod forma non magis 
+        <lb ed="#V" n="132"/>perficiat materiam: quam intelligentia celum: quod nullus 
+        du<lb ed="#V" n="133" break="no"/>bitat esse falsum: quia itelligentia sic perficit celum quod dat 
+        sibi<lb ed="#V" n="134" break="no"/>solum actum secundum: qui est motus vel operatio: 
+        forma<lb ed="#V" n="135" break="no"/>vero sic perficit materiam quod dat sibi actum omimum: qui est 
+        <lb ed="#V" n="136"/>esse: et secundum qui est operari: consequentia probatur: natura queritur
+        <pb ed="#V" n="117-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>quid sit iste actus primus quem dat forma materine: quia 
+        <lb ed="#V" n="2"/>vel est quidam effectus formalis forme: vel est ipsemet 
+        <lb ed="#V" n="3"/>actus substantialis forme Si detur primum: habetur 
+        propo<lb ed="#V" n="4" break="no"/>situm. Si detur secundum: dicetur stati quod sicut forma dat se 
+        <lb ed="#V" n="5"/>ipsam materie siue suum actum substantialem qui est idem quod 
+        <lb ed="#V" n="6"/>ipsa: ita intelligentia dat seipsam celo: et per consequens actum 
+        sub<lb ed="#V" n="7" break="no"/>stantialem qui est ipsa. Si ergo ex hoc solo quod forma dat 
+        <lb ed="#V" n="8"/>actum substatiale materie videtur sibi dare actum primum 
+        <lb ed="#V" n="9"/>qui est esse: pari ratione intelligentia dando celo seipam et 
+        <lb ed="#V" n="10"/>suum actum substantialem dicetur sibi dare actum primum qui est 
+        <lb ed="#V" n="11"/>esse: et per consequens non magis perficiet forma materiam quam 
+        intelligen<lb ed="#V" n="12" break="no"/>tia celum. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e1859">
+        Preterea: sequeretur quod actus secundus 
+        <lb ed="#V" n="13"/>qui est operari esset solius forme: ita quod nullo modo 
+        communica<lb ed="#V" n="14" break="no"/>retur materie: quod est euidenter falsum: cum operationes sint 
+        <lb ed="#V" n="15"/>totius compositi: vt patet primo de anima: consequentia probatur: quia 
+        <lb ed="#V" n="16"/>actus secundus praesupponit actum primum: et ideo nisi 
+        ma<lb ed="#V" n="17" break="no"/>teria acquirat a forma actum primum qui est esse et effectus 
+        <lb ed="#V" n="18"/>formalis forme nunquam erit simul cum forma ad 
+        princi<lb ed="#V" n="19" break="no"/>piandum actum secundum: qui est actus operari: et sic patet: vt 
+        <lb ed="#V" n="20"/>videtur isti doc. prima conclusio. Secundam vero probant 
+        <lb ed="#V" n="21"/>faciliter: quia nullus effectus est idem realiter quod sua 
+        cau<lb ed="#V" n="22" break="no"/>sa. Sed modus iste derelictus a forma est effectus 
+        <lb ed="#V" n="23"/>ipsius forme: igitur non est realiter cum ipsa: vel idem quod ipsa. 
+        <lb ed="#V" n="24"/>Tertiam etiam probat faciliter: quia si iste modus esset 
+        <lb ed="#V" n="25"/>aliqua res media inter subiectum siue inter materiam 
+        <lb ed="#V" n="26"/>et forma tunc esset questio de ista re: vtrum esset 
+        parti<lb ed="#V" n="27" break="no"/>cipata a subiecto mediante alia re: vel immediate. Si 
+        <lb ed="#V" n="28"/>dicatur quod immediate: pari ratione et forma poterit 
+        parti<lb ed="#V" n="29" break="no"/>cipari a subiecto immediate. Si vero dicatur quod mediam 
+        <lb ed="#V" n="30"/>te alia re: tunc iterum fiet questio de illa re: et fiet 
+        pro<lb ed="#V" n="31" break="no"/>cessus in infinitum: quod est inconueniens.
+      </p>
+               <p xml:id="at8va9-e69685-d1e1903">
+                  <lb ed="#V" n="32"/>Contra Terardum. 
+        <lb ed="#V" n="33"/>PNec opinio multa ponit: que communiter non tenentur: 
+        <lb ed="#V" n="34"/>nec credo esse vera: ad praesens eas discurrem non 
+        inten<lb ed="#V" n="35" break="no"/>do: quia non intendo pronunc inquirere: an ex coniunctione 
+        <lb ed="#V" n="36"/>forme cum materia: vel subiecto derelinquatur aliquis 
+        <lb ed="#V" n="37"/>modus realis in ipso. Sed solum ostendere quod talis 
+        mo<lb ed="#V" n="38" break="no"/>dus non est ponendus: vel si ponatur quod necessario est idem 
+        <lb ed="#V" n="39"/>realiter cum forma: vel res media inter subiectum et 
+        for<lb ed="#V" n="40" break="no"/>mam. Et istud videtur mihi satis euidens: quia vel iste 
+        mo<lb ed="#V" n="41" break="no"/>dus supposito quod derelinquatur a forma in subiecto: vel 
+        <lb ed="#V" n="42"/>in materia est aliqui entitas vel nulla. Si nulla: ergo 
+        ni<lb ed="#V" n="43" break="no"/>hil. Si aliqua: ergo realis vel rationis tantum: non rationis tantum: vt 
+        <lb ed="#V" n="44"/>patet per eos: ergo realis: quo posito arguo sic: hec 
+        <lb ed="#V" n="45"/>entitas realis demonstrata entitate modi praedicti: 
+        <lb ed="#V" n="46"/>vel est etiam realiter materia: vel est realiter forma: vel 
+        <lb ed="#V" n="47"/>nec realiter forma: nec materia: non potest dici quod sit 
+        <lb ed="#V" n="48"/>realiter materia: vt patet ex secunda propositone 
+        dedu<lb ed="#V" n="49" break="no"/>cta productione prime conclusionis mee. Relinquitur ex 
+        <lb ed="#V" n="50"/>go quod sit realiter forma: et sic habetur prima pars illius 
+        <lb ed="#V" n="51"/>conclusionis: vel quod nec sit realiter forma nec realiter 
+        <lb ed="#V" n="52"/>materia: et sic habetur secunda: quia entitatem illam 
+        realem<lb ed="#V" n="53" break="no"/>que non est realiter materia nec forma voco rem me 
+        <lb ed="#V" n="54"/>diam inter materiam et formam. Sed si doc. iste non vult 
+        <lb ed="#V" n="55"/>vocare hanc entitate rem: sed modum rei non curo: 
+        suf<lb ed="#V" n="56" break="no"/>ficit mihi quod modus iste si ponatur sit aliqua entitas 
+        <lb ed="#V" n="57"/>realis media inter materiam et forma: sic quod nec sit 
+        re<lb ed="#V" n="58" break="no"/>aliter materia: nec realiter forma: nec aliud 
+        intelli<lb ed="#V" n="59" break="no"/>go per conclusionem illam: nisi quod omnem talem entitatem ego 
+        <lb ed="#V" n="60"/>voco re. Forte dicetur: quod iste modus non est raliter 
+        <lb ed="#V" n="61"/>materia: nec realiter forma sed vtrumque: et ideo non se 
+        <lb ed="#V" n="62"/>quitur quod sit res media inter materiam et forma. Ista 
+        <lb ed="#V" n="63"/>tamen euasio si daretur destrueret posstionem: sicut patet 
+        <lb ed="#V" n="64"/>multipliciter. Primo: quia hoc posito modus ille non 
+        <lb ed="#V" n="65"/>esset vna entitas praecise sed plures: cuius oppositum in 
+        <lb ed="#V" n="66"/>tendit iste doc. noster: et cuius oppositum vna cum eis 
+        <lb ed="#V" n="67"/>ego suppono in deductione. Secundo: quia ipsimet 
+        con<lb ed="#V" n="68" break="no"/>cedunt: quod iste modus sit idem realiter cum maio. 
+        Ter<lb ed="#V" n="69" break="no"/>tio: quia materia et forma non sunt effectus formalis
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>ipsius: et iste modus est effectus formalis ipsius: vt 
+        <lb ed="#V" n="71"/>asserit iste doc. His premissis patet: quod quaelibet 
+        <lb ed="#V" n="72"/>illarum trium conclusionum sit falsa: manet ergo conclusio 
+        <lb ed="#V" n="73"/>mea: nec teneor respondere ad saluandam eam: nisi ad 
+        <lb ed="#V" n="74"/>rationes vnius conclusionis quecumque sit illa: verum quia omnes 
+        <lb ed="#V" n="75"/>rationes sunt solubiles vt mihi videtur: respondeo ad eas. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e2003">
+                  <lb ed="#V" n="76"/>Responsio ad rationes gerardi. 
+        <lb ed="#V" n="77"/>Ad primam: pro prima conclusione negetur antecedens: et ad 
+        <lb ed="#V" n="78"/>probationem: si intelligat quod ex antete negato: materia 
+        <lb ed="#V" n="79"/>non haberet aliquam partibilitatem intrinsece in sua 
+        essen<lb ed="#V" n="80" break="no"/>tia: et que sit de intrinseca ratione ipsius verum est: 
+        <lb ed="#V" n="81"/>quia nulla partibilitas est de intrinseca ratione ipsius 
+        <lb ed="#V" n="82"/>materie. Si vero intelligat quod ipsa materia secundum se non 
+        <lb ed="#V" n="83"/>esset partibilis: sed sola quantitas: nego consequentiam: ad 
+        pro<lb ed="#V" n="84" break="no"/>bationem quando dicitur: quod talis partibilitas non est 
+        <lb ed="#V" n="85"/>aliud quam quidam modus realis derelictus a 
+        quantita<lb ed="#V" n="86" break="no"/>te in materia dico per interemptionem: quia ad hoc 
+        <lb ed="#V" n="87"/>quod materia sit partibilis sufficit quod sit quantitati 
+        con<lb ed="#V" n="88" break="no"/>iucta: nec requiritur aliquis modus derelictus a quantitate 
+        <lb ed="#V" n="89"/>in ipsa. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e2037">
+        Ad secundam: primo ostendo ex ipsa quod iste doc. 
+        contradi<lb ed="#V" n="90" break="no"/>cit sibi. secundo respondeo ad eam. Primum patet: quia in ista 
+        ratio<lb ed="#V" n="91" break="no"/>ne dicit: quod modus iste realis derelictus a forma 
+        in<lb ed="#V" n="92" break="no"/>mam est esse materie: tum et quaro an sit esse forme a qua 
+        derelin<lb ed="#V" n="93" break="no"/>quitur: vel non. Si dicit quod non: contradicit sibi euidenter: quia in 
+        <lb ed="#V" n="94"/>principali positione ponit: quod iste modus sit esse 
+        forme<lb ed="#V" n="95" break="no"/>ipsius: secundum quod forma dicitur magis et minus suscipe. Si 
+        di<lb ed="#V" n="96" break="no"/>cat quod sic: etiam contradicit sibiipsi: quia infra in quinta ratione 
+        <lb ed="#V" n="97"/>dicit expresse quod esse forme non est esse materie: et sic 
+        con<lb ed="#V" n="98" break="no"/>tradictio in dictis. Et vlterius si modus iste de 
+        <lb ed="#V" n="99"/>relictus a forma in materia sit esse materie: cum talis modus 
+        <lb ed="#V" n="100"/>intendatur et remittatur secundum eum: sequitur quod materia 
+        susci<lb ed="#V" n="101" break="no"/>peret magis et minus secundum esse: quod est falsum: et 
+        con<lb ed="#V" n="102" break="no"/>tra eum. Et confirmatur: quia per eum forma 
+        dici<lb ed="#V" n="103" break="no"/>tur suscipere magis et minus secundum esse: quia iste 
+        mo<lb ed="#V" n="104" break="no"/>dus qui est eius esse intenditur et remittitur: ergo 
+        si<lb ed="#V" n="105" break="no"/>modus iste sit esse materie susciperet magis et 
+        mi<lb ed="#V" n="106" break="no"/>nus secundum esse: non minus quam forma: quod ipse negat 
+        <lb ed="#V" n="107"/>vna cum doctore quem sequitur. Ad rationem igitur: nego 
+        <lb ed="#V" n="108"/>consequentiam et ad probationem dico quod esse de quo arist. 
+        loqui<lb ed="#V" n="109" break="no"/>tur est idem quod materia vel subiectum acquirit ex 
+        con<lb ed="#V" n="110" break="no"/>iunctione sui cum forma vt pote esse album quod subiectum 
+        <lb ed="#V" n="111"/>acquirit ex coniuctione sui cu albedine vel esse nigrum: 
+        <lb ed="#V" n="112"/>quod subiectum acquirit ex coniunctione cum nigredine: et 
+        <lb ed="#V" n="113"/>istud non est aliquis modus derelictus a forma in 
+        sub<lb ed="#V" n="114" break="no"/>iecto: quia ad hoc quod subiectum sit album vel nigrum 
+        suf<lb ed="#V" n="115" break="no"/>ficit quod sit albedini vel nigredini per informationem conium 
+        <lb ed="#V" n="116"/>ctum: sicut ad praecedentem rationem dicebatur de materia 
+        <lb ed="#V" n="117"/>et quantitate. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e2100">
+        Ad tertiam: nego similiter consequentiam: 
+        <lb ed="#V" n="118"/>et ad probationem: concedo quod sicut substantia forme 
+        <lb ed="#V" n="119"/>non fit substantia materie: ita perfectio intrinseca et 
+        <lb ed="#V" n="120"/>essentialis forme non fit intrinseca et essentialis 
+        ipsi<lb ed="#V" n="121" break="no"/>materie: ex hoc tamen non sequitur quod materia non sit 
+        <lb ed="#V" n="122"/>magis perfecta sub forma quam sub priuatione: quia 
+        ma<lb ed="#V" n="123" break="no"/>teria priuata quantitate non est partibilis nec extensa 
+        <lb ed="#V" n="124"/>et tamen informata quantitate: est partibilis et 
+        exten<lb ed="#V" n="125" break="no"/>sa nec adhoc requirit quod aliqua perfectio 
+        intrinse<lb ed="#V" n="126" break="no"/>ca et essentialis forma fiat intrinseca et essentialis 
+        <lb ed="#V" n="127"/>ipsi materie. nec requiritur quod ista partialitas sit 
+        mo<lb ed="#V" n="128" break="no"/>dus derelictus a quatitate in materia. Sufficit enim 
+        <lb ed="#V" n="129"/>ad hoc quod materia sit quantitati. coniuncta: vt dictum 
+        <lb ed="#V" n="130"/>est supra. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e2131">
+        Ad quartam: primo reduco rationem 
+        <lb ed="#V" n="131"/>contra eum: quia si deductio illa sit bona: sequitur quod in 
+        forma<lb ed="#V" n="132" break="no"/>dereliquatur aliquis modus realis ab ipsa materio. sicut in 
+        <lb ed="#V" n="133"/>materia relinquitur forma secundum eum: quod tamen est 
+        <lb ed="#V" n="134"/>falsum secundum omnes: consequentia patet: quia si det oppositum 
+        sequi<lb ed="#V" n="135" break="no"/>tur per deductionem suam: quod materia non habeat 
+        causali<lb ed="#V" n="136" break="no"/>tatem cause materialis respectu forme: quod tamen 
+        <lb ed="#V" n="137"/>est falsum per probationem summam. consequentia patet: quia 
+        <lb ed="#V" n="138"/>si detur oppositum: sequitur per deductionem suam quod materia
+        <pb ed="#V" n="117-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>non habeat causalitatem cause materialis respectu 
+        <lb ed="#V" n="2"/>forme: quod tamen est falsum per probationem suam: quia cum 
+        <lb ed="#V" n="3"/>sit materia solius forme non habet causalitatem cause 
+        <lb ed="#V" n="4"/>materialis nisi respectu ipsius: quod patet falsum et tamen 
+        <lb ed="#V" n="5"/>ipse sic deducit de fama. Ad rationem potest 
+        responde<lb ed="#V" n="6" break="no"/>ri dupliciter. primo admittendo consequens: quia non videtur 
+        <lb ed="#V" n="7"/>quod forma habeat causalitatem cause formalis 
+        respe<lb ed="#V" n="8" break="no"/>ctu materie: sed respectu compositi: quia nec fit materia: 
+        <lb ed="#V" n="9"/>nec fit forma. sed totum comppositum. 7 meta. 
+        Se<lb ed="#V" n="10" break="no"/>cundo negando consequentiam: quia posito quod in bono sensu 
+        conce<lb ed="#V" n="11" break="no"/>datur quod forma habet causalitatem cause formalis 
+        re<lb ed="#V" n="12" break="no"/>spectu materie: et materia causalitatem cause 
+        mate<lb ed="#V" n="13" break="no"/>rialis respectu forme. adhuc non erit necesse. ponere 
+        <lb ed="#V" n="14"/>tales modos derelictos: quia cause intrinsece cuiusmodi 
+        <lb ed="#V" n="15"/>sunt materia et forma secundum multos non habent effectus 
+        <lb ed="#V" n="16"/>distinctos a se. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e2190">
+        Ad quintam nego consequentiam: et ad 
+        proba<lb ed="#V" n="17" break="no"/>tionem dicitur quod illud esse specificum in quo variatur 
+        ma<lb ed="#V" n="18" break="no"/>teria non est materia praecise nec forma: nec est modus 
+        <lb ed="#V" n="19"/>derelictus a forma in materia: sed est materia existens 
+        <lb ed="#V" n="20"/>sub forma: vel forma vnita materie: quia sicut ad 
+        hu<lb ed="#V" n="21" break="no"/>quod materia sit extensa sufficit quod sit quantitati 
+        conium<lb ed="#V" n="22" break="no"/>cta ita ad hoc quod habet tale esse sufficit quod sit tali vel 
+        <lb ed="#V" n="23"/>tali forme coniuncta: vt patet ex dictis. Ad sextam 
+        <lb ed="#V" n="24"/>nego consequentiam: et ad probationem patet quid dicendum: quia 
+        <lb ed="#V" n="25"/>actus primus quem dat forma materie non oportet quod 
+        <lb ed="#V" n="26"/>sit modus realis distinctus a forma: quia ad hoc quod 
+        for<lb ed="#V" n="27" break="no"/>ma dat materie actum primum: qui est esse. sufficit quod 
+        ma<lb ed="#V" n="28" break="no"/>teria per informationem sit coniuncta illi forme: vt dictum 
+        <lb ed="#V" n="29"/>est supra. Ad vltimam: etiam nego consequentiam ad sensum 
+        <lb ed="#V" n="30"/>suum: quia concedo quod operationes sint totius coniuncti etiam ad 
+        pro<lb ed="#V" n="31" break="no"/>bationem dico quod patet quid dicendum: quia materia potest 
+        <lb ed="#V" n="32"/>habere a forma actum: primum qui est esse: circumscripto 
+        omni<lb ed="#V" n="33" break="no"/>modo derelicto ab ipsa: vt patet ex dictis. Sic igitur post 
+        <lb ed="#V" n="34"/>sent respondem ad istas rationes qua negarent conclusionem istam 
+        <lb ed="#V" n="35"/>Ad rationem vero pro secunda conclusione diceretur sicut 
+        <lb ed="#V" n="36"/>tactum est supra. quod licet cause extrinsece habeant effectus 
+        <lb ed="#V" n="37"/>distinctos a se: non tamen intrinsece. Ad rationem autem 
+        <lb ed="#V" n="38"/>tertie conclusionis: concedo: quod res illa que est modus 
+        de<lb ed="#V" n="39" break="no"/>relictus a forma in subiecto si ponatur distincta ab 
+        vtro<lb ed="#V" n="40" break="no"/>quam participatur a subiecto immediate. et non mediate alia 
+        <lb ed="#V" n="41"/>re. Et quando dicitur quod pari ratione forma potest 
+        partici<lb ed="#V" n="42" break="no"/>pari a subiecto immediate: nego: quia non est simile de 
+        <lb ed="#V" n="43"/>forma et de modo derelicto a forma: et praesertim si mo 
+        <lb ed="#V" n="44"/>dus iste non sit nisi participatio forme: vt videtur 
+        isti<lb ed="#V" n="45" break="no"/>doctori sicut non est de essentia et esse: secundum doc. nostrum. 
+        <lb ed="#V" n="46"/>nec de fundamento et relatione secundum multos: immo si de 
+        <lb ed="#V" n="47"/>ductio illa esset bona probaret quod esse non distinguitur 
+        <lb ed="#V" n="48"/>realiter ab essentia: quod est contra eum: et contra doc. quem 
+        <lb ed="#V" n="49"/>sequitur: et quod nulla relatio distingueretur realiter a suo 
+        fun<lb ed="#V" n="50" break="no"/>damento: cuius oppositum videtur. multis: vt declarabitur 
+        <lb ed="#V" n="51"/>alias. Calis ergo modus arguendi tantum tenet in his 
+        <lb ed="#V" n="52"/>que sunt eiusdem rationis. sicut declarat doc. noster et 
+        <lb ed="#V" n="53"/>bene suo tractatu de esse et essentia. q. o. in solutione 
+        <lb ed="#V" n="54"/>argumenti. igitur rationes istarum conclusionum patet non 
+        con<lb ed="#V" n="55" break="no"/>cludere: quicquid sit de veritate earum quia quantum partinet 
+        <lb ed="#V" n="56"/>ad propositum meum sufficit negare alteram eorum quacumque sit 
+        <lb ed="#V" n="57"/>illa vt dictum est supra. Contra secundam et tertiam 
+        con<lb ed="#V" n="58" break="no"/>clusionem posset argui. verum quia doc. iste contra quem sunt 
+        <lb ed="#V" n="59"/>posite non probat: sed supponit oppositas esse veras. et 
+        <lb ed="#V" n="60"/>difficultas earum principaliter consistit in quattuor: super 
+        <lb ed="#V" n="61"/>sed eo ad presens. Contra quartam vero conclusionem 
+        <lb ed="#V" n="62"/>et eius correlarias propositiones est opinio sancti 
+        tho<lb ed="#V" n="63" break="no"/>me et doc. nostri: qui ponit charitatem et vniuersaliter 
+        <lb ed="#V" n="64"/>omnem formam intensibilem suscipere magis et minus 
+        so<lb ed="#V" n="65" break="no"/>lum secundum esse secundum quod dat magis et minus esse a subiecto: 
+        <lb ed="#V" n="66"/>secundum maiorem et minorem dispositionem subiecti ipsius: siue 
+        <lb ed="#V" n="67"/>secundum radicatione maiorem et participationem sui a subiecto 
+        <lb ed="#V" n="68"/>quod idem est: quia maior et minor participatio vel 
+        radicatio<lb ed="#V" n="69" break="no"/>forme in subiecto sine maiori et minori dispositione
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>subiecti esse non potest secundum eos. Probant igitur isti doc: et 
+        <lb ed="#V" n="71"/>sequaces eorum duas conclusiones. Prima: quod vna 
+        forma<lb ed="#V" n="72" break="no"/>intensibilis potest suscipere magis et minus secundum essentiam. 
+        <lb ed="#V" n="73"/>Secunda est: quod charitas et verisimiliter quaelibet talis 
+        <lb ed="#V" n="74"/>forma suscipit magis et minus secundum esse quod dat 
+        subie<lb ed="#V" n="75" break="no"/>cto: ipsa mediate indiuisibili secundum essentiam. Primam 
+        con<lb ed="#V" n="76" break="no"/>clusionem probat quidam doc. noster ex fundamentis fris egidii. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e2325">
+                  <lb ed="#V" n="77"/>Thomas de argentina vbi supra. 
+        <lb ed="#V" n="78"/>Primo sic: gradus forme mutatus in essentia 
+        mu<lb ed="#V" n="79" break="no"/>tat speciem: quia forme sunt sicut numeri: vt patet 8. me 
+        <lb ed="#V" n="80"/>taphi. sicut in numeris quacumque vnitate addita vel 
+        <lb ed="#V" n="81"/>remota mutatur species: sic quocumque gradu 
+        mutato<lb ed="#V" n="82" break="no"/>quantum ad essentiam forme: mutatur species secundum talem 
+        <lb ed="#V" n="83"/>forma. Sed charitas et albedo et cetera similia 
+        ac<lb ed="#V" n="84" break="no"/>cidentia in eadem specie manentia suscipiunt magis et 
+        <lb ed="#V" n="85"/>minus: ergo huiusmodi susceptio non erit quantum ad 
+        gra<lb ed="#V" n="86" break="no"/>dus in essentia. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e2349">
+        Preterea: si charitas et cetere 
+        for<lb ed="#V" n="87" break="no"/>me intensibiles suscipiunt magis et minus secundum essentiam 
+        <lb ed="#V" n="88"/>suam tunc in abstracto dicentur secundum magis et minus: consequens 
+        <lb ed="#V" n="89"/>est falsum: igitur et antecedens: falsitas consequentis patet per 
+        <lb ed="#V" n="90"/>philos eo in praedicamentis. dicit quod iustitia non dicitur secundum 
+        ma<lb ed="#V" n="91" break="no"/>gis et minus: probatur consequentia: quia quicquid competit forme 
+        <lb ed="#V" n="92"/>secundum suam essentiam competit ei in abstracto. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e2366">
+        Preterea: 
+        <lb ed="#V" n="93"/>si charitas augeretur secundum partes essentiales sibi 
+        addi<lb ed="#V" n="94" break="no"/>tas succenssiue: aut ille partes different numero 
+        so<lb ed="#V" n="95" break="no"/>lum: et hoc non: quia plura accidentia solo numero 
+        diffe<lb ed="#V" n="96" break="no"/>rentia non possunt simul esse in eodem subiecto: aut 
+        dif<lb ed="#V" n="97" break="no"/>ferent specie: et tunc charitas aucta non esset eiusdem 
+        ratio<lb ed="#V" n="98" break="no"/>nis: quorum vtrumque est inconueniens. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e2382">
+                  <lb ed="#V" n="99"/>Gerardus de senis di. 2. q. vbi supra ar. 7. 
+        <lb ed="#V" n="100"/>Preterea: ad idem arguit: quidam alius doc. de 
+        no<lb ed="#V" n="101" break="no"/>stris: quia si charitas vel alia forma augeretur in sua 
+        <lb ed="#V" n="102"/>essentia: multa inconuenientia sequerentur. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e2393">
+        Primum 
+        incom<lb ed="#V" n="103" break="no"/>ueniens: quia tunc forna secundum suam essentiam non haberet 
+        <lb ed="#V" n="104"/>rationem totius et perfecti: quod videtur esse falsum: consequentia 
+        <lb ed="#V" n="105"/>patet: quia omne quod augetur ideo augetur: quia imperfectum: 
+        <lb ed="#V" n="106"/>et per consequens habet rationem partis: falsitas consequentis 
+        <lb ed="#V" n="107"/>probatur: quia forma secundum sua essentiam habet rationem 
+        spe<lb ed="#V" n="108" break="no"/>ciei: et per consequens rationem totius et perfecti respectu 
+        indiui<lb ed="#V" n="109" break="no"/>duorum a quibus potest participari. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e2411">
+        Secundum 
+        incom<lb ed="#V" n="110" break="no"/>uenies est: quod forma secundum suam essentiam non esset simplex: 
+        <lb ed="#V" n="111"/>cuius oppositum patet per auctorem. 6. principiorum. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e2418">
+        
+        Ter<lb ed="#V" n="112" break="no"/>cium inconueniens est: quia esse forme non saluaretur in 
+        ali<lb ed="#V" n="113" break="no"/>quo gradu infra suppositum: quod patet esse falsum: consequentia 
+        <lb ed="#V" n="114"/>probatur: quia essentia rei non saluatur nisi habeat omnia que 
+        <lb ed="#V" n="115"/>sunt de sua intrinseca ratione: quapropter si 
+        forma<lb ed="#V" n="116" break="no"/>augetur in sua essentia non poterit saluari in aliquo 
+        <lb ed="#V" n="117"/>gradu praeterquam in supemo includente omnes alios. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e2434">
+        
+        Quar<lb ed="#V" n="118" break="no"/>tum inconueniens est: quia sicut quantitas molis non 
+        ha<lb ed="#V" n="119" break="no"/>bet statum in augmento et decremento: quia potest 
+        au<lb ed="#V" n="120" break="no"/>geri et minui in infinitum quantum est ex se: ita etiam 
+        ta<lb ed="#V" n="121" break="no"/>lis forma poterit augeri vel minui quantum est ex se: 
+        <lb ed="#V" n="122"/>quod patet esse falsum: consequentia probatur: quia tota ratio quare 
+        quam<lb ed="#V" n="123" break="no"/>titas potest augeri et minui in infinitum est: quia ex 
+        in<lb ed="#V" n="124" break="no"/>trinseco sue nature sibi competit diuidi: et per consequens 
+        mi<lb ed="#V" n="125" break="no"/>nui et augeri: quapropter si alicuiialteri forme 
+        ex<lb ed="#V" n="126" break="no"/>trinseco sue nature competit minui et augeri: pari 
+        ra<lb ed="#V" n="127" break="no"/>tione potest minui in infinitum. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e2459">
+        Quintum incoueniens 
+        <lb ed="#V" n="128"/>est: quia nulla talis forma esset difficilis: et per consequens nec 
+        <lb ed="#V" n="129"/>scibilis secundum suam essentiam: quod patet esse falsum: consequentia 
+        <lb ed="#V" n="130"/>probatur: quia in lud quod est difficile vel scibile debet esse 
+        ali<lb ed="#V" n="131" break="no"/>quid certum vel determinatum: et per consequens inuariabile: quae 
+        <lb ed="#V" n="132"/>propter si forma aliqua propter sui essentiam potest 
+        au<lb ed="#V" n="133" break="no"/>geri et variari: sequitur necessario quod non possit diffint 
+        <lb ed="#V" n="134"/>ri: et per consequens nec sciri. Sextum inconueniens est: quod 
+        nul<lb ed="#V" n="135" break="no"/>la formasuscipiens magis et minus poterit habere 
+        <lb ed="#V" n="136"/>rationem mensure in suo genere: quod patet esse falsum in 
+        <lb ed="#V" n="137"/>multis generibus: videmus enim quod albedo recipit 
+        magis<lb ed="#V" n="138" break="no"/>et minus: et tamen habet ratione mensure in genere co¬
+        <pb ed="#V" n="118-r"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>lorum: vt patet. 1o metaphi. et eodem modo patet se 
+        ha<lb ed="#V" n="2" break="no"/>bere in pluribus aliis generibus: consequentia probatur: quia de 
+        <lb ed="#V" n="3"/>ratione mensure est esse inuariabile: illud autem quod est 
+        <lb ed="#V" n="4"/>variabile secundum suam essentiam simpliciter est variabile: 
+        <lb ed="#V" n="5"/>quapropter nullo modo poterit habere rationem 
+        men<lb ed="#V" n="6" break="no"/>sure. Ad idem possent adduci multe difficiles 
+        ratio<lb ed="#V" n="7" break="no"/>nes difficultates varias includentes: de quibus 
+        ali<lb ed="#V" n="8" break="no"/>as videbitur in questionibus sequentibus: et ideo ad 
+        prae<lb ed="#V" n="9" break="no"/>sens non intromitto me de eis.
+      </p>
+               <p xml:id="at8va9-e69685-d1e2509">
+                  <lb ed="#V" n="10"/>Thomas vbi supra. 
+        <lb ed="#V" n="11"/>Secundam conclusionem primus istorum doctorum 
+        dedu<lb ed="#V" n="12" break="no"/>cit sic. Sicut se habet virtus ad agere: sic essentia ad 
+        <lb ed="#V" n="13"/>esse: sed eadem virtus in nullo variata secundum gradus 
+        essen<lb ed="#V" n="14" break="no"/>tie magis et minus agit in passum: secundum quod est magis et 
+        <lb ed="#V" n="15"/>minus dispositum: ergo eadem essentia essentialiter et 
+        <lb ed="#V" n="16"/>intrinsece in nullo variata: eidem subiecto dat magis 
+        <lb ed="#V" n="17"/>et minus esse secundum quod ipsum subiectum est magis et minus 
+        <lb ed="#V" n="18"/>dispositum. Et potest hec ratio confirmari: quia aer magis 
+        <lb ed="#V" n="19"/>et minus dispositus secundum raritatem et praesentiam eiusdem 
+        <lb ed="#V" n="20"/>claritatis solis secundum magis et minus illuminatur: vt 
+        ex<lb ed="#V" n="21" break="no"/>perientia manifestat: igitur claritas essentialiter et 
+        in<lb ed="#V" n="22" break="no"/>trin sece in nullo variata dat suo subiecto magis et 
+        <lb ed="#V" n="23"/>minus esse secundum quod ipsum est magis et minus dispositum 
+        <lb ed="#V" n="24"/>et ssmiliter potest argui de calore et duobus 
+        calefa<lb ed="#V" n="25" break="no"/>ctibilibus a magis et minus dispositis: et de 
+        mul<lb ed="#V" n="26" break="no"/>tis aliis. Iste due conclusiones simul confirmantur 
+        <lb ed="#V" n="27"/>multis auctoritatibus. Primo auctoritate phloysi in 
+        prae<lb ed="#V" n="28" break="no"/>dicamentis: vbi dicit expresse: quod iustitia non sufficit 
+        <lb ed="#V" n="29"/>magis et minus sed iustum. Secundo auctoritate 
+        con<lb ed="#V" n="30" break="no"/>mentatoris. 8. metaphi: commento. 10 dicit quod forma non 
+        <lb ed="#V" n="31"/>suscipit magis et minus nisssecundum quod est in materia. 
+        Ter<lb ed="#V" n="32" break="no"/>tio auctoritate simplicii super praedicamentis. dicit quod de 
+        in<lb ed="#V" n="33" break="no"/>tentione arist. fuit quod forme non suscipiunt magis et 
+        mi<lb ed="#V" n="34" break="no"/>nus de se: sed prout participantur a subiecto: multe 
+        con<lb ed="#V" n="35" break="no"/>similes possunt auctoritates adduci: quas dimitto causa 
+        <lb ed="#V" n="36"/>breuitatis.
+      </p>
+               <p xml:id="at8va9-e69685-d1e2570">
+        Responsio ad rationes thome. 
+        <lb ed="#V" n="37"/>Ista quamuis sint difficilia non videntur concludem. Ad 
+        <lb ed="#V" n="38"/>primum pro prima conclusione: nego maiorem: et ad probationem 
+        <lb ed="#V" n="39"/>quando dicitur: quod forme sunt sicut numeri etc. Concedo ad 
+        <lb ed="#V" n="40"/>intellectum philysi: quod sicut vnitas addita numero praeexistem 
+        <lb ed="#V" n="41"/>ti: vel remota ab eo variat numerum et facit quod nume 
+        <lb ed="#V" n="42"/>rus ille transferatur in aliam naturam numeri: ita quod 
+        quaeli<lb ed="#V" n="43" break="no"/>bet differentia formalis addita generi siue specie: vel 
+        <lb ed="#V" n="44"/>remota ab ipsis variat naturam. hoc est diffinitionem 
+        <lb ed="#V" n="45"/>ipsorum: quia facit quod diffinitio transferatur ad diffinitionem 
+        <lb ed="#V" n="46"/>alterius nature: et ad istum sensum dicit arist. quod 
+        forme<lb ed="#V" n="47" break="no"/>i diffinitiones formales sunt sicut numeri. Unde 
+        con<lb ed="#V" n="48" break="no"/>mentator exponens praedicta verba sic inquit: et quemad 
+        <lb ed="#V" n="49"/>modum quando alicui numero additur vnum: vel ab eo 
+        dimi<lb ed="#V" n="50" break="no"/>nuitur vnum transfertur ad aliam naturam numeri. 
+        Simili<lb ed="#V" n="51" break="no"/>ter diffinitiones composite ex primo genere et pluribus 
+        <lb ed="#V" n="52"/>differentiis: quando ab eis diminuitur aliqua differentia 
+        trans<lb ed="#V" n="53" break="no"/>fertur diffinitio ad diffinitionem alterius nature. Et 
+        <lb ed="#V" n="54"/>similiter quando additur eis aliqua diffturtia: verbi gratia: inquit 
+        co<lb ed="#V" n="55" break="no"/>mentator: quoniam cum dixerimus in diffinitione animalis: quod est 
+        <lb ed="#V" n="56"/>corpus sensibile nutribile: si deminueremus 
+        vlti<lb ed="#V" n="57" break="no"/>ma diciturlam remanebit diffinitio vegetabilium: et si ad 
+        <lb ed="#V" n="58"/>ditur alia difcteria scilicet rationale fit diffinitio hominis. Et similiter 
+        <lb ed="#V" n="59"/>quattuor quando eis additur vnum fiunt quinque: et quando 
+        dimnui<lb ed="#V" n="60" break="no"/>tur vnum fint tres: hec commentator. Sed ex his non 
+        <lb ed="#V" n="61"/>sequitur quod quocumque gradu mutato quantum ad essentiam 
+        <lb ed="#V" n="62"/>forme: varietur species forme sicut infertur: quia in 
+        inten<lb ed="#V" n="63" break="no"/>sione et remissione forme gradus additus vel 
+        remo<lb ed="#V" n="64" break="no"/>tus non est differentia formalis: nec ab eo sumitur differentia 
+        <lb ed="#V" n="65"/>specifica seu quiditatiua qua addita: vel remota ab 
+        <lb ed="#V" n="66"/>eo transfertur eius diffinitio in diffinitionem alterius 
+        na<lb ed="#V" n="67" break="no"/>ture eo modo quo dictum est: igitur auctoritas illa philosi in 
+        qua<lb ed="#V" n="68" break="no"/>multum fundatur opinio non est ad propositum: vt patet per 
+        <lb ed="#V" n="69"/>commentatorem. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e2644">
+        Ad secundum concedo consequens ad bonu:
+        <cb ed="#V" n="b"/>
+                  <lb ed="#V" n="70"/>sensum: quia non solum album suscipit magis et minus: sed 
+        <lb ed="#V" n="71"/>albedo: immo si albedo non susciperet magis et minus 
+        <lb ed="#V" n="72"/>secundum se: hoc est si non esset maior vel minor intensiue secundum 
+        <lb ed="#V" n="73"/>essentiam suam non posset dari magis et minus album: vt 
+        <lb ed="#V" n="74"/>patet ex dictis. Et ad probationem quando dicitur quod 
+        iusti<lb ed="#V" n="75" break="no"/>tia non dicitur magis et minus iustitia secbet arist. dico quod 
+        <lb ed="#V" n="76"/>non fuit intentio arist. quod vna iustitia non sit intensior 
+        <lb ed="#V" n="77"/>et per fectior alia secundum essentiam: sed quod de suis 
+        inferiori<lb ed="#V" n="78" break="no"/>bus non dicitur cum his aduerbis magis et minus: et 
+        <lb ed="#V" n="79"/>ita non repugnant quod vna iustitia non est magis vel 
+        mi<lb ed="#V" n="80" break="no"/>nus iustitia quam alia: vna tsi est perfectior et maior 
+        inten<lb ed="#V" n="81" break="no"/>siue quam alia vt declarabitur infra. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e2675">
+                  <lb ed="#V" n="82"/>Responsio ad rationes gerardi. 
+        <lb ed="#V" n="83"/>Ad tertium apparebit quid dicendum in tertia que 
+        <lb ed="#V" n="84"/>stione. Ad primum vero in consequens alterius doct. 
+        con<lb ed="#V" n="85" break="no"/>cedo: quod quaelibet forma habet rationem totius et 
+        perfecti<lb ed="#V" n="86" break="no"/>secundum essentiam suam quantum partinet ad rationem speciei. Sed ex 
+        <lb ed="#V" n="87"/>hoc non sequitur quod quaelibet habeat rationem totius et 
+        perfe<lb ed="#V" n="88" break="no"/>cti sic quod infra speciem illam non posset augeri et esse 
+        perse<lb ed="#V" n="89" break="no"/>ctior secundum essentiam: aliter charitas christi non esset per se 
+        per<lb ed="#V" n="90" break="no"/>fectior charitate lini: quod ego nollem concedere.
+      </p>
+               <p xml:id="at8va9-e69685-d1e2697">
+        Ad 
+        <lb ed="#V" n="91"/>secundum dico: quod quaelibet forma secundum essentiam suam est 
+        <lb ed="#V" n="92"/>simplex: quia nulla forma est composita ex materia et 
+        <lb ed="#V" n="93"/>forma sicut homo: nec ex partibus quantitatiuis: 
+        si<lb ed="#V" n="94" break="no"/>cut continuum: sed non est ita simplex quin possit esse 
+        con<lb ed="#V" n="95" break="no"/>posita ex partibus perfectionalibus ad suam essentiam 
+        <lb ed="#V" n="96"/>partinentibus: nec oppositum intellexit auctor. 6. 
+        princi<lb ed="#V" n="97" break="no"/>piorum. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e2716">
+        Ad tertium nego consequentiam: quia non sequitur: forma est 
+        <lb ed="#V" n="98"/>intensibilis et remissibilis secundum essentiam: igitur essentia ipsi 
+        <lb ed="#V" n="99"/>us non saluatur in aliquo gradu infra supremum. Et quando 
+        <lb ed="#V" n="100"/>dicitur quod essentia rei non saluatur nisi habeat omnia que 
+        <lb ed="#V" n="101"/>sunt de sua intrinseca ratione: concedo: si intelligitur si 
+        <lb ed="#V" n="102"/>cut debet intelligi: videlicet quod essentia rei non 
+        sal<lb ed="#V" n="103" break="no"/>uatur nisi habeat omnia que pertinent ad suam diffinitionem 
+        <lb ed="#V" n="104"/>vel quiditatiuam ratione: sed ex hoc non concluditur: quia 
+        <lb ed="#V" n="105"/>isti gradus non variant diffinitionem: nec per consequens 
+        ratio<lb ed="#V" n="106" break="no"/>nem quiditatiuam forme: vt patet ex dictis. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e2738">
+        Ad 
+        quar<lb ed="#V" n="107" break="no"/>tam conracedo: quod quelibet talis forma sicut et quantitas 
+        <lb ed="#V" n="108"/>molis potest augeri et minui in infinitum. Qui tamen 
+        <lb ed="#V" n="109"/>vellet hoc negare posset dicere: quod ratio quam assignat 
+        <lb ed="#V" n="110"/>non est totalis: quia si quantitas molis non haberet 
+        <lb ed="#V" n="111"/>partes infinitas non posset diuidi in infinitum: etiam 
+        <lb ed="#V" n="112"/>supposito: quod ex intrinseco sue nature competeret ei 
+        di<lb ed="#V" n="113" break="no"/>uidi. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e2756">
+        Ad quintam nego consequentiam et ad probationem quando 
+        <lb ed="#V" n="114"/>dicitur quod ilud quod est diffinibile vel scibile debet esse 
+        <lb ed="#V" n="115"/>aliquid certum et inuariabile: concedo quantum ad eius 
+        <lb ed="#V" n="116"/>formalem differentiam a quasumitur diffinitio: quia 
+        quali<lb ed="#V" n="117" break="no"/>bet tali addita vel remota variatur diffinitio: vt 
+        di<lb ed="#V" n="118" break="no"/>ctum est supra: cum hoc tamen stat quod illud sit variabile secundum 
+        <lb ed="#V" n="119"/>gradus perfectionales praedictos: quia ab his non sumitur 
+        <lb ed="#V" n="120"/>differentia formalis: vt patet ex dictis. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e2774">
+        Ad 
+        se<lb ed="#V" n="121" break="no"/>xtum etiam nego consequentiam: et ad probationem dico: quod de 
+        ratio<lb ed="#V" n="122" break="no"/>ne mensure eo modo quo nunc loquimur de mensura: est 
+        <lb ed="#V" n="123"/>esse inuariabile quantum ad illa: quibus variatis 
+        vari<lb ed="#V" n="124" break="no"/>atur eius ratio diffinitiua vel quiditatiua: et illud stat 
+        <lb ed="#V" n="125"/>cum varietate forme quantum ad gradus de quibus 
+        lo<lb ed="#V" n="126" break="no"/>quimur. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e2790">
+        Responsio ad rationes Thome. 
+        <lb ed="#V" n="127"/>Ad primam pro secunda conclusione nego maiorem: quia non est 
+        <lb ed="#V" n="128"/>simile de agere et virtute siue potentia et de esse et 
+        essen<lb ed="#V" n="129" break="no"/>tia: tum quia agere distinguitur realiter a potentia et seperatur ab 
+        <lb ed="#V" n="130"/>ea: esse vero vel non distinguitur ab essentia: vel non 
+        sepa<lb ed="#V" n="131" break="no"/>tur ab ipsa: tum quia multa requiruntur ad agere: 
+        suppo<lb ed="#V" n="132" break="no"/>sita virtute agentis que non requiruntur ad esse: 
+        suppo<lb ed="#V" n="133" break="no"/>sita essentia forme requiritur ad agere supposita 
+        virtu<lb ed="#V" n="134" break="no"/>te in agente deb ta approtimatio et dispoito subiecti: quae 
+        <lb ed="#V" n="135"/>non requiruntur ad esse: supposita essentia forme in 
+        subie<lb ed="#V" n="136" break="no"/>cto etiam debito: et ideo non est mirum si manifeste eadem 
+        vir<lb ed="#V" n="137" break="no"/>tute actio potest intendi vel remitti: ex hoc tamen non 
+        sequi<lb ed="#V" n="138" break="no"/>tur quod manente eadem essentia intendatur et remittatur esse.
+      </p>
+               <p xml:id="at8va9-e69685-d1e2819">
+                  <pb ed="#V" n="118-v"/>
+                  <cb ed="#V" n="a"/>
+                  <lb ed="#V" n="1"/>Ad confirmationem nego consequentiam: quia si 
+        aer<lb ed="#V" n="2" break="no"/>magis et minus dispositus secundum raritatem ad praesentiam 
+        <lb ed="#V" n="3"/>eiusdem claritatis solaris id est ad praesentiam eiusdem solis 
+        ma<lb ed="#V" n="4" break="no"/>gis et minus illuminatur: hoc ideo est: quia in aere 
+        ma<lb ed="#V" n="5" break="no"/>gis disposito ab eodem agente vel illuminante inducitur 
+        <lb ed="#V" n="6"/>maior claritas intensiue. Unde dispositio subiecti 
+        <lb ed="#V" n="7"/>facit ad hoc quod agens perfectiorem formam inducat: 
+        <lb ed="#V" n="8"/>sed si forma lucis inducta non esset maior intensiue 
+        <lb ed="#V" n="9"/>aer magis dispositus: non esset magis luminosus: et si 
+        <lb ed="#V" n="10"/>militer dicendum est de calore inducto ab eodem 
+        igne<lb ed="#V" n="11" break="no"/>in duobus calefactibilibus secundum magis et minus 
+        dispo<lb ed="#V" n="12" break="no"/>sitis: et similibus. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e2853">
+        Ad primam auctoritatem dico: quod si 
+        <lb ed="#V" n="13"/>cut tangebatur superius: quod intentio philosi fuit: quod 
+        iusti<lb ed="#V" n="14" break="no"/>cia non verificatur de suis inferioribus cum his 
+        aduer<lb ed="#V" n="15" break="no"/>biis magis et minus: cum quibus tamen verificatur de sub 
+        <lb ed="#V" n="16"/>iecto suo: vna enim iustitia non est magis vel minus 
+        <lb ed="#V" n="17"/>iustitia quam alia: quamuis vnus homo magis vel minus 
+        <lb ed="#V" n="18"/>sit iustus quam alius. Ex hoc tamen non sequitur: quod 
+        iusti<lb ed="#V" n="19" break="no"/>tia non suscipiat magis vel minus secundum essentiam id est quod 
+        <lb ed="#V" n="20"/>vna iustitia secundum essentiam suam non sit maior et perfectior 
+        <lb ed="#V" n="21"/>intensiue quam alia. Cuius gratia est aduertendum quod 
+        praedica<lb ed="#V" n="22" break="no"/>tio qua iustitia praedicatur de suis inferioribus est 
+        for<lb ed="#V" n="23" break="no"/>malis et quiditatiua cum sit per se in primo modo: quia 
+        ratio<lb ed="#V" n="24" break="no"/>formalis et quiditatiue iustintie non est magis in 
+        maio<lb ed="#V" n="25" break="no"/>ri iustitia quam in minori. Iccirco vna iustitia non dicitur 
+        <lb ed="#V" n="26"/>magis vel minus iustitia quam alia: cum hoc tamen stat quod 
+        <lb ed="#V" n="27"/>vna sit perfectior et maior intensiue quam alia: quia hec 
+        ma<lb ed="#V" n="28" break="no"/>ioritas et perfectio attenditur solum quantum ad gradus 
+        <lb ed="#V" n="29"/>qui non variant rationem formalem: quia ratio formalis: 
+        <lb ed="#V" n="30"/>cum sumatur a differentia formali id est a differentia 
+        spe<lb ed="#V" n="31" break="no"/>cifica et quiditatiua non variatur: nisi variata 
+        tali<lb ed="#V" n="32" break="no"/>differentia specifica: et intensione vel remissione 
+        for<lb ed="#V" n="33" break="no"/>me: gradus additus vel remotus non est 
+        differen<lb ed="#V" n="34" break="no"/>tia talis: nec ab eo potest sumi talis differentia: vt 
+        <lb ed="#V" n="35"/>dictum est. Predicatio vero quae iustitia praedicatur de suo 
+        <lb ed="#V" n="36"/>subiecto vel subiectis non est formalis nec 
+        quidita<lb ed="#V" n="37" break="no"/>tiua: sed tantum denominatiua: et quia forma perfectior 
+        per<lb ed="#V" n="38" break="no"/>fectius denominat subiectum: et iperfectior 
+        imperfecti<lb ed="#V" n="39" break="no"/>us: iccirco dicitur homo magis vel minus iustus secundum 
+        <lb ed="#V" n="40"/>quod est in ipso maior vel minor iustitia non aliter: et quod 
+        <lb ed="#V" n="41"/>dictum est de iustitia intelligendum est de qualibet 
+        con<lb ed="#V" n="42" break="no"/>simili forma. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e2921">
+        Ad secundam vero et tertiam eodem 
+        mo<lb ed="#V" n="43" break="no"/>do: quia intentio philysi fuit quod forma non verificatur cum 
+        pre<lb ed="#V" n="44" break="no"/>dictis aduerbiis de suis inferioribus: sed solum de 
+        <lb ed="#V" n="45"/>subiecto vel subiectis de quibus dicitur: et ideo dicit 
+        <lb ed="#V" n="46"/>commentator: quod non suscipit magis et minus: nisi secundum 
+        <lb ed="#V" n="47"/>quod est in materia. Et simplicius quod non secundum se prout par 
+        <lb ed="#V" n="48"/>ticipatur a subiecto: quod verum est modo dicto. 
+      </p>
+               <p xml:id="at8va9-e69685-d1e2937">
+                  <lb ed="#V" n="49"/>Ad rationes principales. 
+        <lb ed="#V" n="50"/>Ad primam nego antecedens quantum ad illam partem: qua 
+        di<lb ed="#V" n="51" break="no"/>citur quod forma non augetur secundum essentiam. Ad probationem 
+        <lb ed="#V" n="52"/>que fundatur in auctoritate actoris 6. principiorum est 
+        re<lb ed="#V" n="53" break="no"/>sponsum supra. Et secundam rationem concedo: et si ben 
+        in<lb ed="#V" n="54" break="no"/>telligatur credo eam concludere. 
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
