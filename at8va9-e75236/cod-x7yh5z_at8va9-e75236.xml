@@ -518,8 +518,8 @@
                <p xml:id="at8va9-e75236-d1e1049">
         Ultimo sic: charitas 
         <lb ed="#V" n="95"/>intensa habet plures gradus charitatis. quam 
-        cha<lb ed="#V" n="96" break="no"/>ritas remissa: igitur charitas intenditur per additio 
-        <lb ed="#V" n="97"/>nem gradus ad gradum vtroque remanente: consequentia 
+        cha<lb ed="#V" n="96" break="no"/>ritas remissa: igitur charitas intenditur per 
+        additio<lb ed="#V" n="97" break="no"/>nem gradus ad gradum vtroque remanente: consequentia 
         no<lb ed="#V" n="98" break="no"/>ta: oppositum enim consesuentis infert oppositum antetis: quia 
         sequi<lb ed="#V" n="99" break="no"/>tur charitas non intenditur per additionem gradus ad 
         gra<lb ed="#V" n="100" break="no"/>dum. vtroque remanente: igitur ex gradu et gradu 
@@ -528,10 +528,10 @@
         <lb ed="#V" n="103"/>remissa: quod est oppositum antetis. Sed antecedens probatur: 
         <lb ed="#V" n="104"/>quia si detur oppositum: sequitur quod charitas christi non fuit 
         <lb ed="#V" n="105"/>intensior charitate lini: quod non videtur ab aliquo 
-        ca<lb ed="#V" n="106" break="no"/>tholico concedendum: Ista consequentia patet: quia chariias 
+        ca<lb ed="#V" n="106" break="no"/>tholico concedendum: Ista consequentia patet: quia charitas 
         <lb ed="#V" n="107"/>christi non est maior charitate lini: igitur nec melior. dicit 
-        <lb ed="#V" n="108"/>b. Aug. 6. de tri. c. 12. de par. quod in his que non 
-        mole<lb ed="#V" n="109" break="no"/>magna sunt: hoc est maius esse: quod est melius esse 
+        <lb ed="#V" n="108"/><ref xml:id="at8va9-e75236-Rf3vvsx" corresp="#at8va9-e75236-Qdd22ac">b. Aug. 6. de tri. c. 12. de par.</ref> quod <quote xml:id="at8va9-e75236-Qdd22ac" source="http://scta.info/resource/adt-l6-d1e820@72-87">in his que non mole
+         <lb ed="#V" n="109"/>magna sunt: hoc est maius esse: quod est melius esse</quote> 
         <lb ed="#V" n="110"/>sed si detur oppositum antetis: euidenter sequitur. quod 
         <lb ed="#V" n="111"/>charitas christi in natura charitatis non sit maior 
         charita<lb ed="#V" n="112" break="no"/>te lini. Tertia conclusio principalis est: quod pars 
