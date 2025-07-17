@@ -413,15 +413,12 @@
         <lb ed="#V" n="138"/>vult: igitur actus personalis attribuitur essentie. 
       </p>
                <p xml:id="at8va9-e55686-d1e816">
-        Prete¬
-        <pb ed="#V" n="94-v"/>
-                  <cb ed="#V" n="a"/>
-                  <lb ed="#V" n="1"/>rea: essentia generatur: ergo generat: consequentia patet: quia non 
+                 Prete<pb ed="#V" n="94-v"/><cb ed="#V" n="a"/><lb ed="#V" n="1" break="no"/>rea: essentia generatur: ergo generat: consequentia patet: quia non 
         <lb ed="#V" n="2"/>magis repugnat sibi generare quam generari: antecedens est 
-        <lb ed="#V" n="3"/>be. aug. 7. de tri. c. primo. dicit quod deus pater genuit es 
-        <lb ed="#V" n="4"/>sentiam suam: quia est quicquid est. sicut. enim magnus est non 
-        <lb ed="#V" n="5"/>nisi quam genuit magnitudinem ita et est non nisi ea 
-        quam<lb ed="#V" n="6" break="no"/>genut essentia. Et paucis interpositis dicit quod vna 
+        <lb ed="#V" n="3"/><ref xml:id="at8va9-e55686-Rff22aa" corresp="#at8va9-e55686-Qjs8vvv">be. aug. 7. de tri. c. primo</ref>. dicit quod <quote xml:id="at8va9-e55686-Qjs8vvv" source="http://scta.info/resource/adt-l7-d1e845@313-334">deus pater genuit 
+        es<lb ed="#V" n="4" break="no"/>sentiam suam: quia est quicquid est. sicut. enim magnus est non 
+        <lb ed="#V" n="5"/>nisi quam genuit magnitudinem ita et est non nisi ea quam 
+        <lb ed="#V" n="6"/>genuit essentia</quote>. Et paucis interpositis dicit quod vna 
         <lb ed="#V" n="7"/>eademque essentia est pater et filius qua essentiam pater 
         ge<lb ed="#V" n="8" break="no"/>nuit: et qua essentia est quicquid est. Et confirmatur quia 
         sapien<lb ed="#V" n="9" break="no"/>tia in diuinis est genita. igitur et essentia. consequentia patet: quia 
