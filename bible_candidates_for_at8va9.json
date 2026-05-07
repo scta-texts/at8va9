@@ -1,0 +1,806 @@
+{
+  "at8va9-e00003": {
+    "at8va9-e00003-d1e187": [
+      {
+        "candidate_id": "sir24_5",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "direct quote 'Ego ex ore altissimi prodii primogenita ante omnem creaturam' with 'Ecc. 24.' attribution"
+      },
+      {
+        "candidate_id": "prov3_15",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "direct quote with 'prouer. 3o.' attribution"
+      }
+    ],
+    "at8va9-e00003-d1e209": [
+      {
+        "candidate_id": "prov2_10",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "multi-verse quote prov2_10+11 encoded before existing prov2_12 quote with 'prouer 2o.' attribution"
+      },
+      {
+        "candidate_id": "prov2_12",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "direct quote with 'prouer 2o.' attribution"
+      },
+      {
+        "candidate_id": "ps118_133",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "direct quote with 'psalmo 118o. d.' attribution"
+      }
+    ],
+    "at8va9-e00003-d1e227": [
+      {
+        "candidate_id": "prov1_22",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "direct quote with 'puer. primo.' attribution; consecutive with prov1_23"
+      },
+      {
+        "candidate_id": "prov1_23",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "direct quote with 'puer. primo.' attribution; consecutive with prov1_22"
+      }
+    ],
+    "at8va9-e00003-d1e272": [
+      {
+        "candidate_id": "sir1_4",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "direct quote 'prior omnium creata est sapientia' with 'Ecc. primo.' attribution"
+      }
+    ],
+    "at8va9-e00003-d1e339": [
+      {
+        "candidate_id": "sap6_13",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "MS quotes sap6_12 ('Clara est quae nunquam marcescit sapientia') but that verse is not in SCTA database under expected ID"
+      },
+      {
+        "candidate_id": "sap7_10",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "direct quote with 'sapientie. 7o.' attribution"
+      }
+    ],
+    "at8va9-e00003-d1e352": [
+      {
+        "candidate_id": "sap7_26",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "direct quote with 'sap. 7.' attribution"
+      }
+    ],
+    "at8va9-e00003-d1e363": [
+      {
+        "candidate_id": "ap10_10",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "direct quote with 'Apoc. 10.' attribution"
+      },
+      {
+        "candidate_id": "sir24_27",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "consecutive quote following sir24_26 in same paragraph"
+      },
+      {
+        "candidate_id": "sir24_26",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "direct quote with 'Ecc. 24.' attribution"
+      }
+    ],
+    "at8va9-e00003-d1e381": [
+      {
+        "candidate_id": "IIcor3_5",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "clear direct quote with attribution '2o. ad cori. 3o.'"
+      },
+      {
+        "candidate_id": "prov3_13",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "direct quote with 'prouer. 3o' attribution"
+      }
+    ],
+    "at8va9-e00003-d1e392": [
+      {
+        "candidate_id": "Ireg18_34",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "allegorical reference to '4 hydrie aque' with '3o. reg. 18.' attribution; not a direct scriptural quotation"
+      }
+    ],
+    "at8va9-e00003-d1e429": [
+      {
+        "candidate_id": "ex3_14",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "direct quote with 'Exo. 3o.' attribution"
+      },
+      {
+        "candidate_id": "io1_14",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "direct quote with 'Io. primo.' attribution"
+      },
+      {
+        "candidate_id": "sir6_27",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "direct quote with 'Ecc. 5o.' attribution (likely Ecc. 6)"
+      },
+      {
+        "candidate_id": "sap8_1",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "direct quote with 'sap. 8.' attribution"
+      }
+    ]
+  },
+  "at8va9-e00484": {
+    "at8va9-e00484-d1e506": [
+      {
+        "candidate_id": "Icor13_12",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "direct quote with 'prima ad corin. 13.' attribution"
+      }
+    ],
+    "at8va9-e00484-d1e945": [
+      {
+        "candidate_id": "mt25_41",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph discusses demonic illusions via Augustine; no quotation of mt25_41"
+      }
+    ],
+    "at8va9-e00484-d1e3403": [
+      {
+        "candidate_id": "IIcor12_3",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "direct quote 'siue in corpore siue extra corpus: nescio deus scit' with 'ipso dicente' attribution to Paul"
+      }
+    ],
+    "at8va9-e00484-d1e3545": [
+      {
+        "candidate_id": "Icor13_12",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "direct quote with 'ad corin. 13' attribution"
+      }
+    ]
+  },
+  "at8va9-e04861": {
+    "at8va9-e04861-d1e352": [
+      {
+        "candidate_id": "IIcor5_6",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "multi-verse quote IIcor5_6+5_7 with '2a. ad cor. 5o' attribution"
+      }
+    ],
+    "at8va9-e04861-d1e2277": [
+      {
+        "candidate_id": "IIpetr1_21",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "partial quote; no explicit attribution but text matches IIpetr1_21@10-17"
+      }
+    ],
+    "at8va9-e04861-d1e3354": [
+      {
+        "candidate_id": "gal3_11",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "brief allusion 'iustus ex fide vivit' attributed to 'ad ratio. primo' (Romans), not Galatians; too fragmentary to encode"
+      }
+    ]
+  },
+  "at8va9-e09731": {
+    "at8va9-e09731-d1e987": [
+      {
+        "candidate_id": "Ipetr3_15",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "direct quote 'debent esse parati ad satisfaciendum...rationem de ea que in nobis est fides' with 'prima petri. tertio c.' attribution"
+      }
+    ]
+  },
+  "at8va9-e12961": {
+    "at8va9-e12961-d1e914": [
+      {
+        "candidate_id": "ex3_14",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "fragment appears inside John of Damascus quotation; secondary quotation, not direct citation"
+      }
+    ],
+    "at8va9-e12961-d1e1147": [
+      {
+        "candidate_id": "bar3_24",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "direct quote with 'baruth 3.' attribution"
+      },
+      {
+        "candidate_id": "ps144_3",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "direct quote attributed 'psalmo. 84.' (MS misnumbers; text matches ps144_3)"
+      }
+    ],
+    "at8va9-e12961-d1e1273": [
+      {
+        "candidate_id": "Icor13_12",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "direct quote with 'prima ad corin. 13.' attribution"
+      }
+    ]
+  },
+  "at8va9-e18602": {
+    "at8va9-e18602-d1e963": [
+      {
+        "candidate_id": "Itim1_5",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "direct quote attributed 'Et alio loco.' in Augustine citation"
+      }
+    ],
+    "at8va9-e18602-d1e996": [
+      {
+        "candidate_id": "Icor13_13",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "direct quote with '1. ad corin. 13.' attribution"
+      },
+      {
+        "candidate_id": "Iio4_16",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "direct quote with 'dicit enim Io.' attribution"
+      }
+    ],
+    "at8va9-e18602-d1e1085": [
+      {
+        "candidate_id": "Icor13_1",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "direct quote with 'ad corin. i3.' attribution"
+      }
+    ],
+    "at8va9-e18602-d1e2052": [
+      {
+        "candidate_id": "mt19_17",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "direct quote 'si vis ad vitam ingredi serua mandata' with 'math. 10.' attribution (MS misattributes chapter)"
+      },
+      {
+        "candidate_id": "lc1_77",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "direct quote with 'luce primo' attribution"
+      }
+    ],
+    "at8va9-e18602-d1e2209": [
+      {
+        "candidate_id": "Icor13_3",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive — text matches Icor13_2 already encoded; both share 'charitatem autem non habuero'"
+      },
+      {
+        "candidate_id": "Icor13_2",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "direct quote with 'perma ad corin 13.' attribution"
+      }
+    ]
+  },
+  "at8va9-e20777": {
+    "at8va9-e20777-d1e1035": [
+      {
+        "candidate_id": "os4_6",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "direct quote 'quia tu scientiam repulisti repellam te ne sacerdotio fungaris mihi' with 'osee. 4.' attribution"
+      }
+    ]
+  },
+  "at8va9-e23177": {
+    "at8va9-e23177-d1e596": [
+      {
+        "candidate_id": "hebr1_9",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "same text encoded as ps44_8; MS says 'prito.' (Proverbs) attribution — encoded as Psalm"
+      },
+      {
+        "candidate_id": "ps44_8",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "direct quote 'Dilexisti iustitiam et odisti iniquitatem' with 'iuxta. prito.' attribution (MS misattributes to Proverbs)"
+      }
+    ]
+  },
+  "at8va9-e25587": {
+    "at8va9-e25587-d1e490": [
+      {
+        "candidate_id": "is66_14",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive — both texts share 'gaudebit cor vestrum'; MS quotes io16_22 (already encoded)"
+      },
+      {
+        "candidate_id": "io16_22",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "direct quote with 'Io. 16.' attribution"
+      }
+    ],
+    "at8va9-e25587-d1e608": [
+      {
+        "candidate_id": "prov2_14",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "phrase 'qui delectantur cum male faciunt et exultant in rebus pessimis' appears as MS author's own statement without attribution"
+      }
+    ]
+  },
+  "at8va9-e27842": {
+    "at8va9-e27842-d1e2023": [
+      {
+        "candidate_id": "qoh6_10",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph is logical argument about whether love necessarily remains love; no biblical quotation"
+      }
+    ]
+  },
+  "at8va9-e33367": {
+    "at8va9-e33367-d1e444": [
+      {
+        "candidate_id": "lam5_21",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph cites Augustine Confessions 1.1 ('fecisti nos domine ad te'); no direct quotation of lam5_21"
+      }
+    ],
+    "at8va9-e33367-d1e496": [
+      {
+        "candidate_id": "num5_13",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph is philosophical argument about beatification in a finite good; no quotation of num5_13"
+      }
+    ],
+    "at8va9-e33367-d1e585": [
+      {
+        "candidate_id": "rom1_20",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "phrase appears inside Augustine quotation; secondary citation, not direct"
+      }
+    ]
+  },
+  "at8va9-e35568": {
+    "at8va9-e35568-d1e419": [
+      {
+        "candidate_id": "io5_44",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "direct quote 'quo potestis vos credere...gloriam que est a solo deo non queritis' with 'Io. 5.' attribution"
+      }
+    ],
+    "at8va9-e35568-d1e839": [
+      {
+        "candidate_id": "hebr5_1",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph is about the will's freedom; no direct quotation of hebr5_1"
+      }
+    ]
+  },
+  "at8va9-e39755": {
+    "at8va9-e39755-d1e1094": [
+      {
+        "candidate_id": "Iio3_2",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "direct quote with 'Io. 3.' attribution"
+      }
+    ]
+  },
+  "at8va9-e41761": {
+    "at8va9-e41761-d1e1208": [
+      {
+        "candidate_id": "mt28_19",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "paragraph discusses seeing the Trinity in beatific vision; no direct quotation of mt28_19"
+      }
+    ],
+    "at8va9-e41761-d1e1337": [
+      {
+        "candidate_id": "io10_30",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "phrase appears inside Augustine quotation ('sicut ipse ait ego et pater vnum sumus'); encoded directly in at8va9-e97122"
+      },
+      {
+        "candidate_id": "io14_8",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "Philip's question is in indirect speech ('cum diceret philippus'); io14_9 and io14_10 directly quoted"
+      },
+      {
+        "candidate_id": "io14_11",
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "passage already encoded as io14_10; io14_11 is same text in different verse"
+      },
+      {
+        "candidate_id": "io14_9",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "direct quote with Io. 14 attribution; two separate quote elements for vv.9 and 10"
+      },
+      {
+        "candidate_id": "io14_10",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "direct quote with Io. 14 attribution; two separate quote elements for vv.9 and 10"
+      }
+    ]
+  },
+  "at8va9-e47003": {
+    "at8va9-e47003-d1e344": [
+      {
+        "candidate_id": "ps38_7",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "phrase 'in imagine ambulat homo tamen vane conturbatur' appears inside Augustine quotation from ps. 38; secondary citation"
+      }
+    ]
+  },
+  "at8va9-e59723": {
+    "at8va9-e59723-d1e2346": [
+      {
+        "candidate_id": "ier10_24",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "MS attributes 'Corripe me domine in minta tua' to Job, not Jeremiah; different textual tradition"
+      }
+    ]
+  },
+  "at8va9-e63665": {
+    "at8va9-e63665-d1e955": [
+      {
+        "candidate_id": "Icor1_24",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "'christum esse dei virtutem et dei sapientiam' appears inside Augustine quotation block; secondary citation"
+      }
+    ]
+  },
+  "at8va9-e65744": {
+    "at8va9-e65744-d1e1000": [
+      {
+        "candidate_id": "io15_26",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "phrase appears inside extended Augustine quotation; not a direct citation by the MS author"
+      }
+    ],
+    "at8va9-e65744-d1e1543": [
+      {
+        "candidate_id": "IIchr34_27",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph discusses Greek-Latin disagreement on Holy Spirit procession; no quotation of IIchr34_27"
+      }
+    ],
+    "at8va9-e65744-d1e1710": [
+      {
+        "candidate_id": "io14_10",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "paraphrase 'ego in patre et pater in me manet'; no attribution marker"
+      },
+      {
+        "candidate_id": "io14_11",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "same passage encoded as io14_10"
+      }
+    ]
+  },
+  "at8va9-e67444": {
+    "at8va9-e67444-d1e193": [
+      {
+        "candidate_id": "mt28_19",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph discusses distinctions among divine persons; no direct quotation of mt28_19"
+      }
+    ]
+  },
+  "at8va9-e69070": {
+    "at8va9-e69070-d1e210": [
+      {
+        "candidate_id": "abd1_1",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "direct quote 'auditum audiuimus a domino et legatum ad gentes misit' with 'abdie. i c.' attribution"
+      }
+    ]
+  },
+  "at8va9-e79918": {
+    "at8va9-e79918-d1e620": [
+      {
+        "candidate_id": "rom8_18",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "near-verbatim with 'auctoritate apstoli expressa ad. rom. 8.' attribution"
+      },
+      {
+        "candidate_id": "tit3_5",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "direct quote with 'adtitum. 3. c.' attribution"
+      }
+    ],
+    "at8va9-e79918-d1e805": [
+      {
+        "candidate_id": "rom5_5",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "direct quote with 'ad. ro. 5.' attribution"
+      }
+    ],
+    "at8va9-e79918-d1e1042": [
+      {
+        "candidate_id": "prov8_17",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "direct quote with 'prouerbiorum 8.' attribution"
+      }
+    ]
+  },
+  "at8va9-e83461": {
+    "at8va9-e83461-d1e637": [
+      {
+        "candidate_id": "mt28_19",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph about equality of divine persons; no direct quotation of mt28_19"
+      }
+    ]
+  },
+  "at8va9-e85573": {
+    "at8va9-e85573-d1e1057": [
+      {
+        "candidate_id": "Itim6_15",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "phrase 'solus potens rex regum dominus dominantium' appears inside Augustine quotation"
+      },
+      {
+        "candidate_id": "ap2_17",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "phrase about hidden name appears to reference ap19_12, not ap2_17; inside contextual discussion"
+      }
+    ]
+  },
+  "at8va9-e88004": {
+    "at8va9-e88004-d1e618": [
+      {
+        "candidate_id": "mt28_19",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "direct quote with 'matthe. vlti mo.' attribution"
+      }
+    ]
+  },
+  "at8va9-e97122": {
+    "at8va9-e97122-d1e167": [
+      {
+        "candidate_id": "io10_30",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "direct quote 'Ego et pater vnum sumus' with 'veritate. dicit' attribution"
+      }
+    ]
+  },
+  "at8va9-e99874": {
+    "at8va9-e99874-d1e759": [
+      {
+        "candidate_id": "iac1_17",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "phrase 'apud quem non est transmutatio nec momenti obumbratio' appears inside Augustine quotation"
+      }
+    ]
+  },
+  "at8va9-e99920": {
+    "at8va9-e99920-d1e279": [
+      {
+        "candidate_id": "io6_65",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "follows io18_4 quote; 'sciebat enim ab initio...quis traditurus esset eum' attributed to John"
+      },
+      {
+        "candidate_id": "io18_4",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "direct quote with 'Io. 18.' attribution"
+      },
+      {
+        "candidate_id": "ps13_1",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "quote embedded in Augustine paraphrase; 'Dixit insipiens...' cited against Cicero"
+      },
+      {
+        "candidate_id": "ps52_1",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "same quote encoded as ps13_1; ps52 and ps13 are duplicate Psalms"
+      }
+    ]
+  },
+  "at8va9-e99950": {
+    "at8va9-e99950-d1e509": [
+      {
+        "candidate_id": "rom9_12",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "multi-verse quote with rom9_13; 'non ex operibus sed ex vocatione...Iacob dilexi: esaum autem odio habui'"
+      },
+      {
+        "candidate_id": "rom9_11",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "direct quote with 'apstoli ad ra. o.' attribution"
+      }
+    ],
+    "at8va9-e99950-d1e715": [
+      {
+        "candidate_id": "eph1_5",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "quote cited as 'super illo verbo' with 'ad ephilmo. primo' attribution"
+      },
+      {
+        "candidate_id": "rom9_23",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "direct quote introduced by 'dicit' citing apostle vbi supra"
+      }
+    ]
+  },
+  "at8va9-e99975": {
+    "at8va9-e99975-d1e800": [
+      {
+        "candidate_id": "num5_13",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive — logical argument about omnipotence and past truth; no quotation of num5_13"
+      }
+    ],
+    "at8va9-e99975-d1e874": [
+      {
+        "candidate_id": "IIpetr1_17",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "same text encoded as mt3_17; no specific Petrine attribution in MS"
+      },
+      {
+        "candidate_id": "mt17_5",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "same text encoded as mt3_17; no specific chapter citation in MS"
+      },
+      {
+        "candidate_id": "mt3_17",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "allusion to divine utterance 'hic est filius meus dilectus' used as example; encoded without chapter attribution"
+      }
+    ],
+    "at8va9-e99975-d1e1133": [
+      {
+        "candidate_id": "lc22_61",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "narrative context \u2014 Peter weeps after denial; no direct quotation of lc22_61"
+      },
+      {
+        "candidate_id": "mt26_34",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "direct quote with attribution 'Math. 26.' encoded"
+      },
+      {
+        "candidate_id": "mt26_75",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "narrative verse about Peter weeping; MS quotes mt26_34 not mt26_75"
+      }
+    ],
+    "at8va9-e99975-d1e1346": [
+      {
+        "candidate_id": "is53_7",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "phrase appears inside Anselm quotation; Anselm citing the prophet, not a direct quotation by MS author"
+      }
+    ],
+    "at8va9-e99975-d1e1809": [
+      {
+        "candidate_id": "IIchr18_21",
+        "intersectionCount": 12,
+        "status": "not_found",
+        "note": "parallel passage to Ireg22_21-22; MS cites 3 Regum, encoded with Ireg22 IDs"
+      },
+      {
+        "candidate_id": "Ireg22_22",
+        "intersectionCount": 18,
+        "status": "encoded",
+        "note": "multi-verse quote with Ireg22_21; spans both verses"
+      },
+      {
+        "candidate_id": "Ireg22_21",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "multi-verse quote with Ireg22_22; encoded together"
+      },
+      {
+        "candidate_id": "IIchr18_20",
+        "intersectionCount": 8,
+        "status": "not_found",
+        "note": "parallel passage to Ireg22_21; MS cites 3 Regum, encoded with Ireg22 IDs"
+      }
+    ]
+  },
+  "at8va9-e99999": {
+    "at8va9-e99999-d1e139": [
+      {
+        "candidate_id": "act15_38",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "direct quote about Barnabas and Paul separating from Mark"
+      }
+    ],
+    "at8va9-e99999-d1e250": [
+      {
+        "candidate_id": "ps110_2",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "direct quote with 'illud to.' attribution"
+      }
+    ],
+    "at8va9-e99999-d1e335": [
+      {
+        "candidate_id": "Icor7_28",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "direct quote with 'prima ad cor.' attribution"
+      }
+    ]
+  }
+}
