@@ -1,0 +1,2222 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-01T04:40:22Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "create-interpretation-v1",
+    "source_commit": "2712681",
+    "generation_method": "hierarchical",
+    "source_file": "cod-x7yh5z_at8va9-e20777.xml"
+  },
+  "at8va9-e20777-d1e103": {
+    "summary": "States the tenth and final question of the prologue (the second on the final cause): whether the theological habit possible to the wayfarer by common law is practical or speculative.",
+    "claims": [],
+    "concepts": [
+      "practical and speculative science",
+      "theology",
+      "viator",
+      "lex communis"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e116": {
+    "summary": "Argument for practical: every directive and regulative habit is practical, and Dionysius says theology is for us a light and rule by which we are regulated in our dealings with divine things.",
+    "claims": [
+      "Directing and regulating make a habit practical",
+      "Theology is a rule for our conduct regarding divine things (Dionysius)"
+    ],
+    "concepts": [
+      "directive habit",
+      "Dionysius",
+      "regula"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-d1e103"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e134": {
+    "summary": "Argument for speculative: theology is the noblest habit in the wayfarer, and speculative habits, being for their own sake, are nobler than practical ones (Metaphysics I).",
+    "claims": [
+      "Speculative habits are nobler than practical ones",
+      "Theology is the wayfarer's noblest habit"
+    ],
+    "concepts": [
+      "nobility of speculative science",
+      "Metaphysics I"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-d1e116"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e145": {
+    "summary": "Announces the four articles.",
+    "claims": [],
+    "concepts": [
+      "structure of the question"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-d1e134"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e159": {
+    "summary": "Article 1 defines, following Aristotle and Averroes, a practical habit as one whose proper and principally intended end is praxis, and a speculative habit as one whose proper and principal end is speculation: a habit is named practical from the praxis it directs and speculative from the speculation it elicits. Aristotle shows first philosophy is speculative because its end is truth, and moral philosophy practical because its end is becoming good.",
+    "claims": [
+      "A practical habit is one whose principal end is praxis",
+      "A speculative habit is one whose principal end is speculation",
+      "Habits are named practical from the praxis they direct, speculative from the speculation they elicit",
+      "The end of speculative science is truth, of practical science work (Metaphysics II)"
+    ],
+    "concepts": [
+      "definition of practical habit",
+      "definition of speculative habit",
+      "end of science",
+      "Aristotle",
+      "Averroes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e155"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e205": {
+    "summary": "Further support: the speculative and practical intellects differ by end (De anima III; Averroes: the end of the speculative intellect is knowing only, of the practical, operating), so habits do too; Dionysius's commentator agrees.",
+    "claims": [
+      "Speculative and practical intellects differ by their ends (De anima III)"
+    ],
+    "concepts": [
+      "speculative and practical intellect",
+      "Averroes on De anima",
+      "Dionysius"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e155",
+        "at8va9-e20777-d1e159"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e227": {
+    "summary": "Scotus's objection to defining practical by end: a habit is practical not by actual but by aptitudinal extension to work, and aptitude requires an intrinsic condition of the consideration, caused by something prior — the intellect or the object.",
+    "claims": [
+      "Practicality is an aptitudinal extension to work",
+      "Aptitude presupposes an intrinsic condition caused by intellect or object"
+    ],
+    "concepts": [
+      "Scotus",
+      "aptitudinal extension",
+      "cause of practicality"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e155",
+        "at8va9-e20777-d1e205"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e260": {
+    "summary": "Scotus's second objection: the end makes a habit practical either as produced (but then it is posterior and an effect does not distinguish its cause), as intended (but the knowledge is naturally prior to the intention), or as known (but then it functions as object, so the object distinguishes).",
+    "claims": [
+      "An effect does not distinguish its cause",
+      "The end as known functions as object"
+    ],
+    "concepts": [
+      "Scotus",
+      "end as elicited",
+      "intended or known"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e155",
+        "at8va9-e20777-d1e227"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e279": {
+    "summary": "Scotus's third objection: if practical science were convertible with being ordered to praxis, moral science would not be practical, since its end is happiness, which consists in speculation (Ethics X).",
+    "claims": [
+      "Happiness consists in speculation, so moral science would be speculative"
+    ],
+    "concepts": [
+      "Scotus",
+      "moral science",
+      "happiness"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e155",
+        "at8va9-e20777-d1e260"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e292": {
+    "summary": "Scotus's fourth objection: not every practical knowledge has praxis as end, since some concern acts of lower powers (sense appetite, motive power), and nothing less noble can be the end of a nobler act like understanding.",
+    "claims": [
+      "The less noble cannot be the end of the nobler"
+    ],
+    "concepts": [
+      "Scotus",
+      "lower powers",
+      "ends"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e155",
+        "at8va9-e20777-d1e279"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e312": {
+    "summary": "Replies to Scotus's first objection: a habit is not formally practical by any relation, actual or aptitudinal, since practical habits are active and factive and relations are not principles of action; or, if by aptitude, the aptitude arises from the habit's own nature, and its extrinsic cause relevant here is the final cause, not intellect or object; the efficient cause names a habit only as God names creatures.",
+    "claims": [
+      "Relations are not principles of action, so practicality is not formally a relation",
+      "The aptitude to work belongs to the habit by its own nature",
+      "The relevant extrinsic cause of practicality is the end, not the object or intellect"
+    ],
+    "concepts": [
+      "Scotus",
+      "relation and action",
+      "final cause",
+      "efficient cause"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e155",
+        "at8va9-e20777-d1e292"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e388": {
+    "summary": "Presents Thomas of Strasbourg's reply to Scotus's second objection: the division is insufficient, since the end causes the distinction by determining the object to cause the habit according to the end's requirement.",
+    "claims": [
+      "The end determines the object to cause the habit as the end requires"
+    ],
+    "concepts": [
+      "Thomas of Strasbourg",
+      "end and object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e155",
+        "at8va9-e20777-d1e312"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e404": {
+    "summary": "Rejects Thomas of Strasbourg's reply (it presupposes the object as efficient cause of the habit, and the end can determine only as produced, intended or known) and gives the first of three answers: the end makes a habit practical as produced, since a posterior thing cannot distinguish its prior as efficient cause but can as final cause, the end being first in intention though last in execution.",
+    "claims": [
+      "The object is not the efficient cause of the habit",
+      "A posterior can distinguish its prior as final cause",
+      "The end is first in intention, last in execution"
+    ],
+    "concepts": [
+      "Thomas of Strasbourg",
+      "final causality",
+      "intention and execution"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e155",
+        "at8va9-e20777-d1e388"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e454": {
+    "summary": "Second answer: the end makes a habit practical as considered and intended; such knowledge is not naturally prior to the intention of the end (else the end would not be first in intention, and the four causes would not concur); or, if prior, the end still makes the habit practical by extrinsic denomination.",
+    "claims": [
+      "The end makes a habit practical as intended",
+      "Practicality may be an extrinsic denomination from the end"
+    ],
+    "concepts": [
+      "intention of the end",
+      "extrinsic denomination",
+      "four causes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e155",
+        "at8va9-e20777-d1e404"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e484": {
+    "summary": "Third answer: the end makes a habit practical as known; the end as known does not really have the ratio of object, since theology's end, love of God, is neither its object nor its subject; or, if so, it distinguishes as end, not as object.",
+    "claims": [
+      "Theology's end, love of God, is neither its object nor its subject",
+      "The end distinguishes habits as end, not as object"
+    ],
+    "concepts": [
+      "end and object",
+      "love of God",
+      "subject of theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e155",
+        "at8va9-e20777-d1e454"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e513": {
+    "summary": "Replies to Scotus's third and fourth objections: happiness is moral science's ultimate and remote end, and sciences are not named from remote ends; and while nothing less noble can be the ultimate end of a nobler act, it can be an intermediate end, as health, less noble than understanding, is medicine's end, ordered to the perfection of man.",
+    "claims": [
+      "Sciences are not named from remote ends",
+      "Something less noble can be an intermediate, but not ultimate, end of something nobler",
+      "Health is the intermediate end of medicine, the perfection of man its ultimate end"
+    ],
+    "concepts": [
+      "remote and proximate ends",
+      "intermediate ends",
+      "medicine and health",
+      "moral science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e155",
+        "at8va9-e20777-d1e484"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e573": {
+    "summary": "Opens Article 2, specifying again that the question concerns the total theological habit, whose partial habits, practical or speculative, are ordered to one end from which the whole is named.",
+    "claims": [
+      "The total habit is named from the end principally intended in it"
+    ],
+    "concepts": [
+      "total habit",
+      "denomination by end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e569"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e602": {
+    "summary": "Introduces the first conclusion: the wayfarer's theology is not properly practical.",
+    "claims": [
+      "The wayfarer's theology is not properly practical"
+    ],
+    "concepts": [
+      "practical science",
+      "theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e569",
+        "at8va9-e20777-d1e573"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e609": {
+    "summary": "First proof: no habit whose end is not properly praxis is practical, and theology's principal end, love of God, is not properly praxis.",
+    "claims": [
+      "Theology's principal end, love of God, is not properly praxis"
+    ],
+    "concepts": [
+      "dilectio Dei",
+      "praxis"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e569",
+        "at8va9-e20777-d1e602"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e625": {
+    "summary": "Second proof: no practical habit is noblest, since speculative habits are nobler (Ethics VI; Averroes: wisdom belongs to the better, speculative intellect), and theology is our noblest habit.",
+    "claims": [
+      "Speculative intellect and habits are nobler than practical ones",
+      "Theology is the noblest habit in us"
+    ],
+    "concepts": [
+      "nobility of habits",
+      "wisdom and prudence",
+      "Averroes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e569",
+        "at8va9-e20777-d1e609"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e657": {
+    "summary": "Third proof: practical knowledge is principally ordered to directing some praxis, but theology is principally ordered to directing the will's acts concerning the ultimate end, which are not praxis.",
+    "claims": [
+      "Theology principally directs acts of the will about the ultimate end"
+    ],
+    "concepts": [
+      "direction of acts",
+      "will and end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e569",
+        "at8va9-e20777-d1e625"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e675": {
+    "summary": "Second conclusion: the wayfarer's theology is not a speculative habit, since its principal end is love, not speculation, and the end of speculative science is only knowing (Averroes).",
+    "claims": [
+      "Theology's principal end is not speculation",
+      "The end of speculative science is knowing only"
+    ],
+    "concepts": [
+      "speculative science",
+      "love",
+      "Averroes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e569",
+        "at8va9-e20777-d1e657"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e701": {
+    "summary": "Second proof: theology's principal end, meritorious love, is nobler than all speculation in this life, and a science with several ends is named from the noblest.",
+    "claims": [
+      "A science with several ends is named from the noblest",
+      "Meritorious love is nobler than all speculation in via"
+    ],
+    "concepts": [
+      "denomination by noblest end",
+      "love and speculation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e569",
+        "at8va9-e20777-d1e675"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e725": {
+    "summary": "Third proof: no knowledge directing operations of other powers is purely speculative, and theology directs even our external acts toward divine things.",
+    "claims": [
+      "Theology directs our acts concerning divine things"
+    ],
+    "concepts": [
+      "direction",
+      "speculative science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e569",
+        "at8va9-e20777-d1e701"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e736": {
+    "summary": "Third conclusion: the wayfarer's theology is not both practical and speculative, because a single habit cannot principally intend both knowing only and operating, which is contradictory.",
+    "claims": [
+      "One habit cannot have knowing only and operating as its principal end"
+    ],
+    "concepts": [
+      "mixed practical-speculative science",
+      "contradiction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e569",
+        "at8va9-e20777-d1e725"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e756": {
+    "summary": "Second proof: a habit cannot be both for its own sake (speculative) and not for its own sake (practical).",
+    "claims": [
+      "Being for its own sake and not for its own sake are contradictory"
+    ],
+    "concepts": [
+      "sui gratia",
+      "Metaphysics I"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e569",
+        "at8va9-e20777-d1e736"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e770": {
+    "summary": "Third proof: theology cannot be ordered principally to two per se ends unrelated to each other or to a third; whether one by simple form or, as Vargas thinks truer, by a unity of totality and per se order, its partial habits are ordered to one principal end.",
+    "claims": [
+      "A habit cannot have two unrelated principal ends",
+      "Theology is one by a unity of totality and per se order",
+      "All multitude reduces to unity"
+    ],
+    "concepts": [
+      "unity of theology",
+      "per se order",
+      "principal end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e569",
+        "at8va9-e20777-d1e756"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e812": {
+    "summary": "Fourth proof: theology's principal end is neither praxis nor speculation, so it is neither practical, nor speculative, nor both.",
+    "claims": [
+      "Theology is neither practical, nor speculative, nor both"
+    ],
+    "concepts": [
+      "end of theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e569",
+        "at8va9-e20777-d1e770"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e821": {
+    "summary": "Fourth conclusion: the wayfarer's theology is properly called affective, since its principal end is love or affection, just as a science aimed at operation is practical and one aimed at knowing is speculative.",
+    "claims": [
+      "Theology is properly an affective science",
+      "A science is named from its principal end"
+    ],
+    "concepts": [
+      "scientia affectiva",
+      "love",
+      "end of theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e569",
+        "at8va9-e20777-d1e812"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e843": {
+    "summary": "Second proof: a habit that by nature inclines to an operation that is neither praxis nor speculation but affection is affective; infers a threefold division of science, and of intellect, into practical, speculative and affective, the intellect being called affective by extrinsic denomination from its extension to affection.",
+    "claims": [
+      "Science is threefold: practical, speculative and affective",
+      "Intellect too is practical, speculative or affective",
+      "The intellect is called affective by extension to affection, as practical by extension to praxis"
+    ],
+    "concepts": [
+      "affective intellect",
+      "threefold division of science",
+      "extrinsic denomination"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e569",
+        "at8va9-e20777-d1e821"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e890": {
+    "summary": "Opens Articles 3 and 4 and introduces the opinion that theology is purely practical.",
+    "claims": [],
+    "concepts": [
+      "dubia",
+      "practical theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e903": {
+    "summary": "Scotus's first argument (Prologue q.4): knowledge aptitudinally conformed to and naturally prior to right volition is practical, and all necessary theology is so, since its first object virtually supplies the first principles of rightness in volition and determines the intellect to them before any created will wills.",
+    "claims": [
+      "Practical knowledge is aptitudinally conformed to and naturally prior to right volition",
+      "Theology's first object supplies the first principles of right volition"
+    ],
+    "concepts": [
+      "Scotus",
+      "conformity and priority",
+      "right volition",
+      "first object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e890"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e938": {
+    "summary": "Scotus's second argument: theology's first object is the ultimate end, and principles taken from the ultimate end are practical principles.",
+    "claims": [
+      "Principles drawn from the ultimate end are practical"
+    ],
+    "concepts": [
+      "Scotus",
+      "ultimate end",
+      "practical principles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e903"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e947": {
+    "summary": "Aureol's first argument: a habit is purely practical when its object is attainable by operations nobler than the habit's act, as with medicine (better to be healthy than to understand health) and ethics; God is attained more nobly by faith, hope and charity than by theological knowledge.",
+    "claims": [
+      "A science is practical when its object is reached better by operations than by knowing",
+      "God is reached more nobly by faith, hope and charity than by theology"
+    ],
+    "concepts": [
+      "Aureol",
+      "nobler operations",
+      "medicine",
+      "ethics",
+      "theological virtues"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e938"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e990": {
+    "summary": "Aureol's further arguments: a habit most concerned with works and teaching that its object is attained by works is practical; a habit whose end includes the act it directs (believing, which theology nourishes and defends) is practical; and theology is so that we may become good (Augustine).",
+    "claims": [
+      "Theology directs the act of believing",
+      "A science aimed at becoming good is practical"
+    ],
+    "concepts": [
+      "Aureol",
+      "direction of faith",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e947"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1019": {
+    "summary": "Francis of Meyronnes's argument: a science regulating the will's acts concerning divine things is practical, and theology teaches that divine things are to be enjoyed, not used (Augustine, De doctrina christiana).",
+    "claims": [
+      "Theology regulates the will's acts regarding the divine",
+      "Divine things are to be enjoyed, not used"
+    ],
+    "concepts": [
+      "Francis of Meyronnes",
+      "uti and frui",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e990"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1035": {
+    "summary": "Meyronnes's second argument (theology directs external acts of worship, Hosea 4), followed by Vargas's two propositions against Scotus: the formal ratio of a speculative habit cannot be the privation of the two respects (priority and conformity to right volition), since a privation is nothing (Anselm) and cannot be nobler than the practical habit's ratio.",
+    "claims": [
+      "Theology directs external worship (Hosea 4) — Meyronnes",
+      "A privation, being nothing, cannot be the formal ratio of a nobler habit",
+      "Being speculative is not the privation of conformity and priority to right volition"
+    ],
+    "concepts": [
+      "Francis of Meyronnes",
+      "latria",
+      "Scotus",
+      "privation",
+      "Anselm"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1019"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1085": {
+    "summary": "Further proof: a property of a positive being cannot be a pure privation, and being speculative is a property of science on Scotus's view.",
+    "claims": [
+      "A proper property of a positive being is not a privation"
+    ],
+    "concepts": [
+      "privation",
+      "property of science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1035"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1098": {
+    "summary": "Second proposition: the proper and convertible ratio of practical knowledge does not consist in the two aptitudinal respects, since a practical habit is active and factive (Aristotle: praxis means operation) and relations are not principles of action (Physics V).",
+    "claims": [
+      "The ratio of practical knowledge does not consist in aptitudinal relations",
+      "Practical habits are active or factive",
+      "Relations are not principles of action"
+    ],
+    "concepts": [
+      "Scotus",
+      "aptitudinal respects",
+      "practical habit",
+      "Physics V"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1085"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1133": {
+    "summary": "Further proof: on Scotus's view a habit is practical because it directs and conforms another power's operation, but directing is a kind of moving, of which no relation is a principle. Replies to Scotus's first argument: it proceeds from a false foundation, or, granting it, the volition theology is ordered to — love of God — is not properly praxis.",
+    "claims": [
+      "Directing is a kind of moving, of which relations are not principles",
+      "Love of God, to which theology is ordered, is not praxis"
+    ],
+    "concepts": [
+      "Scotus",
+      "direction",
+      "praxis",
+      "love of God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1098"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1186": {
+    "summary": "Replies to Scotus's second argument: where the ultimate end coincides with the subject, principles are drawn from it as subject, not as end; and principles drawn from an end attainable only by operations not in our power (meritorious love) are not practical.",
+    "claims": [
+      "Principles are drawn from the ultimate end as subject, not as end",
+      "Principles drawn from an end reached by acts not in our power are not practical"
+    ],
+    "concepts": [
+      "principles and end",
+      "meritorious love",
+      "divine acceptance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1133"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1210": {
+    "summary": "Replies to Aureol's first argument: a science is practical only from praxis, and love of God, though the more excellent operation, is not praxis; sciences are practical not because they attain their object more nobly than by knowing, but because their principal end is an operation that is truly praxis.",
+    "claims": [
+      "A science is called practical only from praxis",
+      "Practical sciences are named from their end being praxis, not from attaining objects more nobly"
+    ],
+    "concepts": [
+      "Aureol",
+      "praxis",
+      "love of God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1186"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1252": {
+    "summary": "Replies to Aureol's last argument: a science ordered to making us good through an operation in our power that is praxis is practical, but theology makes us good through meritorious love, which is not in our power nor properly praxis.",
+    "claims": [
+      "Theology makes us good through meritorious love, not through praxis"
+    ],
+    "concepts": [
+      "Aureol",
+      "meritorious love",
+      "moral goodness"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1210"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1268": {
+    "summary": "Replies to Meyronnes's first argument: a science regulating the will is practical only if the regulated act is its principal end and is praxis; love of God is not praxis.",
+    "claims": [
+      "Regulating the will makes a science practical only if the regulated act is praxis and principal end"
+    ],
+    "concepts": [
+      "Francis of Meyronnes",
+      "regulation of will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1252"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1284": {
+    "summary": "Replies to Meyronnes's second argument: directing external acts makes a habit practical only if they are its principal end, and no external act is theology's principal end. Introduces the opinion that theology is purely speculative, held either by those dividing science into practical and speculative or by moderns who hold all science speculative.",
+    "claims": [
+      "No external act is theology's principal end",
+      "Some moderns hold every science is speculative"
+    ],
+    "concepts": [
+      "external acts",
+      "speculative theology",
+      "moderns"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1268"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1308": {
+    "summary": "Henry of Ghent's first argument (Summa a.8 q.2): the noblest science, most for its own sake, is purely speculative (Metaphysics I), and theology is such.",
+    "claims": [
+      "The noblest science is purely speculative"
+    ],
+    "concepts": [
+      "Henry of Ghent",
+      "Metaphysics I",
+      "nobility"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1284"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1325": {
+    "summary": "Henry's second argument: a science with several ends is named from the most perfect, as moral science is practical though it studies powers of the soul, and theology's most perfect and ultimate end is knowledge of truth.",
+    "claims": [
+      "A science is named from its most perfect end",
+      "Theology's ultimate end is knowledge of truth"
+    ],
+    "concepts": [
+      "Henry of Ghent",
+      "denomination by end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1308"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1338": {
+    "summary": "Henry's third argument: a science whose subject is not ordinable to work is speculative (Metaphysics VI on eternal immobile being), and theology's subject is such.",
+    "claims": [
+      "A science of what is not ordinable to work is speculative"
+    ],
+    "concepts": [
+      "Henry of Ghent",
+      "Metaphysics VI",
+      "subject and work"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1325"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1351": {
+    "summary": "Henry's fourth argument: a science whose principles are purely speculative is speculative, and theology's principles, the articles, are speculative; confirmed because faith, the habit of the principles, is speculative.",
+    "claims": [
+      "The denomination of a science resides in its principles",
+      "The articles of faith are speculative"
+    ],
+    "concepts": [
+      "Henry of Ghent",
+      "articles of faith",
+      "principles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1338"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1380": {
+    "summary": "Henry's fifth argument: perfect and imperfect science have the same end; the theology of heaven, perfect relative to ours, is speculative, and ours participates in God's purely speculative theology.",
+    "claims": [
+      "Imperfect theology shares the end of perfect theology",
+      "God's theology is speculative"
+    ],
+    "concepts": [
+      "Henry of Ghent",
+      "theology of heaven",
+      "participation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1351"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1391": {
+    "summary": "Presents Rodington's 'second way', distinguishing theology as a habit distinct from naturally acquired habits from theology as the habit distinguishing a theologian from a layman.",
+    "claims": [],
+    "concepts": [
+      "Rodington",
+      "kinds of theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1380"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1407": {
+    "summary": "Rodington's first conclusion: theology in the first sense (as faith) is neither practical, speculative nor affective but merely an assenting habit, since its per se end is only assent.",
+    "claims": [
+      "Revealed theology, being faith, is only an assenting habit"
+    ],
+    "concepts": [
+      "Rodington",
+      "assent",
+      "faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1391"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1424": {
+    "summary": "Rodington's second conclusion: theology in the second sense is purely speculative, because every science as science is speculative.",
+    "claims": [
+      "Every science as science is speculative"
+    ],
+    "concepts": [
+      "Rodington",
+      "all science speculative"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1407"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1437": {
+    "summary": "Rodington's first proof: we know a habit's kind from its per se act, and every science's per se act is knowing, by which it is distinguished from non-cognitive habits.",
+    "claims": [
+      "A habit is named from its per se act",
+      "Knowing is the per se act of every science"
+    ],
+    "concepts": [
+      "Rodington",
+      "per se act",
+      "cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1424"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1461": {
+    "summary": "Rodington's second proof: being elicited or commanded by the will is accidental to the act of knowing, since evidence does not depend on the will; so no science is practical.",
+    "claims": [
+      "Knowing, depending on evidence, does not depend on the will"
+    ],
+    "concepts": [
+      "Rodington",
+      "will and evidence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1437"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1477": {
+    "summary": "Rodington's third proof: no habit is per se both practical and speculative, and every science is per se ordered to knowing, so none is per se practical.",
+    "claims": [
+      "Every science is per se ordered to knowing"
+    ],
+    "concepts": [
+      "Rodington",
+      "per se order"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1461"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1490": {
+    "summary": "Rodington's fourth proof: habits incline only to acts like those generating them, and science arises only from cognitive acts. Vargas responds that theology is not purely speculative, much less is every science.",
+    "claims": [
+      "Habits incline to acts like those that generated them",
+      "Theology is not purely speculative, and not every science is speculative"
+    ],
+    "concepts": [
+      "Rodington",
+      "generation of habits"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1477"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1512": {
+    "summary": "Replies to Henry's first argument: speculative science is nobler than practical when only those two are compared, but the noblest creaturely science is neither practical nor speculative.",
+    "claims": [
+      "The noblest creaturely science is neither practical nor speculative"
+    ],
+    "concepts": [
+      "Henry of Ghent",
+      "nobility",
+      "affective science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1490"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1531": {
+    "summary": "Replies to Henry's second argument: theology's principal end is love of God, not knowledge, as shown in the previous question.",
+    "claims": [
+      "Theology's principal end is love, not knowledge"
+    ],
+    "concepts": [
+      "Henry of Ghent",
+      "love of God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1512"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1542": {
+    "summary": "Replies to Henry's third argument by distinguishing 'work' broadly (any operation of a non-intellectual power) and strictly (praxis): broadly, theology's speculation is ordered to meritorious love; strictly, a science not ordered to praxis need not be speculative, since it may be ordered to a will's act that is neither.",
+    "claims": [
+      "Work can mean any operation of a non-intellectual power or praxis strictly",
+      "A science not ordered to praxis may be ordered to a will's act that is neither praxis nor speculation"
+    ],
+    "concepts": [
+      "opus",
+      "praxis",
+      "will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1531"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1577": {
+    "summary": "Replies to Henry's fourth and fifth arguments: the articles are not principles of acquired theology, and in revealed theology their speculation is ordered to meritorious love, as faith is ordered to charity (gloss on 1 Corinthians 13); the theology of heaven is not speculative, since its principal end is love or delight (beatitude consisting more in fruition than vision), and God's theology is affective. Rodington's arguments are stronger and are answered after two propositions.",
+    "claims": [
+      "Faith is ordered to charity as its complement",
+      "The theology of heaven is affective, its end being love or delight",
+      "Beatitude consists more principally in fruition than in vision",
+      "God's theology is affective"
+    ],
+    "concepts": [
+      "faith and charity",
+      "theology of the blessed",
+      "fruition",
+      "God's theology",
+      "Henry of Ghent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1542"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1625": {
+    "summary": "First proposition against Rodington: theology as distinct from natural habits is practical, speculative or affective — from his own concessions (every cognitive habit is one of these; any habit with a subject is cognitive, and revealed theology has a subject, as shown in question 7) and absolutely (every habit is named from its principal end, which is praxis, speculation or affection; theology's is affection).",
+    "claims": [
+      "Revealed theology is a cognitive habit with a subject",
+      "Every habit is practical, speculative or affective according to its end",
+      "Theology's principal end is affection"
+    ],
+    "concepts": [
+      "Rodington",
+      "cognitive habit",
+      "subject of theology",
+      "threefold division"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1577"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1703": {
+    "summary": "Second proposition: not every science as science is speculative, since Aristotle divides science into practical and speculative and the practical into active and factive.",
+    "claims": [
+      "Aristotle's divisions of science would be void if all science were speculative"
+    ],
+    "concepts": [
+      "division of sciences",
+      "Aristotle"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1625"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1716": {
+    "summary": "Further proof: the end of speculative science is knowing only (Averroes), and many sciences aim at operating.",
+    "claims": [
+      "The end of many sciences is operating, not merely knowing"
+    ],
+    "concepts": [
+      "Averroes",
+      "ends of sciences"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1703"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1730": {
+    "summary": "Presents Rodington's evasion: science is divided into practical and speculative not by what falls per se under science but by the knower's intention; speculating is science's per se end, while doing something is the knower's per se end and science's accidental end.",
+    "claims": [
+      "Rodington: practicality pertains to the knower's intention, not to science as such"
+    ],
+    "concepts": [
+      "Rodington",
+      "finis operis and finis operantis",
+      "intention"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1716"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1750": {
+    "summary": "Rejects the evasion: if practicality came from the knower's intention, any science could be practical (ordered to profit), against Aristotle, who calls some sciences speculative and others practical.",
+    "claims": [
+      "If practicality depended on intention, every science could be practical"
+    ],
+    "concepts": [
+      "Rodington",
+      "intention",
+      "Aristotle"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1730"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1772": {
+    "summary": "Further: Aristotle says speculative science is for its own sake, practical for use; if 'for use' meant the knower's intention, no speculative science would be for its own sake.",
+    "claims": [
+      "Speculative science is for its own sake by its nature, not by the knower's intention"
+    ],
+    "concepts": [
+      "sui gratia",
+      "gratia usus",
+      "Metaphysics I"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1750"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1790": {
+    "summary": "Further: on Rodington's view the same science in one person would be practical at one time and not at another.",
+    "claims": [
+      "Practicality would vary arbitrarily with intention"
+    ],
+    "concepts": [
+      "Rodington",
+      "intention"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1772"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1801": {
+    "summary": "Further: metaphysics would be no more speculative than moral philosophy, and metaphysics could be practical in someone for whom moral philosophy is not.",
+    "claims": [
+      "Rodington's view erases the difference between metaphysics and moral philosophy"
+    ],
+    "concepts": [
+      "metaphysics",
+      "moral philosophy",
+      "Rodington"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1790"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1825": {
+    "summary": "Replies to Rodington's first conclusion: the per se end of revealed theology is love of God, since the end of the law is love and faith is ordered to love; to the second, denies that every science as science is speculative.",
+    "claims": [
+      "The per se end of revealed theology, though it is faith, is love",
+      "Not every science as science is speculative"
+    ],
+    "concepts": [
+      "Rodington",
+      "faith ordered to love"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1801"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1857": {
+    "summary": "Replies to Rodington's first proof: a habit is known from its per se end, which may be praxis, speculation or affection; knowing distinguishes cognitive from non-cognitive habits but is the end 'by which', not the end 'for the sake of which'; sciences differ among themselves by their per se ends.",
+    "claims": [
+      "Habits are named from the act that is their per se end",
+      "Knowing distinguishes cognitive habits but is not the finis cuius of every science"
+    ],
+    "concepts": [
+      "finis quo and cuius",
+      "cognitive habits"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1825"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1896": {
+    "summary": "Replies to the second proof: the act that is the per se end of practical science is elicited or commanded by the will, but that act is operating, not knowing.",
+    "claims": [
+      "The per se end of practical science is operating, which depends on the will"
+    ],
+    "concepts": [
+      "will",
+      "practical science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1857"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1912": {
+    "summary": "Replies to the third and fourth proofs: moral philosophy is not per se speculative, being for becoming good; science inclines only to cognition as its elicited act, but is named practical from the act it directs, not the act it elicits. Introduces the opinion that theology is both practical and speculative.",
+    "claims": [
+      "Some sciences order knowing to operating",
+      "Sciences are named practical from the act they direct, not the act they elicit"
+    ],
+    "concepts": [
+      "moral philosophy",
+      "directed and elicited acts",
+      "Rodington"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1896"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1943": {
+    "summary": "Aquinas's first argument (Summa I q.1 a.4): theology, being one, extends to what belongs to diverse human sciences, practical and speculative, under the common ratio of being knowable by divine light, so it is both.",
+    "claims": [
+      "Theology extends to the matters of both practical and speculative sciences"
+    ],
+    "concepts": [
+      "Thomas Aquinas",
+      "unity of theology",
+      "divine light"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1912"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1963": {
+    "summary": "Aquinas's second argument: our theology is an image of God's, which is speculative of himself and practical of what he makes, so ours is speculative regarding God and practical regarding virtuous works.",
+    "claims": [
+      "Our theology images God's theology, which is both speculative and practical"
+    ],
+    "concepts": [
+      "Thomas Aquinas",
+      "image",
+      "divine science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1943"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e1976": {
+    "summary": "Godfrey of Fontaines's argument: a science considering speculables as speculable and doables as doable is both, and theology considers both divine things and virtuous acts for their own sakes.",
+    "claims": [
+      "Theology considers speculables and agibles each for itself"
+    ],
+    "concepts": [
+      "Godfrey of Fontaines",
+      "speculabilia and agibilia"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1963"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e2001": {
+    "summary": "Godfrey's further argument: a science whose end is both truth and work is both speculative and practical, and theology aims to enlighten intellect in faith and inflame affect in charity.",
+    "claims": [
+      "Theology aims at truth of faith and goodness of morals"
+    ],
+    "concepts": [
+      "Godfrey of Fontaines",
+      "truth and work"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e1976"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e2021": {
+    "summary": "Replies to Aquinas's first argument: the major holds only if one science is ordered to praxis and speculation as two unrelated per se ends, which is not the case in theology.",
+    "claims": [
+      "Theology's diverse ends are ordered to one principal end"
+    ],
+    "concepts": [
+      "Thomas Aquinas",
+      "unity of end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e2001"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e2034": {
+    "summary": "Replies to Aquinas's image argument: God's theology is affective, its principal end being love; or, if it is both, ours is a diminished image, and God's infinite theology can equal distinct sciences while our finite theology cannot.",
+    "claims": [
+      "God's theology is affective",
+      "Our theology is a diminished image of God's",
+      "Only an infinite science can equal several distinct sciences"
+    ],
+    "concepts": [
+      "Thomas Aquinas",
+      "image of divine science",
+      "infinity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e2021"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e2058": {
+    "summary": "Replies to Godfrey's arguments: as before, they require two unrelated per se ends, but in theology both truth and work are ordered to love of God.",
+    "claims": [
+      "Truth and work in theology are ordered to love of God"
+    ],
+    "concepts": [
+      "Godfrey of Fontaines",
+      "end of theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e2034"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e2076": {
+    "summary": "Presents the common opinion of nearly all doctors against the fourth conclusion: when something is divided into opposites, one's property does not name the other, and habits are divided into intellective and affective, so no intellectual science is affective.",
+    "claims": [
+      "The property of one opposite does not denominate the other",
+      "Habits divide into intellective and affective"
+    ],
+    "concepts": [
+      "common opinion",
+      "affective science",
+      "division of habits"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e2058"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e2098": {
+    "summary": "Further argument: every science directs an act, which is either speculation or operation.",
+    "claims": [
+      "Every directed act is speculation or operation"
+    ],
+    "concepts": [
+      "direction",
+      "division of sciences"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e2076"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e2108": {
+    "summary": "Further argument: every intellect is speculative or practical (De anima III), so every science is too, and none is affective.",
+    "claims": [
+      "Every intellect is speculative or practical"
+    ],
+    "concepts": [
+      "De anima III",
+      "intellect"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e2098"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e2115": {
+    "summary": "Further argument: if love named theology because it is meritorious, so would every meritorious act, making theology 'creditive' and 'orative'.",
+    "claims": [
+      "Every meritorious act would name theology"
+    ],
+    "concepts": [
+      "merit",
+      "denomination"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e2108"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e2128": {
+    "summary": "Further argument: a science of what is doable by us is practical, of what is not doable is speculative (Aristotle Metaphysics VI, Avicenna), and every science is about one or the other.",
+    "claims": [
+      "Science of what is in our power is practical, otherwise speculative (Aristotle, Avicenna)"
+    ],
+    "concepts": [
+      "Avicenna",
+      "Metaphysics VI",
+      "agibile"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e2115"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e2154": {
+    "summary": "Further argument: a habit's end is either in the intellect (speculative) or outside it (practical), so a third member is fictitious.",
+    "claims": [
+      "An end in the intellect makes a habit speculative, outside it practical"
+    ],
+    "concepts": [
+      "location of end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e2128"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e2163": {
+    "summary": "Further argument: every science is either for its own sake (speculative) or for use (practical).",
+    "claims": [
+      "Every science is either for its own sake or for use"
+    ],
+    "concepts": [
+      "sui gratia",
+      "gratia usus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e2154"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e2172": {
+    "summary": "Further argument: goodness of affect belongs to practical science, as moral science aims at making us good, so it does not ground a third genus.",
+    "claims": [
+      "Perfecting affect with virtue belongs to practical science"
+    ],
+    "concepts": [
+      "moral science",
+      "goodness of affect"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e2163"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e2193": {
+    "summary": "Further argument: an affective theology would have as end either knowledge of charitable affection (speculative) or knowledge of how it should be produced (practical).",
+    "claims": [
+      "Knowledge of charity is speculative; knowledge of how to love is practical"
+    ],
+    "concepts": [
+      "knowledge of charity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e2172"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e2217": {
+    "summary": "Further argument: Aristotle proves natural science speculative by elimination from the practical/speculative division, which works only if it is exhaustive; Aristotle, Avicenna, Algazel and all philosophers reduce all sciences to these two.",
+    "claims": [
+      "The philosophers treat practical and speculative as an exhaustive division"
+    ],
+    "concepts": [
+      "Aristotle",
+      "Avicenna",
+      "Algazel",
+      "division of sciences"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e2193"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e2241": {
+    "summary": "Replies to the first and second arguments of the common opinion: intellective and affective are not opposed in any strict way; even disparate properties can name another thing (as a practical habit is named from another power's operation); the habit is called affective not because it is affected but because it inclines to love; and not every directed act is speculation or praxis.",
+    "claims": [
+      "Intellective and affective are not strictly opposed",
+      "A habit is named affective because it inclines to love",
+      "Not every directed act is speculation or praxis properly"
+    ],
+    "concepts": [
+      "affective habit",
+      "opposition",
+      "extrinsic denomination"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e2217"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e2298": {
+    "summary": "Replies to the third argument: some intellect is affective; Aristotle, not seeing an affective habit, did not see an affective intellect either.",
+    "claims": [
+      "Aristotle did not discern the affective intellect"
+    ],
+    "concepts": [
+      "affective intellect",
+      "Aristotle"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e2241"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e2309": {
+    "summary": "Replies to the fourth argument: only the principal end names a habit, and that is love; alternatively only love is per se meritorious, other acts being meritorious through love (1 Corinthians 13).",
+    "claims": [
+      "Only the principal end names a habit",
+      "Only love is per se meritorious"
+    ],
+    "concepts": [
+      "merit",
+      "denomination by end",
+      "charity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e2298"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e2329": {
+    "summary": "Replies to the fifth argument: a speculative science requires not only that its subject not be doable but also that its principal end be speculation; Aristotle does not say only speculative science can concern what is not in our power, and arguments from authority do not hold negatively, especially for a theologian, or no infused habit could be posited.",
+    "claims": [
+      "Speculative science requires speculation as principal end",
+      "Arguments from the philosophers' silence do not bind theologians"
+    ],
+    "concepts": [
+      "Aristotle",
+      "Avicenna",
+      "authority",
+      "infused habits"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e2309"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e2378": {
+    "summary": "Replies to the sixth argument: theology's end is outside the intellect, but not every operation of another power is praxis.",
+    "claims": [
+      "An end outside the intellect does not make a habit practical unless it is praxis"
+    ],
+    "concepts": [
+      "end and praxis"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e2329"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e2389": {
+    "summary": "Replies to the seventh argument: 'for its own sake' means either not ordered to another science (only metaphysics) or its knowing not ordered to directing another power (all speculative science); a science not for its own sake is practical only if it is for use, that is, for praxis.",
+    "claims": [
+      "Metaphysics alone is for its own sake as ordered to no other science",
+      "A non-speculative science is practical only if ordered to praxis"
+    ],
+    "concepts": [
+      "sui gratia",
+      "gratia usus",
+      "metaphysics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e2378"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e2411": {
+    "summary": "Replies to the eighth argument: goodness of affect is twofold — elective acts of will, which are praxis, and acts of will regarding the end, which are not.",
+    "claims": [
+      "Some goodness of affect is praxis, some (regarding the end) is not"
+    ],
+    "concepts": [
+      "goodness of affect",
+      "will and end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e2389"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e2424": {
+    "summary": "Continues: moral science aims at the first kind and is practical; theology aims at the second, which constitutes a third genus. Replies to the ninth (theology is affective because its end is love, distinct from any knowledge) and tenth: Aristotle and the philosophers divided science into practical and speculative only because, by natural reason, they did not see an act of will about the end to which an intellectual habit could be ordered, which theologians must grant.",
+    "claims": [
+      "Theology's end constitutes a third genus distinct from the practical",
+      "Aristotle relied on natural reason and erred in some things",
+      "The philosophers could not see by natural principles the act to which theology is ordered"
+    ],
+    "concepts": [
+      "affective science",
+      "limits of philosophy",
+      "Aristotle",
+      "theology and philosophy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e2411"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e2472": {
+    "summary": "Replies to the first principal argument: directing makes a habit practical only if the directed act is its end and is praxis, which does not hold for theology.",
+    "claims": [
+      "Theology's directive role does not make it practical"
+    ],
+    "concepts": [
+      "response to principal arguments"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e2424"
+      ]
+    }
+  },
+  "at8va9-e20777-d1e2485": {
+    "summary": "Replies to the second principal argument: theology is the wayfarer's noblest habit but is neither practical nor speculative; ends the prologue.",
+    "claims": [
+      "The wayfarer's noblest habit is neither practical nor speculative"
+    ],
+    "concepts": [
+      "response to principal arguments",
+      "end of prologue"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e20777",
+        "at8va9-e20777-Dd1e886",
+        "at8va9-e20777-d1e2472"
+      ]
+    }
+  },
+  "at8va9-e20777-Dd1e155": {
+    "summary": "Article 1 defines practical and speculative habits by their principal ends, praxis and speculation: a habit is named practical from the praxis it directs and speculative from the speculation it elicits. Against Scotus's arguments that practicality is an aptitudinal relation caused by object or intellect, Vargas holds that the end distinguishes habits as final cause, whether as produced, intended or known, and that sciences are named from proximate, not remote, ends.",
+    "claims": [
+      "Practical and speculative habits are defined by their principal ends",
+      "The end distinguishes habits as final cause",
+      "Practicality is not formally a relation",
+      "Sciences are named from proximate ends"
+    ],
+    "concepts": [
+      "definition of practical and speculative habits",
+      "final cause",
+      "Scotus",
+      "Thomas of Strasbourg"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e20777-d1e159",
+        "at8va9-e20777-d1e205",
+        "at8va9-e20777-d1e227",
+        "at8va9-e20777-d1e260",
+        "at8va9-e20777-d1e279",
+        "at8va9-e20777-d1e292",
+        "at8va9-e20777-d1e312",
+        "at8va9-e20777-d1e388",
+        "at8va9-e20777-d1e404",
+        "at8va9-e20777-d1e454",
+        "at8va9-e20777-d1e484",
+        "at8va9-e20777-d1e513"
+      ]
+    }
+  },
+  "at8va9-e20777-Dd1e569": {
+    "summary": "Article 2 concludes, for the total theological habit, that the wayfarer's theology is not properly practical (its end, love of God, is not praxis), not speculative (its end is not knowing), and not both at once (a habit cannot have two unrelated principal ends). It is properly affective, since its principal end is love or affection. This yields a threefold division of science, and of intellect, into practical, speculative and affective.",
+    "claims": [
+      "The wayfarer's theology is not properly practical",
+      "It is not speculative",
+      "It is not both practical and speculative",
+      "It is properly affective",
+      "Science and intellect are threefold: practical, speculative and affective"
+    ],
+    "concepts": [
+      "scientia affectiva",
+      "practical and speculative science",
+      "love of God",
+      "affective intellect"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e20777-d1e573",
+        "at8va9-e20777-d1e602",
+        "at8va9-e20777-d1e609",
+        "at8va9-e20777-d1e625",
+        "at8va9-e20777-d1e657",
+        "at8va9-e20777-d1e675",
+        "at8va9-e20777-d1e701",
+        "at8va9-e20777-d1e725",
+        "at8va9-e20777-d1e736",
+        "at8va9-e20777-d1e756",
+        "at8va9-e20777-d1e770",
+        "at8va9-e20777-d1e812",
+        "at8va9-e20777-d1e821",
+        "at8va9-e20777-d1e843"
+      ]
+    }
+  },
+  "at8va9-e20777-Dd1e886": {
+    "summary": "Articles 3 and 4 defend the conclusions. Against Scotus, Aureol and Francis of Meyronnes, who hold theology practical, Vargas argues that practicality is not a relation of conformity to right volition and that love of God, which theology directs, is not praxis. Against Henry of Ghent and Rodington, who hold it speculative or reduce all science to speculation, he denies that the noblest science must be speculative and rejects making practicality depend on the knower's intention. Against Aquinas and Godfrey, who hold it both, he maintains a single principal end. Against the common opinion that there is no third, affective, genus, he argues that the philosophers by natural reason did not see the will's act about the end to which theology is ordered.",
+    "claims": [
+      "Theology is not practical, since love of God is not praxis",
+      "Not every science is speculative, and practicality does not depend on the knower's intention",
+      "Theology does not have two unrelated principal ends",
+      "The philosophers' division into practical and speculative is incomplete"
+    ],
+    "concepts": [
+      "Scotus",
+      "Aureol",
+      "Francis of Meyronnes",
+      "Henry of Ghent",
+      "Rodington",
+      "Thomas Aquinas",
+      "Godfrey of Fontaines",
+      "common opinion",
+      "affective science"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e20777-d1e890",
+        "at8va9-e20777-d1e903",
+        "at8va9-e20777-d1e938",
+        "at8va9-e20777-d1e947",
+        "at8va9-e20777-d1e990",
+        "at8va9-e20777-d1e1019",
+        "at8va9-e20777-d1e1035",
+        "at8va9-e20777-d1e1085",
+        "at8va9-e20777-d1e1098",
+        "at8va9-e20777-d1e1133",
+        "at8va9-e20777-d1e1186",
+        "at8va9-e20777-d1e1210",
+        "at8va9-e20777-d1e1252",
+        "at8va9-e20777-d1e1268",
+        "at8va9-e20777-d1e1284",
+        "at8va9-e20777-d1e1308",
+        "at8va9-e20777-d1e1325",
+        "at8va9-e20777-d1e1338",
+        "at8va9-e20777-d1e1351",
+        "at8va9-e20777-d1e1380",
+        "at8va9-e20777-d1e1391",
+        "at8va9-e20777-d1e1407",
+        "at8va9-e20777-d1e1424",
+        "at8va9-e20777-d1e1437",
+        "at8va9-e20777-d1e1461",
+        "at8va9-e20777-d1e1477",
+        "at8va9-e20777-d1e1490",
+        "at8va9-e20777-d1e1512",
+        "at8va9-e20777-d1e1531",
+        "at8va9-e20777-d1e1542",
+        "at8va9-e20777-d1e1577",
+        "at8va9-e20777-d1e1625",
+        "at8va9-e20777-d1e1703",
+        "at8va9-e20777-d1e1716",
+        "at8va9-e20777-d1e1730",
+        "at8va9-e20777-d1e1750",
+        "at8va9-e20777-d1e1772",
+        "at8va9-e20777-d1e1790",
+        "at8va9-e20777-d1e1801",
+        "at8va9-e20777-d1e1825",
+        "at8va9-e20777-d1e1857",
+        "at8va9-e20777-d1e1896",
+        "at8va9-e20777-d1e1912",
+        "at8va9-e20777-d1e1943",
+        "at8va9-e20777-d1e1963",
+        "at8va9-e20777-d1e1976",
+        "at8va9-e20777-d1e2001",
+        "at8va9-e20777-d1e2021",
+        "at8va9-e20777-d1e2034",
+        "at8va9-e20777-d1e2058",
+        "at8va9-e20777-d1e2076",
+        "at8va9-e20777-d1e2098",
+        "at8va9-e20777-d1e2108",
+        "at8va9-e20777-d1e2115",
+        "at8va9-e20777-d1e2128",
+        "at8va9-e20777-d1e2154",
+        "at8va9-e20777-d1e2163",
+        "at8va9-e20777-d1e2172",
+        "at8va9-e20777-d1e2193",
+        "at8va9-e20777-d1e2217",
+        "at8va9-e20777-d1e2241",
+        "at8va9-e20777-d1e2298",
+        "at8va9-e20777-d1e2309",
+        "at8va9-e20777-d1e2329",
+        "at8va9-e20777-d1e2378",
+        "at8va9-e20777-d1e2389",
+        "at8va9-e20777-d1e2411",
+        "at8va9-e20777-d1e2424",
+        "at8va9-e20777-d1e2472",
+        "at8va9-e20777-d1e2485"
+      ]
+    }
+  },
+  "at8va9-e20777": {
+    "summary": "The tenth question, closing the prologue, asks whether the wayfarer's theology is practical or speculative. Defining these habits by their principal ends, praxis and speculation, and building on the previous question's thesis that theology's end is meritorious love of God, Vargas concludes that theology is neither practical, nor speculative, nor both, but properly affective. He therefore proposes a threefold division of science and intellect into practical, speculative and affective. He defends this against Scotus, Aureol and Meyronnes (theology practical), Henry of Ghent and Rodington (theology or all science speculative), Aquinas and Godfrey (theology both), and the common opinion that the division into practical and speculative is exhaustive. On the last point he argues that the philosophers, relying on natural reason, could not see the act of will about the end that theology serves.",
+    "claims": [
+      "The wayfarer's theology is neither practical, nor speculative, nor both, but affective",
+      "A habit is named practical or speculative from its principal end",
+      "Theology's principal end is love of God, which is neither praxis nor speculation",
+      "Science and intellect are threefold: practical, speculative and affective",
+      "The philosophers' twofold division of science is incomplete from the theologian's standpoint"
+    ],
+    "concepts": [
+      "practical and speculative science",
+      "scientia affectiva",
+      "end of theology",
+      "love of God",
+      "affective intellect",
+      "Scotus",
+      "Henry of Ghent",
+      "Thomas Aquinas",
+      "Rodington",
+      "limits of philosophy"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e20777-d1e103",
+        "at8va9-e20777-d1e116",
+        "at8va9-e20777-d1e134",
+        "at8va9-e20777-d1e145",
+        "at8va9-e20777-Dd1e155",
+        "at8va9-e20777-Dd1e569",
+        "at8va9-e20777-Dd1e886"
+      ]
+    }
+  }
+}

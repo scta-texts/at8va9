@@ -1,0 +1,1164 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-01T04:33:50Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "create-interpretation-v1",
+    "source_commit": "2712681",
+    "generation_method": "hierarchical",
+    "source_file": "cod-x7yh5z_at8va9-e12961.xml"
+  },
+  "at8va9-e12961-d1e106": {
+    "summary": "States the sixth question (the second on the material cause): whether the theological habit of a created intellect is about God as God (under the ratio of deity) as its first subject.",
+    "claims": [],
+    "concepts": [
+      "subject of theology",
+      "Deus ut Deus",
+      "ratio deitatis",
+      "created intellect"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e115": {
+    "summary": "Opening argument for (the created theological habit is the noblest, so it concerns the noblest subject under the noblest ratio, God under the ratio of deity) and against (created and uncreated theology are not of the same species and are essentially ordered, so they do not share the same first subject under the same formal ratio; uncreated theology has God as God as subject).",
+    "claims": [
+      "The noblest habit concerns the noblest subject under the noblest ratio",
+      "Essentially subordinated habits of different species do not share a subject under the same formal ratio",
+      "Uncreated theology has God as God as subject"
+    ],
+    "concepts": [
+      "nobility of science",
+      "created and uncreated theology",
+      "ratio deitatis"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-d1e106"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e135": {
+    "summary": "Announces the four-article structure.",
+    "claims": [],
+    "concepts": [
+      "structure of the question"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-d1e115"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e149": {
+    "summary": "Article 1 specifies that the question concerns the subject about which, properly the thing signified, and distinguishes five ways God can be conceived: under a common ratio such as being (confused knowledge); under a relation ad extra (creator, savior) — noting that 'our doctor' (Giles of Rome), who spoke of God under the ratio of glorifier, did not mean this; under a relation ad intra (generating, spirating); under an attribute (just, wise, good); and under his proper quidditative ratio, deity. Asking whether theology concerns God as God is asking whether it concerns him under the ratio of deity absolutely; those who say there is no 'under' in God speak 'bestially'.",
+    "claims": [
+      "The subject in question is the thing signified, not a word or concept",
+      "God can be conceived under common being, relation ad extra, relation ad intra, an attribute, or the ratio of deity",
+      "'God as God' means God under the ratio of deity absolutely",
+      "Giles of Rome's 'God as glorifier' is not a relation ad extra"
+    ],
+    "concepts": [
+      "conceptibility of God",
+      "ratio deitatis",
+      "attributes",
+      "relations ad intra and ad extra",
+      "Giles of Rome",
+      "ratio glorificatoris"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e145"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e241": {
+    "summary": "Article 2, first conclusion: it is repugnant to an infinite being such as God to be known by a finite intellect as infinite. Proofs: the incomprehensible cannot be comprehended, and God is incomprehensible because infinite (Richard of St Victor); a finite intellect cannot know God as much as he is knowable, and knowing the infinite as infinite would be knowing it adequately.",
+    "claims": [
+      "God is incomprehensible precisely because infinite (Richard of St Victor)",
+      "No finite intellect can know God as much as he is knowable",
+      "To know the infinite as infinite would be to know it adequately"
+    ],
+    "concepts": [
+      "divine infinity",
+      "incomprehensibility",
+      "finite intellect",
+      "Richard of St Victor De Trinitate",
+      "adequate knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e237"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e317": {
+    "summary": "Third proof: infinite being as infinite exactly matches the cognitive power of the divine intellect and so improportionably exceeds any finite intellect; for the divine essence as infinite is of infinite intelligibility, and when it alone is known under the ratio of infinity nothing is excluded from divine knowledge.",
+    "claims": [
+      "The divine essence as infinite adequately matches the divine intellect",
+      "What adequately matches the exceeding intellect exceeds the exceeded one proportionally",
+      "Knowing the essence as infinite includes knowing all things"
+    ],
+    "concepts": [
+      "infinite intelligibility",
+      "divine intellect",
+      "proportion",
+      "excess"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e237",
+        "at8va9-e12961-d1e241"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e380": {
+    "summary": "Fourth proof: if a finite intellect could know God as infinite, its act would be infinitely perfect, since for a perfectly disposed, unimpeded power acting with full effort, increase in the object's perfection entails increase in the act's perfection (by analogy with Aristotle's argument in Physics VIII); confirmed by Augustine, Dionysius (Letter to Titus), Anselm (Proslogion: God is greater than can be thought) and Aristotle (the infinite as infinite is unknown, Physics I and III).",
+    "claims": [
+      "For acts of the same kind from a perfectly disposed, unimpeded power at full effort, the act's perfection follows the object's",
+      "An infinite object so known would require an infinitely perfect act",
+      "God is greater than can be thought (Anselm)",
+      "The infinite as infinite is unknown (Aristotle)"
+    ],
+    "concepts": [
+      "perfection of act and object",
+      "Physics VIII",
+      "Anselm Proslogion",
+      "Dionysius",
+      "Aristotle on the infinite",
+      "beatified intellect"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e237",
+        "at8va9-e12961-d1e317"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e521": {
+    "summary": "Second conclusion: the created intellect's theological habit is not about God under the ratio of infinity, so God so considered cannot be its subject; this follows from the first conclusion and is confirmed by further arguments.",
+    "claims": [
+      "Created theology does not have God under the ratio of infinity as subject"
+    ],
+    "concepts": [
+      "subject of theology",
+      "divine infinity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e237",
+        "at8va9-e12961-d1e380"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e538": {
+    "summary": "First confirmation: created theology is not about God as incomprehensible, since the formal ratio of a subject must be most known, and God is incomprehensible because infinite.",
+    "claims": [
+      "The formal ratio of a subject must be most known",
+      "God as incomprehensible is unknown to creatures"
+    ],
+    "concepts": [
+      "incomprehensibility",
+      "formal ratio of subject"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e237",
+        "at8va9-e12961-d1e521"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e560": {
+    "summary": "Second confirmation: created theology does not consider God in every way he can be considered (that belongs to uncreated theology), but knowing God as infinite means knowing him as much as he is knowable and every grade of his perfection.",
+    "claims": [
+      "Only uncreated theology considers God in every way he is considerable",
+      "Divine infinity includes every perfection and every grade of perfection"
+    ],
+    "concepts": [
+      "adequate consideration",
+      "uncreated theology",
+      "grades of perfection"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e237",
+        "at8va9-e12961-d1e538"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e599": {
+    "summary": "Third confirmation: created theology does not consider all things (otherwise other sciences would be superfluous, it would equal uncreated theology, and Augustine limits it to what nourishes saving faith), whereas whoever knows God as infinite knows all things represented in him (Damascene).",
+    "claims": [
+      "Created theology does not consider all things",
+      "Whoever knows God as infinite knows everything God knows",
+      "All things are represented in God by reason of his infinity (Damascene)"
+    ],
+    "concepts": [
+      "scope of theology",
+      "Augustine De Trinitate XIV",
+      "Damascene",
+      "divine exemplarity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e237",
+        "at8va9-e12961-d1e560"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e662": {
+    "summary": "Fourth confirmation: created theology is not infinite, but the perfection of a science is measured by its subject, so a science of the infinite under the ratio of infinity would be infinite.",
+    "claims": [
+      "The perfection of a science is measured by its first subject",
+      "Created theology is finite"
+    ],
+    "concepts": [
+      "perfection of science",
+      "infinite science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e237",
+        "at8va9-e12961-d1e599"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e680": {
+    "summary": "Third conclusion: infinity belongs to the per se and first quidditative concept of deity, since deity, with everything not itself excluded, still formally implies non-finite perfection; and deity is formally most perfect, as the formal ratio of the most perfect habit's subject (on the opponents' own view).",
+    "claims": [
+      "Infinity is of the per se and first quidditative concept of deity",
+      "Deity by itself formally is most perfect and so infinite",
+      "The subject of the most perfect habit is itself formally most perfect"
+    ],
+    "concepts": [
+      "divine infinity",
+      "quidditative concept",
+      "ratio deitatis",
+      "per se primo modo"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e237",
+        "at8va9-e12961-d1e662"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e719": {
+    "summary": "Further proofs that deity is formally most perfect: as the object of the most perfect (divine) intellect, whose object is its own essence, and as the ratio in whose vision and fruition creaturely beatitude consists, since one who saw and enjoyed the essence alone would be blessed.",
+    "claims": [
+      "The divine intellect's object is its own essence",
+      "Beatitude consists in seeing and enjoying deity as such"
+    ],
+    "concepts": [
+      "object of divine intellect",
+      "beatific object",
+      "formal beatitude"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e237",
+        "at8va9-e12961-d1e680"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e757": {
+    "summary": "Third argument from Anselm: God is that than which nothing greater can be thought, so deity is formally infinite; otherwise something greater could be thought.",
+    "claims": [
+      "God is that than which nothing greater can be thought (Proslogion 2-3)",
+      "Anything not infinite admits something greater"
+    ],
+    "concepts": [
+      "Anselm Proslogion",
+      "id quo maius cogitari non potest",
+      "infinity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e237",
+        "at8va9-e12961-d1e719"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e777": {
+    "summary": "Fourth argument: every divine attribute is infinite by identity with the essence (as Scotus himself grants), so the essence must be infinite of itself.",
+    "claims": [
+      "Nothing is infinite by identity with what is not itself formally infinite",
+      "Scotus admits attributes are infinite by identity with the essence as root of perfection"
+    ],
+    "concepts": [
+      "divine attributes",
+      "identity with essence",
+      "Scotus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e237",
+        "at8va9-e12961-d1e757"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e806": {
+    "summary": "Fifth argument by division: the concept of deity is finite, infinite, neutral or both; not finite, since then God would not be that than which nothing greater can be thought.",
+    "claims": [
+      "A finite concept of deity would contradict Anselm's definition of God"
+    ],
+    "concepts": [
+      "concept of deity",
+      "finite and infinite"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e237",
+        "at8va9-e12961-d1e777"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e822": {
+    "summary": "Continues the division: a finite concept would make God comprehensible and would invert the order of the universe (God's theology about a finite ratio, the wayfarer's about an infinite one); a neutral concept is confused and indeterminate, proper only to being and its convertibles; and the concept cannot be both finite and infinite; so it is infinite.",
+    "claims": [
+      "Every determinate concept under being is either finite or infinite",
+      "A neutral concept is indeterminate and not most perfect",
+      "The concept of deity is not being in general",
+      "So the concept of deity is infinite"
+    ],
+    "concepts": [
+      "concept of being",
+      "neutrality",
+      "order of the universe",
+      "determinate concepts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e237",
+        "at8va9-e12961-d1e806"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e883": {
+    "summary": "Sixth argument: what of itself formally contains infinite perfections is infinite, and deity contains the perfections of all things producible by divine power, which are infinite.",
+    "claims": [
+      "Containing more perfections is greater perfection, and infinitely many infinite perfection",
+      "Deity formally contains the perfections of all possibles"
+    ],
+    "concepts": [
+      "containment of perfections",
+      "divine power",
+      "possibles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e237",
+        "at8va9-e12961-d1e822"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e914": {
+    "summary": "Second proof of the minor: what virtually first contains infinite perfections contains them by itself formally, and the opponents hold that deity as subject of infinite theology virtually contains all its truths; supported by Damascene ('He who is' as an infinite sea of substance) and Richard of St Victor (the divine substance is its immensity).",
+    "claims": [
+      "Virtual first containment is containment by oneself formally",
+      "Damascene: God comprehends everything in himself as an infinite sea of substance",
+      "Richard: the divine substance is nothing other than its immensity"
+    ],
+    "concepts": [
+      "virtual containment",
+      "Damascene",
+      "Richard of St Victor",
+      "qui est",
+      "immensity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e237",
+        "at8va9-e12961-d1e883"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e980": {
+    "summary": "Fourth conclusion: the created intellect's theological habit is not about God as God (under the ratio of deity absolutely) as first subject, because it is not about God as infinite and infinity belongs to deity's quidditative concept; confirmed because finite and infinite sciences cannot share the same adequate subject under the same ratio, and sciences sharing a subject under one formal ratio have equal scope, as created and uncreated theology do not.",
+    "claims": [
+      "Created theology does not have God under the ratio of deity absolutely as first subject",
+      "The first subject is adequate to its science",
+      "Sciences with the same subject under the same formal ratio have equal scope",
+      "Created and uncreated theology differ in scope"
+    ],
+    "concepts": [
+      "subject of theology",
+      "ratio deitatis",
+      "adequacy of subject",
+      "scope of science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e237",
+        "at8va9-e12961-d1e914"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e1056": {
+    "summary": "Further confirmations: created and uncreated theology differ more than in species, and a science is specified by its subject formally taken; created theology is not the noblest habit, while only the noblest habit concerns God under the noblest ratio, deity absolutely; closes Article 2.",
+    "claims": [
+      "Created and uncreated theology differ more than any two created sciences",
+      "A science is specified by its subject formally taken",
+      "Only the noblest habit has God under the ratio of deity absolutely as subject"
+    ],
+    "concepts": [
+      "specification of science",
+      "created and uncreated theology",
+      "nobility"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e237",
+        "at8va9-e12961-d1e980"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e1092": {
+    "summary": "Opens Articles 3 and 4 and notes that against the first conclusion a certain doctor sets four conclusions, each proved four ways.",
+    "claims": [],
+    "concepts": [
+      "dubia",
+      "structure"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e1088"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e1105": {
+    "summary": "Francis's first conclusion: the blessed intellect, supernaturally elevated, attains God under the ratio of infinity, because the saints see God as he is (John 3), and infinity belongs to the beatific essence per se, and intuitive knowledge reveals even accidental features as self-evident.",
+    "claims": [
+      "The blessed see God as he is, and he is infinite",
+      "From the quiddity one can reach all that belongs to it per se",
+      "Intuitive knowledge reveals per se and accidental features"
+    ],
+    "concepts": [
+      "Francis",
+      "beatific vision",
+      "sicuti est",
+      "intuitive knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e1088",
+        "at8va9-e12961-d1e1092"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e1147": {
+    "summary": "Francis's second conclusion: a created intellect elevated but not glorified can attain God under the ratio of infinity, proved from Scripture texts revealing God's infinity (Psalm 144, Wisdom 7, Baruch 3, Deuteronomy).",
+    "claims": [
+      "God's infinity was supernaturally revealed to wayfarers"
+    ],
+    "concepts": [
+      "Francis",
+      "revelation of infinity",
+      "Scripture"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e1088",
+        "at8va9-e12961-d1e1105"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e1176": {
+    "summary": "Francis's third conclusion: a separate intellect in pure naturals can attain the divine essence under the ratio of infinity, since it knows effects of infinite power, the quantity of power, objective potency, and the relations of inequality creatures bear to the infinite.",
+    "claims": [
+      "A separate intellect knows God's infinity from effects, quantities of power and relations"
+    ],
+    "concepts": [
+      "Francis",
+      "separate intellect",
+      "pure naturals",
+      "natural knowledge of infinity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e1088",
+        "at8va9-e12961-d1e1147"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e1216": {
+    "summary": "Francis's fourth conclusion: an embodied intellect in pure naturals can attain God under the ratio of infinity, since we believe and prove that God is infinite, Anselm demonstrates perfections through infinity, and theology supposes infinity. Vargas replies with a key distinction: knowing that God is infinite differs from knowing God under the ratio of infinity, as knowing that God is God differs from knowing him under the ratio of deity; the arguments fail in form.",
+    "claims": [
+      "Knowing that God is infinite differs from knowing God under the ratio of infinity",
+      "The former is evident to anyone understanding the terms; the latter is impossible at least for the wayfarer"
+    ],
+    "concepts": [
+      "knowing that vs knowing under a ratio",
+      "Anselm Monologion",
+      "Francis"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e1088",
+        "at8va9-e12961-d1e1176"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e1273": {
+    "summary": "Replies to Francis: by parity his arguments would prove God known as incomprehensible, a contradiction; 'seeing God as he is' means face to face, not totally and adequately (Augustine); the conclusion validly drawn is only that the blessed see God who is infinite, or see his infinity, not that they see him infinitely; intuition does not give perfect quidditative knowledge; the scriptural and natural arguments show only that God's infinity is revealed or demonstrable; and to believe or prove 'God is infinite' requires only nominal (quid nominis) knowledge of its terms, not quidditative, as with the perfections Anselm demonstrates.",
+    "claims": [
+      "Seeing God sicuti est means facial, not adequate vision",
+      "The blessed see God's infinity but not God infinitely",
+      "Intuitive knowledge does not yield perfect quidditative knowledge of what it sees",
+      "Belief or proof of a proposition requires only nominal knowledge of its terms",
+      "Francis fails to distinguish knowing that God is infinite from knowing God under the ratio of infinity"
+    ],
+    "concepts": [
+      "Francis",
+      "sicuti est",
+      "facie ad faciem",
+      "quid nominis and quid rei",
+      "Damascene",
+      "Anselm",
+      "retortion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e1088",
+        "at8va9-e12961-d1e1216"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e1481": {
+    "summary": "Replies to the fourth argument: not everything supposed in a science must be known quidditatively; God is supposed as subject of our theology though not known by us quidditatively in this life.",
+    "claims": [
+      "A science's subject is supposed through quia est and quid nominis, not necessarily quid rei"
+    ],
+    "concepts": [
+      "supposition of subject",
+      "quid nominis",
+      "Posterior Analytics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e1088",
+        "at8va9-e12961-d1e1273"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e1497": {
+    "summary": "Presents Scotus's opinion against the second conclusion — the wayfarer's theology concerns God under the ratio of infinity as its first object — with Francis of Meyronnes's arguments: Anselm demonstrates theological truths through 'that than which nothing greater', which defines the infinite; and the noblest science of the wayfarer must concern the noblest subject under the noblest concept possible to us, which is infinity.",
+    "claims": [
+      "Scotus: wayfarer's theology has God under the ratio of infinity as subject",
+      "Anselm's medium is the definition of the infinite",
+      "The noblest science concerns its subject under the noblest possible concept"
+    ],
+    "concepts": [
+      "Scotus",
+      "Francis of Meyronnes",
+      "ens infinitum",
+      "Anselm Monologion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e1088",
+        "at8va9-e12961-d1e1481"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e1528": {
+    "summary": "Meyronnes's third argument: Dionysius (Mystical Theology) says our theology directs us to God as transcending all things, and only infinity is an excessive ratio.",
+    "claims": [
+      "Theology directs to God as transcending all things",
+      "Infinity alone is the ratio of transcendence"
+    ],
+    "concepts": [
+      "Dionysius Mystical Theology",
+      "transcendence",
+      "infinity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e1088",
+        "at8va9-e12961-d1e1497"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e1541": {
+    "summary": "Meyronnes's fourth argument: ultimate resolution of a science's truths ends at its first subject, and theology resolves transcendent truths (such as one nature in three persons) to infinity.",
+    "claims": [
+      "Theology resolves its transcendent truths ultimately into infinity"
+    ],
+    "concepts": [
+      "resolutio",
+      "Trinity",
+      "infinity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e1088",
+        "at8va9-e12961-d1e1528"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e1553": {
+    "summary": "Replies to Meyronnes: Anselm's 'that than which nothing greater' is a description of God, so the argument would make deity, not infinity, the ratio of the subject; and being a middle term does not make something the ratio of the subject (exterior angle, the moon in eclipses), especially since infinity serves as middle in heaven too; the concept of infinity is no more available to wayfarers than that of deity, as Aristotle proved the prime mover's infinity only a posteriori from motion, which gives only knowledge quia.",
+    "claims": [
+      "Anselm's formula describes God and so supports deity rather than infinity",
+      "Being a middle of demonstration does not make something the formal ratio of the subject",
+      "The concept of infinity is no more possible to wayfarers than that of deity",
+      "Aristotle proved the first mover's infinity only a posteriori, giving knowledge quia"
+    ],
+    "concepts": [
+      "Francis of Meyronnes",
+      "Anselm",
+      "middle term",
+      "demonstratio quia",
+      "Aristotle Physics VIII and Metaphysics XII",
+      "Damascene"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e1088",
+        "at8va9-e12961-d1e1541"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e1642": {
+    "summary": "Replies to the Dionysius argument (Dionysius says theology directs to God as far as possible to us, so the text supports the opposite) and to the resolution argument (it repeats the first), and retorts both: they would prove that theology in heaven, and any theology, created or uncreated, has God under the ratio of infinity. Then presents a Scotist objection to the third conclusion: an intrinsic mode is not of the quidditative concept of what it modifies, and infinity is an intrinsic mode of deity, like haecceity, existence and quantity of power.",
+    "claims": [
+      "Dionysius teaches theology reaches God only as far as possible for us",
+      "The arguments would prove too much, applying to the theology of the blessed and of God",
+      "Scotists: infinity is an intrinsic mode of deity, outside its quidditative concept"
+    ],
+    "concepts": [
+      "Dionysius",
+      "retortion",
+      "intrinsic mode",
+      "Scotus",
+      "haecceity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e1088",
+        "at8va9-e12961-d1e1553"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e1723": {
+    "summary": "Francis of Meyronnes's four arguments that an intrinsic mode is outside a thing's quiddity (it is understood as posterior; one formal ratio is common to two modes; Scotus divides ratio from mode; removing a degree of whiteness leaves whiteness), plus: infinity is demonstrable of God (Aristotle), so it belongs to the second mode of per se predication; and one can apprehend deity without its infinity, since philosophers doubted it.",
+    "claims": [
+      "An intrinsic mode is understood after what it modifies",
+      "Being is common to finite and infinite",
+      "Infinity is demonstrated of God and so is not quidditative",
+      "Philosophers knew God exists but doubted his infinity"
+    ],
+    "concepts": [
+      "Francis of Meyronnes",
+      "intrinsic mode",
+      "degrees of whiteness",
+      "per se predication",
+      "demonstrability of infinity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e1088",
+        "at8va9-e12961-d1e1642"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e1778": {
+    "summary": "Further objection: no privative ratio is included in a positive one, and infinity is privative while deity is positive.",
+    "claims": [
+      "Infinity is a privative concept"
+    ],
+    "concepts": [
+      "privation",
+      "infinity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e1088",
+        "at8va9-e12961-d1e1723"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e1787": {
+    "summary": "Begins replies: some would answer that while an extrinsic mode is outside quiddity, an intrinsic mode enters the quiddity and pertains to the first mode of per se predication.",
+    "claims": [
+      "An intrinsic mode enters the quiddity of what it modifies"
+    ],
+    "concepts": [
+      "intrinsic mode",
+      "per se primo modo"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e1088",
+        "at8va9-e12961-d1e1778"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e1800": {
+    "summary": "Reply to the first: an intrinsic mode is not understood after its subject, since it is the thing itself and nothing is posterior to itself; 'mode' is equivocal between intrinsic and extrinsic.",
+    "claims": [
+      "An intrinsic mode is identical with the thing it modifies"
+    ],
+    "concepts": [
+      "intrinsic mode",
+      "equivocation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e1088",
+        "at8va9-e12961-d1e1787"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e1810": {
+    "summary": "Reply to the second: the argument would show specific differences are not quidditative, since animal is common to rational and irrational; intrinsic modes belong to the quiddity of what they distinguish, as infinity distinguishes God from all else.",
+    "claims": [
+      "Differences are quidditative of species, not of genera",
+      "Infinity distinguishes God from everything not God"
+    ],
+    "concepts": [
+      "specific difference",
+      "intrinsic mode",
+      "divine infinity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e1088",
+        "at8va9-e12961-d1e1800"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e1832": {
+    "summary": "Reply to the third: those who divide a formal ratio from its own intrinsic mode misuse terms, since nothing is divided against itself.",
+    "claims": [
+      "Nothing is divided against itself"
+    ],
+    "concepts": [
+      "intrinsic mode",
+      "division"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e1088",
+        "at8va9-e12961-d1e1810"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e1841": {
+    "summary": "Replies to the remaining arguments: the degree of whiteness is separable and so not intrinsic, or removing it removes this whiteness; in any case infinity differs, since removing it removes God's quiddity (he would no longer be that than which nothing greater can be thought) and it is not posterior to deity in any way; infinity is demonstrated of God only a posteriori, which can also demonstrate quidditative predicates (and some a priori demonstrations are only in inferring, as 'every man is an animal'); no one apprehends God perfectly; and infinity is privative only in its name. Introduces the common opinion against the fourth conclusion.",
+    "claims": [
+      "Removing infinity removes God's quidditative ratio",
+      "Infinity is not posterior to deity in nature, reason or origin",
+      "A posteriori demonstration can prove quidditative predicates such as existence",
+      "Some demonstrations a priori in inferring prove first-mode per se predicates",
+      "Infinity of perfection is privative only in name"
+    ],
+    "concepts": [
+      "intrinsic mode",
+      "degrees of forms",
+      "Henry of Ghent",
+      "a posteriori demonstration",
+      "privative names"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e1088",
+        "at8va9-e12961-d1e1832"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e2010": {
+    "summary": "Presents Aquinas's arguments for the common opinion that God under the ratio of deity absolutely is the subject of theology: the same subject under the same ratio governs a science and its first principles, and in the articles God as God is subject; and as object to power, so subject to science, and everything in theology is considered under the ratio of deity, as God or as ordered to him.",
+    "claims": [
+      "The subject of a science and of its principles is the same under the same ratio",
+      "Everything in theology is considered in relation to God as principle or end"
+    ],
+    "concepts": [
+      "Thomas Aquinas",
+      "Summa I q.1 a.7",
+      "subject of theology",
+      "sub ratione Dei"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e1088",
+        "at8va9-e12961-d1e1841"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e2041": {
+    "summary": "Landulphus's arguments: the subject is that under which God virtually contains all theological truths, which is deity as his quasi-specific ratio; and God must be subject of theology as he is object of the divine intellect, which is his own essence (Metaphysics XII).",
+    "claims": [
+      "Deity virtually contains all theological truths",
+      "God is the subject of theology as he is object of the divine intellect"
+    ],
+    "concepts": [
+      "Landulphus",
+      "virtual containment",
+      "object of divine intellect",
+      "Metaphysics XII"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e1088",
+        "at8va9-e12961-d1e2010"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e2096": {
+    "summary": "Landulphus's third argument: otherwise theology would not be the most perfect knowledge of God, since another science concerning God as God would be nobler.",
+    "claims": [
+      "Theology must be the most perfect knowledge of God"
+    ],
+    "concepts": [
+      "perfection of theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e1088",
+        "at8va9-e12961-d1e2041"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e2115": {
+    "summary": "Replies to Aquinas: not all articles are principles, and in the Incarnation article only the Son is subject; as principles of uncreated theology, God as God is simply their subject, but as principles of created theology he is subject only as attainable by a created intellect, since no creature knows the Trinity adequately; nothing in created theology is considered under the ratio of deity absolutely, but concretely and finitely.",
+    "claims": [
+      "In uncreated theology God as God is the subject of the articles",
+      "In created theology God is subject only as attainable by a created intellect",
+      "No creature can know the deity or the Trinity as much as they are knowable"
+    ],
+    "concepts": [
+      "Thomas Aquinas",
+      "articles of faith",
+      "created and uncreated theology",
+      "attingibility"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e1088",
+        "at8va9-e12961-d1e2096"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e2178": {
+    "summary": "Replies to Landulphus: the syllogism is invalid (two affirmatives in the second figure) and virtual containment belongs to the middle; God contains theological truths absolutely in uncreated theology but as proportioned to a created intellect in created theology; the divine intellect's adequate object exceeds any created intellect; created theology is the noblest possible to a creature, not simply; and uncreated theology is more perfect.",
+    "claims": [
+      "God contains theological truths differently in uncreated and created theology",
+      "The adequate object of the divine intellect cannot be the subject of created theology under the same ratio",
+      "Created theology is noblest only among those possible to creatures"
+    ],
+    "concepts": [
+      "Landulphus",
+      "virtual containment",
+      "proportion to created intellect",
+      "nobility"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e1088",
+        "at8va9-e12961-d1e2115"
+      ]
+    }
+  },
+  "at8va9-e12961-d1e2243": {
+    "summary": "Replies to the principal arguments: the created theological habit is not simply the noblest, though noblest among creaturely habits; the second principal argument is accepted as conclusive.",
+    "claims": [
+      "Created theology is the noblest of creaturely habits, not simply noblest"
+    ],
+    "concepts": [
+      "response to principal arguments",
+      "nobility"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e12961",
+        "at8va9-e12961-Dd1e1088",
+        "at8va9-e12961-d1e2178"
+      ]
+    }
+  },
+  "at8va9-e12961-Dd1e145": {
+    "summary": "Article 1 fixes the subject as the thing signified and distinguishes five ways of conceiving God (common being, relation ad extra, relation ad intra, attribute, deity), identifying the question as whether created theology concerns God under the ratio of deity absolutely.",
+    "claims": [
+      "The question concerns God as subject under the ratio of deity",
+      "God can be conceived in five ways"
+    ],
+    "concepts": [
+      "conceptibility of God",
+      "ratio deitatis",
+      "Giles of Rome"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e12961-d1e149"
+      ]
+    }
+  },
+  "at8va9-e12961-Dd1e237": {
+    "summary": "Article 2 argues four conclusions. A finite intellect cannot know God as infinite, since God is incomprehensible because infinite and to know him as infinite would be to know him adequately with an infinitely perfect act. So created theology is not about God under the ratio of infinity. Infinity belongs to the per se and first quidditative concept of deity, as Anselm's definition, the infinity of attributes, and deity's containment of infinite perfections show. Therefore created theology is not about God under the ratio of deity absolutely, a ratio reserved to uncreated theology.",
+    "claims": [
+      "A finite intellect cannot know God under the ratio of infinity",
+      "Created theology does not have God under the ratio of infinity as subject",
+      "Infinity is of the quidditative concept of deity",
+      "Created theology does not have God under the ratio of deity absolutely as first subject"
+    ],
+    "concepts": [
+      "divine infinity",
+      "incomprehensibility",
+      "ratio deitatis",
+      "quidditative concept",
+      "created and uncreated theology",
+      "Anselm"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e12961-d1e241",
+        "at8va9-e12961-d1e317",
+        "at8va9-e12961-d1e380",
+        "at8va9-e12961-d1e521",
+        "at8va9-e12961-d1e538",
+        "at8va9-e12961-d1e560",
+        "at8va9-e12961-d1e599",
+        "at8va9-e12961-d1e662",
+        "at8va9-e12961-d1e680",
+        "at8va9-e12961-d1e719",
+        "at8va9-e12961-d1e757",
+        "at8va9-e12961-d1e777",
+        "at8va9-e12961-d1e806",
+        "at8va9-e12961-d1e822",
+        "at8va9-e12961-d1e883",
+        "at8va9-e12961-d1e914",
+        "at8va9-e12961-d1e980",
+        "at8va9-e12961-d1e1056"
+      ]
+    }
+  },
+  "at8va9-e12961-Dd1e1088": {
+    "summary": "Articles 3 and 4 answer objections. Against Francis's claims that blessed, elevated and natural intellects know God under the ratio of infinity, Vargas distinguishes knowing that God is infinite from knowing God under that ratio. Against Scotus and Francis of Meyronnes, who make infinity the ratio of the wayfarer's theology, he argues that Anselm's formula supports deity, that a middle term is not the subject's ratio, and that the arguments prove too much. Against the Scotist view of infinity as an intrinsic mode outside deity's quiddity, he holds that removing infinity removes God's quiddity. Against Aquinas and Landulphus, he answers that God is the subject of created theology only as attainable by a created intellect.",
+    "claims": [
+      "Knowing that God is infinite differs from knowing God under the ratio of infinity",
+      "Infinity is not the formal ratio of the wayfarer's theological subject",
+      "Infinity is not an intrinsic mode extrinsic to deity's quiddity",
+      "God is subject of created theology only as proportioned to a created intellect"
+    ],
+    "concepts": [
+      "Francis",
+      "Scotus",
+      "Francis of Meyronnes",
+      "Thomas Aquinas",
+      "Landulphus",
+      "intrinsic mode",
+      "divine infinity",
+      "subject of theology"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e12961-d1e1092",
+        "at8va9-e12961-d1e1105",
+        "at8va9-e12961-d1e1147",
+        "at8va9-e12961-d1e1176",
+        "at8va9-e12961-d1e1216",
+        "at8va9-e12961-d1e1273",
+        "at8va9-e12961-d1e1481",
+        "at8va9-e12961-d1e1497",
+        "at8va9-e12961-d1e1528",
+        "at8va9-e12961-d1e1541",
+        "at8va9-e12961-d1e1553",
+        "at8va9-e12961-d1e1642",
+        "at8va9-e12961-d1e1723",
+        "at8va9-e12961-d1e1778",
+        "at8va9-e12961-d1e1787",
+        "at8va9-e12961-d1e1800",
+        "at8va9-e12961-d1e1810",
+        "at8va9-e12961-d1e1832",
+        "at8va9-e12961-d1e1841",
+        "at8va9-e12961-d1e2010",
+        "at8va9-e12961-d1e2041",
+        "at8va9-e12961-d1e2096",
+        "at8va9-e12961-d1e2115",
+        "at8va9-e12961-d1e2178",
+        "at8va9-e12961-d1e2243"
+      ]
+    }
+  },
+  "at8va9-e12961": {
+    "summary": "The sixth question asks whether the created intellect's theological habit has God as God, under the ratio of deity, as its first subject. Vargas answers no. A finite intellect cannot know the infinite God as infinite, since that would be comprehensive, adequate knowledge requiring an infinitely perfect act. Infinity belongs to the very quidditative concept of deity and is not an extrinsic or intrinsic mode added to it. So God under the ratio of deity absolutely is the subject only of uncreated theology. Created theology has God as subject only as attainable by and proportioned to a created intellect, a thesis the next question develops. Along the way he distinguishes knowing that God is infinite from knowing God under the ratio of infinity, and rejects Scotist, Thomist and other alternatives.",
+    "claims": [
+      "Created theology does not have God under the ratio of deity absolutely as its first subject",
+      "A finite intellect cannot know God under the ratio of infinity",
+      "Infinity belongs to the per se quidditative concept of deity",
+      "Knowing that God is infinite is distinct from knowing God as infinite",
+      "In created theology God is subject only as attainable by a created intellect"
+    ],
+    "concepts": [
+      "subject of theology",
+      "ratio deitatis",
+      "divine infinity",
+      "incomprehensibility",
+      "created and uncreated theology",
+      "Scotus",
+      "Thomas Aquinas",
+      "intrinsic mode"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e12961-d1e106",
+        "at8va9-e12961-d1e115",
+        "at8va9-e12961-d1e135",
+        "at8va9-e12961-Dd1e145",
+        "at8va9-e12961-Dd1e237",
+        "at8va9-e12961-Dd1e1088"
+      ]
+    }
+  }
+}

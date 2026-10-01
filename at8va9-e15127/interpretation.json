@@ -1,0 +1,1187 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-01T04:35:27Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "create-interpretation-v1",
+    "source_commit": "2712681",
+    "generation_method": "hierarchical",
+    "source_file": "cod-x7yh5z_at8va9-e15127.xml"
+  },
+  "at8va9-e15127-d1e106": {
+    "summary": "States the seventh question (the third on the material cause): whether the created intellect's theological habit is about God under a finite ratio as its first subject.",
+    "claims": [],
+    "concepts": [
+      "subject of theology",
+      "ratio finita",
+      "created intellect"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e115": {
+    "summary": "Opening argument against (if so, metaphysics, whose ratio of being is prior to any finite ratio, would be prior and nobler than theology) and for (every finite science considers its subject under a finite ratio, since subject and science must be proportioned, and created theology is finite).",
+    "claims": [
+      "The ratio of being is prior to any finite ratio",
+      "Subject and science must be proportioned",
+      "Created theology is a finite science"
+    ],
+    "concepts": [
+      "metaphysics and theology",
+      "proportion of subject and science",
+      "finite ratio"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-d1e106"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e131": {
+    "summary": "Announces the four-article structure.",
+    "claims": [],
+    "concepts": [
+      "structure of the question"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-d1e115"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e145": {
+    "summary": "Article 1, first part: distinguishes created theology as the habit of a single conclusion — whose subject varies (God, the Father, the Son, the Spirit, the essence, or a creature) according to what the subject term of each conclusion signifies — from the habit of all theological conclusions, which, like metaphysics, is one by a unity of per se ordered totality and has one first subject; the question concerns the latter. Also distinguishes a ratio finite formally in being from one finite only virtually, in moving the intellect and terminating its act; only the latter applies to God, since nothing in God is formally finite.",
+    "claims": [
+      "Partial theological habits have different subjects: God, a divine person, the essence, or a creature",
+      "The total theological habit is one by a unity of per se order, not of simple form",
+      "The total habit has one first subject, as metaphysics does",
+      "A ratio may be finite formally in being or only virtually in moving the intellect",
+      "Nothing in God is formally finite"
+    ],
+    "concepts": [
+      "partial and total habits",
+      "unity of per se order",
+      "metaphysics",
+      "finitum formaliter et virtualiter",
+      "subject of theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e141"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e243": {
+    "summary": "Lays down ten suppositions: God virtually and eminently contains every finite perfection and its knowledge; he can move the intellect to know any finite thing, or one without another (else angelic revelations would fail); to know creatures or himself more or less intensely (Christ's soul; the blessed differ in clarity, Lombard IV d.49); God known more or less intensely is not equally attained on his side (bat and eagle seeing the sun); when known less perfectly he is not attained as infinite, nor necessarily under a ratio neutral between finite and infinite (proper to being); so he can be attained under a finite ratio — not formally in being, but virtually in moving the intellect and terminating its act.",
+    "claims": [
+      "God virtually and eminently contains every finite perfection and its knowledge",
+      "God can move an intellect to know one thing without another",
+      "God can move intellects to know him more or less intensely",
+      "God known more or less intensely is not equally attained on his side, as the sun by the bat and the eagle",
+      "God known less than perfectly is not attained as infinite",
+      "God can be attained under a ratio that is finite virtually, in moving and terminating the intellect's act"
+    ],
+    "concepts": [
+      "eminent containment",
+      "divine motion of the intellect",
+      "degrees of knowledge",
+      "bat and eagle",
+      "beatific vision",
+      "Christ's soul",
+      "Peter Lombard",
+      "virtual finitude"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e141",
+        "at8va9-e15127-d1e145"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e433": {
+    "summary": "Article 2, supposing with common doctrine that God is the subject of created theology, gives the first conclusion: created theology is not about God under an attribute as first subject, because the formal ratio of the subject is supposed and not demonstrated in a science, while every attribute is demonstrable of God (Anselm, Monologion 15), and every attribute reduces in inferring to the ratio of deity.",
+    "claims": [
+      "The formal ratio of a science's first subject is supposed, not demonstrated",
+      "Every attributal perfection is demonstrable of God",
+      "Every attributal ratio reduces in inferring to the ratio of deity"
+    ],
+    "concepts": [
+      "divine attributes",
+      "subject of theology",
+      "Anselm Monologion",
+      "demonstration"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e429"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e481": {
+    "summary": "Third proof: the concept of a subject's formal ratio must be quidditative, but every attribute concept is denominative and quasi-qualitative (Damascene).",
+    "claims": [
+      "The subject's formal ratio must be conceived quidditatively",
+      "Attribute concepts are denominative (Damascene)"
+    ],
+    "concepts": [
+      "quidditative and denominative concepts",
+      "Damascene",
+      "attributes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e429",
+        "at8va9-e15127-d1e433"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e501": {
+    "summary": "Second conclusion: created theology is not about God under a relation ad extra as first subject — contrary to what many think Giles of Rome meant. Proved from Giles's principles (theology is a real science, and God's relations ad extra are only relations of reason) and absolutely (created theology concerns God under the most perfect concept possible to a creature, which a relation ad extra is not).",
+    "claims": [
+      "A real science considers its subject under a real ratio",
+      "God's relations ad extra are relations of reason only",
+      "Created theology concerns God under the most perfect concept possible to a creature"
+    ],
+    "concepts": [
+      "relations ad extra",
+      "relation of reason",
+      "Giles of Rome",
+      "real science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e429",
+        "at8va9-e15127-d1e481"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e543": {
+    "summary": "Further proofs: theology considers its subject under a necessary ratio, whereas relations ad extra belong to God contingently; and the subject must be per se one, whereas God with a relation ad extra (temporal, per Augustine) is one only per accidens, like 'white man'.",
+    "claims": [
+      "Theology considers its subject under a necessary ratio",
+      "Relations ad extra belong to God contingently and temporally",
+      "The subject must be per se one"
+    ],
+    "concepts": [
+      "necessity and contingency",
+      "temporal relations",
+      "per se unity",
+      "Augustine De Trinitate V"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e429",
+        "at8va9-e15127-d1e501"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e590": {
+    "summary": "Third conclusion: created theology is about God under the ratio of deity, not taken simply and absolutely, but as virtually proportioned to the created intellect; since it concerns God under the most perfect concept possible to a creature, and deity, though not totally attainable, is attainable in some way; and as deity proportioned to the divine intellect is principally intended in God's theology, so deity proportioned to the created intellect is principally intended in ours.",
+    "claims": [
+      "Created theology has God under the ratio of deity as virtually proportioned to the created intellect",
+      "Deity is not totally attainable by a creature but is attainable in some way",
+      "Every scientific consideration is ordered to knowledge of its first subject"
+    ],
+    "concepts": [
+      "ratio deitatis",
+      "proportion to the created intellect",
+      "subject of theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e429",
+        "at8va9-e15127-d1e543"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e647": {
+    "summary": "Further proof by elimination: created theology is about God, not creatures or something common; not under a universal ratio (confused), a relation ad intra (reducible to the absolute), a relation ad extra, or an attribute; so under deity — not absolutely, but as attainable and virtually proportioned to the created intellect.",
+    "claims": [
+      "Knowledge under a universal ratio is confused",
+      "Knowledge under a relation ad intra reduces to knowledge of the absolute",
+      "Deity is attainable by a creature only as virtually proportioned to it"
+    ],
+    "concepts": [
+      "elimination argument",
+      "ratio deitatis",
+      "relations ad intra"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e429",
+        "at8va9-e15127-d1e590"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e676": {
+    "summary": "Fourth proof: theology is the first habit possible to a creature and so concerns the first ratio possible to it, deity as attainable; confirmed by Dionysius (theology directs us to God beyond all substance and knowledge as far as is possible for us). Infers two corollaries: the wayfarer's theology concerns deity as proportioned to an intellect elevated by the light of faith, and the glorified intellect's theology concerns deity as proportioned to an intellect elevated by the light of glory.",
+    "claims": [
+      "Theology is simply first among habits possible to a creature",
+      "Dionysius: theology reaches God as far as possible for us",
+      "Wayfarer's theology concerns deity as proportioned to an intellect elevated by the light of faith",
+      "The blessed's theology concerns deity as proportioned to an intellect elevated by the light of glory"
+    ],
+    "concepts": [
+      "Dionysius Mystical Theology",
+      "light of faith",
+      "light of glory",
+      "wayfarer and comprehensor"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e429",
+        "at8va9-e15127-d1e647"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e731": {
+    "summary": "Fourth conclusion: created theology is about God under a finite ratio as first subject. Shows possibility first: God can be known by a created intellect under a finite ratio, as he can be known under a neutral ratio (being) though no entity in God is neutral; and since 'God acts, therefore under an infinite or neutral ratio' is invalid — as when God supplies the causality of a finite agent by producing a species of whiteness in the eye — so is the corresponding inference about knowing. Vargas follows 'our doctor' (Giles of Rome) here.",
+    "claims": [
+      "God can be known by a created intellect under a finite ratio",
+      "God can be known under a neutral ratio though nothing in God is neutral",
+      "God need not act under an infinite or neutral ratio, as when he supplies a finite agent's causality",
+      "Whatever can act can be known as it acts"
+    ],
+    "concepts": [
+      "finite ratio",
+      "neutral ratio",
+      "divine action",
+      "supplying finite causality",
+      "Giles of Rome"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e429",
+        "at8va9-e15127-d1e676"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e853": {
+    "summary": "First proof that God supplying a finite agent's effect does not act as infinite: what belongs to something as infinite belongs only to the infinite, but this effect can be produced by a finite agent.",
+    "claims": [
+      "What belongs to something as such belongs only to such (Posterior Analytics)",
+      "An effect producible by a finite agent is not produced by God as infinite"
+    ],
+    "concepts": [
+      "per se causality",
+      "divine infinity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e429",
+        "at8va9-e15127-d1e731"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e869": {
+    "summary": "Second proof: every effect God produces as infinite proves his power infinite, but no effect producible by a finite agent can prove that.",
+    "claims": [
+      "Effects of finite power cannot prove infinite power"
+    ],
+    "concepts": [
+      "proof of infinite power",
+      "effects"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e429",
+        "at8va9-e15127-d1e853"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e881": {
+    "summary": "Third proof: acting as infinite means acting with full effort, which God does not do in producing an effect possible to a finite agent.",
+    "claims": [
+      "Acting as infinite would be acting with full effort"
+    ],
+    "concepts": [
+      "toto conatu",
+      "divine action"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e429",
+        "at8va9-e15127-d1e869"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e890": {
+    "summary": "Fourth proof (what could belong to God even if he were finite does not belong to him as infinite; confirmed by the case of producing two effects together, one possible for a finite agent and one not), then necessity of the conclusion: created theology is about God neither under an infinite nor a neutral ratio, so under a finite one; and it concerns deity as knowable by a created intellect, which is finitely, not infinitely.",
+    "claims": [
+      "What could belong to God if he were finite does not belong to him as infinite",
+      "Created theology concerns God neither under an infinite nor a neutral ratio",
+      "God is knowable by a created intellect only finitely",
+      "A habit about God precisely as knowable by creatures is about him under a finite ratio"
+    ],
+    "concepts": [
+      "necessity of the conclusion",
+      "finite knowability",
+      "subject of theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e429",
+        "at8va9-e15127-d1e881"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e956": {
+    "summary": "Opens Articles 3 and 4 and presents the first opinion against the first conclusion, that God is the subject of theology under the ratio of the good: William of Ware argues that theology, being noblest, concerns God under the noblest ratio, the good as best end (Avicenna on the science of final cause), and that divine science prepares the soul for fidelity, which knowledge of the good most promotes.",
+    "claims": [
+      "William of Ware: theology concerns God under the ratio of the good",
+      "The good is the best end",
+      "A science of the final cause would be noblest (Avicenna)"
+    ],
+    "concepts": [
+      "William of Ware",
+      "ratio boni",
+      "final cause",
+      "Avicenna"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e952"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e993": {
+    "summary": "Ware's third argument (theology differs from practical science only in concerning the eternal rather than the temporal good, and practical science considers its subject under the good), and the second opinion: Giles's follower James of Viterbo (Quodlibet III) holds God is subject under the ratio of the lovable true.",
+    "claims": [
+      "Practical science considers its subject under the ratio of good",
+      "James of Viterbo: God is subject of theology under the ratio of the lovable true"
+    ],
+    "concepts": [
+      "practical science",
+      "James of Viterbo",
+      "verum amabile"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e952",
+        "at8va9-e15127-d1e956"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e1015": {
+    "summary": "Thomas of Strasbourg agrees, holding God is subject of the wayfarer's theology under the ratio of the supremely lovable true proportioned to the faithful soul; they argue that every science considers its subject as true, and a science whose final end is love considers it as true and lovable.",
+    "claims": [
+      "Every science considers its subject under the ratio of the true",
+      "A science whose final end is love considers its subject as true and lovable"
+    ],
+    "concepts": [
+      "Thomas of Strasbourg",
+      "verum summe diligibile",
+      "end of theology",
+      "love"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e952",
+        "at8va9-e15127-d1e993"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e1059": {
+    "summary": "Replies to Ware: the good and every attribute are noblest only by identity with the essence, so deity (as proportioned to the created intellect) is the noblest ratio; the good is the best end 'intransitively', as deity itself is; Avicenna means the thing that is the end, not the relation; deity better prepares for fidelity than any distinct attribute; and not all practical sciences consider their subject under the good absolutely, or they would share one subject.",
+    "claims": [
+      "Attributes are noblest only through identity with the divine essence",
+      "The ratio of final end belongs to deity itself, not to the attribute good",
+      "Not every practical science considers its subject under the good absolutely"
+    ],
+    "concepts": [
+      "William of Ware",
+      "ratio boni",
+      "final end",
+      "practical science",
+      "divine attributes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e952",
+        "at8va9-e15127-d1e1015"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e1130": {
+    "summary": "Replies to James of Viterbo and Thomas of Strasbourg: metaphysics considers being as being, not as true (truth is a property), and natural philosophy mobile being, not the true; 'science is of truths' concerns the known conclusion, not the subject; and for love to be a science's end it suffices that the subject's ratio be lovable in itself, as deity is.",
+    "claims": [
+      "Metaphysics considers its subject as being, not as true",
+      "That science is of truths concerns the known conclusion, not the subject",
+      "Deity is lovable in itself, which suffices for love as theology's end"
+    ],
+    "concepts": [
+      "James of Viterbo",
+      "Thomas of Strasbourg",
+      "verum",
+      "metaphysics",
+      "natural philosophy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e952",
+        "at8va9-e15127-d1e1059"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e1163": {
+    "summary": "Presents Aureol's objection to the second conclusion: Giles says theology is about God as glorifier, which implies a relation ad extra; and Giles either means that by which God glorifies (deity, making God subject absolutely, which he denies) or the relation and denomination toward the glorified, which is a relation ad extra.",
+    "claims": [
+      "'Glorifier', 'restorer' and similar terms imply relations ad extra",
+      "Giles's ratio glorificatoris is either deity absolutely or a relation ad extra"
+    ],
+    "concepts": [
+      "Aureol",
+      "Giles of Rome",
+      "ratio glorificatoris",
+      "relation ad extra"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e952",
+        "at8va9-e15127-d1e1130"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e1200": {
+    "summary": "Replies to Aureol by interpreting Giles: by 'glorifier' Giles means not the relation of glorifying (only a relation of reason, unsuitable for a real science) but deity as proportioned to the created intellect, which glorifies it; Giles himself (treatise on the subject of theology; Quodlibet III) says this condition only restricts the mode of consideration, because no infinite perfection can be known infinitely by a creature.",
+    "claims": [
+      "Giles's ratio glorificatoris is deity as proportioned to the created intellect, not a relation",
+      "A relation of reason cannot be the ratio of a real science's subject",
+      "The term glorifier restricts the mode of consideration, since the creature knows God only finitely"
+    ],
+    "concepts": [
+      "Giles of Rome",
+      "ratio glorificatoris",
+      "Aureol",
+      "relation of reason",
+      "mode of consideration"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e952",
+        "at8va9-e15127-d1e1163"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e1283": {
+    "summary": "Presents Rodington's opinion against the third conclusion, with two theses. First, the wayfarer's revealed theology, distinct from natural habits, has no subject but only a term to which it adheres, because it is not a cognitive habit: non-cognitive habits like charity and hope do not regard complexes, and the subject virtually contains knowledge of the property.",
+    "claims": [
+      "Rodington: the wayfarer's revealed theology has a term but no subject",
+      "It is not a cognitive habit",
+      "Charity and hope regard things, not complexes"
+    ],
+    "concepts": [
+      "Rodington",
+      "cognitive and non-cognitive habits",
+      "complexum",
+      "charity and hope"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e952",
+        "at8va9-e15127-d1e1200"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e1335": {
+    "summary": "Rodington's third argument: a habit from which no cognition is elicited has no subject, since having a subject (a thing outside) would be cognition of it; the antecedent is proved in four ways in his first prologue question.",
+    "claims": [
+      "Having a subject implies being cognition of it"
+    ],
+    "concepts": [
+      "Rodington",
+      "subject and cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e952",
+        "at8va9-e15127-d1e1283"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e1353": {
+    "summary": "Rodington's first proof that theology is not cognitive: no cognitive habit distinguishes believer from infidel, since any act one has the other can have, but revealed theology (being faith) does.",
+    "claims": [
+      "Cognitive habits are common to believers and infidels",
+      "Faith distinguishes believer from infidel"
+    ],
+    "concepts": [
+      "Rodington",
+      "faith",
+      "believer and infidel"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e952",
+        "at8va9-e15127-d1e1335"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e1367": {
+    "summary": "Second proof: faith is not cognitive, since greater faith does not bring more evident cognition (the old woman), and revealed theology is just faith.",
+    "claims": [
+      "Greater faith does not mean greater cognition"
+    ],
+    "concepts": [
+      "faith",
+      "simplex vetula",
+      "cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e952",
+        "at8va9-e15127-d1e1353"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e1387": {
+    "summary": "Third proof: believer and infidel differ only by assent, which is not cognition, since greater assent does not mean greater knowledge.",
+    "claims": [
+      "Assent is not cognition"
+    ],
+    "concepts": [
+      "assent",
+      "cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e952",
+        "at8va9-e15127-d1e1367"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e1403": {
+    "summary": "Fourth proof: if faith were cognitive, a man blind from birth who believes that white is a color dispersing vision would know it, and science would not fail with the absence of a sense, contrary to Aristotle.",
+    "claims": [
+      "If faith were cognitive, the blind could know colors by belief",
+      "Where a sense fails, the corresponding science fails"
+    ],
+    "concepts": [
+      "blind from birth",
+      "color",
+      "sense and science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e952",
+        "at8va9-e15127-d1e1387"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e1432": {
+    "summary": "Rodington's second thesis: deity absolutely is the ratio of the subject of the comprehensor's theology, because it is the middle in propter quid demonstrations (whatever is deity can create, raise the dead, beatify).",
+    "claims": [
+      "Deity absolutely is the middle term of the blessed's demonstrations",
+      "What is the middle of propter quid demonstration is the ratio of the subject"
+    ],
+    "concepts": [
+      "Rodington",
+      "theology of the blessed",
+      "middle term",
+      "ratio deitatis"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e952",
+        "at8va9-e15127-d1e1403"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e1458": {
+    "summary": "Rodington's further argument: God is not subject of the comprehensor's theology under the ratio of glorifier, which is a property proved of the subject, so he is subject under deity absolutely.",
+    "claims": [
+      "Glorifier and redeemer are properties proved of God, not the ratio of the subject"
+    ],
+    "concepts": [
+      "Rodington",
+      "ratio glorificatoris"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e952",
+        "at8va9-e15127-d1e1432"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e1487": {
+    "summary": "Rejects Rodington's opinion as defective and irrational: even granting the first thesis, the acquired opinative and scientific theologies certainly have subjects; and revealed theology itself has a subject, since it is syllogistic and deductive (question 3) and its principles, the articles, are true propositions with subjects and predicates (question 4).",
+    "claims": [
+      "Every opinative or scientific habit has a subject",
+      "Revealed theology, as syllogistic and deductive, has a subject",
+      "The articles of faith are true propositions with subject and predicate"
+    ],
+    "concepts": [
+      "Rodington",
+      "deductive habit",
+      "articles as propositions"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e952",
+        "at8va9-e15127-d1e1458"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e1551": {
+    "summary": "Further argument: faith has a subject, since it regards complexes, and by Rodington's own view revealed theology is not really distinct from faith; every theologian believes that God is three and one.",
+    "claims": [
+      "Faith regards complexes and therefore has a subject"
+    ],
+    "concepts": [
+      "faith and complexes",
+      "Trinity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e952",
+        "at8va9-e15127-d1e1487"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e1575": {
+    "summary": "Further argument (the believer assents to what the infidel dissents from, a complex such as 'God is three and one'), Rodington's reply (assent is to the thing signified under several concepts, with cognition of the complex merely accompanying it), and the first counter-proposition: the assent of faith can be and is about a complex — even Rodington grants the blind man can believe that white is a color dispersing vision.",
+    "claims": [
+      "Rodington: assent attaches to the thing signified, not to the complex",
+      "The assent of faith can be and in fact is directed at complexes",
+      "Rodington contradicts himself on the blind man's belief"
+    ],
+    "concepts": [
+      "assent",
+      "complexum",
+      "Rodington",
+      "blind from birth"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e952",
+        "at8va9-e15127-d1e1551"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e1636": {
+    "summary": "Further confirmation: either Rodington believes the articles true or he is not Catholic, and every article is a complex, being a proposition.",
+    "claims": [
+      "Every article of faith is a complex proposition"
+    ],
+    "concepts": [
+      "articles as propositions"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e952",
+        "at8va9-e15127-d1e1575"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e1645": {
+    "summary": "Further confirmation: what one person knows another can opine or believe (Aristotle), and science always regards complexes, so faith and opinion can too.",
+    "claims": [
+      "Science, opinion and faith can concern the same complex"
+    ],
+    "concepts": [
+      "science",
+      "opinion",
+      "faith",
+      "complexum"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e952",
+        "at8va9-e15127-d1e1636"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e1658": {
+    "summary": "Further confirmations: only the complex is true, and faith assents to the true; we believe complexes such as the existence of the ocean or Rome on testimony (Augustine); Christ is God and man is a complex in the Athanasian Creed. Rodington's replies fail: everything the blessed see the wayfarer believes as propositions; no distinct cognition need accompany the assent of faith, as in the blind man and the simple old woman; and many things are known only by others' testimony (Augustine). The infidel dissents from the complex, not by a distinct cognition of an impossible proposition.",
+    "claims": [
+      "Only the complex is true, and faith assents to truths",
+      "We believe many things on testimony alone (Augustine)",
+      "What the blessed see, wayfarers believe",
+      "No cognition distinct from faith necessarily accompanies the assent of faith"
+    ],
+    "concepts": [
+      "testimony",
+      "Augustine De Trinitate XV",
+      "Athanasian Creed",
+      "simplex vetula",
+      "belief in propositions"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e952",
+        "at8va9-e15127-d1e1645"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e1786": {
+    "summary": "Second counter-proposition: the habit of faith has a subject, since the believer believes something is verified of something (that God is three and one, incarnate), and as what is known stands to science, what is believed stands to faith; acquired faith of deduced conclusions is syllogistic; so Rodington's first thesis is impossible, and the second was refuted in the preceding question.",
+    "claims": [
+      "Faith believes predicates verified of subjects, so it has a subject",
+      "Acquired faith of conclusions is syllogistic and discursive"
+    ],
+    "concepts": [
+      "subject of faith",
+      "acquired faith",
+      "Rodington"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e952",
+        "at8va9-e15127-d1e1658"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e1837": {
+    "summary": "Replies to Rodington's arguments by distinguishing knowledge (certainty) of adhesion from knowledge of evidence (Augustine: certain of Rome by sight, of Constantinople by testimony). Faith and revealed theology are cognitive by adhesion though not by evidence, so they distinguish believer from infidel, need not grow in evidence with faith, are compatible with assent, and give the blind man adhesive, not scientific, knowledge; habits cognitive by adhesion regard complexes and have subjects. Against the second thesis: the middle term is not always the subject's ratio, and deity is middle only as proportioned to the created intellect; glorifier, as Giles means it, is deity, not a property. Then presents the common opinion against the fourth conclusion: no science considers its subject under a ratio formally repugnant to it, and finitude is repugnant to the infinite God.",
+    "claims": [
+      "There is cognition of adhesion and cognition of evidence (Augustine on Rome and Constantinople)",
+      "Faith is cognitive by adhesion, not by evidence",
+      "Habits cognitive by adhesion regard complexes and have subjects",
+      "Deity is the middle in creaturely theology only as proportioned to the created intellect",
+      "Common opinion: finitude is formally repugnant to God and so cannot be the ratio of his consideration"
+    ],
+    "concepts": [
+      "certitudo adhaesionis",
+      "certitudo evidentiae",
+      "Augustine",
+      "faith as cognition",
+      "Rodington",
+      "common opinion",
+      "finitude"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e952",
+        "at8va9-e15127-d1e1786"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e1991": {
+    "summary": "Further arguments of the common opinion: no science considers its subject under a ratio formally opposed to its proper formal ratio, and finitude is opposed to infinity, which is of deity's formal ratio; and the formal ratio of a real science's subject precedes the act of the knowing power, whereas finitude does not precede the created intellect's act in God.",
+    "claims": [
+      "Finitude is formally opposed to infinity, which belongs to deity",
+      "The formal ratio of a real science's subject precedes the act of the power"
+    ],
+    "concepts": [
+      "opposition of finite and infinite",
+      "real science",
+      "priority of the subject"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e952",
+        "at8va9-e15127-d1e1837"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e2017": {
+    "summary": "Further argument: the formal ratio of theology's subject satiates the creature's intellect and will, so it must be infinite, since nothing finite can satiate them.",
+    "claims": [
+      "Created intellect and will cannot be satiated by anything finite"
+    ],
+    "concepts": [
+      "satiation of will",
+      "beatitude",
+      "infinity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e952",
+        "at8va9-e15127-d1e1991"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e2041": {
+    "summary": "Prepares the replies by recalling that a subject's formal ratio can be finite formally or only virtually in the ratio of known object — able to move a finite intellect to the full extent of its capacity no less than if formally proportioned to it — just as something is virtually finite in acting when it can do whatever a formally finite agent could.",
+    "claims": [
+      "A ratio is virtually finite as object if it can do whatever a formally finite object could do in moving the intellect"
+    ],
+    "concepts": [
+      "virtual finitude",
+      "object and power",
+      "proportion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e952",
+        "at8va9-e15127-d1e2017"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e2076": {
+    "summary": "Replies to the first argument: formal finitude is repugnant to God and is not the ratio of the subject, but virtual finitude is compatible with formal infinity, since God moves the created intellect to as much knowledge as it can receive; answers the instances that this would make God virtually finite rather than infinite: God is virtually infinite and also virtually finite as object, since he can be the object of finite and infinite intellects according to their capacities, just as the divine essence is virtually white and black.",
+    "claims": [
+      "Virtual finitude in the ratio of object is compatible with formal infinity in being",
+      "God is virtually infinite and virtually finite as object, according to the intellects that know him",
+      "The divine essence is virtually both white and black, as it can produce and make known both"
+    ],
+    "concepts": [
+      "virtual finitude",
+      "formal infinity",
+      "object of intellect",
+      "divine essence as virtually all things"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e952",
+        "at8va9-e15127-d1e2041"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e2180": {
+    "summary": "Replies to the second and third arguments: virtual finitude does not oppose formal infinity but follows it; the subject's ratio must precede the intellect's act formally or virtually, which suffices for moving the intellect, as creatures are known virtually in God.",
+    "claims": [
+      "Virtual finitude necessarily accompanies formal infinity",
+      "The subject's ratio may precede the act formally or virtually"
+    ],
+    "concepts": [
+      "virtual finitude",
+      "priority of the object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e952",
+        "at8va9-e15127-d1e2076"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e2210": {
+    "summary": "Replies to the fourth argument: what satiates the creature's will and intellect is not formally finite in being but can be virtually finite in moving and terminating the creature's act; the will cannot be satiated by the formally finite, but can be by the virtually finite.",
+    "claims": [
+      "The created will is satiated by what is virtually finite though formally infinite"
+    ],
+    "concepts": [
+      "satiation",
+      "beatitude",
+      "virtual finitude"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e952",
+        "at8va9-e15127-d1e2180"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e2232": {
+    "summary": "Replies to the first principal argument: the ratio of being is prior to any formally finite ratio, but not to deity, which is finite only virtually, except in being more common, which is irrelevant.",
+    "claims": [
+      "Being is not prior to deity as virtually finite, except in commonness"
+    ],
+    "concepts": [
+      "metaphysics and theology",
+      "priority of being"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e952",
+        "at8va9-e15127-d1e2210"
+      ]
+    }
+  },
+  "at8va9-e15127-d1e2248": {
+    "summary": "Accepts the second principal argument, whose truth will be shown in the following question.",
+    "claims": [],
+    "concepts": [
+      "response to principal arguments"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e15127",
+        "at8va9-e15127-Dd1e952",
+        "at8va9-e15127-d1e2232"
+      ]
+    }
+  },
+  "at8va9-e15127-Dd1e141": {
+    "summary": "Article 1 distinguishes the partial theological habits of single conclusions, which have diverse subjects (God, a person, the essence, creatures), from the total habit of theology, one by a unity of per se order with one first subject; and a ratio finite formally in being from one finite virtually in moving the intellect. Ten suppositions establish that God, though infinite, can move a created intellect to know him more or less perfectly, and so can be attained under a ratio that is finite virtually.",
+    "claims": [
+      "The total theological habit has one first subject",
+      "Nothing in God is formally finite, but God can be attained under a virtually finite ratio",
+      "God can move intellects to know him more or less intensely without being attained as infinite"
+    ],
+    "concepts": [
+      "partial and total habits",
+      "unity of per se order",
+      "finitum virtualiter",
+      "divine motion of the intellect"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e15127-d1e145",
+        "at8va9-e15127-d1e243"
+      ]
+    }
+  },
+  "at8va9-e15127-Dd1e429": {
+    "summary": "Article 2 gives four conclusions on the subject of created theology. God is not its subject under an attribute, since attributes are demonstrable and denominative. He is not its subject under a relation ad extra, which is a relation of reason, contingent and not per se one; Vargas denies that Giles of Rome held otherwise. He is its subject under the ratio of deity as virtually proportioned to the created intellect, elevated by faith in wayfarers and by glory in the blessed. That is, he is its subject under a ratio finite virtually, as God can be known, like the supplier of a finite agent's effect, under a ratio neither infinite nor neutral.",
+    "claims": [
+      "Created theology is not about God under an attribute",
+      "Created theology is not about God under a relation ad extra",
+      "Created theology is about God under the ratio of deity as virtually proportioned to the created intellect",
+      "Created theology is about God under a ratio that is virtually finite"
+    ],
+    "concepts": [
+      "subject of theology",
+      "divine attributes",
+      "relations ad extra",
+      "ratio deitatis",
+      "proportion to created intellect",
+      "light of faith",
+      "light of glory",
+      "virtual finitude"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e15127-d1e433",
+        "at8va9-e15127-d1e481",
+        "at8va9-e15127-d1e501",
+        "at8va9-e15127-d1e543",
+        "at8va9-e15127-d1e590",
+        "at8va9-e15127-d1e647",
+        "at8va9-e15127-d1e676",
+        "at8va9-e15127-d1e731",
+        "at8va9-e15127-d1e853",
+        "at8va9-e15127-d1e869",
+        "at8va9-e15127-d1e881",
+        "at8va9-e15127-d1e890"
+      ]
+    }
+  },
+  "at8va9-e15127-Dd1e952": {
+    "summary": "Articles 3 and 4 defend the conclusions. Against William of Ware's 'good' and James of Viterbo's and Thomas of Strasbourg's 'lovable true', Vargas argues that attributes are noblest only through identity with deity. Against Aureol's reading of Giles's 'glorifier' as a relation, he interprets it as deity proportioned to the created intellect. Against Rodington's claim that revealed theology lacks a subject because faith is non-cognitive and assents to things rather than complexes, he distinguishes cognition of adhesion from cognition of evidence and shows that faith assents to propositions. Against the common opinion that finitude is repugnant to God, he holds that virtual finitude as object is compatible with formal infinity and suffices to satiate the creature.",
+    "claims": [
+      "Attributes such as good or true are not the ratio of theology's subject",
+      "Giles's ratio glorificatoris means deity proportioned to the created intellect",
+      "Faith is cognitive by adhesion and assents to complexes, so revealed theology has a subject",
+      "Virtual finitude as object is compatible with God's formal infinity"
+    ],
+    "concepts": [
+      "William of Ware",
+      "James of Viterbo",
+      "Thomas of Strasbourg",
+      "Aureol",
+      "Giles of Rome",
+      "Rodington",
+      "certitude of adhesion",
+      "virtual finitude"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e15127-d1e956",
+        "at8va9-e15127-d1e993",
+        "at8va9-e15127-d1e1015",
+        "at8va9-e15127-d1e1059",
+        "at8va9-e15127-d1e1130",
+        "at8va9-e15127-d1e1163",
+        "at8va9-e15127-d1e1200",
+        "at8va9-e15127-d1e1283",
+        "at8va9-e15127-d1e1335",
+        "at8va9-e15127-d1e1353",
+        "at8va9-e15127-d1e1367",
+        "at8va9-e15127-d1e1387",
+        "at8va9-e15127-d1e1403",
+        "at8va9-e15127-d1e1432",
+        "at8va9-e15127-d1e1458",
+        "at8va9-e15127-d1e1487",
+        "at8va9-e15127-d1e1551",
+        "at8va9-e15127-d1e1575",
+        "at8va9-e15127-d1e1636",
+        "at8va9-e15127-d1e1645",
+        "at8va9-e15127-d1e1658",
+        "at8va9-e15127-d1e1786",
+        "at8va9-e15127-d1e1837",
+        "at8va9-e15127-d1e1991",
+        "at8va9-e15127-d1e2017",
+        "at8va9-e15127-d1e2041",
+        "at8va9-e15127-d1e2076",
+        "at8va9-e15127-d1e2180",
+        "at8va9-e15127-d1e2210",
+        "at8va9-e15127-d1e2232",
+        "at8va9-e15127-d1e2248"
+      ]
+    }
+  },
+  "at8va9-e15127": {
+    "summary": "The seventh question asks whether created theology has God under a finite ratio as its first subject, and answers yes, in a qualified sense. Following Giles of Rome, Vargas holds that the total theological habit has God as subject not under an attribute or a relation ad extra but under the ratio of deity as virtually proportioned to the created intellect, elevated by faith in this life and by glory in the next. Because God, though formally infinite, can move a finite intellect to knowledge proportioned to its capacity, he is known and serves as subject under a ratio that is finite virtually, in moving and terminating the intellect's act, not formally in being. Vargas defends this against rival accounts of theology's subject (the good, the lovable true, Aureol's critique of 'glorifier'), against Rodington's denial that faith and revealed theology have subjects, and against the common objection that finitude is repugnant to God.",
+    "claims": [
+      "Created theology has God under a virtually finite ratio as its first subject",
+      "That ratio is deity as virtually proportioned to the created intellect",
+      "Created theology is not about God under an attribute or a relation ad extra",
+      "Virtual finitude as object is compatible with God's formal infinity",
+      "Faith is cognitive by adhesion and concerns complexes, so revealed theology has a subject"
+    ],
+    "concepts": [
+      "subject of theology",
+      "virtual finitude",
+      "ratio deitatis",
+      "proportion to created intellect",
+      "Giles of Rome",
+      "ratio glorificatoris",
+      "faith as cognition",
+      "divine infinity"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e15127-d1e106",
+        "at8va9-e15127-d1e115",
+        "at8va9-e15127-d1e131",
+        "at8va9-e15127-Dd1e141",
+        "at8va9-e15127-Dd1e429",
+        "at8va9-e15127-Dd1e952"
+      ]
+    }
+  }
+}

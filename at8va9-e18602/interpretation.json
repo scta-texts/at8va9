@@ -1,0 +1,1738 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-01T04:38:18Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "create-interpretation-v1",
+    "source_commit": "2712681",
+    "generation_method": "hierarchical",
+    "source_file": "cod-x7yh5z_at8va9-e18602.xml"
+  },
+  "at8va9-e18602-d1e106": {
+    "summary": "Opens the treatment of the final cause with the ninth question: whether the end principally intended in the wayfarer's theological habit is praxis or speculation.",
+    "claims": [],
+    "concepts": [
+      "final cause of theology",
+      "praxis",
+      "speculatio",
+      "viator"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e111": {
+    "summary": "Argument for speculation: the end of the wayfarer's theology is believing ('these things are written that you may believe', John), and believing is a kind of speculation, since vision succeeds faith.",
+    "claims": [
+      "The principal end of theology is belief",
+      "Believing is a kind of speculation, as vision succeeds it"
+    ],
+    "concepts": [
+      "faith",
+      "speculation",
+      "John 20"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-d1e106"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e122": {
+    "summary": "Argument for praxis: the principal end of the wayfarer's theology is love, and love is praxis, not speculation; announces the four articles.",
+    "claims": [
+      "The principal end of theology is love",
+      "Love is praxis"
+    ],
+    "concepts": [
+      "dilectio",
+      "praxis",
+      "structure of the question"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-d1e111"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e138": {
+    "summary": "Article 1 begins defining praxis, distinguishing four senses (most broadly, properly, more properly, most properly); in the broadest sense any operation of any power, free or natural, is praxis, since praxis is Greek for operatio (Averroes on Ethics I).",
+    "claims": [
+      "In the broadest sense, every operation of any power is praxis"
+    ],
+    "concepts": [
+      "senses of praxis",
+      "operatio",
+      "Averroes on Ethics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e134"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e167": {
+    "summary": "Second sense: praxis is an operation within the power of the will, whether elicited or commanded, concerning the end or the means, since every operation of virtue or vice is praxis and every operation within the will's power can be virtuous or vicious.",
+    "claims": [
+      "Every operation within the will's power can be virtuous or vicious and so is praxis in the second sense"
+    ],
+    "concepts": [
+      "praxis",
+      "power of the will",
+      "virtue and vice"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e134",
+        "at8va9-e18602-d1e138"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e193": {
+    "summary": "Third sense: an elective operation or one following election (Aristotle, Ethics VI); fourth and most proper sense: such an operation of a power other than the intellect, since the intellect becomes practical by extension to something outside itself (De anima III). Only the fourth sense distinguishes praxis from speculation, since speculation is an operation of virtue, within the will's power and possibly elected. Defines praxis as the operation of a power other than intellect, elective or following election, apt to be elicited in conformity with right reason; the clauses exclude intellectual operations, non-elective operations, and vicious praxis.",
+    "claims": [
+      "Properly, praxis is election or what follows election (Ethics VI)",
+      "The intellect becomes practical by extension to another power's operation (De anima III)",
+      "Only praxis in the fourth sense is distinguished from speculation",
+      "Praxis is an operation of a power other than intellect, elective or following election, apt to conform to right reason"
+    ],
+    "concepts": [
+      "definition of praxis",
+      "electio",
+      "extensio intellectus",
+      "recta ratio",
+      "Nicomachean Ethics VI",
+      "De anima III"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e134",
+        "at8va9-e18602-d1e167"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e310": {
+    "summary": "Draws the first corollary against Ockham: describing praxis as any operation in the will's power considered by the intellect and subject to election is improper, because it makes operations of the intellect praxis.",
+    "claims": [
+      "Ockham's description wrongly counts intellectual acts as praxis"
+    ],
+    "concepts": [
+      "Ockham",
+      "definition of praxis"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e134",
+        "at8va9-e18602-d1e193"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e333": {
+    "summary": "Second argument against Ockham's description: it fails to distinguish praxis from speculation, since speculation is in the will's power, can be considered by the intellect and elected; otherwise speculative science would be practical.",
+    "claims": [
+      "A description that does not distinguish praxis from speculation is improper"
+    ],
+    "concepts": [
+      "Ockham",
+      "praxis and speculation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e134",
+        "at8va9-e18602-d1e310"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e349": {
+    "summary": "Second corollary against Francis: defining praxis as an intellectual operation regulable by right reason fails, since intellectual acts can be directed by others (as logic directs discourse) without being praxis, and vicious praxis is not regulated by right reason. Third corollary against Scotus: defining praxis as an act of a power other than intellect, naturally posterior to intellection and apt to conform to right reason, is insufficient, because it includes the will's acts concerning the end, which are not elections; and Scotus elsewhere implies that intellection commanded by the will would be praxis.",
+    "claims": [
+      "Logic directs intellectual acts without making them praxis",
+      "Vicious praxis is not elicited in conformity with right reason",
+      "Scotus's definition does not convert with the defined, since it includes acts about the end",
+      "Scotus's view that commanded acts are praxis would make some intellections praxis"
+    ],
+    "concepts": [
+      "Francis",
+      "Scotus",
+      "definition of praxis",
+      "logic",
+      "appetite for the end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e134",
+        "at8va9-e18602-d1e333"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e449": {
+    "summary": "Further against Scotus: he holds every act to which an appetitive virtue inclines is praxis, but habitual love inclines to virtuous study and speculation, so speculation would be praxis. Then presents Ockham's objections to the author's definition: an operation about which there is practical knowledge is praxis, and there is practical knowledge about speculation and acts of understanding.",
+    "claims": [
+      "Scotus's criterion would make virtuous study praxis",
+      "Ockham: there is practical knowledge about acts of understanding, so they are praxis"
+    ],
+    "concepts": [
+      "Scotus",
+      "Ockham",
+      "appetitive virtue",
+      "study",
+      "practical knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e134",
+        "at8va9-e18602-d1e349"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e495": {
+    "summary": "Ockham's second objection: every operation following election is praxis, and study can follow deliberation and election.",
+    "claims": [
+      "Studying can follow counsel and election"
+    ],
+    "concepts": [
+      "Ockham",
+      "election",
+      "study"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e134",
+        "at8va9-e18602-d1e449"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e508": {
+    "summary": "Ockham's third objection: an act of understanding directing another act through the will is practical and the directed act is praxis, as a dictate about when and where to study theology directs study through the will.",
+    "claims": [
+      "One act of intellect can direct another through the will"
+    ],
+    "concepts": [
+      "Ockham",
+      "direction of acts",
+      "dictamen"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e134",
+        "at8va9-e18602-d1e495"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e534": {
+    "summary": "Replies to Ockham's first objection: he speaks improperly of praxis, since his reasoning would make pure speculation praxis and natural philosophy, which considers acts of the intellect (De anima III), practical; practical knowledge concerns works in the will's power to which the intellect extends, not acts of understanding.",
+    "claims": [
+      "Natural philosophy considers intellectual acts yet is speculative",
+      "Practical knowledge concerns only operations to which the intellect extends"
+    ],
+    "concepts": [
+      "Ockham",
+      "natural philosophy",
+      "extension of intellect"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e134",
+        "at8va9-e18602-d1e508"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e570": {
+    "summary": "Replies to Ockham's second objection: it uses praxis in the third sense, not the fourth, and so equivocates.",
+    "claims": [
+      "Not every elective operation is praxis in the most proper sense"
+    ],
+    "concepts": [
+      "equivocation",
+      "senses of praxis"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e134",
+        "at8va9-e18602-d1e534"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e579": {
+    "summary": "Replies to Ockham's third objection: an act of understanding directing another through the will is not practical, nor the directed act praxis, unless it is an act of a power other than intellect; otherwise logic would be practical.",
+    "claims": [
+      "Logic directs reasoning yet is not practical"
+    ],
+    "concepts": [
+      "logic",
+      "direction",
+      "praxis"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e134",
+        "at8va9-e18602-d1e570"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e599": {
+    "summary": "Adds that the extension of an act is insufficient; the intellect itself must be extended, which is impossible among acts of understanding. Then defines speculation: an intellectual operation not ordered to regulating any operation that is truly praxis, but for its own sake; the clauses exclude praxis, practical knowledge, and show its end is knowing, not doing.",
+    "claims": [
+      "Extension of the intellect, not merely of its act, is needed for practical knowledge",
+      "Speculation is an intellectual operation not ordered to directing praxis but done for its own sake",
+      "The end of speculation is knowing only"
+    ],
+    "concepts": [
+      "definition of speculatio",
+      "extension of intellect",
+      "sui gratia"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e134",
+        "at8va9-e18602-d1e579"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e636": {
+    "summary": "Objections to the definition of speculation: what is for its own sake is the ultimate end, which speculation is not; Aristotle says only metaphysics is free and for its own sake.",
+    "claims": [
+      "What is for its own sake is the ultimate end",
+      "Only metaphysics is for its own sake (Metaphysics I)"
+    ],
+    "concepts": [
+      "sui gratia",
+      "ultimate end",
+      "metaphysics as free science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e134",
+        "at8va9-e18602-d1e599"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e658": {
+    "summary": "Further objection: as habit to habit, so act to act; all habits are ordered to theology as end, so no speculation is for its own sake.",
+    "claims": [
+      "All habits are ordered to theology as end"
+    ],
+    "concepts": [
+      "order of sciences",
+      "theology as end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e134",
+        "at8va9-e18602-d1e636"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e671": {
+    "summary": "Further objection: speculation is ordered to a further operation, since lower powers' operations are ordered to higher ones and the will is superior to the intellect. Answers generally that speculation is for its own sake not simply (only God is) but in a qualified sense: it is not ordered to directing any operation that is praxis.",
+    "claims": [
+      "Operations of lower powers are ordered to those of higher",
+      "The will is superior to the intellect",
+      "Only God is simply for his own sake",
+      "Speculation is for its own sake only in not being ordered to directing praxis"
+    ],
+    "concepts": [
+      "sui gratia secundum quid",
+      "will and intellect",
+      "ordering of powers"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e134",
+        "at8va9-e18602-d1e658"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e698": {
+    "summary": "Replies to the first three objections: what is simply for its own sake is not ordered to an end, but speculation is so only in a qualified sense; metaphysics alone is called for its own sake because other sciences are ordered to it as more perfect, not because it alone does not direct praxis.",
+    "claims": [
+      "Metaphysics is called free because others are ordered to it"
+    ],
+    "concepts": [
+      "metaphysics",
+      "sui gratia",
+      "order of sciences"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e134",
+        "at8va9-e18602-d1e671"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e718": {
+    "summary": "Replies to the fourth objection: some say the intellect's act is more perfect than the will's, but Vargas rejects this and concedes that speculation and every act of intellect are ordered finally to some act of the will, though not to directing it, so speculation remains 'for its own sake' in the relevant sense.",
+    "claims": [
+      "Every act of intellect is finally ordered to some act of the will",
+      "Being ordered to the will's act as end differs from directing it"
+    ],
+    "concepts": [
+      "primacy of will",
+      "voluntarism",
+      "speculation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e134",
+        "at8va9-e18602-d1e698"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e741": {
+    "summary": "Opens Article 2, specifying that the question concerns theology as the total habit of all its conclusions, whose partial ends (praxis or speculation) are ordered to one principal end.",
+    "claims": [
+      "The question concerns the end principally intended in the total theological habit"
+    ],
+    "concepts": [
+      "total habit",
+      "principal end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e737"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e776": {
+    "summary": "First conclusion: the will's act concerning the end is not properly praxis, only its acts concerning means, because praxis is election or follows election, and will regards the end while election regards means (Ethics III).",
+    "claims": [
+      "Willing the end is not election",
+      "Praxis properly concerns means, not the end"
+    ],
+    "concepts": [
+      "voluntas and electio",
+      "end and means",
+      "Nicomachean Ethics III"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e737",
+        "at8va9-e18602-d1e741"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e798": {
+    "summary": "Second proof: election follows counsel, and counsel concerns means, not ends (Aristotle), so there is no election regarding the end.",
+    "claims": [
+      "We deliberate about means, not ends"
+    ],
+    "concepts": [
+      "consilium",
+      "electio",
+      "end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e737",
+        "at8va9-e18602-d1e776"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e814": {
+    "summary": "Second conclusion: meritorious love of God is not properly praxis, since it is an act of will about the end; and since some speculation exceeds any praxis, while meritorious love of God surpasses all speculation in this life.",
+    "claims": [
+      "Meritorious love of God is an act of will about the end",
+      "Some speculation is more perfect than any praxis",
+      "Meritorious love of God surpasses all speculation in this life"
+    ],
+    "concepts": [
+      "dilectio Dei meritoria",
+      "praxis",
+      "speculation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e737",
+        "at8va9-e18602-d1e798"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e839": {
+    "summary": "Further proof: every virtuous act that is praxis is in the will's power as to what makes it virtuous, but meritorious love is meritorious only by divine acceptance, not in the will's power, and before infused charity it is not in our power at all (else Pelagianism); even after charity, merit requires divine acceptance, which charity does not necessitate except by divine ordination.",
+    "claims": [
+      "Love of God is meritorious only through divine acceptance",
+      "Without infused charity, meritorious love is not in our power, else we could merit eternal life from pure naturals (Pelagian error)",
+      "Charity does not necessitate divine acceptance except by divine ordination"
+    ],
+    "concepts": [
+      "acceptatio divina",
+      "merit",
+      "infused charity",
+      "Pelagianism",
+      "potentia ordinata"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e737",
+        "at8va9-e18602-d1e814"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e913": {
+    "summary": "Third conclusion: the end principally intended in the wayfarer's theology is meritorious love of God, since it is the noblest operation to which theology is ordered. Theology, like the divine precepts, is ordered to love: the end of the precept is charity (1 Timothy 1), love fulfills the law (Romans 13).",
+    "claims": [
+      "The principal end of theology is the noblest operation to which it is ordered",
+      "Scripture and divine precepts are ordered to the same end",
+      "The end of the precept is charity (1 Timothy 1)"
+    ],
+    "concepts": [
+      "dilectio Dei meritoria",
+      "end of theology",
+      "finis praecepti caritas",
+      "1 Timothy 1"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e737",
+        "at8va9-e18602-d1e839"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e950": {
+    "summary": "Second proof: love of God and neighbor fulfills the law (Romans 13), so love is the end of the law and of Scripture.",
+    "claims": [
+      "The fulfilling of the law is love"
+    ],
+    "concepts": [
+      "Romans 13",
+      "plenitudo legis"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e737",
+        "at8va9-e18602-d1e913"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e963": {
+    "summary": "Third proof: the end of the precept is the end of Scripture and is the fulfilling of the law, as Augustine says: whoever has a heart full of charity comprehends all Scripture.",
+    "claims": [
+      "Charity comprehends the whole of Scripture (Augustine, De laude caritatis)"
+    ],
+    "concepts": [
+      "Augustine",
+      "charity",
+      "Scripture"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e737",
+        "at8va9-e18602-d1e950"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e996": {
+    "summary": "Further proofs: Scripture is set before us so that God may be sought and loved (Augustine, De Trinitate I); charity is the noblest habit in this life (1 Corinthians 13), and all Scripture is ordered to faith, hope and charity, the greatest being charity; and the operation by which the wayfarer is most intimately united to God, charity (1 John 4), is theology's principal end.",
+    "claims": [
+      "Scripture is given so that God may be sought and loved (Augustine)",
+      "Charity is the greatest of the theological virtues",
+      "All Scripture serves faith, hope and charity (Augustine, De Trinitate VIII)",
+      "Love most intimately unites man to God (1 John 4)"
+    ],
+    "concepts": [
+      "charity",
+      "union with God",
+      "theological virtues",
+      "1 Corinthians 13",
+      "1 John 4",
+      "Augustine De Trinitate"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e737",
+        "at8va9-e18602-d1e963"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e1085": {
+    "summary": "Third proof: theology is ordered ultimately to eternal beatitude (Augustine), and love of God and neighbor is what principally acquires it, since nothing avails without charity (1 Corinthians 13; Augustine: charity alone divides the children of the kingdom from those of perdition).",
+    "claims": [
+      "Theology is ordered to eternal beatitude",
+      "Eternal beatitude is principally acquired through love of God and neighbor",
+      "Without charity other gifts are useless"
+    ],
+    "concepts": [
+      "beatitude",
+      "charity",
+      "Augustine De Trinitate XV",
+      "1 Corinthians 13"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e737",
+        "at8va9-e18602-d1e996"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e1134": {
+    "summary": "Confirms the third conclusion by Augustine's dictum that charity securely possesses all the greatness of the divine words, on which hang the law and the prophets.",
+    "claims": [
+      "The whole law and the prophets hang on love of God and neighbor",
+      "Charity is the root of all goods"
+    ],
+    "concepts": [
+      "Augustine",
+      "charity",
+      "law and prophets"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e737",
+        "at8va9-e18602-d1e1085"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e1163": {
+    "summary": "Further confirmation from Augustine (De doctrina christiana I): the fulfilment and end of the law and all Scriptures is love of the thing to be enjoyed and of the one who can enjoy it with us; love is not subordinated to any more principal end.",
+    "claims": [
+      "The end of all Scripture is love of God and neighbor (De doctrina christiana I)",
+      "Love is not ordered to a more principal end in this life"
+    ],
+    "concepts": [
+      "Augustine De doctrina christiana",
+      "frui",
+      "charity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e737",
+        "at8va9-e18602-d1e1134"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e1183": {
+    "summary": "Fourth conclusion: the principal end of the wayfarer's theology is neither praxis nor speculation, since it is meritorious love of God, which is not properly praxis and, as an act of will, is not speculation.",
+    "claims": [
+      "The principal end of theology is neither praxis nor speculation"
+    ],
+    "concepts": [
+      "end of theology",
+      "dilectio Dei",
+      "praxis",
+      "speculation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e737",
+        "at8va9-e18602-d1e1163"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e1208": {
+    "summary": "Opens Articles 3 and 4: doubts against the conclusions will be raised and resolved together.",
+    "claims": [],
+    "concepts": [
+      "dubia",
+      "structure"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e1217": {
+    "summary": "Scotus's argument against the first conclusion: any act of a power other than intellect naturally posterior to intellection and apt to be directed by right reason is praxis most properly, and the will's act about the ultimate end is such.",
+    "claims": [
+      "The will's act about the ultimate end is directed by right reason and so is praxis (Scotus)"
+    ],
+    "concepts": [
+      "Scotus",
+      "praxis",
+      "will and end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e1208"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e1235": {
+    "summary": "Scotus's first proof: though the will cannot err about the end shown universally, it can err about the end shown particularly, so it needs direction by right reason.",
+    "claims": [
+      "The will can err about the end in particular"
+    ],
+    "concepts": [
+      "Scotus",
+      "right reason",
+      "end in particular"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e1217"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e1253": {
+    "summary": "Scotus's second proof: a directive habit concerns circumstances, not the substance of an act (temperance concerns circumstances of eating), so even an act determined to the end needs direction as to its circumstances.",
+    "claims": [
+      "Directive habits regard the circumstances of acts"
+    ],
+    "concepts": [
+      "Scotus",
+      "circumstances",
+      "temperance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e1235"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e1272": {
+    "summary": "Scotus's further argument: knowledge directing the will about the ultimate end is practical, since principles and conclusions belong to the same genus and knowledge of the end functions as a practical principle of knowledge about the means.",
+    "claims": [
+      "Knowledge of the end is the principle of practical knowledge of means"
+    ],
+    "concepts": [
+      "Scotus",
+      "practical principles",
+      "knowledge of the end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e1253"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e1303": {
+    "summary": "Replies to Scotus: as an intellectual act directed by another is not praxis, so a will's act directed by reason is not praxis unless it is or follows election, which does not hold for the end; knowledge of God as ultimate end is speculative, and the theologian's knowledge is neither practical nor speculative (next question); knowledge of means does not relate to knowledge of the end as conclusion to principle.",
+    "claims": [
+      "Direction by reason does not make an act praxis unless it is elective",
+      "Knowledge of God as ultimate end is speculative",
+      "Knowledge of means is not deduced from knowledge of the end as conclusion from principle"
+    ],
+    "concepts": [
+      "Scotus",
+      "election",
+      "practical and speculative knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e1272"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e1340": {
+    "summary": "Scotus's objection to the second conclusion: every act to which an appetitive virtue inclines is praxis, since such virtue is an elective habit (Ethics II), and both charity and acquired habitual love incline to love of God.",
+    "claims": [
+      "Every appetitive virtue is an elective habit",
+      "Acquired love inclines to love of God"
+    ],
+    "concepts": [
+      "Scotus",
+      "appetitive virtue",
+      "elective habit",
+      "acquired love"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e1303"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e1360": {
+    "summary": "Further objection: every operation in the will's power is praxis or speculation (common view of philosophers), and love of God is in the will's power and is not speculation.",
+    "claims": [
+      "Every operation in the will's power is either praxis or speculation"
+    ],
+    "concepts": [
+      "praxis and speculation",
+      "power of the will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e1340"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e1376": {
+    "summary": "Further objection: meritorious love is either the same in species as natural love of God or not; either way, as natural and supernatural acts of intellect are both speculation, natural and supernatural love are both praxis; confirmed by the analogy of supernaturally and naturally produced vision.",
+    "claims": [
+      "Natural and supernatural love of God fall in the same genus of operation"
+    ],
+    "concepts": [
+      "natural and supernatural love",
+      "specific identity",
+      "vision analogy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e1360"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e1415": {
+    "summary": "Further objection from De anima III: as sense appetite following reason is a practical principle, so the will following reason, as in loving God, is practical and its act praxis.",
+    "claims": [
+      "The will following reason is a practical principle"
+    ],
+    "concepts": [
+      "De anima III",
+      "will and reason",
+      "appetite"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e1376"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e1442": {
+    "summary": "Replies to Scotus: the appetitive virtue inclining to meritorious love is not elective, since election concerns means only; and an act is praxis only if attainable by the elective habit's inclination, whereas meritorious love is not attainable by an acquired habit, else we would merit from pure naturals.",
+    "claims": [
+      "Appetitive virtues are elective only regarding means",
+      "Meritorious love is not attainable through an acquired habit"
+    ],
+    "concepts": [
+      "Scotus",
+      "election",
+      "merit",
+      "pure naturals"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e1415"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e1475": {
+    "summary": "Replies to the second objection: not every operation in the will's power is praxis or speculation, which contradicts Aristotle; and meritorious love as meritorious is not in the will's power, depending on divine acceptance. Presents counter-instances: every meritorious act proceeds from a free principle and so is in our power.",
+    "claims": [
+      "Not every operation in the will's power is praxis or speculation",
+      "Meritorious love as meritorious depends on divine acceptance",
+      "Objection: every meritorious act proceeds from a free principle"
+    ],
+    "concepts": [
+      "divine acceptance",
+      "freedom",
+      "merit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e1442"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e1512": {
+    "summary": "Further instance: we are praised or blamed only for acts in our power, and merit requires no less freedom than demerit, so the more meritorious, the more in our power.",
+    "claims": [
+      "Sin is sin because voluntary (Augustine)",
+      "Merit requires as much freedom as demerit"
+    ],
+    "concepts": [
+      "freedom and merit",
+      "praise and blame",
+      "Augustine on sin"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e1475"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e1538": {
+    "summary": "Further instance: meritorious love after infused charity is in our power as the act of believing is after infused faith. Replies by distinguishing the act's substance from its being meritorious: the substance proceeds from our free principle, but its meritoriousness includes or connotes divine acceptance; we are praised for acts in our power as to substance; and demerit is wholly from us, merit not.",
+    "claims": [
+      "A meritorious act's substance is from our free will, its meritoriousness from divine acceptance",
+      "Demerit is wholly ours, merit is not",
+      "Praise and blame attach to acts in our power as to substance"
+    ],
+    "concepts": [
+      "substance of act vs meritoriousness",
+      "acceptatio divina",
+      "demerit",
+      "freedom"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e1512"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e1621": {
+    "summary": "Replies to the faith analogy: the act of believing after infused faith includes nothing outside our power, whereas meritorious love includes divine acceptance.",
+    "claims": [
+      "Believing after infused faith is wholly in our power; meritorious love is not"
+    ],
+    "concepts": [
+      "faith and charity",
+      "divine acceptance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e1538"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e1632": {
+    "summary": "Replies to the third objection: even natural love of God is not properly praxis, being love of the end; or natural and meritorious love differ since only natural love is wholly in our power; and the vision analogy fails, since every act of sight is vision, but not every act of will is praxis.",
+    "claims": [
+      "Natural love of God is love of the end and so not properly praxis",
+      "Not every operation of the will is formally praxis"
+    ],
+    "concepts": [
+      "natural love of God",
+      "praxis",
+      "analogy of vision"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e1621"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e1664": {
+    "summary": "Replies to the fourth objection: sense appetite regulated by reason always follows election, since it concerns means; the will concerns the end and so is not always a practical principle.",
+    "claims": [
+      "The sense appetite concerns means, the will can concern the end"
+    ],
+    "concepts": [
+      "sense appetite",
+      "will",
+      "end and means"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e1632"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e1688": {
+    "summary": "William of Ware's objection to the third conclusion: one cannot have a habit's proper end without the habit, yet simple just persons have meritorious love without theology.",
+    "claims": [
+      "A habit's proper end cannot be had without the habit",
+      "The simple just love God meritoriously without theology"
+    ],
+    "concepts": [
+      "William of Ware",
+      "proper end",
+      "simple faithful"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e1664"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e1706": {
+    "summary": "Ware's second objection: a habit cannot coexist with the opposite of its end, but theology can coexist with mortal sin.",
+    "claims": [
+      "Theology can coexist with mortal sin"
+    ],
+    "concepts": [
+      "William of Ware",
+      "mortal sin"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e1688"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e1717": {
+    "summary": "Ware's third objection: one habit's proper end cannot be another's (Averroes), and love is charity's proper end and act.",
+    "claims": [
+      "Each art has its own proper end",
+      "Love is the proper act of charity"
+    ],
+    "concepts": [
+      "William of Ware",
+      "charity",
+      "proper end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e1706"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e1735": {
+    "summary": "Ware's fourth objection: a habit's proper end must be of the same genus, but love is affective and science speculative.",
+    "claims": [
+      "Love belongs to affection, science to speculation"
+    ],
+    "concepts": [
+      "genus of end and habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e1717"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e1746": {
+    "summary": "Ware's fifth objection: if love were theology's end, the commandment 'love the Lord your God' rather than the articles would be its first principle.",
+    "claims": [
+      "What most agrees with a science's end should be its principle"
+    ],
+    "concepts": [
+      "principles of theology",
+      "love commandment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e1735"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e1765": {
+    "summary": "Godfrey of Fontaines's objection (Quodlibet V): if love were the principal end of theology it would be its subject, since what everything in a science is intended under is its subject. Answers by distinguishing end 'by which' (the act elicited by the habit, as believing for faith) from end 'for the sake of which' (an act possibly elicited by another habit, as virtuous acts for moral science); love is theology's end in the second sense.",
+    "claims": [
+      "Godfrey: love would be the subject of theology",
+      "Finis quo is the act elicited by the habit; finis cuius gratia can be an act of another habit",
+      "Moral science is for the sake of becoming good (Ethics II)",
+      "Love is theology's finis cuius gratia"
+    ],
+    "concepts": [
+      "Godfrey of Fontaines",
+      "finis quo",
+      "finis cuius gratia",
+      "moral science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e1746"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e1815": {
+    "summary": "Replies to Ware's first objection: the principle holds of the end 'by which', not the end 'for the sake of which', since one can perform virtuous acts without moral science.",
+    "claims": [
+      "One can have a habit's finis cuius without the habit"
+    ],
+    "concepts": [
+      "William of Ware",
+      "finis quo and cuius"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e1765"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e1839": {
+    "summary": "Replies to the second: the major is false for both kinds of end, since a virtue can coexist with an act of the opposite vice, and moral science with the absence of virtues.",
+    "claims": [
+      "A habit can coexist with the opposite of its end"
+    ],
+    "concepts": [
+      "virtue and vice",
+      "moral science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e1815"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e1861": {
+    "summary": "Replies to the third and fourth: love is charity's end 'by which' but theology's end 'for the sake of which'; only the end 'by which' is a habit's proper act and of the same genus.",
+    "claims": [
+      "Love is finis quo of charity and finis cuius of theology"
+    ],
+    "concepts": [
+      "finis quo",
+      "finis cuius",
+      "charity",
+      "theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e1839"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e1885": {
+    "summary": "Replies to the fifth: sciences are ordered to concluding something about their subject, not about their end, so principles agree with the subject, not with the end.",
+    "claims": [
+      "A science's principles relate to its subject, not its end"
+    ],
+    "concepts": [
+      "principles",
+      "subject",
+      "end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e1861"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e1898": {
+    "summary": "Replies to Godfrey: something is principally intended in a science as what is known (conclusion), as that about which (subject), or as that for which (end); only the second is the subject. Then introduces two opinions against the fourth conclusion, the first holding that theology's end is speculation.",
+    "claims": [
+      "Conclusion, subject and end are intended in a science in different ways",
+      "Only that under whose ratio everything is considered is the subject"
+    ],
+    "concepts": [
+      "Godfrey of Fontaines",
+      "subject and end",
+      "speculation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e1885"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e1947": {
+    "summary": "Henry of Ghent's first argument (Summa a.8 q.2): theology's principal end is knowledge of God ('blessed are the pure in heart, for they shall see God'), which is speculation; confirmed by Augustine that all our work in this life is to purify the eye of the heart to see God.",
+    "claims": [
+      "Henry: the end of theology is knowledge of God, which is speculation",
+      "All Scripture aims at the vision of God (Augustine)"
+    ],
+    "concepts": [
+      "Henry of Ghent",
+      "vision of God",
+      "Matthew 5",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e1898"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e1976": {
+    "summary": "Henry's second argument: the end is contemplation, nobler than action, as the contemplative life is nobler; Augustine says contemplation of God is the end of all good actions.",
+    "claims": [
+      "The contemplative life is nobler than the active",
+      "Contemplation of God is the end of all good actions (Augustine, De Trinitate I)"
+    ],
+    "concepts": [
+      "contemplation",
+      "vita contemplativa",
+      "Henry of Ghent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e1947"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e2005": {
+    "summary": "Henry's third argument: a science and its principles have the same end, and the end of the articles is knowledge of God.",
+    "claims": [
+      "A science and its principles share an end"
+    ],
+    "concepts": [
+      "articles of faith",
+      "knowledge of God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e1976"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e2014": {
+    "summary": "Henry's fourth argument: the proper end of wisdom is speculation of truth (Aristotle), and theology is wisdom. Then the second opinion: theology's proper end is praxis, either love of God taken as praxis (Scotus and followers) or the works of virtue and observance of the commandments.",
+    "claims": [
+      "The end of wisdom is speculation of truth",
+      "Second opinion: the end of theology is praxis"
+    ],
+    "concepts": [
+      "wisdom",
+      "speculation",
+      "Scotus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e2005"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e2032": {
+    "summary": "Notes that those holding love of God to be the end differ from Vargas only in calling it praxis, their reasons having been answered; others hold the end is virtuous operation and observance of the commandments, which are properly praxis.",
+    "claims": [
+      "The Scotist view differs only in classifying love as praxis"
+    ],
+    "concepts": [
+      "Scotus",
+      "observance of commandments",
+      "moral works"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e2014"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e2052": {
+    "summary": "Presents Alexander of Hales's argument: theology is the science of salvation (Luke 1), salvation is principally gained by virtuous works and keeping the commandments (Matthew 19), so these are its end; Vargas maintains that love of God, not praxis or speculation, is the end.",
+    "claims": [
+      "Theology is the science of salvation",
+      "Salvation is gained by keeping the commandments"
+    ],
+    "concepts": [
+      "Alexander of Hales",
+      "scientia salutis",
+      "commandments"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e2032"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e2079": {
+    "summary": "Replies to Henry's first argument: it says nothing about the wayfarer's theology, whose principal end is love of God, which in this life is nobler than any knowledge (1 Corinthians 13); Augustine's text does not support him for two reasons.",
+    "claims": [
+      "In this life love of God is nobler than any knowledge of God"
+    ],
+    "concepts": [
+      "Henry of Ghent",
+      "love and knowledge",
+      "1 Corinthians 13"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e2052"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e2101": {
+    "summary": "First reason: the wayfarer's theology is ordered to beatific vision as remote, not proximate, end, and sciences are not named from remote ends — otherwise moral science, and every science, would be speculative.",
+    "claims": [
+      "Sciences are denominated from proximate, not remote, ends"
+    ],
+    "concepts": [
+      "proximate and remote ends",
+      "denomination of sciences"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e2079"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e2123": {
+    "summary": "Second reason: even as remote end, theology is ordered to vision including, not excluding, love, since vision is the whole reward only with fruition (Benedict XII); alternatively, knowledge of God is an end of theology but not the principal one, since love is nobler in heaven too.",
+    "claims": [
+      "Vision is the whole reward only together with fruition (Benedictus Deus)",
+      "Love of God is nobler than knowledge both in via and in patria"
+    ],
+    "concepts": [
+      "visio and fruitio",
+      "Benedict XII",
+      "primacy of love"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e2101"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e2152": {
+    "summary": "Replies to the contemplation argument: contemplation taken as knowledge and love together is theology's end by reason of love (Anselm); Augustine's contemplation consists in vision and fruition, not vision alone; the contemplative life is nobler than action that is properly praxis, but this does not make speculation nobler than love of God.",
+    "claims": [
+      "Contemplation in Augustine's sense includes vision and fruition",
+      "The contemplative life is nobler than the active, but speculation is not nobler than love"
+    ],
+    "concepts": [
+      "contemplation",
+      "Anselm Monologion",
+      "Augustine",
+      "vita activa and contemplativa"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e2123"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e2209": {
+    "summary": "Replies to the remaining arguments: the articles are ordered to meritorious love, without which faith is dead (1 Corinthians 13); the philosophers' wisdom has speculation as end, but theological wisdom has something higher, love of God.",
+    "claims": [
+      "Faith without charity is dead",
+      "The end of theological wisdom is love, higher than speculation"
+    ],
+    "concepts": [
+      "dead faith",
+      "theological wisdom",
+      "philosophers' wisdom"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e2152"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e2231": {
+    "summary": "Replies to Alexander of Hales: the principal end is what principally gains salvation, which is meritorious love of God, to which all virtuous works and commandments are ordered.",
+    "claims": [
+      "All virtuous works and commandments are ordered to charity"
+    ],
+    "concepts": [
+      "Alexander of Hales",
+      "salvation",
+      "charity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e2209"
+      ]
+    }
+  },
+  "at8va9-e18602-d1e2250": {
+    "summary": "Replies to the principal arguments: theology's principal end is loving, not believing, since faith is ordered to love and John adds 'that believing you may have eternal life', which is gained principally through love; and meritorious love of God is theology's end though not properly praxis.",
+    "claims": [
+      "Faith is ordered to love",
+      "Eternal life is gained principally through love"
+    ],
+    "concepts": [
+      "faith and love",
+      "John 20",
+      "response to principal arguments"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e18602",
+        "at8va9-e18602-Dd1e1204",
+        "at8va9-e18602-d1e2231"
+      ]
+    }
+  },
+  "at8va9-e18602-Dd1e134": {
+    "summary": "Article 1 defines praxis in its most proper sense as an operation of a power other than the intellect, elective or following election, apt to conform to right reason, and speculation as an intellectual operation not ordered to directing praxis but done for its own sake in a qualified sense. It criticizes the definitions of Ockham, Francis and Scotus, answers Ockham's objections by insisting that the intellect becomes practical only by extension to another power, and concedes that every act of intellect is ultimately ordered to an act of will.",
+    "claims": [
+      "Praxis most properly is an elective operation of a power other than the intellect, apt to conform to right reason",
+      "Speculation is an intellectual operation not ordered to directing praxis",
+      "The definitions of Ockham, Francis and Scotus are inadequate",
+      "Every intellectual act is ultimately ordered to an act of the will"
+    ],
+    "concepts": [
+      "definition of praxis",
+      "definition of speculatio",
+      "electio",
+      "extensio intellectus",
+      "Ockham",
+      "Scotus",
+      "primacy of will"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e18602-d1e138",
+        "at8va9-e18602-d1e167",
+        "at8va9-e18602-d1e193",
+        "at8va9-e18602-d1e310",
+        "at8va9-e18602-d1e333",
+        "at8va9-e18602-d1e349",
+        "at8va9-e18602-d1e449",
+        "at8va9-e18602-d1e495",
+        "at8va9-e18602-d1e508",
+        "at8va9-e18602-d1e534",
+        "at8va9-e18602-d1e570",
+        "at8va9-e18602-d1e579",
+        "at8va9-e18602-d1e599",
+        "at8va9-e18602-d1e636",
+        "at8va9-e18602-d1e658",
+        "at8va9-e18602-d1e671",
+        "at8va9-e18602-d1e698",
+        "at8va9-e18602-d1e718"
+      ]
+    }
+  },
+  "at8va9-e18602-Dd1e737": {
+    "summary": "Article 2 gives four conclusions about the total theological habit. The will's act concerning the end is not properly praxis, since praxis is or follows election, which concerns means. Meritorious love of God is therefore not properly praxis, and its meritoriousness depends on divine acceptance. The principal end of the wayfarer's theology is meritorious love of God, as the end of Scripture and the commandments, the noblest operation, uniting us to God and gaining beatitude. So that end is neither praxis nor speculation.",
+    "claims": [
+      "The will's act about the end is not praxis",
+      "Meritorious love of God is not properly praxis and depends on divine acceptance",
+      "The principal end of the wayfarer's theology is meritorious love of God",
+      "The principal end of theology is neither praxis nor speculation"
+    ],
+    "concepts": [
+      "end of theology",
+      "dilectio Dei meritoria",
+      "election",
+      "divine acceptance",
+      "charity",
+      "Scripture"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e18602-d1e741",
+        "at8va9-e18602-d1e776",
+        "at8va9-e18602-d1e798",
+        "at8va9-e18602-d1e814",
+        "at8va9-e18602-d1e839",
+        "at8va9-e18602-d1e913",
+        "at8va9-e18602-d1e950",
+        "at8va9-e18602-d1e963",
+        "at8va9-e18602-d1e996",
+        "at8va9-e18602-d1e1085",
+        "at8va9-e18602-d1e1134",
+        "at8va9-e18602-d1e1163",
+        "at8va9-e18602-d1e1183"
+      ]
+    }
+  },
+  "at8va9-e18602-Dd1e1204": {
+    "summary": "Articles 3 and 4 answer objections. Against Scotus, Vargas denies that the will's act about the end or meritorious love is praxis, since direction by reason does not make an act elective, and he distinguishes an act's substance, which is in our power, from its meritoriousness, which depends on divine acceptance. Against William of Ware and Godfrey of Fontaines, he distinguishes the end 'by which' a habit acts from the end 'for the sake of which' it exists. Against Henry of Ghent's view that theology aims at speculation or contemplation, and against Alexander of Hales's view that it aims at virtuous works, he holds that love of God is nobler than knowledge and is the end to which faith, works and commandments are ordered.",
+    "claims": [
+      "Meritorious love is not praxis, and its meritoriousness depends on divine acceptance",
+      "Love is theology's end for the sake of which, not its end by which",
+      "Love of God is nobler than knowledge of God, in via and in patria",
+      "Virtuous works and commandments are ordered to charity"
+    ],
+    "concepts": [
+      "Scotus",
+      "William of Ware",
+      "Godfrey of Fontaines",
+      "Henry of Ghent",
+      "Alexander of Hales",
+      "finis quo and cuius",
+      "divine acceptance",
+      "primacy of love"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e18602-d1e1208",
+        "at8va9-e18602-d1e1217",
+        "at8va9-e18602-d1e1235",
+        "at8va9-e18602-d1e1253",
+        "at8va9-e18602-d1e1272",
+        "at8va9-e18602-d1e1303",
+        "at8va9-e18602-d1e1340",
+        "at8va9-e18602-d1e1360",
+        "at8va9-e18602-d1e1376",
+        "at8va9-e18602-d1e1415",
+        "at8va9-e18602-d1e1442",
+        "at8va9-e18602-d1e1475",
+        "at8va9-e18602-d1e1512",
+        "at8va9-e18602-d1e1538",
+        "at8va9-e18602-d1e1621",
+        "at8va9-e18602-d1e1632",
+        "at8va9-e18602-d1e1664",
+        "at8va9-e18602-d1e1688",
+        "at8va9-e18602-d1e1706",
+        "at8va9-e18602-d1e1717",
+        "at8va9-e18602-d1e1735",
+        "at8va9-e18602-d1e1746",
+        "at8va9-e18602-d1e1765",
+        "at8va9-e18602-d1e1815",
+        "at8va9-e18602-d1e1839",
+        "at8va9-e18602-d1e1861",
+        "at8va9-e18602-d1e1885",
+        "at8va9-e18602-d1e1898",
+        "at8va9-e18602-d1e1947",
+        "at8va9-e18602-d1e1976",
+        "at8va9-e18602-d1e2005",
+        "at8va9-e18602-d1e2014",
+        "at8va9-e18602-d1e2032",
+        "at8va9-e18602-d1e2052",
+        "at8va9-e18602-d1e2079",
+        "at8va9-e18602-d1e2101",
+        "at8va9-e18602-d1e2123",
+        "at8va9-e18602-d1e2152",
+        "at8va9-e18602-d1e2209",
+        "at8va9-e18602-d1e2231",
+        "at8va9-e18602-d1e2250"
+      ]
+    }
+  },
+  "at8va9-e18602": {
+    "summary": "Opening the inquiry into theology's final cause, the ninth question asks whether the end principally intended in the wayfarer's theology is praxis or speculation. Vargas answers that it is neither. Defining praxis strictly as an elective operation of a non-intellectual power, and speculation as an intellectual operation not ordered to directing praxis, he argues that the will's love of the end is not election and so not praxis. Its meritoriousness, moreover, depends on divine acceptance rather than on our power. The principal end of theology is meritorious love of God, the end of Scripture and the law, nobler than any knowledge and that which unites us to God and gains beatitude. He defends this voluntarist position against Ockham, Scotus, William of Ware, Godfrey of Fontaines, Henry of Ghent and Alexander of Hales.",
+    "claims": [
+      "The principal end of the wayfarer's theology is meritorious love of God",
+      "That end is neither praxis nor speculation",
+      "Praxis properly is an elective operation of a non-intellectual power",
+      "Love of the end is not election and so not praxis",
+      "Meritoriousness depends on divine acceptance",
+      "Love of God is nobler than knowledge of God"
+    ],
+    "concepts": [
+      "final cause of theology",
+      "praxis",
+      "speculatio",
+      "dilectio Dei meritoria",
+      "electio",
+      "divine acceptance",
+      "primacy of love",
+      "voluntarism"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e18602-d1e106",
+        "at8va9-e18602-d1e111",
+        "at8va9-e18602-d1e122",
+        "at8va9-e18602-Dd1e134",
+        "at8va9-e18602-Dd1e737",
+        "at8va9-e18602-Dd1e1204"
+      ]
+    }
+  }
+}

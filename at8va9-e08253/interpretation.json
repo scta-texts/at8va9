@@ -1,0 +1,794 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-01T01:13:27Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "create-interpretation-v1",
+    "source_commit": "2712681",
+    "generation_method": "hierarchical",
+    "source_file": "cod-x7yh5z_at8va9-e08253.xml"
+  },
+  "at8va9-e08253-d1e106": {
+    "summary": "States the third question of the prologue: whether the theological habit possible to a wayfarer under the common law is really distinct from faith.",
+    "claims": [],
+    "concepts": [
+      "habitus theologicus",
+      "fides",
+      "real distinction",
+      "viator",
+      "lex communis"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e08253"
+      ]
+    }
+  },
+  "at8va9-e08253-d1e115": {
+    "summary": "Garbled opening of the first argument against a real distinction, introducing a trilemma: such a habit would be either more perfect than faith, less perfect, or equal (completed in the next paragraph).",
+    "claims": [],
+    "concepts": [
+      "comparison of habits",
+      "perfection"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e08253",
+        "at8va9-e08253-d1e106"
+      ]
+    }
+  },
+  "at8va9-e08253-d1e120": {
+    "summary": "Completes the opening argument (a theology habit distinct from faith could not be more perfect, since without faith one cannot please God; nor less perfect, since then it would be posited in vain; nor equal, since it would then be of the same kind and incompatible with faith in one subject) and gives the counterargument (if theology were faith, greater faith would mean better theology, yet the simple old woman has more faith than a great theologian without better theology); announces the four articles.",
+    "claims": [
+      "Without faith it is impossible to please God (Hebrews 11)",
+      "Two habits of the same ratio cannot coexist in one subject",
+      "A simple old woman may have greater faith than a great theologian without a more perfect theological habit"
+    ],
+    "concepts": [
+      "perfection of habits",
+      "faith",
+      "simplex vetula",
+      "compossibility of habits",
+      "structure of the question"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e08253",
+        "at8va9-e08253-d1e115"
+      ]
+    }
+  },
+  "at8va9-e08253-d1e162": {
+    "summary": "Article 1 recalls the threefold theological habit from the preceding question and adds two distinctions: between infused faith and acquired faith (the habit acquired of a conclusion believed or deduced from two believed premises), and among three senses of 'faith' — the act of believing (Augustine), what is believed (Athanasian Creed), and that by which one believes (Lombard, Augustine) — specifying that the question concerns faith in the third sense, as a habit.",
+    "claims": [
+      "Acquired faith includes the habit of a conclusion deduced from believed premises",
+      "Faith can mean the act of believing, the content believed, or the virtue by which one believes",
+      "Only in the third sense is faith a habit, and so the question concerns that sense"
+    ],
+    "concepts": [
+      "fides infusa",
+      "fides acquisita",
+      "fides qua and fides quae",
+      "act of belief",
+      "Athanasian Creed",
+      "Peter Lombard"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e08253",
+        "at8va9-e08253-Dd1e158"
+      ]
+    }
+  },
+  "at8va9-e08253-d1e215": {
+    "summary": "Article 2, first conclusion: revealed theology as distinct from naturally acquired knowledge is not really distinct from faith, because its only proper act is believing (not opining or knowing). Rejects the reply that its proper act is deducing conclusions from the articles, by analogy with opinion, whose proper act is opining, not deducing; so the habit of conclusions deduced only from believed premises is really faith.",
+    "claims": [
+      "A habit whose act is only believing is not really distinct from faith",
+      "Revealed theology's proper act is believing, since it is neither opinion nor science",
+      "Deducing conclusions is not the proper act of a deductive habit, as opining, not deducing, is the act of opinion",
+      "A habit of conclusions believed and deduced only from believed premises is really faith"
+    ],
+    "concepts": [
+      "proper act of a habit",
+      "believing",
+      "revealed theology",
+      "opinion",
+      "deduction from believed premises"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e08253",
+        "at8va9-e08253-Dd1e211"
+      ]
+    }
+  },
+  "at8va9-e08253-d1e287": {
+    "summary": "Third proof: the believer is distinguished from the infidel by faith alone, and revealed theology (as distinct from natural knowledge) also distinguishes believer from infidel, since infidels by common law have only naturally acquired habits and cannot assent to theology's principles and conclusions without becoming believers.",
+    "claims": [
+      "Faith alone distinguishes the believer from the infidel",
+      "Infidels by common law have only natural habits",
+      "Whoever cannot assent to theology's principles cannot have the theological habit"
+    ],
+    "concepts": [
+      "believer and infidel",
+      "revealed theology",
+      "natural habits"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e08253",
+        "at8va9-e08253-Dd1e211",
+        "at8va9-e08253-d1e215"
+      ]
+    }
+  },
+  "at8va9-e08253-d1e331": {
+    "summary": "Fourth proof: a habit whose conclusions we assent to only on the authority of the speaker with the will's command is faith (Augustine); against the evasion that we assent to theological conclusions because they are deduced from the articles, argues that where one thing is accepted because of another, the reason is the same, so conclusions are accepted mediately on the same authority; confirmed by elimination of Aristotle's intellectual virtues.",
+    "claims": [
+      "What we know we owe to reason, what we believe to authority",
+      "We assent to the articles, and so mediately to their conclusions, only on the speaker's authority with the will's command",
+      "Revealed theology is neither science, wisdom, opinion nor art, so it is faith"
+    ],
+    "concepts": [
+      "authority",
+      "imperium voluntatis",
+      "Augustine Retractationes",
+      "intellectual virtues",
+      "sufficient division"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e08253",
+        "at8va9-e08253-Dd1e211",
+        "at8va9-e08253-d1e287"
+      ]
+    }
+  },
+  "at8va9-e08253-d1e379": {
+    "summary": "Second conclusion: the declarative and defensive theological habit (arguing from naturally known probable premises) is really distinct from faith, since it is possible to believer and infidel alike — a theologian turned heretic can still defend the faith — and since both infused faith (in baptized infants) and acquired faith (in many adults) exist without it, as Augustine notes.",
+    "claims": [
+      "A habit possible to both believer and infidel is really distinct from faith",
+      "A theologian who becomes a heretic can still declare and defend matters of faith",
+      "Infused faith exists in baptized infants without the declarative habit",
+      "Many believers are strong in faith but lack this knowledge (Augustine)"
+    ],
+    "concepts": [
+      "declarative-defensive theology",
+      "heretic theologian",
+      "baptized infants",
+      "Augustine De Trinitate XIV"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e08253",
+        "at8va9-e08253-Dd1e211",
+        "at8va9-e08253-d1e331"
+      ]
+    }
+  },
+  "at8va9-e08253-d1e422": {
+    "summary": "Further proofs: faith and the declarative habit do not increase together (the old woman's firmer faith), and their proper acts are distinct — believing for faith, defending and explaining from natural premises for theology — as Augustine distinguishes knowing what to believe from knowing how to defend it.",
+    "claims": [
+      "Things whose increases do not track each other are not really identical",
+      "Faith's proper act is believing; the declarative habit's proper act is defending and declaring",
+      "Augustine distinguishes knowing what must be believed from knowing how to defend it"
+    ],
+    "concepts": [
+      "proper acts",
+      "increase of habits",
+      "Augustine",
+      "declarative theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e08253",
+        "at8va9-e08253-Dd1e211",
+        "at8va9-e08253-d1e379"
+      ]
+    }
+  },
+  "at8va9-e08253-d1e472": {
+    "summary": "Third conclusion: this declarative theological habit is opinative, because it is the habit of conclusions deduced only from probable premises (otherwise it would convince infidels) and because, being distinct from faith yet neither science, wisdom, art, prudence nor understanding, it can only be opinion among Aristotle's intellectual habits.",
+    "claims": [
+      "A habit of conclusions from merely probable premises is opinion",
+      "A probable middle generates only opinion",
+      "Declarative theology is neither science nor wisdom nor art nor prudence nor understanding, so it is opinion"
+    ],
+    "concepts": [
+      "opinio",
+      "probable middle",
+      "intellectual virtues",
+      "Nicomachean Ethics VI",
+      "declarative theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e08253",
+        "at8va9-e08253-Dd1e211",
+        "at8va9-e08253-d1e422"
+      ]
+    }
+  },
+  "at8va9-e08253-d1e527": {
+    "summary": "Fourth conclusion: the acquired theological habit that evidently deduces conclusions on the supposition of the articles is really distinct from faith, since every habit of proper science is, and the preceding question showed this habit to be proper science.",
+    "claims": [
+      "Every scientific habit properly so called is really distinct from faith",
+      "Deductive theology on the supposition of the articles is proper science"
+    ],
+    "concepts": [
+      "deductive theology",
+      "scientia proprie dicta",
+      "faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e08253",
+        "at8va9-e08253-Dd1e211",
+        "at8va9-e08253-d1e472"
+      ]
+    }
+  },
+  "at8va9-e08253-d1e548": {
+    "summary": "Opens Articles 3 and 4 by announcing that doubts against the conclusions will be raised and resolved together.",
+    "claims": [],
+    "concepts": [
+      "dubia",
+      "structure of the question"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e08253",
+        "at8va9-e08253-Dd1e544"
+      ]
+    }
+  },
+  "at8va9-e08253-d1e557": {
+    "summary": "Presents John Forrestarius's argument against the first conclusion: things one of which can be found apart from the other are really distinct (Aristotle on matter and form, place and placed), and faith exists without revealed theology in baptized infants and simple old women.",
+    "claims": [
+      "Real separability implies real distinction",
+      "Faith exists without revealed theology in infants and simple believers"
+    ],
+    "concepts": [
+      "John Forrestarius",
+      "separability",
+      "real distinction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e08253",
+        "at8va9-e08253-Dd1e544",
+        "at8va9-e08253-d1e548"
+      ]
+    }
+  },
+  "at8va9-e08253-d1e577": {
+    "summary": "Forrestarius's second argument: habits generated by different kinds of acts are distinct, and faith comes from hearing whereas theology comes from frequent meditation and applying articles to conclusions.",
+    "claims": [
+      "Habits are generated by acts, so different acts produce different habits",
+      "Faith comes by hearing, theology by meditation and deduction"
+    ],
+    "concepts": [
+      "generation of habits",
+      "fides ex auditu",
+      "theological study"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e08253",
+        "at8va9-e08253-Dd1e544",
+        "at8va9-e08253-d1e557"
+      ]
+    }
+  },
+  "at8va9-e08253-d1e599": {
+    "summary": "Third argument: a habit that makes one adhere more firmly and with more certainty to divine things than faith alone is distinct from faith, and theology does this by declaring revealed truths and enabling solution of opposing arguments.",
+    "claims": [
+      "Theology strengthens adherence by explaining truths and refuting objections"
+    ],
+    "concepts": [
+      "firmness of adherence",
+      "defense of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e08253",
+        "at8va9-e08253-Dd1e544",
+        "at8va9-e08253-d1e577"
+      ]
+    }
+  },
+  "at8va9-e08253-d1e618": {
+    "summary": "Fourth argument: revealed theology is syllogistic and discursive, eliciting conclusions from the articles, while faith is only adhesive; confirmed because otherwise theologians' labor would be in vain since they already have faith.",
+    "claims": [
+      "Faith is adhesive, not discursive",
+      "Theology is syllogistic and discursive",
+      "Otherwise theological labor would be pointless"
+    ],
+    "concepts": [
+      "discursive habit",
+      "adhesive habit",
+      "theological labor"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e08253",
+        "at8va9-e08253-Dd1e544",
+        "at8va9-e08253-d1e599"
+      ]
+    }
+  },
+  "at8va9-e08253-d1e634": {
+    "summary": "Replies to Forrestarius by distinguishing three ways revealed theology can be identified with faith: as infused theology identical with infused faith and acquired theology identical with acquired faith; as only acquired faith (the author's preferred reading, matching how doctors speak of theology as deductive); or as chiefly infused faith. On the preferred reading: acquired faith of believed conclusions is not found in infants or old women; it arises from the same meditation as theology; it gives no firmer adherence; it is itself syllogistic, since believed premises can be syllogistically ordered; and theological labor is not vain, since it yields the declarative and deductive habits and makes implicit faith explicit. Clarifies that revealed theology is 'acquired' in the sense of being reached by discourse, not in the sense of considering naturally acquired truths. Then gives the replies on the first reading as well.",
+    "claims": [
+      "Revealed theology can be identified with acquired faith of conclusions deduced from believed premises",
+      "That acquired faith is not found in infants or simple believers",
+      "Acquired faith of conclusions is itself syllogistic and discursive",
+      "Theological study makes explicit what was implicitly believed and produces the habits really distinct from faith",
+      "'Acquired theology' is equivocal: considering naturally known truths, or acquired by syllogistic discourse",
+      "Infused faith and infused revealed theology are adhesive only, assenting to each proposition immediately on authority"
+    ],
+    "concepts": [
+      "John Forrestarius",
+      "fides acquisita",
+      "fides infusa",
+      "explicit and implicit faith",
+      "discursive faith",
+      "acquired theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e08253",
+        "at8va9-e08253-Dd1e544",
+        "at8va9-e08253-d1e618"
+      ]
+    }
+  },
+  "at8va9-e08253-d1e864": {
+    "summary": "Objection to the second conclusion: no intellectual habit really distinct from faith possible to a wayfarer is nobler than metaphysics (Aristotle), since any such habit is acquired in natural light; yet the declarative theological habit is nobler than metaphysics, so it is not distinct from faith.",
+    "claims": [
+      "No naturally acquired habit is nobler than metaphysics (Aristotle)",
+      "The declarative theological habit is nobler than metaphysics"
+    ],
+    "concepts": [
+      "nobility of metaphysics",
+      "natural light",
+      "declarative theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e08253",
+        "at8va9-e08253-Dd1e544",
+        "at8va9-e08253-d1e634"
+      ]
+    }
+  },
+  "at8va9-e08253-d1e897": {
+    "summary": "Second objection: every habit distinct from faith possible to the wayfarer is humanly invented, being based on natural light, but no philosopher invented or mentioned the declarative theological habit.",
+    "claims": [
+      "Habits based on natural light are humanly devised",
+      "No philosopher discovered the declarative theological habit"
+    ],
+    "concepts": [
+      "humanly devised habits",
+      "philosophers",
+      "natural light"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e08253",
+        "at8va9-e08253-Dd1e544",
+        "at8va9-e08253-d1e864"
+      ]
+    }
+  },
+  "at8va9-e08253-d1e913": {
+    "summary": "Third objection: any theological habit distinct from faith and possible in natural light would be speculative and so, by Aristotle's division into mathematics, physics and metaphysics, metaphysical — yet no philosopher mentions it; confirmed by Averroes, for whom everything whose definition includes God belongs to metaphysics.",
+    "claims": [
+      "Aristotle's division of speculative sciences is sufficient",
+      "Everything defined by reference to God belongs to divine science (Averroes)"
+    ],
+    "concepts": [
+      "division of speculative sciences",
+      "metaphysics",
+      "Averroes",
+      "Metaphysics VI"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e08253",
+        "at8va9-e08253-Dd1e544",
+        "at8va9-e08253-d1e897"
+      ]
+    }
+  },
+  "at8va9-e08253-d1e955": {
+    "summary": "Replies to these objections — metaphysics is nobler in some respect, not simply, since habits are nobler by subject or by certainty, and declarative theology exceeds metaphysics in subject while falling short in certainty; argument from authority does not hold negatively, and Plato in fact found this habit in part, as Augustine reports; the habit may be affective or practical rather than speculative, and Aristotle's division concerns scientific habits only — then presents Aureol's objections to the third conclusion: theology would be unworthy if opinion, studying it would be foolish, and opinion includes fear of the opposite (Aristotle: opinion does not determinately say the true).",
+    "claims": [
+      "Intellectual habits are nobler by subject, by certainty of demonstration, or both",
+      "Declarative theology surpasses metaphysics in subject but not in certainty",
+      "Arguments from authority do not hold negatively",
+      "Plato reached this habit in whole or in part (Augustine)",
+      "Aureol: opinion essentially includes fear of the opposite"
+    ],
+    "concepts": [
+      "nobility of sciences",
+      "metaphysics",
+      "Plato",
+      "Aureol",
+      "formido",
+      "opinion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e08253",
+        "at8va9-e08253-Dd1e544",
+        "at8va9-e08253-d1e913"
+      ]
+    }
+  },
+  "at8va9-e08253-d1e1080": {
+    "summary": "Aureol's further argument: the dialectical syllogism, which causes opinion, takes its premises with fear, posing both sides of a contradiction as questions, so the resulting habit involves fear.",
+    "claims": [
+      "Dialectical syllogism proceeds by interrogating both sides of a contradiction"
+    ],
+    "concepts": [
+      "dialectical syllogism",
+      "Topics",
+      "Prior Analytics",
+      "formido"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e08253",
+        "at8va9-e08253-Dd1e544",
+        "at8va9-e08253-d1e955"
+      ]
+    }
+  },
+  "at8va9-e08253-d1e1096": {
+    "summary": "Further argument: one holding probable premises adheres to them either as necessary (then he is deceived and presumptuous, not opining) or as contingent and possibly otherwise, which is to adhere doubtfully and with fear.",
+    "claims": [
+      "Adhering to probable propositions as necessary is presumption",
+      "Adhering to them as possibly otherwise is doubtful adherence"
+    ],
+    "concepts": [
+      "presumption",
+      "contingency",
+      "doubt"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e08253",
+        "at8va9-e08253-Dd1e544",
+        "at8va9-e08253-d1e1080"
+      ]
+    }
+  },
+  "at8va9-e08253-d1e1125": {
+    "summary": "Further argument: as suspicion stands to faith in particular matters, opinion stands to science universally, and no one who is certain says he suspects; to be without fear is to be certain, and an opiner who thinks himself certain has passed into presumption.",
+    "claims": [
+      "Suspicion is to faith as opinion is to science",
+      "Not fearing is the same as being certain"
+    ],
+    "concepts": [
+      "suspicio",
+      "certainty",
+      "presumption"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e08253",
+        "at8va9-e08253-Dd1e544",
+        "at8va9-e08253-d1e1096"
+      ]
+    }
+  },
+  "at8va9-e08253-d1e1145": {
+    "summary": "Presents Gerard of Siena's arguments that fear is essential to opinion (it is the only thing distinguishing opinion from science; adhesion through a probable middle is necessarily uncertain) and the author's counter-thesis that fear is not of the formal ratio of opinion: Aristotle says some adhere to opinions as firmly as to demonstrations. Rejects Aureol's reply (such people are presuming, not opining) as contradicting Aristotle and Gerard's (they use opinions as sciences by error) because they still have the habit of opinion; further argues that true opinion about a necessary truth cannot involve thinking it possibly otherwise, else it would be false.",
+    "claims": [
+      "Fear is not of the formal and intrinsic ratio of opinion",
+      "Some hold their opinions as firmly as others hold demonstrated conclusions (Aristotle)",
+      "One who truly has the habit of opinion yet adheres without fear shows fear is not essential to opinion",
+      "True opinion about a necessary truth cannot judge it possibly otherwise"
+    ],
+    "concepts": [
+      "formido",
+      "opinion",
+      "Gerard of Siena",
+      "Aureol",
+      "true opinion about necessary truth",
+      "Posterior Analytics I"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e08253",
+        "at8va9-e08253-Dd1e544",
+        "at8va9-e08253-d1e1125"
+      ]
+    }
+  },
+  "at8va9-e08253-d1e1325": {
+    "summary": "Transitional sentence: the minor will appear more clearly in the reply to the first argument, and with the premise established the author turns to the objections.",
+    "claims": [],
+    "concepts": [
+      "transition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e08253",
+        "at8va9-e08253-Dd1e544",
+        "at8va9-e08253-d1e1145"
+      ]
+    }
+  },
+  "at8va9-e08253-d1e1332": {
+    "summary": "Replies to Aureol's first argument by distinguishing two senses of opinion: concluding something through a probable middle without attending to whether it could be otherwise (no fear), and judging that it could be otherwise (with fear); the probability of a middle can likewise be taken absolutely or with regard to the contingency of the opposite. Declarative theology is opinion in the first sense, so it is not unworthy and can coexist with faith; Aristotle says we desire probable knowledge of eternal things over certain knowledge of lesser ones.",
+    "claims": [
+      "Opinion in one sense concludes through a probable middle without attending to the possibility of the opposite",
+      "In another sense it judges the matter could be otherwise and includes fear",
+      "Declarative theology is opinion in the first sense and so coexists with faith",
+      "Probable knowledge of eternal things is more desirable than certain knowledge of lesser things"
+    ],
+    "concepts": [
+      "two senses of opinion",
+      "probable middle",
+      "formido",
+      "compatibility with faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e08253",
+        "at8va9-e08253-Dd1e544",
+        "at8va9-e08253-d1e1325"
+      ]
+    }
+  },
+  "at8va9-e08253-d1e1405": {
+    "summary": "Replies to Aureol's remaining arguments: such opinion perfects faith by declaring and defending it; 'determinately true' can mean simply true (as one of two contradictory opinions is) or necessarily and evidently true (which no opinion is), without implying fear; not every dialectical syllogism poses both sides; the mind can adhere to propositions as probable without regarding contingency; and suspicion and opinion are alike only partially, since not fearing differs from being evidently certain.",
+    "claims": [
+      "Opinion can be determinately true without being evidently true",
+      "Not every probable syllogism interrogates both sides",
+      "Adherence can be to propositions as probable without considering contingency",
+      "Not fearing is not the same as certainty of evidence"
+    ],
+    "concepts": [
+      "determinate truth",
+      "dialectical syllogism",
+      "opinion and suspicion",
+      "certitude"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e08253",
+        "at8va9-e08253-Dd1e544",
+        "at8va9-e08253-d1e1332"
+      ]
+    }
+  },
+  "at8va9-e08253-d1e1496": {
+    "summary": "Replies to Gerard of Siena: science and opinion would still differ without fear, by their necessary-evident versus probable middles, and adhesion through a probable middle is not identical with doubtful adhesion; arguments against the fourth conclusion are passed over as already answered.",
+    "claims": [
+      "Science and opinion differ by their middles, not only by fear",
+      "Not every habit generated by a probable middle involves fear"
+    ],
+    "concepts": [
+      "Gerard of Siena",
+      "middle term",
+      "science and opinion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e08253",
+        "at8va9-e08253-Dd1e544",
+        "at8va9-e08253-d1e1405"
+      ]
+    }
+  },
+  "at8va9-e08253-d1e1531": {
+    "summary": "Replies to the principal arguments: the theological habit really distinct from faith is not simply nobler than infused or acquired faith, but nobler in some respect as declaring and defending what faith holds, so it is not superfluous; and against the old woman example, greater acquired faith (of deduced conclusions) does mean greater revealed theology, but the old woman lacks such faith; on the alternative reading, infused theology tracks infused faith and acquired theology tracks acquired faith.",
+    "claims": [
+      "Theology distinct from faith is not simply nobler than faith but nobler in some respect",
+      "Greater acquired faith of deduced conclusions means more perfect revealed theology",
+      "The simple old woman does not have greater acquired faith of this kind"
+    ],
+    "concepts": [
+      "nobility of habits",
+      "acquired faith",
+      "simplex vetula",
+      "response to principal arguments"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e08253",
+        "at8va9-e08253-Dd1e544",
+        "at8va9-e08253-d1e1496"
+      ]
+    }
+  },
+  "at8va9-e08253-Dd1e158": {
+    "summary": "Article 1 sets out the terms: recalling the three theological habits (revealed, declarative-defensive, deductive), it distinguishes infused faith from acquired faith of believed conclusions and the three senses of 'faith' (act, content, habit), fixing the question on faith as the habit by which one believes.",
+    "claims": [
+      "Faith may be infused or acquired, the latter including faith of conclusions deduced from believed premises",
+      "The question concerns faith as the habit by which one believes"
+    ],
+    "concepts": [
+      "fides infusa",
+      "fides acquisita",
+      "fides qua creditur",
+      "theological habits"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e08253-d1e162"
+      ]
+    }
+  },
+  "at8va9-e08253-Dd1e211": {
+    "summary": "Article 2 gives four conclusions: revealed theology is not really distinct from faith, because its only proper act is believing on authority and it distinguishes believer from infidel; declarative-defensive theology is really distinct from faith, since infidels and heretics can possess it and believers can lack it; this declarative habit is opinion, since it argues from probable premises and fits no other intellectual virtue; and the deductive theological habit, being proper science, is really distinct from faith.",
+    "claims": [
+      "Revealed theology is not really distinct from faith",
+      "Declarative-defensive theology is really distinct from faith",
+      "Declarative-defensive theology is an opinative habit",
+      "Deductive theology on the supposition of the articles is really distinct from faith"
+    ],
+    "concepts": [
+      "revealed theology",
+      "declarative theology",
+      "deductive theology",
+      "opinion",
+      "real distinction",
+      "faith"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e08253-d1e215",
+        "at8va9-e08253-d1e287",
+        "at8va9-e08253-d1e331",
+        "at8va9-e08253-d1e379",
+        "at8va9-e08253-d1e422",
+        "at8va9-e08253-d1e472",
+        "at8va9-e08253-d1e527"
+      ]
+    }
+  },
+  "at8va9-e08253-Dd1e544": {
+    "summary": "Articles 3 and 4 defend the conclusions. Against Forrestarius's arguments for distinguishing revealed theology from faith, Vargas identifies revealed theology with acquired faith of believed conclusions, which is itself discursive, while infused faith is merely adhesive. Against objections that a habit distinct from faith would rival metaphysics or have been named by philosophers, he distinguishes nobility by subject and by certainty and cites Plato. Against Aureol and Gerard of Siena, who hold that opinion essentially includes fear, he argues that opinion can conclude through a probable middle without regard to the opposite's possibility, so the opinative theological habit coexists with and perfects faith. The principal arguments are answered accordingly.",
+    "claims": [
+      "Revealed theology can be identified with acquired faith of conclusions deduced from believed premises",
+      "Acquired faith of conclusions is syllogistic, while infused faith is only adhesive",
+      "Declarative theology exceeds metaphysics in subject but not in certainty",
+      "Fear is not of the essence of opinion",
+      "The opinative theological habit can coexist with faith and perfect it"
+    ],
+    "concepts": [
+      "John Forrestarius",
+      "Aureol",
+      "Gerard of Siena",
+      "formido",
+      "opinion",
+      "acquired faith",
+      "metaphysics"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e08253-d1e548",
+        "at8va9-e08253-d1e557",
+        "at8va9-e08253-d1e577",
+        "at8va9-e08253-d1e599",
+        "at8va9-e08253-d1e618",
+        "at8va9-e08253-d1e634",
+        "at8va9-e08253-d1e864",
+        "at8va9-e08253-d1e897",
+        "at8va9-e08253-d1e913",
+        "at8va9-e08253-d1e955",
+        "at8va9-e08253-d1e1080",
+        "at8va9-e08253-d1e1096",
+        "at8va9-e08253-d1e1125",
+        "at8va9-e08253-d1e1145",
+        "at8va9-e08253-d1e1325",
+        "at8va9-e08253-d1e1332",
+        "at8va9-e08253-d1e1405",
+        "at8va9-e08253-d1e1496",
+        "at8va9-e08253-d1e1531"
+      ]
+    }
+  },
+  "at8va9-e08253": {
+    "summary": "The third question asks whether the theological habit possible to a wayfarer in the ordinary order is really distinct from faith. Vargas answers by distinguishing the three theological habits. Revealed theology, whose only act is believing on authority, is not really distinct from faith; it can be understood as acquired faith of conclusions deduced from believed premises. The declarative-defensive habit is really distinct from faith and is opinion, though an opinion without fear of the opposite, which can coexist with and perfect faith. The deductive habit is proper science and so really distinct from faith. He defends these positions against Forrestarius, against objections from the primacy of metaphysics, and against Aureol and Gerard of Siena on the nature of opinion.",
+    "claims": [
+      "Revealed theology is not really distinct from faith",
+      "Declarative-defensive theology is really distinct from faith and is an opinative habit",
+      "Deductive theology is proper science and really distinct from faith",
+      "Opinion does not essentially include fear of the opposite"
+    ],
+    "concepts": [
+      "theology and faith",
+      "real distinction",
+      "revealed theology",
+      "declarative theology",
+      "deductive theology",
+      "acquired faith",
+      "opinion",
+      "formido"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e08253-d1e106",
+        "at8va9-e08253-d1e115",
+        "at8va9-e08253-d1e120",
+        "at8va9-e08253-Dd1e158",
+        "at8va9-e08253-Dd1e211",
+        "at8va9-e08253-Dd1e544"
+      ]
+    }
+  }
+}

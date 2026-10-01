@@ -1,0 +1,776 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-01T01:14:33Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "create-interpretation-v1",
+    "source_commit": "2712681",
+    "generation_method": "hierarchical",
+    "source_file": "cod-x7yh5z_at8va9-e09731.xml"
+  },
+  "at8va9-e09731-d1e106": {
+    "summary": "States the fourth question of the prologue: whether the articles of faith are the principles of theology.",
+    "claims": [],
+    "concepts": [
+      "articles of faith",
+      "principles of theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e09731"
+      ]
+    }
+  },
+  "at8va9-e09731-d1e113": {
+    "summary": "Opening argument against: the principles of any habit must be more probable than its conclusions to the one who has the habit, otherwise he would no more prove conclusions from principles than the reverse; but the articles, being only believed, are not more probable to the theologian than theological conclusions.",
+    "claims": [
+      "Principles must be more evident than conclusions to the one who possesses the habit",
+      "The articles are merely believed and so not more probable than theological conclusions"
+    ],
+    "concepts": [
+      "principles and conclusions",
+      "probability",
+      "articles of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e09731",
+        "at8va9-e09731-d1e106"
+      ]
+    }
+  },
+  "at8va9-e09731-d1e131": {
+    "summary": "Argument for: propositions without which nothing pertaining per se to theology can be concluded are its principles, and without the articles a wayfarer has only naturally known principles, whose conclusions are naturally known and so not theological.",
+    "claims": [
+      "Without the articles nothing per se theological can be concluded",
+      "What is concluded from naturally known principles is naturally known"
+    ],
+    "concepts": [
+      "articles as principles",
+      "natural knowledge",
+      "theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e09731",
+        "at8va9-e09731-d1e113"
+      ]
+    }
+  },
+  "at8va9-e09731-d1e154": {
+    "summary": "Announces the four-article structure of the reply.",
+    "claims": [],
+    "concepts": [
+      "structure of the question"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e09731",
+        "at8va9-e09731-d1e131"
+      ]
+    }
+  },
+  "at8va9-e09731-d1e165": {
+    "summary": "Article 1 recalls the two acquired senses of theology (opinion and proper science) and distinguishes common principles that enter demonstration only virtually (Aristotle's axioms, such as 'of anything, it is or is not') from proper principles that enter it substantially; and, among the latter, principles simply (from which all the habit's conclusions are drawn and which are not themselves deduced a priori within it) from principles in a qualified sense (from which only some conclusions follow). The question concerns principles simply, since in the qualified sense every article and nearly every conclusion is a principle.",
+    "claims": [
+      "Common principles (dignitates) enter demonstration only virtually; proper principles enter it substantially",
+      "Principles simply are those from which all conclusions follow and which are not deduced a priori within the habit",
+      "In the qualified sense almost every article and theological conclusion is a principle"
+    ],
+    "concepts": [
+      "dignitates",
+      "principia communia et propria",
+      "principles simpliciter and secundum quid",
+      "Posterior Analytics I"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e09731",
+        "at8va9-e09731-Dd1e161"
+      ]
+    }
+  },
+  "at8va9-e09731-d1e233": {
+    "summary": "Opens Article 2 by restricting the conclusions to revealed theology understood as acquired faith of believed conclusions, since revealed theology understood as infused faith is merely adhesive, not deductive, and so has no principles at all.",
+    "claims": [
+      "A merely adhesive habit has no principles, since 'principle' is said relative to what is derived",
+      "Revealed theology as infused faith is adhesive only",
+      "Revealed theology as acquired faith of believed conclusions is deductive and so has principles"
+    ],
+    "concepts": [
+      "infused faith",
+      "acquired faith",
+      "adhesive vs deductive habit",
+      "principles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e09731",
+        "at8va9-e09731-Dd1e229"
+      ]
+    }
+  },
+  "at8va9-e09731-d1e275": {
+    "summary": "First conclusion: taking principles that enter deduction only virtually, not all articles are principles of revealed theology; the only such principle is that the whole of Scripture is revealed by God. Not all articles, because denying one article while granting another still allows proofs, and articles would otherwise be assented to circularly. The Scripture principle alone strengthens every theological deduction, allows some proofs when partly granted (against Jews from the Old Testament, against Manichees from the New), and when wholly denied (by pagans) leaves only natural reasons.",
+    "claims": [
+      "Not all articles function as the axiom-like principle of revealed theology",
+      "Articles cannot be principles in this sense, since this would make assent circular",
+      "The sole virtual first principle of revealed theology is that all of Scripture is revealed by God",
+      "With Jews we argue from the Old Testament, with Manichees from the New, with pagans only from natural reason"
+    ],
+    "concepts": [
+      "Scripture as revealed",
+      "virtual principle",
+      "dignitas",
+      "circular assent",
+      "Jews",
+      "Manichees",
+      "pagans"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e09731",
+        "at8va9-e09731-Dd1e229",
+        "at8va9-e09731-d1e233"
+      ]
+    }
+  },
+  "at8va9-e09731-d1e405": {
+    "summary": "Second conclusion: taking principles that enter deduction substantially, not all articles are first principles of revealed theology, but only two — the Trinity and the Incarnation. Some articles are proved a priori from others, as Paul proves the general resurrection from Christ's resurrection as its cause (1 Corinthians 15). By economy, all conclusions about God ad intra follow from 'God is three and one' and all about God ad extra from 'the Son of God is incarnate', as the Athanasian Creed's order and Isidore's teaching that the Incarnation is the principle of Christ's death, resurrection and ascension confirm.",
+    "claims": [
+      "What is proved a priori within a habit is not a first principle simply of it",
+      "Paul proves the resurrection of the dead a priori from Christ's resurrection",
+      "Some articles are first principles of revealed theology",
+      "The first principles simply are only the Trinity and the Incarnation",
+      "All conclusions about God ad intra follow from the Trinity and all about God ad extra from the Incarnation"
+    ],
+    "concepts": [
+      "Trinity",
+      "Incarnation",
+      "resurrection",
+      "1 Corinthians 15",
+      "Athanasian Creed",
+      "Isidore De summo bono",
+      "principle of economy",
+      "ad intra and ad extra"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e09731",
+        "at8va9-e09731-Dd1e229",
+        "at8va9-e09731-d1e275"
+      ]
+    }
+  },
+  "at8va9-e09731-d1e570": {
+    "summary": "Third conclusion: in the acquired declarative-defensive theology, no article of faith is a first principle; first proof begins: no opinative habit proceeds from the articles as first principles, since the articles are merely believed (continues in next paragraph).",
+    "claims": [
+      "The articles are not first principles of declarative-defensive theology",
+      "No opinative habit has merely believed articles as first principles"
+    ],
+    "concepts": [
+      "declarative-defensive theology",
+      "opinative habit",
+      "articles of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e09731",
+        "at8va9-e09731-Dd1e229",
+        "at8va9-e09731-d1e405"
+      ]
+    }
+  },
+  "at8va9-e09731-d1e587": {
+    "summary": "Completes the first proof: the first principles of an opinative habit are probable, not merely believed, and declarative theology is opinative as the previous question showed.",
+    "claims": [
+      "The first principles of an opinative habit are probable propositions",
+      "Declarative theology is an opinative habit"
+    ],
+    "concepts": [
+      "opinion",
+      "probable principles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e09731",
+        "at8va9-e09731-Dd1e229",
+        "at8va9-e09731-d1e570"
+      ]
+    }
+  },
+  "at8va9-e09731-d1e596": {
+    "summary": "Second proof: no habit is ordered finally to defending and explaining its own principles, but declarative theology is wholly ordered to defending and explaining the articles, as its name and Augustine (De Trinitate XIV) show.",
+    "claims": [
+      "No habit exists to defend its own principles",
+      "Declarative theology is ordered to begetting, nourishing, defending and strengthening faith (Augustine)"
+    ],
+    "concepts": [
+      "defense of faith",
+      "Augustine De Trinitate XIV",
+      "finality of habits"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e09731",
+        "at8va9-e09731-Dd1e229",
+        "at8va9-e09731-d1e587"
+      ]
+    }
+  },
+  "at8va9-e09731-d1e621": {
+    "summary": "Third proof: no habit is ordered to concluding its principles, but declarative theology is ordered to concluding the articles, as Augustine argues for the Trinity from probable premises and against Faustus for the virgin birth; notes that these last two reasons do not show, as some think, that articles are not principles of revealed theology, but only of declarative theology.",
+    "claims": [
+      "A habit concludes from its principles, not to them",
+      "Augustine argues to the articles from probable premises (De Trinitate, Contra Faustum)",
+      "These arguments show only that articles are not principles of declarative theology"
+    ],
+    "concepts": [
+      "Augustine De Trinitate",
+      "Contra Faustum",
+      "concluding the articles",
+      "declarative theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e09731",
+        "at8va9-e09731-Dd1e229",
+        "at8va9-e09731-d1e596"
+      ]
+    }
+  },
+  "at8va9-e09731-d1e669": {
+    "summary": "Fourth conclusion: in the acquired theology that evidently deduces conclusions on the supposition of the articles, the articles are in no way first principles, since the principles of proper science are self-evident or deduced from the self-evident to the knower, while the articles are only believed.",
+    "claims": [
+      "The articles are not principles of proper science, being merely believed",
+      "Principles of proper science are per se nota to the one who has it"
+    ],
+    "concepts": [
+      "deductive theology",
+      "scientia proprie dicta",
+      "per se nota"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e09731",
+        "at8va9-e09731-Dd1e229",
+        "at8va9-e09731-d1e621"
+      ]
+    }
+  },
+  "at8va9-e09731-d1e693": {
+    "summary": "Further proof: deductive theology presupposes the articles' existence but does not use them as premises; it proceeds from self-evident propositions, so the articles are presupposed but not its first principles; closes Article 2.",
+    "claims": [
+      "Deductive theology supposes the articles' existence without using them to infer conclusions"
+    ],
+    "concepts": [
+      "suppositio",
+      "deductive theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e09731",
+        "at8va9-e09731-Dd1e229",
+        "at8va9-e09731-d1e669"
+      ]
+    }
+  },
+  "at8va9-e09731-d1e714": {
+    "summary": "Opens Articles 3 and 4: passes over the first conclusion as hardly doubtful and turns to the second, whose three parts face notable opinions, beginning with the common and famous opinion that all articles are principles of revealed theology.",
+    "claims": [],
+    "concepts": [
+      "dubia",
+      "structure",
+      "common opinion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e09731",
+        "at8va9-e09731-Dd1e710"
+      ]
+    }
+  },
+  "at8va9-e09731-d1e743": {
+    "summary": "Rubric attributing the opinion that all articles are principles to Thomas Aquinas (Summa I, q.1, a.2 and 8) and Giles of Rome, and introducing the arguments of a modern doctor of the order.",
+    "claims": [],
+    "concepts": [
+      "Thomas Aquinas",
+      "Giles of Rome",
+      "articles as principles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e09731",
+        "at8va9-e09731-Dd1e710",
+        "at8va9-e09731-d1e714"
+      ]
+    }
+  },
+  "at8va9-e09731-d1e756": {
+    "summary": "Thomas of Strasbourg's first argument: principles are those to which things are reputed truer the more they conform, as rule and measure; in theology things are judged truer by conformity to the articles.",
+    "claims": [
+      "Principles are the rule and measure of a science",
+      "In theology conformity to the articles measures truth"
+    ],
+    "concepts": [
+      "Thomas of Strasbourg",
+      "regula et mensura",
+      "principles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e09731",
+        "at8va9-e09731-Dd1e710",
+        "at8va9-e09731-d1e743"
+      ]
+    }
+  },
+  "at8va9-e09731-d1e785": {
+    "summary": "Second argument: in any discipline the propositions we adhere to most are its principles, since we adhere to conclusions because of principles, and in Scripture we adhere most to the articles.",
+    "claims": [
+      "We adhere to conclusions because of principles, and to principles more",
+      "We adhere to the articles most of all"
+    ],
+    "concepts": [
+      "firmness of adherence",
+      "principles",
+      "Posterior Analytics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e09731",
+        "at8va9-e09731-Dd1e710",
+        "at8va9-e09731-d1e756"
+      ]
+    }
+  },
+  "at8va9-e09731-d1e804": {
+    "summary": "Third argument: propositions formed about a science's subject that cannot be proved by anything prior are its first principles, and the articles are such.",
+    "claims": [
+      "The articles cannot be proved by anything prior"
+    ],
+    "concepts": [
+      "indemonstrability",
+      "first principles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e09731",
+        "at8va9-e09731-Dd1e710",
+        "at8va9-e09731-d1e785"
+      ]
+    }
+  },
+  "at8va9-e09731-d1e817": {
+    "summary": "Fourth argument: what a science supposes as most true are its first principles (one must suppose principles are true), and the articles are so supposed in theology.",
+    "claims": [
+      "First principles are supposed as true in a science"
+    ],
+    "concepts": [
+      "supposition of principles",
+      "Posterior Analytics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e09731",
+        "at8va9-e09731-Dd1e710",
+        "at8va9-e09731-d1e804"
+      ]
+    }
+  },
+  "at8va9-e09731-d1e828": {
+    "summary": "Replies to Thomas of Strasbourg (conformity to a proposition does not make it a first principle, else demonstrated conclusions would be; adherence follows principles only in demonstrative, not creditive habits; Paul proves an article by prior ones; only undeduced truths are first principles), then dismisses Aureol's opinion that articles are not principles at all as confusing revealed with declarative theology, and presents Bernard Olivier's denial that the Incarnation is a principle: theology gives the reason why for articles about Christ's humanity, and theology preceded the New Testament in which they are expressed.",
+    "claims": [
+      "Not everything that measures truth is a first principle; only what is not deduced from others",
+      "In a creditive habit we do not adhere to conclusions because of the principles' evidence",
+      "Paul demonstrates the resurrection of the dead from prior articles",
+      "Aureol fails to distinguish revealed from declarative theology",
+      "Bernard: theology gives the propter quid of the Incarnation articles and preceded the New Testament"
+    ],
+    "concepts": [
+      "Thomas of Strasbourg",
+      "Aureol",
+      "Bernard Olivier",
+      "principles",
+      "Incarnation",
+      "creditive habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e09731",
+        "at8va9-e09731-Dd1e710",
+        "at8va9-e09731-d1e817"
+      ]
+    }
+  },
+  "at8va9-e09731-d1e987": {
+    "summary": "Replies to Bernard Olivier: the Incarnation is not deduced a priori in revealed theology (1 Peter's call to give reasons concerns declarative theology); and theology could precede some of its principles in part, or preceded the Incarnation but not faith in the Mediator, through which all were saved. Then presents Gerard of Siena's arguments against the third conclusion: the articles include all theological truths and exclude irrelevant ones (Augustine), and they rule and measure the whole consideration of theology.",
+    "claims": [
+      "The Incarnation is not deduced a priori in revealed theology",
+      "Giving reasons for faith belongs to declarative theology",
+      "A science can precede some of its principles in one part",
+      "All the saved were saved through faith in the Mediator",
+      "Gerard: articles include all theological truths and regulate the whole of theology"
+    ],
+    "concepts": [
+      "Bernard Olivier",
+      "Gerard of Siena",
+      "Incarnation",
+      "faith in the Mediator",
+      "1 Peter 3",
+      "rule and measure"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e09731",
+        "at8va9-e09731-Dd1e710",
+        "at8va9-e09731-d1e828"
+      ]
+    }
+  },
+  "at8va9-e09731-d1e1104": {
+    "summary": "Gerard's further argument: principles are where resolution in a science stops, and in theology resolution stops only at the articles.",
+    "claims": [
+      "Resolution in any science stops at its principles",
+      "Theological resolution ends at the articles"
+    ],
+    "concepts": [
+      "resolutio",
+      "principles",
+      "Gerard of Siena"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e09731",
+        "at8va9-e09731-Dd1e710",
+        "at8va9-e09731-d1e987"
+      ]
+    }
+  },
+  "at8va9-e09731-d1e1124": {
+    "summary": "Gerard's further argument: whatever is intelligible through itself without demonstration has the ratio of axiom (Aristotle, Boethius), and the articles are maximally intelligible in themselves; it does not matter that we do not understand them, since principles remain principles though some do not grasp them, the blessed understand them, and theology uses them as axioms. The author replies that these arguments may show the articles are principles of revealed theology but not of the acquired declarative theology at issue, which is the target of Aureol's position.",
+    "claims": [
+      "Gerard: the articles are per se intelligible and so are axioms, used as such by theology",
+      "Principles do not lose their status because some do not grasp them",
+      "Gerard's arguments prove at most that articles are principles of revealed theology, not of declarative theology"
+    ],
+    "concepts": [
+      "dignitas",
+      "per se intelligibility",
+      "Boethius",
+      "Gerard of Siena",
+      "Aureol"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e09731",
+        "at8va9-e09731-Dd1e710",
+        "at8va9-e09731-d1e1104"
+      ]
+    }
+  },
+  "at8va9-e09731-vua7hh": {
+    "summary": "Replies to Gerard's first argument: Augustine's text shows that in declarative theology the articles are begotten, nourished, defended and strengthened — that is, they are conclusions, not principles; the articles virtually contain all truths of revealed theology but are contained by, and probably deduced from, other truths in declarative theology.",
+    "claims": [
+      "In declarative theology the articles function as conclusions",
+      "Articles virtually include all revealed theological truths but not those of declarative theology"
+    ],
+    "concepts": [
+      "Augustine De Trinitate XIV",
+      "declarative theology",
+      "articles as conclusions"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e09731",
+        "at8va9-e09731-Dd1e710",
+        "at8va9-e09731-d1e1124"
+      ]
+    }
+  },
+  "at8va9-e09731-vua7h2": {
+    "summary": "Replies to Gerard's second argument by retortion (on his reasoning every theological conclusion would be a principle, since conformity to conclusions also measures truth) and by qualifying the major: principles must regulate a science by way of defending, proving and declaring, whereas in declarative theology the articles are what is defended, proved and declared.",
+    "claims": [
+      "Gerard's argument would make all theological conclusions principles",
+      "Principles must regulate a science as what defends, proves and declares",
+      "In declarative theology the articles are defended and proved from other truths"
+    ],
+    "concepts": [
+      "retortion",
+      "rule and measure",
+      "declarative theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e09731",
+        "at8va9-e09731-Dd1e710",
+        "at8va9-e09731-vua7hh"
+      ]
+    }
+  },
+  "at8va9-e09731-vua7h3": {
+    "summary": "Replies to the resolution argument by distinguishing resolution to that from which all truths are defended and proved (the sense relevant to principles) from resolution to that by virtue of which one chiefly adheres to theological truths; declarative theology resolves to the articles only in the second sense.",
+    "claims": [
+      "Resolution can be to the source of proof or to the source of adherence",
+      "Articles are ultimate in adherence, not in proof, within declarative theology"
+    ],
+    "concepts": [
+      "resolutio",
+      "adherence",
+      "proof"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e09731",
+        "at8va9-e09731-Dd1e710",
+        "at8va9-e09731-vua7h2"
+      ]
+    }
+  },
+  "at8va9-e09731-vua7h4": {
+    "summary": "Replies to the per se intelligibility argument: not all articles are known from their terms, since some are demonstrable a priori, and in declarative theology they are probably deduced from naturally known premises; retorts that by Gerard's reasoning 'God exists', 'God is pure act' and similar would be axioms of metaphysics.",
+    "claims": [
+      "Not all articles are self-evident from their terms",
+      "In declarative theology the articles are conclusions probably deduced",
+      "By Gerard's reasoning, propositions like 'God is pure act' would be axioms of metaphysics"
+    ],
+    "concepts": [
+      "per se intelligibility",
+      "metaphysics",
+      "God as pure act",
+      "retortion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e09731",
+        "at8va9-e09731-Dd1e710",
+        "at8va9-e09731-vua7h3"
+      ]
+    }
+  },
+  "at8va9-e09731-vua7h5": {
+    "summary": "Concludes that Gerard's solution holds only in the qualified sense: principles of a human science that some do not know remain principles, but not those deduced from better-known truths; and declarative theology does not use the articles to regulate by defending and proving. The fourth conclusion is passed over as evident.",
+    "claims": [
+      "Propositions deduced from better-known ones are not principles of a science",
+      "Declarative theology does not use the articles as principles"
+    ],
+    "concepts": [
+      "principles",
+      "declarative theology",
+      "Gerard of Siena"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e09731",
+        "at8va9-e09731-Dd1e710",
+        "at8va9-e09731-vua7h4"
+      ]
+    }
+  },
+  "at8va9-e09731-d1e1385": {
+    "summary": "Replies to the principal arguments: principles of faith need not be more probable than conclusions, since they are assented to on authority, not probability; revealed theology's identity with faith does not prevent articles from being its principles; and against the second argument, conclusions pertaining to declarative and deductive theology can be drawn without the articles as principles, though this is not true for revealed theology.",
+    "claims": [
+      "Principles of faith are accepted on authority, not on probability",
+      "Declarative and deductive theology can conclude without the articles as premises"
+    ],
+    "concepts": [
+      "authority",
+      "principles of faith",
+      "response to principal arguments"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e09731",
+        "at8va9-e09731-Dd1e710",
+        "at8va9-e09731-vua7h5"
+      ]
+    }
+  },
+  "at8va9-e09731-Dd1e161": {
+    "summary": "Article 1 distinguishes common principles that enter deduction only virtually (axioms) from proper principles that enter it substantially, and principles simply (from which all conclusions follow and which are not themselves deduced a priori) from principles in a qualified sense; the question is restricted to principles simply.",
+    "claims": [
+      "Principles may enter demonstration virtually or substantially",
+      "The question concerns principles simply, which are not deduced within the habit"
+    ],
+    "concepts": [
+      "dignitates",
+      "principia propria",
+      "principles simpliciter and secundum quid"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e09731-d1e165"
+      ]
+    }
+  },
+  "at8va9-e09731-Dd1e229": {
+    "summary": "Article 2 limits the analysis to revealed theology understood as acquired faith of deduced conclusions (infused faith has no principles) and sets four conclusions: the sole virtual first principle of revealed theology is that all Scripture is revealed by God; its substantial first principles are not all the articles but only the Trinity and the Incarnation, from which all conclusions about God ad intra and ad extra follow; in declarative-defensive theology no article is a first principle, since that habit is opinative and aims to conclude and defend the articles; and in deductive theology the articles are presupposed but are not principles.",
+    "claims": [
+      "Infused faith, being merely adhesive, has no principles",
+      "The sole virtual principle of revealed theology is that Scripture is revealed by God",
+      "The Trinity and the Incarnation alone are the first principles simply of revealed theology",
+      "In declarative theology the articles are conclusions, not principles",
+      "In deductive theology the articles are supposed, not used as principles"
+    ],
+    "concepts": [
+      "revealed theology",
+      "Scripture",
+      "Trinity",
+      "Incarnation",
+      "declarative theology",
+      "deductive theology",
+      "principles"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e09731-d1e233",
+        "at8va9-e09731-d1e275",
+        "at8va9-e09731-d1e405",
+        "at8va9-e09731-d1e570",
+        "at8va9-e09731-d1e587",
+        "at8va9-e09731-d1e596",
+        "at8va9-e09731-d1e621",
+        "at8va9-e09731-d1e669",
+        "at8va9-e09731-d1e693"
+      ]
+    }
+  },
+  "at8va9-e09731-Dd1e710": {
+    "summary": "Articles 3 and 4 defend the second and third conclusions. Against the common view of Aquinas, Giles and Thomas of Strasbourg that all articles are principles, Vargas argues that conformity, adherence and supposition do not make a proposition a first principle, and that some articles are proved from others. He faults Aureol for not distinguishing kinds of theology and answers Bernard Olivier's denial that the Incarnation is a principle. Against Gerard of Siena, he shows that in declarative theology the articles are conclusions defended and proved from probable premises, distinguishing resolution in proof from resolution in adherence. The principal arguments are answered.",
+    "claims": [
+      "Not all articles are principles of revealed theology, since some are proved from others",
+      "The Incarnation is a first principle of revealed theology, not deduced a priori in it",
+      "In declarative theology the articles are conclusions, not principles",
+      "Articles are ultimate in adherence but not in proof within declarative theology"
+    ],
+    "concepts": [
+      "Thomas Aquinas",
+      "Giles of Rome",
+      "Thomas of Strasbourg",
+      "Aureol",
+      "Bernard Olivier",
+      "Gerard of Siena",
+      "principles of theology",
+      "resolutio"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e09731-d1e714",
+        "at8va9-e09731-d1e743",
+        "at8va9-e09731-d1e756",
+        "at8va9-e09731-d1e785",
+        "at8va9-e09731-d1e804",
+        "at8va9-e09731-d1e817",
+        "at8va9-e09731-d1e828",
+        "at8va9-e09731-d1e987",
+        "at8va9-e09731-d1e1104",
+        "at8va9-e09731-d1e1124",
+        "at8va9-e09731-vua7hh",
+        "at8va9-e09731-vua7h2",
+        "at8va9-e09731-vua7h3",
+        "at8va9-e09731-vua7h4",
+        "at8va9-e09731-vua7h5",
+        "at8va9-e09731-d1e1385"
+      ]
+    }
+  },
+  "at8va9-e09731": {
+    "summary": "The fourth question asks whether the articles of faith are the principles of theology. Vargas answers that it depends on which theology. Infused faith, as purely adhesive, has no principles. Revealed theology, understood as acquired faith of believed conclusions, has as its sole virtual principle that all Scripture is revealed by God, and as its substantial first principles only two articles, the Trinity and the Incarnation, from which conclusions about God ad intra and ad extra follow. In declarative-defensive theology the articles are conclusions to be defended rather than principles. In deductive theology the articles are supposed but are not principles. He defends these claims against Aquinas, Thomas of Strasbourg, Aureol, Bernard Olivier and Gerard of Siena.",
+    "claims": [
+      "The articles are principles only of revealed theology, not of declarative or deductive theology",
+      "The sole virtual principle of revealed theology is the divine revelation of Scripture",
+      "Only the Trinity and the Incarnation are first principles simply of revealed theology",
+      "Some articles, such as the general resurrection, are proved a priori from others",
+      "Principles of faith are accepted on authority, not because they are more probable"
+    ],
+    "concepts": [
+      "articles of faith",
+      "principles of theology",
+      "Scripture",
+      "Trinity",
+      "Incarnation",
+      "revealed theology",
+      "declarative theology",
+      "deductive theology"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e09731-d1e106",
+        "at8va9-e09731-d1e113",
+        "at8va9-e09731-d1e131",
+        "at8va9-e09731-d1e154",
+        "at8va9-e09731-Dd1e161",
+        "at8va9-e09731-Dd1e229",
+        "at8va9-e09731-Dd1e710"
+      ]
+    }
+  }
+}

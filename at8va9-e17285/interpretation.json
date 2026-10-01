@@ -1,0 +1,636 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-01T04:36:31Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "create-interpretation-v1",
+    "source_commit": "2712681",
+    "generation_method": "hierarchical",
+    "source_file": "cod-x7yh5z_at8va9-e17285.xml"
+  },
+  "at8va9-e17285-d1e106": {
+    "summary": "Poses the eighth question, intended to clarify the preceding ones: whether the infinity of a science's first subject, formally taken, necessarily implies the infinity of the scientific habit. Gives the argument against (a science is not specified, and so not dignified, by its subject, which is extrinsic to it) and for (subject and science must be proportioned, so as finite subject gives finite science, infinite subject gives infinite science); announces four articles.",
+    "claims": [
+      "Things are specified by their intrinsic principles, and the subject is extrinsic to science",
+      "Greater dignity of a science is a higher specific grade",
+      "Subject and science must be proportioned"
+    ],
+    "concepts": [
+      "infinity of science",
+      "specification by subject",
+      "proportion",
+      "dignity of science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e17285"
+      ]
+    }
+  },
+  "at8va9-e17285-d1e152": {
+    "summary": "Article 1 distinguishes infinity of the subject in extension or bulk from infinity of perfection (the question concerns the latter); two ways a subject's dignity might ground a science's dignity — simply and adequately (impossible, since creaturely science is an accident and its subject may be a substance) or proportionally and commensurately (which Vargas holds); and two ways a science could be infinite — adequately to its subject, or infinite in its own genus though not equal to the subject, which is the sense of the question.",
+    "claims": [
+      "Infinity of extension in a subject does not imply infinity of perfection in its science",
+      "No accident equals a substance in perfection, so a science cannot match its subject's dignity simply",
+      "A science's perfection follows its subject's proportionally",
+      "The question concerns infinity of a science within its own genus"
+    ],
+    "concepts": [
+      "intensive and extensive infinity",
+      "proportional dignity",
+      "accident and substance",
+      "infinity in genere"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e17285",
+        "at8va9-e17285-Dd1e148"
+      ]
+    }
+  },
+  "at8va9-e17285-d1e270": {
+    "summary": "Article 2, first conclusion: the unity of the first subject formally taken necessarily entails the specific unity of the science; for distinction of subject entails distinction of demonstrable property and so of science ('sciences are divided as things are'); the objection that angel and man share 'beatifiable' fails, since it belongs to them by what they have in common; and one formal ratio yields one property, else demonstration would be from common, not proper, principles; confirmed by Aristotle (one science is of one genus of subject).",
+    "claims": [
+      "Unity of the formally taken subject entails specific unity of the science",
+      "Distinction of formal subjects entails distinction of demonstrable properties",
+      "Whatever belongs to things differing in species belongs to them through something common (Prior Analytics)",
+      "Risibility belongs to man by what distinguishes him from angels, beatifiability by what he shares with them",
+      "Demonstration must proceed from proper principles"
+    ],
+    "concepts": [
+      "unity of science",
+      "subject and passio",
+      "specific distinction",
+      "beatificabilis and risibilis",
+      "Posterior Analytics",
+      "De anima III"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e17285",
+        "at8va9-e17285-Dd1e266"
+      ]
+    }
+  },
+  "at8va9-e17285-d1e446": {
+    "summary": "Second conclusion: a science's nobility and perfection follow proportionally from its subject's. Proofs: science receives specific unity and dignity from the same source, its subject; things differing in species differ in perfection (Augustine: if the moon equaled the sun, they would be two suns); and properties arising from a nobler subject are nobler, since nature acts with full effort.",
+    "claims": [
+      "A science's specific unity and its dignity come from the same source",
+      "Things that differ specifically differ in perfection (Augustine, De libero arbitrio III)",
+      "A nobler subject yields nobler properties"
+    ],
+    "concepts": [
+      "dignity of science",
+      "specific distinction",
+      "Augustine De libero arbitrio",
+      "natura agit toto conatu"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e17285",
+        "at8va9-e17285-Dd1e266",
+        "at8va9-e17285-d1e270"
+      ]
+    }
+  },
+  "at8va9-e17285-d1e468": {
+    "summary": "Fourth proof: as an object's formal ratio orders powers in perfection (Aristotle, De anima II-III: powers are distinguished by acts and acts by objects), so a subject orders sciences; confirmed by Aristotle and Averroes that sciences differ in nobility only by subject or by certainty of demonstration, so metaphysics exceeds mathematics by its subject despite less certainty, and divine science is noblest because its subject is noblest.",
+    "claims": [
+      "The perfection of powers follows the perfection of their objects",
+      "Sciences differ only by nobility of subject, certainty of demonstration, or both",
+      "Metaphysics surpasses mathematics in nobility of subject though not in certainty",
+      "Divine science is noblest because its subject is noblest (Averroes)"
+    ],
+    "concepts": [
+      "powers and objects",
+      "De anima",
+      "Averroes",
+      "metaphysics and mathematics",
+      "nobility of subject",
+      "certainty of demonstration"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e17285",
+        "at8va9-e17285-Dd1e266",
+        "at8va9-e17285-d1e446"
+      ]
+    }
+  },
+  "at8va9-e17285-d1e581": {
+    "summary": "Third conclusion: infinity of the first subject formally taken necessarily entails the infinity of the science, since a property arising from an infinite subject as infinite is infinite, and by proportional increase (as in Physics VIII) infinite perfection in the subject yields infinite perfection in the science; shown by a thought experiment about a man's science of an infinite angel versus his science of Gabriel progressively augmented. Corollary: if God could make something infinite in its genus (an infinite color or angel), a finite science (of man) could be simply more perfect than an infinite science (of the infinite color).",
+    "claims": [
+      "A property arising from an infinite subject as infinite is infinite",
+      "Proportional increase in the subject entails proportional increase in the science, so infinite subject entails infinite science",
+      "Between subject and science there must be proportion (Giles of Rome)",
+      "A finite science of a nobler kind can surpass an infinite science of a lower kind"
+    ],
+    "concepts": [
+      "infinite science",
+      "proportion of science to subject",
+      "Physics VIII argument",
+      "infinite angel thought experiment",
+      "Giles of Rome"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e17285",
+        "at8va9-e17285-Dd1e266",
+        "at8va9-e17285-d1e468"
+      ]
+    }
+  },
+  "at8va9-e17285-d1e734": {
+    "summary": "Fourth conclusion: if created theology concerned God under the ratio of infinity, or under the ratio of deity absolutely, it would be infinitely perfect, since infinity belongs to deity's quidditative concept.",
+    "claims": [
+      "Theology of God under the ratio of infinity would be infinite",
+      "Since infinity belongs to deity's quidditative concept, theology of deity absolutely would be infinite"
+    ],
+    "concepts": [
+      "infinite science",
+      "ratio deitatis",
+      "divine infinity",
+      "created theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e17285",
+        "at8va9-e17285-Dd1e266",
+        "at8va9-e17285-d1e581"
+      ]
+    }
+  },
+  "at8va9-e17285-d1e758": {
+    "summary": "Identifies this reasoning as Giles's and rejects Henry of Ghent's attempt (Quodlibet XII) to avoid it — that deity absolutely is presented to the created intellect as specifying object without infinity being presented, so the created act is not infinite — since infinity belongs to deity's quidditative concept and cannot be separated from it as object; closes Article 2.",
+    "claims": [
+      "Henry: the created intellect receives deity absolutely as object without infinity being presented",
+      "Since infinity is quidditative to deity, deity absolutely cannot be presented without infinity"
+    ],
+    "concepts": [
+      "Henry of Ghent",
+      "Giles of Rome",
+      "object of intellect",
+      "ratio infinitatis"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e17285",
+        "at8va9-e17285-Dd1e266",
+        "at8va9-e17285-d1e734"
+      ]
+    }
+  },
+  "at8va9-e17285-d1e816": {
+    "summary": "Opens Articles 3 and 4: doubts against the conclusions will be raised and resolved together.",
+    "claims": [],
+    "concepts": [
+      "dubia",
+      "structure"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e17285",
+        "at8va9-e17285-Dd1e812"
+      ]
+    }
+  },
+  "at8va9-e17285-d1e825": {
+    "summary": "Aureol's objection to the first conclusion: if subject-unity caused science-unity, it would be either specific, subalternate-generic, most-generic or of being — yielding as many sciences as species, genera, ten categories, or a single science — all absurd.",
+    "claims": [
+      "The unity of the subject cannot be any of the standard unities without absurd consequences"
+    ],
+    "concepts": [
+      "Aureol",
+      "unity of science",
+      "kinds of unity",
+      "categories"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e17285",
+        "at8va9-e17285-Dd1e812",
+        "at8va9-e17285-d1e816"
+      ]
+    }
+  },
+  "at8va9-e17285-d1e851": {
+    "summary": "Aureol's second objection: two powers can bear on the same object under the same ratio (common sense and sight on color; intellect and will on the good), so two habits can too.",
+    "claims": [
+      "Different powers can share the same object under the same ratio"
+    ],
+    "concepts": [
+      "Aureol",
+      "powers and objects",
+      "common sense"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e17285",
+        "at8va9-e17285-Dd1e812",
+        "at8va9-e17285-d1e825"
+      ]
+    }
+  },
+  "at8va9-e17285-d1e867": {
+    "summary": "Aureol's third objection: opinion and science are different habits yet can concern the same thing under the same ratio, and they differ more than two sciences do (Ethics VI).",
+    "claims": [
+      "Opinion and science differ more than two sciences, yet can share a subject"
+    ],
+    "concepts": [
+      "opinion and science",
+      "Aureol"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e17285",
+        "at8va9-e17285-Dd1e812",
+        "at8va9-e17285-d1e851"
+      ]
+    }
+  },
+  "at8va9-e17285-d1e884": {
+    "summary": "Ockham's objection: distinct sciences can concern a subject identical in reality and ratio because of distinct properties, as man is both risible and beatifiable.",
+    "claims": [
+      "Distinct properties of one subject ground distinct sciences"
+    ],
+    "concepts": [
+      "Ockham",
+      "unity of science",
+      "distinct properties"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e17285",
+        "at8va9-e17285-Dd1e812",
+        "at8va9-e17285-d1e867"
+      ]
+    }
+  },
+  "at8va9-e17285-d1e902": {
+    "summary": "Replies to Aureol: the subject's unity need be none of the listed unities but can be a unity of per se order (question 5); two powers cannot have the same formal object, and color is only a part of the common sense's object; the intellect-will case is deferred; and opinion differs from science by its middle, not its subject, whereas sciences differ by subject — as risibility and quantity, though very different, can share a subject while risibility and capacity for discipline cannot.",
+    "claims": [
+      "Unity of per se order suffices for the subject's unity",
+      "Powers are distinguished by acts and acts by objects",
+      "Color is only an objective part of the common sense's object",
+      "Opinion and science differ by middle, sciences by subject"
+    ],
+    "concepts": [
+      "Aureol",
+      "unity of per se order",
+      "common sense",
+      "opinion and science",
+      "middle term"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e17285",
+        "at8va9-e17285-Dd1e812",
+        "at8va9-e17285-d1e884"
+      ]
+    }
+  },
+  "at8va9-e17285-d1e963": {
+    "summary": "Replies to Ockham: distinct properties can be demonstrated of a subject taken materially but not formally, since risibility belongs to man as man and beatifiability through what he shares with angels; and Averroes says arts differ only by subject or certainty, so distinct properties distinguish sciences only via distinct subjects.",
+    "claims": [
+      "Distinct properties belong to a subject under distinct formal rationes",
+      "Arts differ only by certainty of demonstration or nobility of subject (Averroes)"
+    ],
+    "concepts": [
+      "Ockham",
+      "formal and material subject",
+      "Averroes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e17285",
+        "at8va9-e17285-Dd1e812",
+        "at8va9-e17285-d1e902"
+      ]
+    }
+  },
+  "at8va9-e17285-d1e1000": {
+    "summary": "Michael of Massa's objection to the second conclusion: if a habit's perfection followed its subject's, the habit about substance would exceed that about quantity as substance exceeds quantity, an excess impossible within one category, yet all scientific habits are in one category.",
+    "claims": [
+      "The excess of substance over quantity cannot obtain within one category",
+      "All scientific habits are in the same category"
+    ],
+    "concepts": [
+      "Michael of Massa",
+      "categories",
+      "proportion of perfection"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e17285",
+        "at8va9-e17285-Dd1e812",
+        "at8va9-e17285-d1e963"
+      ]
+    }
+  },
+  "at8va9-e17285-d1e1029": {
+    "summary": "Michael's second objection: no created habit can exceed another as much as God's terminating ratio exceeds any creature, since every created perfection is proportionable to every other while the beatific object is not proportionable to any non-beatific one.",
+    "claims": [
+      "Created habits are mutually proportionable, while the beatific object is not proportionable to creatures"
+    ],
+    "concepts": [
+      "Michael of Massa",
+      "beatific object",
+      "proportion",
+      "created habits"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e17285",
+        "at8va9-e17285-Dd1e812",
+        "at8va9-e17285-d1e1000"
+      ]
+    }
+  },
+  "at8va9-e17285-d1e1075": {
+    "summary": "Michael's third objection: one formally identical subject can be known more or less nobly depending on the property (man as beatifiable vs mortal), so a science's nobility does not follow its subject.",
+    "claims": [
+      "Knowing man as beatifiable is nobler than knowing him as mortal, with the same subject"
+    ],
+    "concepts": [
+      "Michael of Massa",
+      "nobility of properties"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e17285",
+        "at8va9-e17285-Dd1e812",
+        "at8va9-e17285-d1e1029"
+      ]
+    }
+  },
+  "at8va9-e17285-d1e1096": {
+    "summary": "Replies to Michael: excess is proportional and commensurate, not simple and adequate, so it does not take sciences out of one category; theology exceeds other sciences proportionally, not as much as its subject exceeds creatures; and beatifiability and mortality belong to man under different formal rationes. Then presents Rodington's objections to the third and fourth conclusions: God has infinite science of finite subjects, so finite science of an infinite subject is possible; science receives quantity from its subject no more than species, and a science of stone is not stone; natural philosophy (Physics III) and Aristotle's proofs of God's infinity are finite sciences of the infinite.",
+    "claims": [
+      "Science exceeds science proportionally, not simply, as its subject exceeds subject",
+      "Beatifiability and mortality belong to man under different formal rationes",
+      "Rodington: God's infinite science of finite things shows that science need not match its subject's finitude or infinity",
+      "Science of stone is not stone, so science of the infinite need not be infinite"
+    ],
+    "concepts": [
+      "proportional excess",
+      "Michael of Massa",
+      "Rodington",
+      "natural philosophy of the infinite",
+      "Aristotle Physics III and VIII"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e17285",
+        "at8va9-e17285-Dd1e812",
+        "at8va9-e17285-d1e1075"
+      ]
+    }
+  },
+  "at8va9-e17285-d1e1200": {
+    "summary": "Rodington's further objection: as power to effect, so subject to habit and object to intellect; an infinite power causes finite effects, so an infinite subject can yield a finite habit.",
+    "claims": [
+      "An infinite cause can produce a finite effect",
+      "Science receives its quantity from its subject no more than an effect from its cause"
+    ],
+    "concepts": [
+      "Rodington",
+      "cause and effect",
+      "infinite power"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e17285",
+        "at8va9-e17285-Dd1e812",
+        "at8va9-e17285-d1e1096"
+      ]
+    }
+  },
+  "at8va9-e17285-d1e1222": {
+    "summary": "Replies to Rodington's first argument in three ways: God's science of a stone has as first subject the divine essence as infinite, in which he knows all things; or, if its subject is the creature, that science is virtually finite though formally infinite, since it could belong to God even if he were finite; or God's science of creatures is the same as his science of himself and is infinite because it is of God.",
+    "claims": [
+      "The first subject of God's knowledge of a stone is the divine essence as infinite",
+      "God knows as infinite only his essence; creatures he knows as virtually finite",
+      "God's knowledge of creatures is identical with his self-knowledge"
+    ],
+    "concepts": [
+      "divine knowledge",
+      "virtual finitude",
+      "Rodington",
+      "divine essence as object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e17285",
+        "at8va9-e17285-Dd1e812",
+        "at8va9-e17285-d1e1200"
+      ]
+    }
+  },
+  "at8va9-e17285-d1e1287": {
+    "summary": "Replies to Rodington's remaining arguments: science takes quantity from its subject proportionally, not simply, which suffices for being infinite in its genus, unlike becoming stone; Physics III treats the infinite nominally and not as infinite, since the infinite as such is unknown, and proving God infinite differs from knowing him under the ratio of infinity; God produces nothing as infinite except the Son and the Holy Spirit, as Augustine implies in creating man and horse by different rationes.",
+    "claims": [
+      "A science's quantity is proportional to its subject, sufficing for infinity in its genus",
+      "Natural philosophy treats the infinite only nominally",
+      "Proving that God is infinite is not knowing him under the ratio of infinity",
+      "God produces nothing as infinite except the Son and the Holy Spirit"
+    ],
+    "concepts": [
+      "Rodington",
+      "Physics III",
+      "infinite as unknown",
+      "divine production",
+      "Augustine 83 Questions",
+      "Trinity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e17285",
+        "at8va9-e17285-Dd1e812",
+        "at8va9-e17285-d1e1222"
+      ]
+    }
+  },
+  "at8va9-e17285-d1e1357": {
+    "summary": "Replies to the principal arguments: science is not specified by its subject intrinsically, but extrinsically, since different subjects entail specifically different sciences, which suffices for dignity to follow the subject (as a property is defined with its subject in place of a difference); accepts the second argument. Closes the questions on formal and material cause and turns to the final cause, omitting the efficient cause because no Catholic doubts that this doctrine is divinely inspired (2 Peter 1).",
+    "claims": [
+      "The subject specifies a science extrinsically, not intrinsically",
+      "A proper property is defined with its subject in place of a difference (Metaphysics VII)",
+      "Sacred doctrine is divinely inspired, so its efficient cause needs no inquiry"
+    ],
+    "concepts": [
+      "extrinsic specification",
+      "definition of properties",
+      "efficient cause of theology",
+      "divine inspiration",
+      "final cause"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e17285",
+        "at8va9-e17285-Dd1e812",
+        "at8va9-e17285-d1e1287"
+      ]
+    }
+  },
+  "at8va9-e17285-Dd1e148": {
+    "summary": "Article 1 restricts the question to infinity of perfection, not of extension, and distinguishes simple and adequate from proportional following of dignity, and infinity adequate to the subject from infinity within the science's own genus; Vargas holds the proportional sense and asks about infinity in genus.",
+    "claims": [
+      "A science's perfection follows its subject's proportionally, not simply",
+      "The question concerns a science's infinity within its own genus"
+    ],
+    "concepts": [
+      "proportional dignity",
+      "infinity in genere",
+      "intensive infinity"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e17285-d1e152"
+      ]
+    }
+  },
+  "at8va9-e17285-Dd1e266": {
+    "summary": "Article 2 argues four conclusions. The unity of the formal subject entails the specific unity of a science, because distinct formal subjects ground distinct properties. A science's nobility follows its subject's proportionally, as powers are ordered by objects and metaphysics surpasses mathematics by subject. An infinite subject formally taken entails an infinite science within its genus, though a finite science of a higher kind may surpass an infinite science of a lower kind. Therefore, if created theology concerned God under the ratio of infinity or of deity absolutely, it would be infinite, contrary to Henry of Ghent's attempt to separate deity from infinity as presented object.",
+    "claims": [
+      "Unity of formal subject entails specific unity of science",
+      "A science's nobility follows its subject's proportionally",
+      "An infinite subject formally taken entails an infinite science in its genus",
+      "Created theology about God under infinity or deity absolutely would be infinite"
+    ],
+    "concepts": [
+      "unity of science",
+      "nobility of science",
+      "infinite science",
+      "proportion",
+      "Henry of Ghent",
+      "Giles of Rome"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e17285-d1e270",
+        "at8va9-e17285-d1e446",
+        "at8va9-e17285-d1e468",
+        "at8va9-e17285-d1e581",
+        "at8va9-e17285-d1e734",
+        "at8va9-e17285-d1e758"
+      ]
+    }
+  },
+  "at8va9-e17285-Dd1e812": {
+    "summary": "Articles 3 and 4 answer objections. To Aureol and Ockham on the unity of science, Vargas replies with unity of per se order, the principle that powers and sciences are distinguished by formal objects and subjects, the difference between opinion (distinguished by its middle) and science, and the point that distinct properties belong to a subject under distinct formal rationes. To Michael of Massa, he answers that excess between sciences is proportional, not simple. To Rodington's counterexamples (God's infinite science of creatures, the science of the infinite in physics, finite effects of infinite power), he replies that God knows only his essence as infinite, that proving God infinite is not knowing him as infinite, and that God produces nothing as infinite except the divine persons.",
+    "claims": [
+      "Sciences are distinguished by formal subjects, opinion and science by middles",
+      "Excess between sciences is proportional to their subjects, not simple",
+      "God knows as infinite only his own essence",
+      "God produces nothing as infinite except the Son and the Holy Spirit"
+    ],
+    "concepts": [
+      "Aureol",
+      "Ockham",
+      "Michael of Massa",
+      "Rodington",
+      "unity of science",
+      "proportional excess",
+      "divine knowledge"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e17285-d1e816",
+        "at8va9-e17285-d1e825",
+        "at8va9-e17285-d1e851",
+        "at8va9-e17285-d1e867",
+        "at8va9-e17285-d1e884",
+        "at8va9-e17285-d1e902",
+        "at8va9-e17285-d1e963",
+        "at8va9-e17285-d1e1000",
+        "at8va9-e17285-d1e1029",
+        "at8va9-e17285-d1e1075",
+        "at8va9-e17285-d1e1096",
+        "at8va9-e17285-d1e1200",
+        "at8va9-e17285-d1e1222",
+        "at8va9-e17285-d1e1287",
+        "at8va9-e17285-d1e1357"
+      ]
+    }
+  },
+  "at8va9-e17285": {
+    "summary": "The eighth question, clarifying the preceding ones, asks whether the infinity of a science's first subject necessarily entails the infinity of the science. Vargas answers yes, in the sense of infinity within the science's genus, by a principle of proportion: a science's unity follows the unity of its formal subject, and its nobility follows its subject's nobility proportionally, though not simply, since a creaturely science is an accident. Hence a science of an infinite subject under the ratio of infinity would be infinite, and created theology would be infinite if it concerned God under the ratio of infinity or of deity absolutely. This supports the earlier conclusion that created theology concerns deity as virtually finite and proportioned to the created intellect. He answers Aureol, Ockham, Michael of Massa and Rodington, and closes the treatment of the formal and material causes, setting aside the efficient cause as evident and turning to the final cause.",
+    "claims": [
+      "The infinity of a science's formal subject necessarily entails the science's infinity in its genus",
+      "A science's unity and nobility follow its subject's unity and nobility proportionally",
+      "Created theology would be infinite if it concerned God under infinity or deity absolutely",
+      "God knows and produces as infinite only what is divine"
+    ],
+    "concepts": [
+      "infinite science",
+      "proportion of science and subject",
+      "unity of science",
+      "nobility of science",
+      "divine infinity",
+      "created theology",
+      "final cause"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e17285-d1e106",
+        "at8va9-e17285-Dd1e148",
+        "at8va9-e17285-Dd1e266",
+        "at8va9-e17285-Dd1e812"
+      ]
+    }
+  }
+}

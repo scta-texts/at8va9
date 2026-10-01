@@ -1,0 +1,2933 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-01T01:09:44Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "create-interpretation-v1",
+    "source_commit": "2712681",
+    "generation_method": "hierarchical",
+    "source_file": "cod-x7yh5z_at8va9-e00484.xml"
+  },
+  "at8va9-e00484-d1e106": {
+    "summary": "Poses the first question on the prologue — whether evident knowledge of theological truths that would be science in the proper sense is possible for a wayfarer by God's absolute power — and gives the opening objection: proper science arises from demonstration whose middle term is a definition, and God, being utterly simple, has no definition.",
+    "claims": [
+      "Scientia proprie dicta is the effect of demonstration whose middle is a definition (Posterior Analytics I)",
+      "Where there is no definition there is no proper science",
+      "God is simply simple and so has no definition",
+      "Therefore no proper science of theological truths is possible"
+    ],
+    "concepts": [
+      "scientia proprie dicta",
+      "demonstration",
+      "definition",
+      "divine simplicity",
+      "viator",
+      "potentia Dei absoluta"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e135": {
+    "summary": "Gives the argument to the contrary — any non-beatific knowledge can be communicated to a wayfarer at least by divine power, and abstractive knowledge of theology's subject, however evident, is not beatific since only intuitive knowledge is — and lays out the four-article plan of the response (definitions and distinctions, conclusions, doubts, replies).",
+    "claims": [
+      "Every knowledge that is not beatific is communicable to a wayfarer at least by divine power",
+      "Only intuitive knowledge is beatific",
+      "Hence evident abstractive knowledge of theological truths is communicable to a wayfarer"
+    ],
+    "concepts": [
+      "beatific knowledge",
+      "intuitive cognition",
+      "abstractive cognition",
+      "divine power",
+      "structure of the question"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-d1e106"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e163": {
+    "summary": "Opens Article 1 by dividing its first part into two clarifications: what is meant by 'wayfarer' and what is meant by 'theological truths'.",
+    "claims": [],
+    "concepts": [
+      "viator",
+      "theological truths",
+      "terminological clarification"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e174": {
+    "summary": "Defines the wayfarer as one who lacks the beatitude possible to him by God's ordained power and who is in the state of meriting, and shows how each clause excludes the blessed, the damned (for whom beatitude is possible only by absolute power), and those destined for purgatory.",
+    "claims": [
+      "A wayfarer lacks the beatitude possible to him by ordained power and is in statu merendi",
+      "The first clause excludes the blessed",
+      "The second excludes the damned, for whom beatitude remains possible only de potentia absoluta",
+      "The state of meriting excludes souls bound for purgatory"
+    ],
+    "concepts": [
+      "viator",
+      "status merendi",
+      "potentia Dei ordinata",
+      "potentia Dei absoluta",
+      "beatitude",
+      "purgatory",
+      "damnation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e163"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e194": {
+    "summary": "Draws the first proposition from the definition: evident knowledge of the deity is not repugnant to the wayfarer as such, because knowledge alone does not confer the beatitude of vision and fruition defined by the Church and so does not carry him beyond the end of the way.",
+    "claims": [
+      "What does not place a wayfarer beyond the terminus of the way is not repugnant to him as a wayfarer",
+      "Beatitude consists in vision and fruition of God according to the Church's determination",
+      "Knowledge of the deity alone does not constitute that beatitude"
+    ],
+    "concepts": [
+      "terminus viae",
+      "evident knowledge of the deity",
+      "beatitude",
+      "visio et fruitio",
+      "determination of the Church"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e174"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e214": {
+    "summary": "Marginal rubric marking that the following proposition is directed against Ockham's description of the wayfarer's intellect (Prologue, q.1, a.1).",
+    "claims": [],
+    "concepts": [
+      "Ockham",
+      "description of the wayfarer"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e194"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e222": {
+    "summary": "Second proposition, against Ockham: describing the wayfarer's intellect as one lacking the intuitive knowledge of God possible to it by ordained power is improper, since it would make souls in purgatory, and the Old Testament fathers up to the Ascension, into wayfarers.",
+    "claims": [
+      "Ockham's description would wrongly count the soul in purgatory as a wayfarer",
+      "It would also make the holy fathers of the Old Testament wayfarers until Christ's ascension, which is not conceded"
+    ],
+    "concepts": [
+      "intellectus viatoris",
+      "intuitive knowledge of the deity",
+      "purgatory",
+      "limbo of the fathers",
+      "Ockham"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e214"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e242": {
+    "summary": "Adds a further argument that Ockham's description is null: a description fails if its opposite can, by some power, belong to the thing described, and intuitive knowledge of the deity can be communicated to a wayfarer's intellect, as the previous proposition and Article 2 show.",
+    "claims": [
+      "A description is null if its opposite can belong to the described by some power",
+      "Intuitive knowledge of the deity can by some power be given to a wayfarer"
+    ],
+    "concepts": [
+      "definition",
+      "absolute power",
+      "intuitive knowledge of the deity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e222"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e258": {
+    "summary": "Marginal rubric marking that the following proposition is directed against Rodington's description of the wayfarer (Prologue, q.2, a.1).",
+    "claims": [],
+    "concepts": [
+      "Rodington",
+      "description of the wayfarer"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e242"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e265": {
+    "summary": "Third proposition rejects describing the wayfarer as one who knows 'through a mirror' and is in the state of merit, since evident knowledge of God is not repugnant to him; then turns to the second clarification: revealed theological truths, properly speaking, are only those to which we adhere by faith alone, not by experience or demonstration, otherwise faith would not be meritorious (Gregory).",
+    "claims": [
+      "Knowing per speculum is not of the essence of the wayfarer",
+      "Revealed theological truths are those held firmly by faith alone, not by experience or demonstrative reason",
+      "If reason supplied proof, faith would lose its merit (Gregory)"
+    ],
+    "concepts": [
+      "per speculum et in aenigmate",
+      "revealed theological truths",
+      "faith",
+      "merit",
+      "Rodington",
+      "Gregory the Great"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e258"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e296": {
+    "summary": "Infers that no truth naturally self-evident to us, or deduced from such, falls per se under the revealed theological habit as distinct from naturally acquired knowledge, because the intellect is compelled to assent to such truths without faith.",
+    "claims": [
+      "No naturally per se known truth or one deduced from such is per se an object of revealed theology",
+      "The intellect is compelled to assent to such truths without faith"
+    ],
+    "concepts": [
+      "revealed theology",
+      "naturally acquired knowledge",
+      "per se nota",
+      "assent",
+      "faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e265"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e307": {
+    "summary": "Confirms the inference by dilemma: knowledge of revealed truths is either clear, contradicting the Apostle's 'now through a mirror' and making the present question pointless, or enigmatic, in which case it is neither self-evident nor deduced from what is.",
+    "claims": [
+      "If wayfarers' knowledge of revealed truths were clear, we would not now see through a mirror",
+      "If it is enigmatic, it is neither per se known nor deduced from per se known propositions"
+    ],
+    "concepts": [
+      "clear vs enigmatic knowledge",
+      "1 Corinthians 13",
+      "self-evidence",
+      "revealed truths"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e296"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e326": {
+    "summary": "Rejects Ockham's evasion that naturally knowable truths can be considered within revealed theology alongside supernaturally knowable ones: they cannot function there as principles, because evident principles yield evident conclusions and then all theological truth would be evident, against the hypothesis.",
+    "claims": [
+      "Naturally knowable truths cannot be principles of revealed theology",
+      "If they were, every theological conclusion would be evident, which contradicts the position"
+    ],
+    "concepts": [
+      "Ockham",
+      "principles and conclusions",
+      "natural vs supernatural knowability",
+      "revealed theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e307"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e350": {
+    "summary": "Completes the dilemma against Ockham: the principles of revealed theology are (all or some of) the articles of faith, which are not evident; and naturally evident truths cannot be its conclusions either, since conclusions drawn from believed principles are not naturally evident.",
+    "claims": [
+      "The principles of revealed theology are articles of faith, not evidently known",
+      "Conclusions deduced from believed principles are not naturally evident",
+      "Ockham's position therefore contradicts itself"
+    ],
+    "concepts": [
+      "articles of faith",
+      "theological principles",
+      "theological conclusions",
+      "evidence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e326"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e366": {
+    "summary": "Presents an Ockhamist objection to the proposition: all truths necessary for a wayfarer's salvation belong to theology (Augustine, De Trinitate XIV), yet many such truths are naturally knowable.",
+    "claims": [
+      "Every truth necessary for attaining eternal beatitude is a theological truth (Augustine)",
+      "Many such truths are naturally knowable"
+    ],
+    "concepts": [
+      "truths necessary for salvation",
+      "Augustine De Trinitate",
+      "natural knowability",
+      "Ockham"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e350"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e390": {
+    "summary": "Second objection: 'God is one, wise and good' are theological truths because necessary for salvation, yet naturally knowable.",
+    "claims": [
+      "That God is one, wise and good is necessary for salvation",
+      "These truths are naturally knowable"
+    ],
+    "concepts": [
+      "divine attributes",
+      "natural theology",
+      "necessity for salvation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e366"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e397": {
+    "summary": "Prepares the reply by distinguishing revealed theology, which proceeds from the articles of faith as principles, from acquired theology, which explains and defends the articles from naturally known probable premises — not to reach faith by reason but, as Anselm says, to delight in understanding what we believe.",
+    "claims": [
+      "Revealed theology proceeds from the articles of faith as principles",
+      "Acquired theology declares and defends the articles from probable naturally known premises",
+      "Its purpose is understanding and contemplative delight in what is believed, not attaining faith through reason"
+    ],
+    "concepts": [
+      "revealed theology",
+      "acquired theology",
+      "fides quaerens intellectum",
+      "Anselm Cur Deus homo"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e390"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e419": {
+    "summary": "Answers the first objection: not all truths necessary for salvation are revealed theological truths unless they are articles or deduced from them, since every truth in a habit is either its principle or its conclusion; Augustine is speaking of acquired, not revealed, theology.",
+    "claims": [
+      "Truths necessary for salvation belong to revealed theology only if they are articles of faith or deduced from them",
+      "Every truth considered per se in a habit is either a principle or a conclusion of it",
+      "Augustine's text concerns acquired theology"
+    ],
+    "concepts": [
+      "revealed theology",
+      "acquired theology",
+      "principle and conclusion",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e397"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e440": {
+    "summary": "Answers the second objection: truths such as God's unity, wisdom and goodness belong per se to metaphysics or to acquired theology, not to revealed theology.",
+    "claims": [
+      "Naturally knowable truths about God belong to metaphysics or acquired theology"
+    ],
+    "concepts": [
+      "metaphysics",
+      "acquired theology",
+      "divine attributes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e419"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e447": {
+    "summary": "In the second part of Article 1, distinguishes three senses of a scientific habit drawn from Augustine — broadly (any firm cognition, even faith), properly (cognition grasped by firm reason, distinct from faith but not from wisdom), and most properly (rational knowledge of temporal things, distinct from wisdom) — and defines scientia proprie dicta as infallible knowledge of a knowable grasped by firm reason.",
+    "claims": [
+      "Broadly, faith itself can be called science (Augustine)",
+      "Properly, science is knowledge of an infallible knowable comprehended by firm reason",
+      "This definition distinguishes science from opinion, prudence and art (which can concern contingents) and from understanding of principles and from faith",
+      "Most properly, science concerns temporal things and is distinct from wisdom, which concerns eternal things"
+    ],
+    "concepts": [
+      "scientia proprie dicta",
+      "sapientia",
+      "fides",
+      "opinio",
+      "intellectus principiorum",
+      "Augustine's distinction of science and wisdom"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e440"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e506": {
+    "summary": "Distinguishes four kinds of enigmatic cognition — intuitive, abstractive, superintuitive and discursive — and defines intuitive cognition as cognition of a thing as actually and presently existing in itself, defending the definition's convertibility from sense vision, which cannot occur without the object's presence (Augustine), and extending this to intellectual intuition.",
+    "claims": [
+      "Intuitive cognition is cognition of a thing in itself as actually and presently existing",
+      "Every cognition of a thing in itself is intuitive and conversely",
+      "Sensory intuition cannot exist without the object's actual presence",
+      "Intellectual intuition stands to the intelligible as sensory intuition to the sensible"
+    ],
+    "concepts": [
+      "notitia intuitiva",
+      "notitia abstractiva",
+      "notitia superintuitiva",
+      "notitia discursiva",
+      "actual presence",
+      "facial vision"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e447"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e561": {
+    "summary": "Transitional sentence announcing two propositions that follow from the definition of intuitive cognition.",
+    "claims": [],
+    "concepts": [
+      "intuitive cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e506"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e566": {
+    "summary": "First proposition: God did not know creatures intuitively from eternity, since intuition is cognition of a thing in itself and creatures did not exist from eternity; Augustine (De Genesi ad litteram IV) notes that God did not see creatures outside himself before they were made.",
+    "claims": [
+      "God did not cognize creatures intuitively from eternity",
+      "Creatures did not exist in themselves from eternity"
+    ],
+    "concepts": [
+      "divine knowledge",
+      "eternity",
+      "intuitive cognition",
+      "creatures",
+      "Augustine De Genesi ad litteram"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e561"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e584": {
+    "summary": "Second proposition: intuitive knowledge of creatures is not the most perfect knowledge, since God knew creatures most perfectly from eternity yet not intuitively; confirmed by Augustine's identification of knowledge of creatures in their own nature with 'evening' knowledge.",
+    "claims": [
+      "Intuitive knowledge of creatures is not the most perfect knowledge of them",
+      "God knew creatures most perfectly but not intuitively",
+      "Knowledge of a creature in its own nature is evening knowledge, which is not most perfect"
+    ],
+    "concepts": [
+      "cognitio vespertina",
+      "perfection of knowledge",
+      "intuitive cognition",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e566"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e609": {
+    "summary": "Introduces an objection to the definition (marked as Aureol's): intuitive cognition can exist without the actual presence of its object, as many experiences show.",
+    "claims": [
+      "Intuitive cognition can be had without the actual presence of the object (objection)"
+    ],
+    "concepts": [
+      "intuitive cognition",
+      "absent object",
+      "Aureol"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e584"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e622": {
+    "summary": "Gives the first two experiences: after-images that remain after looking at the sun (Augustine, De Trinitate XI) and the vision and sensation that occur in dreams through the reverse motion of imagination upon the common sense (Averroes, De somno et vigilia).",
+    "claims": [
+      "Visual after-images persist when the luminous object is withdrawn",
+      "In sleep one sees and senses without any external sensible, through the imagination moving the common sense"
+    ],
+    "concepts": [
+      "after-images",
+      "dreams",
+      "imagination",
+      "sensus communis",
+      "Averroes",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e609"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e681": {
+    "summary": "Third experience: people overcome by fear, or the sick, hear sounds and see terrifying things through the weakening of the cogitative power (Averroes).",
+    "claims": [
+      "Fearful and infirm persons perceive sounds and sights without real objects"
+    ],
+    "concepts": [
+      "fear",
+      "cogitative power",
+      "hallucination"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e622"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e694": {
+    "summary": "Fourth and fifth experiences (the deluded, who see camps and dogs that are not there; those with soft eyes, who see everything red), confirmed by an argument from divine power: God can conserve a relation's absolute foundation after its term is destroyed, and intuitive cognition is such an absolute.",
+    "claims": [
+      "The deluded see things that do not exist",
+      "God can do whatever involves no contradiction",
+      "Preserving the foundation of a relation when its term is destroyed involves no contradiction",
+      "Intuitive cognition is an absolute founding a relation to its object, so God can preserve it without the object"
+    ],
+    "concepts": [
+      "illusion",
+      "relation and foundation",
+      "divine omnipotence",
+      "absolute and respective"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e681"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e720": {
+    "summary": "Further argument: God can conserve any thing apart from another on which it depends only efficiently, and the absolute of intuitive cognition is a quality depending on its object only efficiently.",
+    "claims": [
+      "The absolute of intuitive cognition is a quality depending on its object only as efficient cause",
+      "God can conserve a thing without what it depends on only efficiently"
+    ],
+    "concepts": [
+      "efficient causality",
+      "quality",
+      "divine conservation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e694"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e733": {
+    "summary": "States the author's position against the objection: intuitive cognition cannot be had without the real and actual presence of its object, as Augustine shows.",
+    "claims": [
+      "Intuitive cognition requires the real and actual presence of its object"
+    ],
+    "concepts": [
+      "intuitive cognition",
+      "actual presence",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e720"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e743": {
+    "summary": "Gives the general answer to the experiences: such visions are real and have an actually present object, but the interior sense judges falsely — as Anselm says, the interior sense deceives itself and the exterior sense does not lie.",
+    "claims": [
+      "In these experiences there is a real, present object of vision",
+      "The error lies in the judgment of the interior sense, not in the exterior sense (Anselm, De veritate)"
+    ],
+    "concepts": [
+      "interior sense",
+      "exterior sense",
+      "false judgment",
+      "Anselm De veritate"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e733"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e756": {
+    "summary": "Answers the after-image case: Augustine holds the opposite of what is alleged — vision does not remain when the sun is removed (his ring-in-liquid image); what remains are impressions left in the eyes, once the means of seeing and now the object of vision, which the interior sense mistakes for the sun.",
+    "claims": [
+      "Vision of the sun does not remain after the sun is withdrawn",
+      "The lucid colors are remnants of the form impressed on the sense",
+      "These impressions become the object of vision, and the interior sense wrongly judges them to be the sun"
+    ],
+    "concepts": [
+      "after-images",
+      "species",
+      "impressions",
+      "Augustine De Trinitate",
+      "interior sense"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e743"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e808": {
+    "summary": "Answers the dream case in two ways: either there is no true vision in dreams, only the appearance of sensing (as Averroes' own definition and Augustine's account of imagination indicate), or, if there is vision, its object is a species actually present in the eyes, with the interior sense falsely judging it external.",
+    "claims": [
+      "The dreamer only seems to sense through the five senses, as he only seems to eat or drink",
+      "In dreams the body is not seen outside but something like it is cogitated within (Augustine)",
+      "Alternatively, the dreamer's vision is of a species actually present in the eye, so not without a present object"
+    ],
+    "concepts": [
+      "dreams",
+      "phantasia",
+      "species",
+      "Averroes",
+      "Augustine",
+      "interior sense"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e756"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e897": {
+    "summary": "Offers a third answer: even if a dreamer truly saw an absent external sensible, that vision would be abstractive with respect to the external thing though intuitive of its species, just as seeing one's face in a mirror is.",
+    "claims": [
+      "Vision of an external thing in its image is abstractive of that thing, though intuitive of the species",
+      "Seeing a face in a mirror is perhaps abstractive vision of it"
+    ],
+    "concepts": [
+      "abstractive cognition",
+      "species",
+      "mirror vision"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e808"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e919": {
+    "summary": "Answers the case of the fearful from Augustine and Ambrose: such people do not see or hear something outside but cogitate it within; where demons actually produce voices or noises, there is an actual object present.",
+    "claims": [
+      "The fearful cogitate interior images rather than sensing external objects",
+      "Ambrose: the insane see phantasms of their passion, not things",
+      "Noises produced by demons provide an actually present object"
+    ],
+    "concepts": [
+      "fear",
+      "madness",
+      "phantasms",
+      "demons",
+      "Ambrose"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e897"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e945": {
+    "summary": "Answers the case of the deluded: whether by demonic machinations (Augustine, De Trinitate IV) or by the art of perspective, colored bodies really appear in the air, so there is no vision without object, only a false judgment of the interior sense.",
+    "claims": [
+      "Demons can form aerial bodies or phantasms to deceive the senses",
+      "In such illusions something real is seen, and the interior sense misjudges what it is"
+    ],
+    "concepts": [
+      "demonic illusion",
+      "perspectiva",
+      "phantasms",
+      "interior sense"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e919"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e975": {
+    "summary": "Answers the case of soft eyes with Anselm: a sense saturated with one color cannot receive another, and the interior sense blames the exterior; since soft eyes are easily affected by color, the interior sense is deceived, but vision does not occur without its present object.",
+    "claims": [
+      "A sense saturated with one color cannot simultaneously sense another (Anselm)",
+      "The interior sense imputes its own fault to the exterior sense"
+    ],
+    "concepts": [
+      "color perception",
+      "sensory saturation",
+      "Anselm",
+      "interior sense"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e945"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e1030": {
+    "summary": "Answers the arguments from divine power: God can make and conserve the absolute of an intuition after its term perishes, but the subject would then not see, so intuitive cognition still requires the existent object; then defines abstractive cognition as cognition of a thing in its created representative (species or image) and confirms the definition from imagination and Augustine's account of memory.",
+    "claims": [
+      "God can conserve the absolute of vision without its term, but the one having it would not see",
+      "Having the absolute of vision formally without seeing involves no contradiction",
+      "Intuitive cognition is knowledge of a thing as actually existing in itself",
+      "Abstractive cognition is knowledge of a thing in its created representative, as absent things are known through species"
+    ],
+    "concepts": [
+      "absolute and respect",
+      "divine power",
+      "notitia abstractiva",
+      "species",
+      "memory",
+      "imagination"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e975"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e1104": {
+    "summary": "First consequence: intuitive and abstractive cognition can concern the same object under the same formal ratio, since one and the same thing can be known in itself and in its created representative, unless its infinity forbids such representation.",
+    "claims": [
+      "The same object under the same formal ratio can be known intuitively and abstractively",
+      "This fails only where infinity prevents representation"
+    ],
+    "concepts": [
+      "formal object",
+      "intuitive and abstractive cognition",
+      "infinity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e1030"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e1120": {
+    "summary": "Second consequence: abstractive cognition can concern a thing's actual existence, since memory attains not only quiddity but the existence of things once seen.",
+    "claims": [
+      "Abstractive cognition can attain actual existence",
+      "We remember actual things we have seen"
+    ],
+    "concepts": [
+      "abstractive cognition",
+      "existence",
+      "memory"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e1104"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e1133": {
+    "summary": "Third consequence: intuitive cognition is universally more perfect in evidence than abstractive, because a thing is knowable as it is, and it has more perfect being in itself than in a created representative.",
+    "claims": [
+      "As a thing stands to being, so to being known",
+      "A thing has more perfect being in itself than in its representative",
+      "So intuitive cognition is more evident than abstractive"
+    ],
+    "concepts": [
+      "evidence",
+      "perfection of being",
+      "intuitive and abstractive cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e1120"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e1146": {
+    "summary": "Fourth consequence: God did not know creatures abstractively from eternity, both because he did not know them in a created representative and because he knew them most perfectly, while abstractive cognition is not the most perfect.",
+    "claims": [
+      "God did not know creatures abstractively from eternity"
+    ],
+    "concepts": [
+      "divine knowledge",
+      "abstractive cognition",
+      "eternity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e1133"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e1158": {
+    "summary": "Fifth and sixth consequences: intuitive and abstractive cognition do not differ in species as to their absolute entities, since numerically one cognition can be intuitive and then abstractive of a rose as it becomes present in itself or in its image; but insofar as they include respects of attingence to their objects they differ specifically.",
+    "claims": [
+      "As absolutes, intuitive and abstractive cognition are not specifically distinct",
+      "Numerically the same cognition can be now intuitive, now abstractive of the same object",
+      "Insofar as they include respects of attingence to objects, they differ in species",
+      "So taken, they differ more than any two intuitive or two abstractive cognitions"
+    ],
+    "concepts": [
+      "specific distinction",
+      "absolute vs respect",
+      "respectus attingentiae",
+      "numerical identity",
+      "rose example"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e1146"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e1219": {
+    "summary": "Presents Landulphus's opinion against the fifth proposition that the two cognitions differ specifically in themselves: things in one species are equal or unequal, but abstractive and intuitive cognition are neither (else abstractive cognition of God would be beatific, or intensification would make one reach the other).",
+    "claims": [
+      "Things in one species are either equal or unequal",
+      "Intuitive and abstractive cognition are neither equal nor unequal",
+      "Hence they differ in species"
+    ],
+    "concepts": [
+      "Landulphus Caracciolo",
+      "species",
+      "equality",
+      "intension",
+      "beatific cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e1158"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e1252": {
+    "summary": "Landulphus's second argument: things in one genus that differ more than numerically differ specifically, and intuitive and abstractive cognition differ more than two intuitive cognitions do.",
+    "claims": [
+      "Intuitive and abstractive cognition differ more than any two intuitive cognitions",
+      "Hence they differ more than numerically"
+    ],
+    "concepts": [
+      "genus of cognition",
+      "specific difference"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e1219"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e1270": {
+    "summary": "Presents Bernard Olivier's opinion against the sixth proposition that the two cognitions are sometimes of the same species, since cognitions are specified by formal objects and the same formal object can be known both intuitively and abstractively.",
+    "claims": [
+      "Sciences are specified by objects formally taken",
+      "The same object under the same formal ratio can be object of intuitive and abstractive cognition",
+      "Hence they are sometimes the same in species"
+    ],
+    "concepts": [
+      "Bernard Olivier",
+      "specification by object",
+      "formal object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e1252"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e1288": {
+    "summary": "Bernard's second argument: if the two differed specifically, an angel's intuition of the vilest object would be nobler than its abstractive knowledge of God, since what falls under a nobler differentia is nobler than anything under a less noble one.",
+    "claims": [
+      "Whatever falls under the nobler of two dividing differences is nobler than anything under the other",
+      "It is false that intuition of the vilest thing is nobler than abstractive knowledge of God"
+    ],
+    "concepts": [
+      "nobility of cognition",
+      "angels",
+      "dividing differences"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e1270"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e1317": {
+    "summary": "Bernard's third argument: if intuitive/abstractive were essential differences of knowledge, practical/speculative could not be, because the two pairs would be neither identical, opposed, more universal nor less universal than each other.",
+    "claims": [
+      "Practical and speculative are essential differences of science",
+      "They cannot coexist with intuitive/abstractive as essential differences"
+    ],
+    "concepts": [
+      "practical and speculative",
+      "essential differences",
+      "universality of differentiae"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e1288"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e1360": {
+    "summary": "Bernard's fourth argument: if the distinction were specific, our sensory intuition of an accident and an angel's intuition would agree more than an angel's intuitive and abstractive knowledge of the same thing, which is false.",
+    "claims": [
+      "Corporeal vision differs more from any angelic cognition than one angelic cognition from another",
+      "Things differing by a prior differentia differ more"
+    ],
+    "concepts": [
+      "sense intuition",
+      "angelic cognition",
+      "order of differentiae"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e1317"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e1382": {
+    "summary": "States the author's mediating position: one cannot simply say the two cognitions are the same or different in species; they agree in species as absolutes but differ specifically as including respects of attingence, and neither opinion's arguments are cogent.",
+    "claims": [
+      "Intuitive and abstractive cognition are of one species as absolutes",
+      "They differ specifically as including respects of attingence"
+    ],
+    "concepts": [
+      "absolute vs respect",
+      "specific distinction",
+      "mediating position"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e1360"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e1398": {
+    "summary": "Replies to Landulphus's first argument: as absolutes, the two can be equal within one species since the same cognition can be both at different times; the claim that abstractive knowledge of God would then be beatific presupposes that abstractive knowledge of God's proper concept is possible, which is denied.",
+    "claims": [
+      "As absolutes, intuitive and abstractive cognition can be equal under one species",
+      "Abstractive knowledge of God according to his proper concept is not possible"
+    ],
+    "concepts": [
+      "beatific knowledge",
+      "equality",
+      "proper concept of God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e1382"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e1422": {
+    "summary": "Second reply: even granting such knowledge, the inference fails, because intuitive knowledge beatifies not by its absolute alone but as including a respect to its object — otherwise the absolute of beatific vision placed in a stone would make the stone blessed.",
+    "claims": [
+      "Intuition beatifies only as including the respect of attingence to God",
+      "The absolute of vision alone would not beatify, as in the stone example"
+    ],
+    "concepts": [
+      "beatitude",
+      "respect of attingence",
+      "absolute entity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e1398"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e1444": {
+    "summary": "Replies to Landulphus's second argument: as absolutes the two cognitions differ no more than numerically, since numerically one cognition can be both.",
+    "claims": [
+      "As to absolutes, intuitive and abstractive cognition differ no more than numerically"
+    ],
+    "concepts": [
+      "numerical vs specific difference"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e1422"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e1460": {
+    "summary": "Replies to Bernard's first argument: sciences are specified by subjects, but not every cognition is (faith, opinion and science differ by their means); intuitive and abstractive cognition differ by their mode of tending to the object, and not every such cognition is scientific.",
+    "claims": [
+      "Not all cognitions are specified by their objects",
+      "Intuitive and abstractive cognition differ by mode of tending to the object (in itself vs in a representative)",
+      "Some sensory cognition is intuitive or abstractive yet not scientific"
+    ],
+    "concepts": [
+      "specification of cognition",
+      "modus tendendi",
+      "faith",
+      "opinion",
+      "science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e1444"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e1500": {
+    "summary": "Replies to Bernard's second argument by a parallel absurdity (any science of a vile object would be nobler than opinion about God); one cognition can be nobler by subject or by evidence, and intuitive cognition is nobler in evidence, not in object; also, not all cognition is intuitive or abstractive, since there are third and fourth kinds.",
+    "claims": [
+      "Cognitions are nobler either by subject or by evidence (De anima prologue)",
+      "Intuitive cognition as including attingence is more perfect in evidence than any abstractive, but not by its object",
+      "The division of cognition into only intuitive and abstractive is false"
+    ],
+    "concepts": [
+      "nobility of cognition",
+      "evidence",
+      "subject",
+      "Aristotle De anima"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e1460"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e1539": {
+    "summary": "Replies to Bernard's third argument: the reasoning would prove that absolute/respective cannot divide being if finite/infinite do; the two pairs of differences are equal but disparate, so both can be predicated of the same thing.",
+    "claims": [
+      "Intuitive/abstractive and practical/speculative are disparate, not opposed, differences",
+      "Disparate differences can be predicated of the same subject"
+    ],
+    "concepts": [
+      "disparate differences",
+      "division of being",
+      "finite and infinite"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e1500"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e1557": {
+    "summary": "Replies to Bernard's fourth argument: by its form any two absolutes would agree more than an absolute and a respective, which is false (God and man would agree more than paternity and essence); sensory intuition agrees with angelic intuition in evidence, not simply; concludes the account of abstractive cognition.",
+    "claims": [
+      "The form of the argument would yield absurdities",
+      "Sensory intuition agrees more with angelic intuition than with abstraction in ratio of evidence, but not simply"
+    ],
+    "concepts": [
+      "absolute and respective",
+      "evidence",
+      "sensory and angelic intuition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e1539"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e1588": {
+    "summary": "Defines superintuitive cognition as cognition of a thing in that in which it has more perfect being and knowability than in itself, such as the knowledge of creatures in the Word (Augustine), and announces that it is specifically distinct from intuitive and abstractive cognition.",
+    "claims": [
+      "Superintuitive cognition is cognition of a thing in that in which it has more perfect being than in itself",
+      "Knowledge of creatures in the Word is of this kind"
+    ],
+    "concepts": [
+      "notitia superintuitiva",
+      "Word",
+      "divine exemplars",
+      "Augustine De Genesi ad litteram"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e1557"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e1604": {
+    "summary": "First argument for its distinctness: it is neither cognition of a thing in itself (so not intuitive) nor in a created representative (so not abstractive).",
+    "claims": [
+      "Superintuitive cognition falls under neither the definition of intuitive nor that of abstractive cognition"
+    ],
+    "concepts": [
+      "definition",
+      "classification of cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e1588"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e1613": {
+    "summary": "Second argument: superintuitive cognition cannot be equated in evidence with the others, because knowing a thing in the Word is simply more perfect than knowing it in its own kind — day compared with evening, light compared with night (Augustine).",
+    "claims": [
+      "Knowledge of things in the Word is simply more perfect than knowledge of them in their own nature"
+    ],
+    "concepts": [
+      "cognitio matutina and vespertina",
+      "evidence",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e1604"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e1638": {
+    "summary": "Third argument: superintuitive cognition differs from each of the others more than any two intuitive or two abstractive cognitions, and more than intuitive differs from abstractive.",
+    "claims": [
+      "Superintuitive differs from intuitive and abstractive more than these differ from each other"
+    ],
+    "concepts": [
+      "degree of difference",
+      "specific distinction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e1613"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e1647": {
+    "summary": "Fourth argument: it attains its object differently, in a supereminent and eternal representative; the author is indifferent to the label so long as the three modes of knowing — in itself, in a created representative, in a supereminent eternal one — are admitted.",
+    "claims": [
+      "Superintuitive cognition attains the creature in a supereminent eternal representative",
+      "The dispute concerns things, not names"
+    ],
+    "concepts": [
+      "representative",
+      "supereminent exemplar",
+      "terminology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e1638"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e1682": {
+    "summary": "Draws six propositions: superintuitive knowledge of God is impossible since nothing is greater than God; it is possible of any creature; God knew creatures superintuitively from eternity; only superintuitive knowledge of creatures is morning knowledge; all three modes can concern the same object; and they differ specifically by respect but not by absolute, since one cognition of a rose can successively be superintuitive, intuitive and abstractive.",
+    "claims": [
+      "Superintuitive knowledge of God is impossible, since God cannot be more perfectly in another",
+      "Superintuitive knowledge of any possible creature is possible",
+      "God knew creatures superintuitively from eternity",
+      "Only superintuitive knowledge of creatures is morning knowledge",
+      "The three kinds differ specifically by respects, not by their absolutes"
+    ],
+    "concepts": [
+      "superintuitive cognition",
+      "divine knowledge",
+      "cognitio matutina",
+      "absolute vs respect",
+      "Anselm Monologion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e1647"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e1763": {
+    "summary": "Presents the common opinion against the third kind, which holds that knowledge of creatures in the Word is intuitive; first argument: God knows all creatures in himself by knowledge of vision, which is intuition (Hugh of St Victor).",
+    "claims": [
+      "God knows creatures from eternity by scientia visionis",
+      "Knowledge of vision is the same as intuitive knowledge"
+    ],
+    "concepts": [
+      "scientia visionis",
+      "common opinion",
+      "Hugh of St Victor",
+      "intuitive cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e1682"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e1781": {
+    "summary": "Second argument for the common opinion: God knows made creatures intuitively and knows them no differently than to-be-made ones, which he knows in himself; so that knowledge too is intuitive.",
+    "claims": [
+      "God does not know things made otherwise than things to be made (Augustine)"
+    ],
+    "concepts": [
+      "divine knowledge",
+      "futurity",
+      "intuitive cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e1763"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e1792": {
+    "summary": "Third argument: all God's knowledge is most perfect, and only intuitive knowledge is most perfect since it alone is beatific; so God's knowledge of creatures in the Word is intuitive.",
+    "claims": [
+      "All divine knowledge is most perfect",
+      "Only intuitive knowledge is most perfect"
+    ],
+    "concepts": [
+      "perfection of knowledge",
+      "beatific cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e1781"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e1804": {
+    "summary": "Fourth argument: God knows the Word and creatures in the Word by numerically one act, and the knowledge of the Word is intuitive.",
+    "claims": [
+      "One act knows the Word and creatures in the Word",
+      "That act is intuitive"
+    ],
+    "concepts": [
+      "unity of the divine act",
+      "knowledge of the Word"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e1792"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e1815": {
+    "summary": "Confirms the fourth argument by an expository syllogism: this act (the one by which God knows the Word) is intuitive, and this act is the one by which he knows creatures in the Word.",
+    "claims": [],
+    "concepts": [
+      "expository syllogism",
+      "divine knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e1804"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e1826": {
+    "summary": "Replies to the first argument: the most perfect knowledge of God is intuitive, but the most perfect knowledge of a creature is not, since a creature is more perfectly known in another than in itself; knowledge of vision equals intuition only where intuition is most perfect; and intuition means seeing a thing in itself.",
+    "claims": [
+      "The most perfect knowledge of God is intuitive because God cannot be more perfectly in another",
+      "The most perfect knowledge of a creature is not intuitive",
+      "Intuition is inspection of a thing in itself, not in another"
+    ],
+    "concepts": [
+      "scientia visionis",
+      "intuitive cognition",
+      "perfection of knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e1815"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e1855": {
+    "summary": "Replies to the second argument with alternatives: if God knows things outside himself, he knows made creatures intuitively by the same invariable cognition by which he knew them in the Word, differing only in what is known; if (as is more reasonable) he knows all things only in himself, the antecedent is denied.",
+    "claims": [
+      "God knows created and to-be-created things by one invariable cognition",
+      "It is reasonable that God knows nothing outside himself but all in himself",
+      "Knowledge of creatures in their own genus is not most perfect"
+    ],
+    "concepts": [
+      "divine knowledge",
+      "immutability of divine cognition",
+      "knowledge in se vs extra se"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e1826"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e1892": {
+    "summary": "Replies to the third argument: only intuitive knowledge of God is most perfect; intuition of creatures is not, so it follows only that God's self-knowledge is intuitive.",
+    "claims": [
+      "God's knowledge of himself is intuitive",
+      "Not all divine knowledge is intuitive"
+    ],
+    "concepts": [
+      "divine self-knowledge",
+      "perfection"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e1855"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e1908": {
+    "summary": "Replies to the fourth argument: one cognition can be intuitive of one object and not of another, so God's act is intuitive of the Word but not of creatures known in the Word; the expository syllogism only proves the act is intuitive of the Word, not of creatures.",
+    "claims": [
+      "The same cognition can be intuitive of one object and not of another",
+      "God's cognition is intuitive of the Word but not of creatures known in it"
+    ],
+    "concepts": [
+      "object-relative character of cognition",
+      "expository syllogism",
+      "superintuitive cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e1892"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e1953": {
+    "summary": "Defines discursive or deductive cognition as knowledge of a thing deduced by reasoning from the knowledge of another, as we know God somewhat from creatures (Augustine, De Trinitate XV).",
+    "claims": [
+      "Discursive cognition is knowledge of a thing deduced through rational discourse from knowledge of another",
+      "Our knowledge of God from creatures is of this kind"
+    ],
+    "concepts": [
+      "notitia discursiva",
+      "deduction",
+      "knowledge of God from creatures"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e1908"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e1966": {
+    "summary": "Argues that discursive cognition is specifically distinct from the other three: it is not cognition in the Word, in itself, or in a representative; and cognitions with formally distinct first objects are specifically distinct, the first object of deductive cognition being not the thing known but the other thing from which it is deduced.",
+    "claims": [
+      "Discursive cognition is neither superintuitive, intuitive nor abstractive",
+      "Distinct formal objects always entail distinct habits, though not conversely (De anima II)",
+      "The first object of discursive cognition is that from which the conclusion is deduced"
+    ],
+    "concepts": [
+      "formal object",
+      "specific distinction",
+      "deduction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e1953"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e2021": {
+    "summary": "Third argument: discursive cognition exists without the other three, as we have deductive knowledge of God's unity and simplicity (Augustine, Metaphysics XII) though we know them neither in themselves, nor in an image, nor in the Word; introduces corollaries.",
+    "claims": [
+      "We know divine unity and simplicity deductively without intuitive, abstractive or superintuitive cognition of them"
+    ],
+    "concepts": [
+      "divine unity",
+      "divine simplicity",
+      "discursive cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e1966"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e2050": {
+    "summary": "First corollary: only deductive (discursive) cognition is scientia proprie dicta, since scientific knowledge of a conclusion is obtained from knowledge of principles through discourse.",
+    "claims": [
+      "Only discursive cognition is scientia proprie dicta"
+    ],
+    "concepts": [
+      "scientia proprie dicta",
+      "demonstration",
+      "discursive cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e2021"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e2066": {
+    "summary": "Second corollary: deduction from superintuitive knowledge of causes is more certain than from intuitive, and this more than from abstractive, since knowledge of a conclusion is measured by knowledge of principles.",
+    "claims": [
+      "Knowledge of the conclusion is measured by knowledge of the principles",
+      "The certainty of deduction follows the grade of the cognition it proceeds from"
+    ],
+    "concepts": [
+      "certainty",
+      "grades of cognition",
+      "principles and conclusions"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e2050"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e2084": {
+    "summary": "Third corollary: abstractive cognition is more evident than discursive cognition deduced from abstractive cognition of other things, since principles are more evident than conclusions (Posterior Analytics I).",
+    "claims": [
+      "Knowledge of principles is, other things being equal, more evident than knowledge of conclusions"
+    ],
+    "concepts": [
+      "evidence",
+      "propter quod unumquodque",
+      "Posterior Analytics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e2066"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e2098": {
+    "summary": "Fourth corollary: discursive cognition deduced from intuitive cognition of another is more certain and evident than abstractive cognition of the same thing, because intuition is so much more perfect that, barring a defect in the deduction, error is less likely.",
+    "claims": [
+      "Deduction from intuition is more certain than abstraction of the same object"
+    ],
+    "concepts": [
+      "certainty",
+      "intuition",
+      "deduction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e2084"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e2111": {
+    "summary": "Fifth corollary (deduction from superintuitive knowledge exceeds both abstractive and intuitive knowledge of creatures), then presents the common opinion that divides cognition only into intuitive and abstractive, with its first argument that deductive cognition is impossible because nothing is known by knowing something wholly other (Aristotle against Plato's ideas).",
+    "claims": [
+      "Superintuitive knowledge exceeds intuitive more than intuitive exceeds abstractive",
+      "The common opinion divides cognition only into intuitive and abstractive",
+      "Objection: nothing is known through knowing what is entirely separate from it (Metaphysics, against Platonic ideas)"
+    ],
+    "concepts": [
+      "certainty",
+      "common opinion",
+      "Aristotle against Plato",
+      "separate ideas"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e2098"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e2153": {
+    "summary": "Second argument: even if possible, deductive cognition is not distinct, since a deduction from abstractive cognition is just two abstractive cognitions, one deduced from the other, and likewise for intuition.",
+    "claims": [
+      "Discursive cognition reduces to two intuitive or two abstractive cognitions"
+    ],
+    "concepts": [
+      "reduction",
+      "discursive cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e2111"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e2171": {
+    "summary": "Third argument: even if possible and distinct, it is not alone scientific, otherwise God and angels — whose intellects are not discursive — would lack science; discourse from better known to less known stems from our intellect's imperfection.",
+    "claims": [
+      "Divine and angelic intellects are not discursive",
+      "Discourse reflects imperfection of our intellect"
+    ],
+    "concepts": [
+      "divine knowledge",
+      "angelic knowledge",
+      "discursus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e2153"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e2189": {
+    "summary": "Fourth argument (the blessed would lack science, since in heaven there is no ratiocination, Augustine) followed by the reply to the first: the antecedent would destroy knowledge of creatures in the Word, and Aristotle shows only that knowledge of separate universals cannot yield knowledge of singulars under their proper rationes.",
+    "claims": [
+      "In heaven we shall contemplate without reasoning (Augustine) — objection",
+      "Aristotle's argument concerns only Platonic ideas and singulars",
+      "From knowledge of one thing we can be led by discourse to knowledge of another"
+    ],
+    "concepts": [
+      "beatific knowledge",
+      "Aristotle against Plato",
+      "universals and singulars",
+      "discursive cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e2171"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e2235": {
+    "summary": "Replies to the second argument: a deduction from abstractive or intuitive cognition is not two abstractive or two intuitive cognitions; one can have two intuitive or abstractive cognitions of simple terms without any deduction, and where one is known through another there are two specifically distinct cognitions.",
+    "claims": [
+      "Two intuitive cognitions of terms do not by themselves amount to a deduction",
+      "Where one is known through another, deductive and intuitive (or abstractive) cognitions coexist as specifically distinct"
+    ],
+    "concepts": [
+      "discursive cognition",
+      "mediate and immediate knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e2189"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e2269": {
+    "summary": "Replies to the third and fourth arguments: God and angels do not reason in order of duration but do in order of nature (they know man is risible because rational animal), which suffices for deductive knowledge and proper science; likewise the blessed have natural-order ratiocination; concludes Article 1.",
+    "claims": [
+      "God and angels discourse according to the order of nature, not of duration",
+      "Natural-order discourse suffices for scientia proprie dicta",
+      "The blessed have ratiocination in the order of nature"
+    ],
+    "concepts": [
+      "ordo naturae",
+      "ordo durationis",
+      "divine science",
+      "angelic science",
+      "beatific knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-d1e2235"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e2314": {
+    "summary": "Opens Article 2 with the first conclusion: abstractive knowledge of the deity according to its proper concept is communicable neither to a wayfarer nor to anyone, not because of the state of the way or because essence cannot be known without existence, but because the deity cannot be represented in any created representative; the minor is first argued on the supposition that infinite perfection is repugnant to creatures.",
+    "claims": [
+      "Abstractive cognition of the deity per proprium conceptum is impossible for any creature by implication of contradiction",
+      "It is not excluded by the state of the way, nor by the link between essence and existence",
+      "It is excluded because the deity cannot be represented in anything created",
+      "A representative of the deity per proprium conceptum would have to be infinite"
+    ],
+    "concepts": [
+      "notitia abstractiva",
+      "proper concept of God",
+      "created representative",
+      "divine infinity",
+      "contradiction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e2310"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e2379": {
+    "summary": "First two proofs that such a representative would be infinite: supplying the causality of an infinitely excelling object requires infinite perfection; and a representative of the deity would surpass a representative of all actual and possible creatures, which itself would be infinite since representing more requires more perfection.",
+    "claims": [
+      "A representative that supplies the causality of an infinitely excelling object is infinitely perfect",
+      "A representative of the deity would be at least as perfect as one of all possible creatures",
+      "Representing infinitely many things requires infinite perfection"
+    ],
+    "concepts": [
+      "representation",
+      "infinity of perfection",
+      "numerical infinity",
+      "possible creatures"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e2310",
+        "at8va9-e00484-d1e2314"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e2436": {
+    "summary": "Further proofs that the deity cannot be represented (no more perfect representative could be given; even an infinite creature falls infinitely short; the universe of creatures cannot be represented by one creature, much less the essence containing it), then the second conclusion: intuitive knowledge of the deity is communicable to a wayfarer by absolute power, because it neither beatifies (vision and fruition are really distinct, per Benedict XII), nor removes one from the way, nor is repugnant to the wayfarer as such; supported by Augustine on Paul's vision.",
+    "claims": [
+      "What falls infinitely short of another cannot represent it according to its proper concept",
+      "Intuitive knowledge of the deity is communicable to a wayfarer de potentia absoluta",
+      "Beatitude consists in vision and fruition, which are really distinct, so vision alone does not beatify",
+      "By absolute power a creature could see God without enjoying him",
+      "Paul saw God in this life as the saints will see him (Augustine)"
+    ],
+    "concepts": [
+      "intuitive vision of God",
+      "beatitude",
+      "fruition",
+      "Benedictus Deus",
+      "absolute power",
+      "Paul's rapture",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e2310",
+        "at8va9-e00484-d1e2379"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e2640": {
+    "summary": "For the third conclusion (evident deductive knowledge of theological truths is communicable to a wayfarer by absolute power), presents Michael of Massa's proof: an angel in pure naturals, sole survivor of annihilation, would know that a divinely formed proposition 'God is three and one' must be true because God cannot lie.",
+    "claims": [
+      "If God formed the proposition of the Trinity in an angel left alone in pure naturals, the angel could evidently know it to be true",
+      "A creature in pure naturals can evidently know that God cannot lie"
+    ],
+    "concepts": [
+      "Michael of Massa",
+      "Trinity",
+      "pure naturals",
+      "annihilation",
+      "evident knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e2310",
+        "at8va9-e00484-d1e2436"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e2674": {
+    "summary": "Michael of Massa's further arguments: a damned heretic knows infallibly that the Trinity he denied is true, and demons know it with deductive certainty from Christ's redemption and harrowing of hell; so such knowledge is not incompatible with the wayfarer.",
+    "claims": [
+      "A damned heretic knows the article he denied is necessarily true",
+      "Demons know with certainty that Christ is God and so that his teaching is true"
+    ],
+    "concepts": [
+      "damned",
+      "demons",
+      "harrowing of hell",
+      "Anselm Cur Deus homo",
+      "Trinity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e2310",
+        "at8va9-e00484-d1e2640"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e2724": {
+    "summary": "Accepts the conclusion but rejects Michael's reasons (the angelic intellect is not a wayfarer's; annihilation and its universality are not evident; God could create unknown beings; the heretic and demons have special evident knowledge unavailable to wayfarers), then begins his own proof: whoever can receive intuitive knowledge of theology's subject can receive evident deductive knowledge of theological truths, and the wayfarer can receive the former.",
+    "claims": [
+      "Michael's arguments fail to conclude evidently",
+      "An evident deduction from non-evident principles does not yield an evident conclusion",
+      "Demons knew Christ was God only after the harrowing of hell",
+      "Whoever can receive intuitive knowledge of God can receive evident deductive knowledge of theological truths"
+    ],
+    "concepts": [
+      "critique of Michael of Massa",
+      "evidence of conclusions",
+      "intuitive knowledge of God",
+      "theological truths"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e2310",
+        "at8va9-e00484-d1e2674"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e2861": {
+    "summary": "Argues further that a wayfarer who intuitively saw Christ as God could afterwards remember it, know Christ cannot lie, and so evidently know the theological truths he taught; rebuts the objections that such memory would be indistinct and that the truths would still be held by faith; then proves the fourth conclusion: such deductive knowledge is scientia proprie dicta, since it is a veridical habit distinct from faith and, among Aristotle's five intellectual habits, must be science or wisdom.",
+    "claims": [
+      "One who has seen God intuitively can afterward remember that he saw him, even if not the deity per proprium conceptum",
+      "Knowing Christ is God, one can evidently know whatever Christ said is true",
+      "Evident deductive knowledge of theological truths possible to a wayfarer is scientia proprie dicta",
+      "It is neither understanding, art nor prudence, so it is science or wisdom"
+    ],
+    "concepts": [
+      "memory of vision",
+      "Paul",
+      "Christ's veracity",
+      "scientia proprie dicta",
+      "intellectual virtues",
+      "Nicomachean Ethics VI"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e2310",
+        "at8va9-e00484-d1e2724"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e3003": {
+    "summary": "Opens Articles 3 and 4, which raise and resolve doubts together, beginning with Scotus's opinion against the first conclusion.",
+    "claims": [],
+    "concepts": [
+      "dubia",
+      "Scotus",
+      "structure of the question"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e2999"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e3021": {
+    "summary": "Presents Scotus's fundamental argument: whatever God can do through his essence he can do immediately by his will, and through his essence as known object he can cause evident knowledge of himself; so by will alone he can cause it, and such knowledge, abstracting from the essence's presence, would be abstractive.",
+    "claims": [
+      "Whatever God can do mediately through his essence he can do immediately by his will",
+      "God could cause clear knowledge of his essence without the essence concurring",
+      "Such knowledge would be abstractive"
+    ],
+    "concepts": [
+      "Scotus",
+      "divine will",
+      "divine essence",
+      "abstractive knowledge of God",
+      "first and second causality"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e2999",
+        "at8va9-e00484-d1e3003"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e3043": {
+    "summary": "Presents Landulphus's argument from Scotist principles: one with intuitive knowledge can reflexively know his intuitive act, its relation and so the relation's term abstractively, as Paul and Moses could; confirmed because a wayfarer can know the beatific act and its relation, both being creatures.",
+    "claims": [
+      "Paul and Moses had intuitive knowledge of the divine essence (Augustine)",
+      "One can reflexively know the act, its relation, and so its term",
+      "The wayfarer can know the beatific act and thus the divine essence abstractively"
+    ],
+    "concepts": [
+      "Landulphus Caracciolo",
+      "reflexive cognition",
+      "relation and term",
+      "Paul and Moses"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e2999",
+        "at8va9-e00484-d1e3021"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e3091": {
+    "summary": "Third argument: a wayfarer's intellect can have all requisites of abstractive knowledge of the divine essence, since the essence is required only as motive and God can supply the causality of any moving cause; the object need only be the term, not present.",
+    "claims": [
+      "God can supply the motive causality of any second cause",
+      "In abstractive cognition the object is needed as term, not as present mover"
+    ],
+    "concepts": [
+      "requisites of cognition",
+      "motive object",
+      "supplying causality"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e2999",
+        "at8va9-e00484-d1e3043"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e3123": {
+    "summary": "Fourth argument: whatever the intellect understands memory can remember (Augustine, De Trinitate X); Paul and Moses understood the divine essence and remembered it, and whatever we remember we can know abstractively; confirmed by Paul's narration of his vision.",
+    "claims": [
+      "Intellect and memory are of equal scope (Augustine)",
+      "What can be remembered can be known abstractively",
+      "Paul remembered his vision (2 Corinthians 12)"
+    ],
+    "concepts": [
+      "memory",
+      "Augustine De Trinitate",
+      "Paul's rapture",
+      "abstractive cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e2999",
+        "at8va9-e00484-d1e3091"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e3143": {
+    "summary": "Fifth argument: Paul and Moses had a true representative of the divine essence, since memory requires a species or habit; and Rodington's argument that abstractive knowledge of the deity does not remove a wayfarer from the way because without vision he is not blessed.",
+    "claims": [
+      "Memory is nothing but a species or habit, so remembering the essence requires a representative",
+      "Abstractive knowledge of the deity leaves the wayfarer a wayfarer"
+    ],
+    "concepts": [
+      "representative",
+      "memory",
+      "Rodington",
+      "terminus viae"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e2999",
+        "at8va9-e00484-d1e3123"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e3169": {
+    "summary": "Rodington's second argument: God can place in a wayfarer any absolute accident found in a blessed person, including a blessed person's vision, which in the wayfarer would not be intuitive (else he would be blessed) and so would be abstractive.",
+    "claims": [
+      "God can place any absolute accident of the blessed in a wayfarer",
+      "Such a vision in a wayfarer would be abstractive"
+    ],
+    "concepts": [
+      "absolute accident",
+      "beatific vision",
+      "divine power",
+      "Rodington"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e2999",
+        "at8va9-e00484-d1e3143"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e3180": {
+    "summary": "Replies to Scotus's argument by turning it against him (by parity God could cause intuitive knowledge of himself without the essence, which is contradictory); rejects Aureol's defense that intuition necessarily includes a respect to the object's existence, since Aureol himself holds that God can make intuition with the respect destroyed.",
+    "claims": [
+      "The Scotist argument would equally prove intuitive knowledge without the essence's concurrence",
+      "Aureol's reply contradicts his own claim that God can separate intuitive cognition from its respect",
+      "Real dependence and independence imply real distinction, so God can separate them"
+    ],
+    "concepts": [
+      "Scotus",
+      "Aureol",
+      "relation",
+      "intuitive cognition",
+      "retortion argument"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e2999",
+        "at8va9-e00484-d1e3169"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e3269": {
+    "summary": "Further rejects the defense (every creaturely cognition founds a real relation to its object, so the respect cannot differentiate intuition; the respect is either extrinsic or contradicts Scotus's realism about relations), then answers the argument: essence and will are not two causes in God, and God cannot make abstractive knowledge of the deity either way because of contradiction; non-intuitive knowledge need not be abstractive, as it could be deductive.",
+    "claims": [
+      "Every cognition founds a real relation to its object as measured to measure (Metaphysics V)",
+      "Essence and will in God are not two causes of creatures, any more than Father and Son are two principles",
+      "God cannot make abstractive knowledge of the deity by essence or will, because it implies contradiction",
+      "Non-intuitive knowledge of God could be deductive rather than abstractive"
+    ],
+    "concepts": [
+      "relations",
+      "divine will and essence",
+      "causality ad extra",
+      "abstractive knowledge of God",
+      "deductive knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e2999",
+        "at8va9-e00484-d1e3180"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e3356": {
+    "summary": "Replies to Landulphus's reflexive-knowledge argument: one cannot know abstractively an object that cannot be represented in an image; knowing the intuitive act and its relation to the essence entails knowing the essence deductively, not abstractively, and Landulphus himself admits a third kind of cognition.",
+    "claims": [
+      "Knowing the act and its relation implies deductive, not abstractive, knowledge of the term",
+      "An object incapable of created representation cannot be known abstractively"
+    ],
+    "concepts": [
+      "reflexive cognition",
+      "deductive knowledge",
+      "representation",
+      "Landulphus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e2999",
+        "at8va9-e00484-d1e3269"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e3392": {
+    "summary": "Replies to the requisites argument: abstractive knowledge of the divine essence requires a created representative, which the argument omits; the same answers the confirmation.",
+    "claims": [
+      "Abstractive knowledge of the divine essence requires a created representative, which is impossible"
+    ],
+    "concepts": [
+      "representative",
+      "requisites of cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e2999",
+        "at8va9-e00484-d1e3356"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e3403": {
+    "summary": "Replies to the memory arguments: memory extends to what the intellect understands only if it can be represented; memory can be confused or distinct, and Paul remembered confusedly that he had seen God but not what the deity is — like Nebuchadnezzar remembering a dream; so no representative is needed, and Augustine says Paul knew obscurely.",
+    "claims": [
+      "Memory can be distinct or confused",
+      "Paul remembered he had seen God but did not distinctly recall the deity per proprium conceptum",
+      "Paul had no representative of the deity and so no abstractive knowledge of it"
+    ],
+    "concepts": [
+      "confused and distinct memory",
+      "Paul's rapture",
+      "Nebuchadnezzar",
+      "Augustine on 1 Corinthians 13"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e2999",
+        "at8va9-e00484-d1e3392"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e3462": {
+    "summary": "Replies to Rodington by retortion (his argument equally proves intuitive knowledge communicable, which he denies) and by noting it shows only that abstractive knowledge is not excluded by the state of the way; a blessed person's vision placed in a wayfarer would be neither intuitive nor abstractive of God; then presents the common opinion against the second conclusion: clear vision would void faith and merit, and would place the wayfarer at the end of the way.",
+    "claims": [
+      "Rodington's argument shows compatibility with the way, not possibility",
+      "A beatific vision placed in a wayfarer would not be vision of God, as God would not be present to it as object",
+      "Objection: clear vision voids faith (Hebrews 11) and as reward voids the state of merit",
+      "Objection: facial vision is the end of all our actions (Augustine)"
+    ],
+    "concepts": [
+      "Rodington",
+      "faith and vision",
+      "merit",
+      "terminus viae",
+      "common opinion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e2999",
+        "at8va9-e00484-d1e3403"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e3545": {
+    "summary": "Confirmation of the common opinion: what distinguishes the state of the blessed from that of the wayfarer — seeing face to face rather than through a mirror — cannot be communicated to a wayfarer.",
+    "claims": [
+      "Facial vision distinguishes the blessed from the wayfarer (1 Corinthians 13)"
+    ],
+    "concepts": [
+      "facie ad faciem",
+      "state of the blessed",
+      "1 Corinthians 13"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e2999",
+        "at8va9-e00484-d1e3462"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e3558": {
+    "summary": "Third argument: it is contradictory that a wayfarer see God intuitively and remain a wayfarer, since whoever sees God is wholly blessed, vision of God alone being our supreme good, reward and end (Augustine); confirmed because vision is the whole reward.",
+    "claims": [
+      "Whoever sees God intuitively is totally blessed",
+      "Vision is the whole reward (Augustine)"
+    ],
+    "concepts": [
+      "summum bonum",
+      "reward",
+      "beatific vision",
+      "Augustine De Trinitate"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e2999",
+        "at8va9-e00484-d1e3545"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e3578": {
+    "summary": "Fourth argument: intuitive knowledge of God necessarily brings beatific fruition, since the will cannot freely refrain (all wish to be happy) and God could not suspend fruition without willing the will to be miserable, which involves contradiction.",
+    "claims": [
+      "The will cannot freely refuse to enjoy the beatific object seen",
+      "God's suspending fruition would mean willing the will to be miserable, which is contradictory"
+    ],
+    "concepts": [
+      "fruition",
+      "freedom of the will",
+      "misery",
+      "divine will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e2999",
+        "at8va9-e00484-d1e3558"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e3610": {
+    "summary": "Fifth argument: the conclusion seems condemned by the Parisian article (no. 35) declaring it an error that we can understand God through his essence in this mortal life.",
+    "claims": [
+      "Condemned article: that in this mortal life we can understand God by essence is an error"
+    ],
+    "concepts": [
+      "Paris condemnation",
+      "vision of God in this life"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e2999",
+        "at8va9-e00484-d1e3578"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e3619": {
+    "summary": "Sixth argument from Augustine: no one can see God's face and live, and the wayfarer's intellect perceives created things but cannot behold the truth by which they were made.",
+    "claims": [
+      "No one can see the form of God and live (Augustine)",
+      "The wayfarer cannot intuit the truth by which creatures were made"
+    ],
+    "concepts": [
+      "Augustine De Trinitate",
+      "vision of God",
+      "mortal life"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e2999",
+        "at8va9-e00484-d1e3610"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e3635": {
+    "summary": "Begins the replies with the first argument's first difficulty (faith): clear vision does not simply void faith, since by absolute power the habit and even the act of faith can coexist with clear vision provided one does not actually believe; one can have an act of seeing without seeing.",
+    "claims": [
+      "Faith in habit and act can coexist with clear vision by absolute power",
+      "Having the act of seeing without seeing involves no contradiction"
+    ],
+    "concepts": [
+      "faith and vision",
+      "absolute power",
+      "coexistence of habits"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e2999",
+        "at8va9-e00484-d1e3619"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e3657": {
+    "summary": "Completes the replies: vision is only partial reward (Benedict XII); 'state of merit' is distinguished as the present life simply or as actual capacity to merit, and by absolute power faith could be removed while one remains a wayfarer; Augustine calls vision the end and whole reward only because it is inseparable from fruition by common law; fruition can be suspended by absolute power, leaving only privative misery; the Paris article and Augustine concern natural powers or ordained law. Then opens the common opinion against the third conclusion: evident deductive knowledge needs prior intuition, and evidence about future contingents like the Antichrist would require intuition of their terms.",
+    "claims": [
+      "Vision is a partial, not total, reward",
+      "By absolute power faith could be voided by clear vision while one remains a wayfarer",
+      "Vision is called the supreme good because by common law it is inseparable from fruition",
+      "Misery may be positive (hatred and sorrow) or privative; God can will only privative misery",
+      "The Paris article concerns natural knowledge of the first cause",
+      "Objection: evident knowledge of future contingent truths requires intuitive knowledge of their terms"
+    ],
+    "concepts": [
+      "partial reward",
+      "status merendi",
+      "vision and fruition",
+      "positive and privative misery",
+      "Paris article 35",
+      "future contingents"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e2999",
+        "at8va9-e00484-d1e3635"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e3926": {
+    "summary": "Further objection to the third conclusion: if such knowledge were communicable, God could make a wayfarer know a contingent truth more evidently than a blessed person, since the distance between their evidences is finite and could be overcome.",
+    "claims": [
+      "The difference between a wayfarer's and a comprehensor's evidence is finite",
+      "Hence a wayfarer's evidence could exceed a comprehensor's, which seems impossible"
+    ],
+    "concepts": [
+      "degrees of evidence",
+      "viator and comprehensor",
+      "contingent truth"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e2999",
+        "at8va9-e00484-d1e3657"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e3944": {
+    "summary": "Dilemma against the third conclusion: deductive knowledge of the Trinity is more, equally or less perfect in evidence than abstractive knowledge; not less (by the author's own corollary), and if more or equal it cannot be given to a wayfarer, to whom even abstractive knowledge cannot be given.",
+    "claims": [
+      "Deductive knowledge derived from intuition is more certain than abstractive knowledge",
+      "If abstractive knowledge is impossible for the wayfarer, so is something more or equally perfect"
+    ],
+    "concepts": [
+      "Trinity",
+      "deductive knowledge",
+      "abstractive knowledge",
+      "perfection of evidence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e2999",
+        "at8va9-e00484-d1e3926"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e3967": {
+    "summary": "Replies to the objections against the third conclusion — deductive knowledge presupposes intuition without depending on it efficiently (as love presupposes knowledge); it suffices to see Christ as God and that he spoke these truths; a wayfarer may know more evidently than some comprehensor, rejecting Rodington's species-difference reply; abstractive knowledge is excluded by impossibility, not by its excess — then presents Ockham's and Rodington's opposition to the fourth conclusion: nothing intrinsic to God is demonstrable, because such propositions are indubitable, admit no prior predication, are immediate, or have terms that supposit for exactly the same thing.",
+    "claims": [
+      "What God does through a second cause he can do alone only where the dependence is merely efficient",
+      "Seeing Christ as God and that he spoke theological truths suffices for evident deductive knowledge without intuition of their terms",
+      "Evidence of wayfarer and comprehensor about contingent truths can be of the same ratio",
+      "Abstractive knowledge of God is excluded because impossible, not because too perfect",
+      "Ockham: no proposition predicating something intrinsic of the divine essence is properly scientifically knowable"
+    ],
+    "concepts": [
+      "presupposition vs efficient dependence",
+      "Ockham",
+      "Rodington",
+      "demonstrability of divine attributes",
+      "immediate propositions",
+      "supposition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e2999",
+        "at8va9-e00484-d1e3944"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e4156": {
+    "summary": "Rodington's further argument: proper science requires denominative concepts, but one seeing God alone cannot have a denominative concept of anything intrinsic to God, since God is one simple thing; one simple thing yields no concepts of different ratio; such concepts would be similar to each other; and the plurality of attributes is only a plurality of names.",
+    "claims": [
+      "From the vision of God alone no denominative concept of an intrinsic divine perfection can be formed",
+      "One simple thing cannot ground concepts of different ratio",
+      "The plurality of attributes is a plurality of names only"
+    ],
+    "concepts": [
+      "denominative concept",
+      "divine attributes",
+      "divine simplicity",
+      "nominalism about attributes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e2999",
+        "at8va9-e00484-d1e3967"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e4202": {
+    "summary": "Begins replies to Ockham by denying the antecedent: Anselm (Monologion 15) demonstrates of God the pure perfections through the notion of the infinite.",
+    "claims": [
+      "Anselm demonstrates pure perfections of God"
+    ],
+    "concepts": [
+      "Anselm Monologion",
+      "pure perfections",
+      "demonstration about God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e2999",
+        "at8va9-e00484-d1e4156"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e4213": {
+    "summary": "Replies to the dubitability argument: per se known propositions are indubitable yet many are demonstrable; if dubitability means for every intellect nothing is demonstrable (God doubts nothing), and if for some intellect, many propositions about God are dubitable; God knows the cause of the eclipse demonstratively without doubting it.",
+    "claims": [
+      "Demonstrability does not require dubitability for all intellects",
+      "Many propositions predicating intrinsic perfections of God are dubitable to some intellect",
+      "God demonstrates without doubting, as in the eclipse example"
+    ],
+    "concepts": [
+      "dubitability",
+      "demonstrability",
+      "eclipse",
+      "per se nota"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e2999",
+        "at8va9-e00484-d1e4202"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e4246": {
+    "summary": "Replies to the prior-predication argument: if the middle is the subject's definition or formal quidditative ratio, attributes are predicated first of that ratio, which is really identical with God as definition is with defined (Averroes); if the middle is the passion's definition, there is an order of priority among divine perfections in inferring, not in being, known to one who sees God.",
+    "claims": [
+      "Attributes are predicated first of God's formal quidditative ratio, as passions of the definition",
+      "Definition and defined are identical ex natura rei",
+      "Among divine perfections there is an order of priority in inference, not in being"
+    ],
+    "concepts": [
+      "middle term of demonstration",
+      "formal ratio",
+      "order of inference",
+      "divine attributes",
+      "Averroes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e2999",
+        "at8va9-e00484-d1e4213"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e4292": {
+    "summary": "Replies to the immediacy argument: the principle that a common predicate is immediately predicated of its first dividing members is true of immediacy of division but not of indemonstrability; at most it shows 'created wisdom is wisdom' immediate, not 'God is wise'; distinction of reason or virtual distinction suffices for inferential order; replies to the supposition argument by distinguishing identity in thing and in ratio.",
+    "claims": [
+      "Immediacy of division does not make a proposition indemonstrable",
+      "A distinction of reason or virtual distinction suffices for demonstrating attributes of God",
+      "Terms suppositing for the same thing but differing in ratio do not prevent scientific knowledge"
+    ],
+    "concepts": [
+      "immediate proposition",
+      "virtual distinction",
+      "distinction of reason",
+      "equipollence",
+      "supposition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e2999",
+        "at8va9-e00484-d1e4246"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e4369": {
+    "summary": "Replies to Rodington's arguments: the major fails when terms supposit for one thing equipollent to distinct things; against the denominative-concept argument, Damascene says 'good, just, wise' express what is around God's nature, which must be at the level of concepts; one simplest thing equipollent to distinct things grounds diverse and dissimilar concepts.",
+    "claims": [
+      "A simple thing equipollent to distinct things can ground concepts of different ratio",
+      "Damascene: attribute names signify what is around the divine nature",
+      "Distinction of reason is compatible with supreme simplicity"
+    ],
+    "concepts": [
+      "equipollence",
+      "John Damascene",
+      "denominative concepts",
+      "divine simplicity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e2999",
+        "at8va9-e00484-d1e4292"
+      ]
+    }
+  },
+  "at8va9-e00484-d1e4439": {
+    "summary": "Replies to the principal arguments: divine predicates might be demonstrated a posteriori; the middle of demonstration may be the passion's definition or the subject's formal ratio taken as a broad definition; and the second argument, though favoring the author's conclusion, wrongly assumes abstractive knowledge of the deity per proprium conceptum is possible.",
+    "claims": [
+      "Divine attributes can be demonstrated a posteriori",
+      "The middle term may be the definition of the passion or the formal ratio of the subject",
+      "Abstractive knowledge of the deity per proprium conceptum is impossible"
+    ],
+    "concepts": [
+      "a posteriori demonstration",
+      "middle term",
+      "response to principal arguments"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e00484",
+        "at8va9-e00484-Dd1e2999",
+        "at8va9-e00484-d1e4369"
+      ]
+    }
+  },
+  "at8va9-e00484-Dd1e159": {
+    "summary": "Article 1 lays the conceptual groundwork. It defines the wayfarer (lacking ordained beatitude, in the state of merit), against Ockham and Rodington, and restricts revealed theological truths to those held by faith alone, separating revealed from acquired theology. It defines scientia proprie dicta and then builds a fourfold typology of cognition — intuitive (thing in itself, present), abstractive (thing in a created representative), superintuitive (thing in a more perfect exemplar, as creatures in the Word) and discursive (deduced from another) — defending the definitions against arguments that intuition can occur without its object, against Landulphus and Bernard Olivier on the specific distinction of cognitions (same in absolute, distinct by respect of attingence), and against the common opinion that recognizes only intuition and abstraction. It concludes that only discursive cognition is proper science, and that God and the blessed reason in the order of nature.",
+    "claims": [
+      "A wayfarer lacks ordained beatitude and is in the state of meriting; evident knowledge of God does not conflict with this",
+      "Revealed theological truths are those held by faith alone; naturally known truths belong to metaphysics or acquired theology",
+      "Cognition is intuitive, abstractive, superintuitive or discursive",
+      "Intuitive cognition requires the object's actual presence; apparent counterexamples are errors of the interior sense",
+      "The kinds of cognition differ specifically by their respects of attingence but not by their absolutes",
+      "God knew creatures from eternity superintuitively, not intuitively or abstractively",
+      "Only discursive cognition is scientia proprie dicta, and natural-order discourse suffices for divine and angelic science"
+    ],
+    "concepts": [
+      "viator",
+      "revealed and acquired theology",
+      "scientia proprie dicta",
+      "intuitive cognition",
+      "abstractive cognition",
+      "superintuitive cognition",
+      "discursive cognition",
+      "respect of attingence",
+      "divine knowledge"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e00484-d1e163",
+        "at8va9-e00484-d1e174",
+        "at8va9-e00484-d1e194",
+        "at8va9-e00484-d1e214",
+        "at8va9-e00484-d1e222",
+        "at8va9-e00484-d1e242",
+        "at8va9-e00484-d1e258",
+        "at8va9-e00484-d1e265",
+        "at8va9-e00484-d1e296",
+        "at8va9-e00484-d1e307",
+        "at8va9-e00484-d1e326",
+        "at8va9-e00484-d1e350",
+        "at8va9-e00484-d1e366",
+        "at8va9-e00484-d1e390",
+        "at8va9-e00484-d1e397",
+        "at8va9-e00484-d1e419",
+        "at8va9-e00484-d1e440",
+        "at8va9-e00484-d1e447",
+        "at8va9-e00484-d1e506",
+        "at8va9-e00484-d1e561",
+        "at8va9-e00484-d1e566",
+        "at8va9-e00484-d1e584",
+        "at8va9-e00484-d1e609",
+        "at8va9-e00484-d1e622",
+        "at8va9-e00484-d1e681",
+        "at8va9-e00484-d1e694",
+        "at8va9-e00484-d1e720",
+        "at8va9-e00484-d1e733",
+        "at8va9-e00484-d1e743",
+        "at8va9-e00484-d1e756",
+        "at8va9-e00484-d1e808",
+        "at8va9-e00484-d1e897",
+        "at8va9-e00484-d1e919",
+        "at8va9-e00484-d1e945",
+        "at8va9-e00484-d1e975",
+        "at8va9-e00484-d1e1030",
+        "at8va9-e00484-d1e1104",
+        "at8va9-e00484-d1e1120",
+        "at8va9-e00484-d1e1133",
+        "at8va9-e00484-d1e1146",
+        "at8va9-e00484-d1e1158",
+        "at8va9-e00484-d1e1219",
+        "at8va9-e00484-d1e1252",
+        "at8va9-e00484-d1e1270",
+        "at8va9-e00484-d1e1288",
+        "at8va9-e00484-d1e1317",
+        "at8va9-e00484-d1e1360",
+        "at8va9-e00484-d1e1382",
+        "at8va9-e00484-d1e1398",
+        "at8va9-e00484-d1e1422",
+        "at8va9-e00484-d1e1444",
+        "at8va9-e00484-d1e1460",
+        "at8va9-e00484-d1e1500",
+        "at8va9-e00484-d1e1539",
+        "at8va9-e00484-d1e1557",
+        "at8va9-e00484-d1e1588",
+        "at8va9-e00484-d1e1604",
+        "at8va9-e00484-d1e1613",
+        "at8va9-e00484-d1e1638",
+        "at8va9-e00484-d1e1647",
+        "at8va9-e00484-d1e1682",
+        "at8va9-e00484-d1e1763",
+        "at8va9-e00484-d1e1781",
+        "at8va9-e00484-d1e1792",
+        "at8va9-e00484-d1e1804",
+        "at8va9-e00484-d1e1815",
+        "at8va9-e00484-d1e1826",
+        "at8va9-e00484-d1e1855",
+        "at8va9-e00484-d1e1892",
+        "at8va9-e00484-d1e1908",
+        "at8va9-e00484-d1e1953",
+        "at8va9-e00484-d1e1966",
+        "at8va9-e00484-d1e2021",
+        "at8va9-e00484-d1e2050",
+        "at8va9-e00484-d1e2066",
+        "at8va9-e00484-d1e2084",
+        "at8va9-e00484-d1e2098",
+        "at8va9-e00484-d1e2111",
+        "at8va9-e00484-d1e2153",
+        "at8va9-e00484-d1e2171",
+        "at8va9-e00484-d1e2189",
+        "at8va9-e00484-d1e2235",
+        "at8va9-e00484-d1e2269"
+      ]
+    }
+  },
+  "at8va9-e00484-Dd1e2310": {
+    "summary": "Article 2 sets out four conclusions. Abstractive knowledge of the deity according to its proper concept is impossible for any creature, because no created representative could represent the infinite God. Intuitive knowledge of the deity is communicable to a wayfarer by absolute power, since vision without fruition does not beatify or end the way (with Paul as instance). Evident deductive knowledge of theological truths is therefore possible to a wayfarer — not for Michael of Massa's reasons, but because one who sees God, or Christ as God, can know that Christ's teaching is true. Such knowledge is scientia proprie dicta.",
+    "claims": [
+      "Abstractive cognition of the deity per proprium conceptum implies contradiction because the deity cannot be represented in a creature",
+      "Intuitive knowledge of God is communicable to a wayfarer de potentia absoluta",
+      "Evident deductive knowledge of theological truths is possible for a wayfarer through intuitive knowledge of God or of Christ as God",
+      "That deductive knowledge is scientia proprie dicta"
+    ],
+    "concepts": [
+      "abstractive knowledge of God",
+      "created representative",
+      "divine infinity",
+      "intuitive vision of God",
+      "vision and fruition",
+      "absolute power",
+      "Michael of Massa",
+      "scientia proprie dicta"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e00484-d1e2314",
+        "at8va9-e00484-d1e2379",
+        "at8va9-e00484-d1e2436",
+        "at8va9-e00484-d1e2640",
+        "at8va9-e00484-d1e2674",
+        "at8va9-e00484-d1e2724",
+        "at8va9-e00484-d1e2861"
+      ]
+    }
+  },
+  "at8va9-e00484-Dd1e2999": {
+    "summary": "Articles 3 and 4 raise and resolve objections to each conclusion. Against the first, Scotist arguments (Scotus, Landulphus, Rodington) for possible abstractive knowledge of God through divine will, reflexive acts, supplied causality and memory are rebutted: the deity has no created representative, Paul's memory was confused, and non-intuitive knowledge could be deductive. Against the second, the common opinion's arguments from faith, merit, the end of the way, necessary fruition, the Paris condemnation and Augustine are answered by distinguishing absolute from ordained power and vision from fruition. Against the third, arguments from dependence on intuition and degrees of evidence are answered. Against the fourth, Ockham's and Rodington's denial that anything intrinsic to God is demonstrable is rejected by appealing to Anselm, to inferential order among attributes and to distinctions of reason or equipollence. The principal arguments are then answered.",
+    "claims": [
+      "God cannot cause abstractive knowledge of himself either through his essence or immediately by his will",
+      "Paul remembered his vision only confusedly and had no representative of the deity",
+      "Clear vision is compatible by absolute power with faith and with remaining a wayfarer, since vision without fruition is not total beatitude",
+      "A wayfarer's evidence about contingent truths could equal or exceed some comprehensor's",
+      "Intrinsic divine perfections can be scientifically demonstrated, since distinction of reason or virtual distinction supports inferential order",
+      "Divine attributes can be demonstrated a posteriori or through God's formal ratio"
+    ],
+    "concepts": [
+      "Scotus",
+      "Landulphus Caracciolo",
+      "Rodington",
+      "Ockham",
+      "Aureol",
+      "abstractive knowledge of God",
+      "memory",
+      "faith and vision",
+      "fruition",
+      "absolute power",
+      "demonstrability of divine attributes",
+      "distinction of reason"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e00484-d1e3003",
+        "at8va9-e00484-d1e3021",
+        "at8va9-e00484-d1e3043",
+        "at8va9-e00484-d1e3091",
+        "at8va9-e00484-d1e3123",
+        "at8va9-e00484-d1e3143",
+        "at8va9-e00484-d1e3169",
+        "at8va9-e00484-d1e3180",
+        "at8va9-e00484-d1e3269",
+        "at8va9-e00484-d1e3356",
+        "at8va9-e00484-d1e3392",
+        "at8va9-e00484-d1e3403",
+        "at8va9-e00484-d1e3462",
+        "at8va9-e00484-d1e3545",
+        "at8va9-e00484-d1e3558",
+        "at8va9-e00484-d1e3578",
+        "at8va9-e00484-d1e3610",
+        "at8va9-e00484-d1e3619",
+        "at8va9-e00484-d1e3635",
+        "at8va9-e00484-d1e3657",
+        "at8va9-e00484-d1e3926",
+        "at8va9-e00484-d1e3944",
+        "at8va9-e00484-d1e3967",
+        "at8va9-e00484-d1e4156",
+        "at8va9-e00484-d1e4202",
+        "at8va9-e00484-d1e4213",
+        "at8va9-e00484-d1e4246",
+        "at8va9-e00484-d1e4292",
+        "at8va9-e00484-d1e4369",
+        "at8va9-e00484-d1e4439"
+      ]
+    }
+  },
+  "at8va9-e00484": {
+    "summary": "The first question of the prologue asks whether evident knowledge of theological truths that is scientia proprie dicta is possible for a wayfarer by God's absolute power. Vargas answers yes, with qualifications. He defines the wayfarer and revealed theological truths, develops a fourfold theory of cognition (intuitive, abstractive, superintuitive, discursive), and identifies proper science with discursive cognition. Abstractive knowledge of God according to his proper concept is impossible because no creature can represent the deity. Intuitive knowledge of God, however, can by absolute power be given to a wayfarer without fruition, and from it (or from seeing Christ as God) evident deductive knowledge of theological truths can follow, which counts as proper science. He defends this against Scotist, Ockhamist and common-opinion objections, and maintains that intrinsic divine perfections are demonstrable.",
+    "claims": [
+      "Evident knowledge of theological truths that is proper science is possible to a wayfarer by absolute power",
+      "That knowledge is deductive, derived from intuitive knowledge of God or of Christ as God",
+      "Abstractive knowledge of God per proprium conceptum is impossible for any creature",
+      "Intuitive vision of God is separable from fruition and so compatible with the state of the way by absolute power",
+      "Cognition divides into intuitive, abstractive, superintuitive and discursive, and only discursive cognition is proper science",
+      "Intrinsic divine attributes can be scientifically demonstrated"
+    ],
+    "concepts": [
+      "theology as science",
+      "viator",
+      "potentia Dei absoluta",
+      "intuitive cognition",
+      "abstractive cognition",
+      "superintuitive cognition",
+      "discursive cognition",
+      "scientia proprie dicta",
+      "beatific vision",
+      "fruition",
+      "demonstrability of divine attributes"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e00484-d1e106",
+        "at8va9-e00484-d1e135",
+        "at8va9-e00484-Dd1e159",
+        "at8va9-e00484-Dd1e2310",
+        "at8va9-e00484-Dd1e2999"
+      ]
+    }
+  }
+}

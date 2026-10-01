@@ -1,0 +1,1610 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-01T01:12:15Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "create-interpretation-v1",
+    "source_commit": "2712681",
+    "generation_method": "hierarchical",
+    "source_file": "cod-x7yh5z_at8va9-e04861.xml"
+  },
+  "at8va9-e04861-d1e106": {
+    "summary": "States the second question of the prologue: whether the theological habit possible to a wayfarer under the common law (i.e., in the ordinary order, not by absolute power) is science in the proper sense.",
+    "claims": [],
+    "concepts": [
+      "habitus theologicus",
+      "viator",
+      "lex communis",
+      "scientia proprie dicta"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e115": {
+    "summary": "Gives the opening argument against (faith and science about the same object cannot coexist in one intellect, since science concerns what appears and faith what does not, yet the wayfarer's theology coexists with faith) and the argument for (whatever is grasped by firm reason is proper science, and Richard of St Victor aims to give necessary reasons for what we believe).",
+    "claims": [
+      "Faith and science of the same object are incompatible in one intellect (Hebrews 11)",
+      "The wayfarer's theological habit coexists with faith",
+      "What we know we owe to reason, what we believe to authority (Augustine, Retractationes)",
+      "Richard of St Victor seeks necessary reasons for the articles of faith"
+    ],
+    "concepts": [
+      "faith and science",
+      "apparentia",
+      "Richard of St Victor De Trinitate",
+      "Augustine Retractationes",
+      "necessary reasons"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-d1e106"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e146": {
+    "summary": "Announces the four-article structure: distinctions, conclusions, doubts, and replies to the principal arguments.",
+    "claims": [],
+    "concepts": [
+      "structure of the question"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-d1e115"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e160": {
+    "summary": "Article 1 draws three distinctions: three theological habits possible to a wayfarer (the divinely revealed habit of the articles and their consequences; the habit that declares and defends revealed truths from naturally known probable premises; and a habit evidently deducing theological conclusions on the supposition of the articles' existence); three kinds of proper science (a posteriori through effects; a priori through a cause in being and in inferring; a priori through a cause only in inferring, as in metaphysics); and three orders of priority, the third holding among things really identical but conceptually distinct, such as the divine nature and its attributes, which yields syllogisms as evident as or more evident than demonstration propter quid.",
+    "claims": [
+      "There are three theological habits: revealed, declarative-defensive, and evidently deductive on supposition of the articles",
+      "Proper science can be a posteriori, a priori in being and inferring, or a priori in inferring only",
+      "Things really identical but conceptually distinct keep in concept the order they would have in reality if distinct",
+      "Greater identity of predicate and subject increases rather than removes the evidence of a proposition",
+      "The three habits of science rank in evidence: the third above the second, the second above the first"
+    ],
+    "concepts": [
+      "revealed theology",
+      "declarative and defensive theology",
+      "deductive theology",
+      "demonstratio quia and propter quid",
+      "priority in being and inferring",
+      "distinction of reason",
+      "divine attributes",
+      "Grosseteste on Posterior Analytics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e156"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e302": {
+    "summary": "Opens Article 2 with the first conclusion: revealed theology, as distinct from naturally acquired knowledge, does not resolve into what is self-evident in natural light; proved because assent to self-evident truths needs no command of the will, whereas assent to revealed truths does (Augustine: one can do other things unwillingly, but believe only willingly), and because no one, faithful or infidel, can be evidently convinced of its conclusions.",
+    "claims": [
+      "Assent to self-evident or demonstrated truths does not require the command of the will",
+      "Assent to revealed theological truths necessarily requires the command of the will",
+      "Anyone can be evidently convinced of conclusions deduced from self-evident principles, but no one is so convinced of revealed theology's conclusions"
+    ],
+    "concepts": [
+      "resolution to per se nota",
+      "imperium voluntatis",
+      "assent",
+      "natural light",
+      "revealed theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e298"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e352": {
+    "summary": "Third proof: faith is not needed to assent to self-evident truths or their consequences, but it is in fact needed for revealed theological truths, since 'we walk by faith, not by sight' (2 Corinthians 5).",
+    "claims": [
+      "Faith is unnecessary for assent to the self-evident",
+      "Faith is in fact necessary for assent to revealed theological truths"
+    ],
+    "concepts": [
+      "faith",
+      "per fidem non per speciem",
+      "2 Corinthians 5"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e298",
+        "at8va9-e04861-d1e302"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e365": {
+    "summary": "Fourth proof (if revealed theology resolved into the self-evident, faith would not be meritorious, contrary to Catholic truth, per Gregory; confirmed because such a habit would be humanly devised) and the second conclusion, which follows: revealed theology as distinct from acquired knowledge is not scientia proprie dicta, since proper science is the habit of a demonstrated conclusion and demonstration resolves into the self-evident; confirmed because it is not grasped by firm reason and does not necessitate assent.",
+    "claims": [
+      "If revealed theology resolved to self-evident principles, faith would not be meritorious",
+      "Revealed theology is not humanly devised and so does not rest on natural light",
+      "Revealed theology as distinct from acquired knowledge is not scientia proprie dicta",
+      "Scientific deduction necessitates assent, whereas revealed theology's deduction does not"
+    ],
+    "concepts": [
+      "merit of faith",
+      "Gregory the Great",
+      "demonstration",
+      "scientia proprie dicta",
+      "necessitation of assent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e298",
+        "at8va9-e04861-d1e352"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e430": {
+    "summary": "Further proofs of the second conclusion (no one can be evidently convinced by revealed theology; its principles are not self-evident in natural light, nor made evident by the light of faith, nor — in fact — by any intermediate light between faith and glory, so they are merely believed), then the third conclusion: the habit that declares and defends revealed truths from probable premises is not proper science, since any scientific knowledge a believer has in natural light is available to the infidel, and infidels cannot evidently know the articles.",
+    "claims": [
+      "Revealed theology proceeds only from principles believed and presupposed by faith",
+      "Faith does not produce evident knowledge, since it is the argument of things not appearing",
+      "No intermediate light between faith and glory is in fact infused in theologians",
+      "Declarative-defensive theology is not proper science",
+      "Any scientific knowledge held by a believer in natural light is possible for an infidel"
+    ],
+    "concepts": [
+      "light of faith",
+      "light of glory",
+      "intermediate light",
+      "declarative theology",
+      "infidel",
+      "evidence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e298",
+        "at8va9-e04861-d1e365"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e514": {
+    "summary": "Another proof of the third conclusion: if declarative theology were proper science it would make the articles evident, and the greater theologian would assent more firmly — yet experience shows a simple old woman often believes more firmly than a great theologian.",
+    "claims": [
+      "Where there is proper science there is evidence",
+      "Theological expertise does not correlate with firmness of assent, as the simple old woman shows"
+    ],
+    "concepts": [
+      "evidence",
+      "firmness of assent",
+      "simplex vetula",
+      "declarative theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e298",
+        "at8va9-e04861-d1e430"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e536": {
+    "summary": "Final proof of the third conclusion by dilemma (either the declarative habit resolves to self-evident truths, entailing all the absurdities listed under the first conclusion, or it does not and so is not science), followed by the fourth conclusion: a theological habit that deduces theological conclusions on the supposition of the existence of the articles is proper science; illustrated by geometry about two bodies in heaven, one spherical and one flat, touching only at a point, and by Lombard's deduction that God is the efficient cause of the Incarnation and that the Trinity involves no distinction in anything absolute.",
+    "claims": [
+      "A habit resolving into the self-evident is proper science",
+      "Granted the articles' existence, many theological conclusions follow from self-evident premises and are truly known",
+      "Supposing something merely believed, or even impossible, does not remove the scientific character of a conclusion deduced from self-evident propositions",
+      "Given the Incarnation, it is deducible that God is its efficient cause; given the Trinity, that the persons are not distinct in anything absolute"
+    ],
+    "concepts": [
+      "deductive theology",
+      "suppositio",
+      "spherical and flat bodies example",
+      "Incarnation",
+      "Trinity",
+      "Peter Lombard",
+      "scientia proprie dicta"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e298",
+        "at8va9-e04861-d1e514"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e645": {
+    "summary": "Further proofs of the fourth conclusion: the deductive process from self-evident premises (given the articles) generates a habit that is neither faith (nothing believed is assumed as premise), nor opinion, nor any other Aristotelian virtue, so it is science; and any deduction from necessary truths that necessitates assent is proper science; closes Article 2.",
+    "claims": [
+      "The deductive habit is not faith, since no believed premise is assumed in the deduction",
+      "It is not opinion, since nothing merely probable is assumed",
+      "A deduction from necessary truths that compels assent is scientific"
+    ],
+    "concepts": [
+      "intellectual virtues",
+      "Nicomachean Ethics VI",
+      "necessity of assent",
+      "deductive theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e298",
+        "at8va9-e04861-d1e536"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e681": {
+    "summary": "Opens Articles 3 and 4 and presents Francis of Marchia's opinion against the first conclusion — that the principles of revealed theology are self-evident to us or deduced from what is — arguing that one is bound to believe indubitably only what is self-evident or so deduced, since assent to a conclusion should not exceed the certainty of the knowledge on which it rests, belief follows what is established, and an effect cannot exceed its cause.",
+    "claims": [
+      "Every Catholic is bound to believe the articles indubitably",
+      "No one is bound to assent more firmly than the certainty of the knowledge motivating assent",
+      "One believes because something is established for him, not conversely",
+      "The assent of faith cannot be firmer than the knowledge that causes it"
+    ],
+    "concepts": [
+      "Francis of Marchia",
+      "certainty of faith",
+      "indubitable belief",
+      "per se nota",
+      "assent and knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e770": {
+    "summary": "Further arguments for Francis's opinion: assent as consequence of knowledge cannot be more certain than that knowledge; something of faith can be proposed as self-evidently false, self-evidently true, or merely probable, and what we are bound to believe indubitably must be proposed as self-evidently true or deduced from such.",
+    "claims": [
+      "Faith's assent cannot exceed the knowledge inclining to it",
+      "What is to be believed indubitably must be proposed as self-evident or deduced from the self-evident"
+    ],
+    "concepts": [
+      "Francis of Marchia",
+      "modes of proposing",
+      "probable",
+      "self-evident truth"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e681"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e822": {
+    "summary": "Another argument for Francis: since there is no infinite regress in belief, there is a first believed truth, which must be assented to either for its own sake or for something self-evident; not for its own sake, since only self-evident objects cause assent of that kind; so faith proceeds from the self-evident.",
+    "claims": [
+      "There must be some first believed truth",
+      "Assenting to something for its own sake is proper to self-evident objects",
+      "Therefore the first believed truth rests on something self-evident"
+    ],
+    "concepts": [
+      "first believed truth",
+      "regress",
+      "assent propter se",
+      "Francis of Marchia"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e770"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e855": {
+    "summary": "Replies to Francis's first argument: its major is not only false but deviates from Catholic truth, since the articles are not self-evident to the simple believer (the old woman), who would then not be bound to believe them indubitably.",
+    "claims": [
+      "The articles are neither self-evident nor deduced from the self-evident for simple believers",
+      "Francis's principle would free simple believers from the duty to believe indubitably, which is erroneous"
+    ],
+    "concepts": [
+      "simple faithful",
+      "obligation to believe",
+      "Catholic truth"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e822"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e885": {
+    "summary": "Further reply: either the articles are self-evident to Jews and pagans, in which case they would necessarily assent, which is false, or they are not, in which case on Francis's principle infidels would not be bound to believe and would not sin by disbelief, contrary to his own view.",
+    "claims": [
+      "No one can withhold assent from what is self-evident",
+      "Francis's principle implies infidels do not sin by disbelief"
+    ],
+    "concepts": [
+      "infidels",
+      "sin of unbelief",
+      "self-evidence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e855"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e911": {
+    "summary": "Applies the same dilemma to the heretic who denies the Trinity: if it were self-evident to him he could not dissent, and if not, he would not sin by disbelieving, which is contrary to Catholic truth.",
+    "claims": [
+      "A heretic either cannot dissent or does not sin, on Francis's view"
+    ],
+    "concepts": [
+      "heresy",
+      "Trinity",
+      "sin of unbelief"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e885"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e929": {
+    "summary": "Notes that Francis's principle entails all the absurdities raised against the opposite of the first conclusion: no command of the will in believing, no need of faith, and so on.",
+    "claims": [
+      "Francis's position removes the need for the will's command and for faith"
+    ],
+    "concepts": [
+      "imperium voluntatis",
+      "necessity of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e911"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e942": {
+    "summary": "Points out that Francis's major is condemned as article 37 of Paris ('nothing is to be believed unless self-evident or deduced from self-evident truths'), and refutes his proofs: some assent rests on the authority of the speaker with the command of the will rather than on knowledge; we believe in order to understand rather than because we understand (Isaiah, Augustine, Anselm); and the assent of faith is not an effect of prior knowledge.",
+    "claims": [
+      "The proposition that nothing is to be believed unless self-evident was condemned at Paris (art. 37)",
+      "Some assent is caused by the authority of the speaker with the will's command, not by knowledge",
+      "We believe so as to understand, not because we understand (Augustine, Anselm)",
+      "If no one believed except what is established for him, faith would not be meritorious"
+    ],
+    "concepts": [
+      "Paris condemnation 1277",
+      "authority",
+      "crede ut intelligas",
+      "Anselm De incarnatione Verbi",
+      "Augustine De Trinitate XV",
+      "imperium voluntatis"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e929"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e1033": {
+    "summary": "Replies to Francis's second argument: its division is insufficient, since truths of faith are proposed as revealed by the First Truth that cannot deceive or be deceived, not as self-evidently true or false or as probable; what is probable from probable premises is opined, not believed.",
+    "claims": [
+      "Truths of faith are proposed as revealed by the first Truth",
+      "Nothing of faith is proposed as self-evident in truth or falsity",
+      "Belief and opinion differ as faith and opinion do"
+    ],
+    "concepts": [
+      "prima veritas",
+      "revelation",
+      "opinion vs faith",
+      "insufficient division"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e942"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e1075": {
+    "summary": "Replies to Francis's third argument: the first believed truth is assented to neither for itself nor for something self-evident, but on the authority of the speaker with the will's command; knowing is owed to reason, believing to authority (Augustine).",
+    "claims": [
+      "The first believed truth is accepted on the authority of the one speaking",
+      "Knowledge is owed to reason, belief to authority"
+    ],
+    "concepts": [
+      "authority",
+      "first believed truth",
+      "Augustine Retractationes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e1033"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e1092": {
+    "summary": "Introduces four opinions against the second conclusion, beginning with Thomas Aquinas (Summa I, q.1, a.2), who holds that revealed theology, even as distinct from acquired knowledge, is proper science subalternate to the science of God and the blessed; announces exposition in three points and the supporting reasons.",
+    "claims": [
+      "Aquinas holds revealed theology is scientia proprie dicta subalternated to the science of God and the blessed"
+    ],
+    "concepts": [
+      "Thomas Aquinas",
+      "subalternation",
+      "scientia Dei et beatorum"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e1075"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e1114": {
+    "summary": "First point of Aquinas's position: proper sciences are of two kinds, those proceeding from principles evident within themselves (subalternating sciences like geometry) and those proceeding from principles evident only in a higher science (subalternate sciences like optics); so proper science need not have self-evident principles of its own.",
+    "claims": [
+      "Subalternate sciences take principles known evidently in a higher science",
+      "Having principles evident in the same science is not required for proper science"
+    ],
+    "concepts": [
+      "subalternation",
+      "optics and geometry",
+      "principles of science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e1092"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e1134": {
+    "summary": "Second point: the wayfarer's revealed theology does not proceed from principles evident in itself, since the articles of faith are only believed in this life.",
+    "claims": [
+      "The articles of faith are believed, not evident, to wayfarers"
+    ],
+    "concepts": [
+      "articles of faith",
+      "principles of theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e1114"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e1145": {
+    "summary": "Third point: revealed theology proceeds from principles evident in a higher science, since the articles believed by us are evident in the science of God and the blessed; hence it is a proper science subalternate to theirs.",
+    "claims": [
+      "Articles believed by wayfarers are evidently known by God and the blessed",
+      "Our theology is subalternate to theirs"
+    ],
+    "concepts": [
+      "subalternation",
+      "theology of the blessed"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e1134"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e1158": {
+    "summary": "First reason for Aquinas's position: any subalternate science as such is proper science, and revealed theology is subalternate to the science of God and the blessed.",
+    "claims": [
+      "Every subalternate science is a proper science distinct from the subalternating one"
+    ],
+    "concepts": [
+      "subalternate science",
+      "theology of the blessed"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e1145"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e1174": {
+    "summary": "Further reasons: the only obstacle would be non-evident principles, but proper science need not have principles evident in itself, as optics shows (optics as distinct from geometry, or optics conserved without geometry by God, is still science); and as a pupil's habit counts as science when principles are evident to the master and believed by the pupil (Aristotle: the learner must believe; principles are known by sense, induction or some faith), so the wayfarer's theology counts as divinely inspired science.",
+    "claims": [
+      "Optics as such is science even without evident knowledge of its principles",
+      "God could conserve optics without geometry and it would still be science",
+      "A pupil believing principles evident to his master has science",
+      "Principles of science may be known through some kind of faith (Ethics VI)"
+    ],
+    "concepts": [
+      "optics and geometry",
+      "music and arithmetic",
+      "master and pupil",
+      "oportet addiscentem credere",
+      "subalternation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e1158"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e1243": {
+    "summary": "Final reason: a theologian with faith who studies Scripture and deduces conclusions acquires a habit distinct from faith (faith is not discursive), which is neither art, prudence, understanding, opinion nor wisdom, so it is subalternate science; the author identifies the two fundamental points of the position to attack.",
+    "claims": [
+      "Deriving conclusions from the articles produces a habit distinct from faith",
+      "That habit is neither art, prudence, understanding, opinion nor wisdom"
+    ],
+    "concepts": [
+      "acquired theological habit",
+      "intellectual virtues",
+      "discursive habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e1174"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e1274": {
+    "summary": "Names the two pillars of Aquinas's position — that the wayfarer's theology is subalternate to the comprehensor's, and that proper science can arise from principles only believed — and announces two opposing conclusions.",
+    "claims": [],
+    "concepts": [
+      "Thomas Aquinas",
+      "subalternation",
+      "believed principles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e1243"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e1287": {
+    "summary": "First opposing conclusion: the wayfarer's theology is not subalternate to the comprehensor's as optics is to geometry, because a subalternate science never has the same first subject under the same formal ratio as its subalternating science (Grosseteste), whereas on Aquinas's view both theologies have God under the ratio of deity as subject.",
+    "claims": [
+      "A subalternate science's subject adds a condition to the subalternating science's subject (Grosseteste)",
+      "Specifically distinct sciences have distinct subjects",
+      "Wayfarer's and comprehensor's theology share the same subject under the same formal ratio"
+    ],
+    "concepts": [
+      "subalternation",
+      "subject of science",
+      "Grosseteste",
+      "deity as subject"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e1274"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e1322": {
+    "summary": "Further proofs: subalternate and subalternating sciences are compatible in one subject, whereas Aquinas (De veritate) holds faith-based theology incompatible with that of the blessed; and absolutely, the two theologies have the same per se principles (whatever the blessed see, wayfarers believe), whereas subalternate principles are conclusions in the higher science, and the higher science always considers truths not considered per se by the lower.",
+    "claims": [
+      "Subalternate and subalternating sciences can coexist in the same subject",
+      "Wayfarer's and comprehensor's theology have the same per se principles",
+      "Principles of a subalternate science are conclusions in the subalternating science",
+      "Every truth clearly seen by the blessed is believed by the wayfarer"
+    ],
+    "concepts": [
+      "subalternation",
+      "compatibility of habits",
+      "principles and conclusions",
+      "Aquinas De veritate"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e1287"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e1392": {
+    "summary": "Second opposing conclusion: proper science is not generated from principles only believed; ad hominem, it would make faith and science of the same object coexist, which Aquinas denies; absolutely, no conclusion is more evident than its principles, and conclusions from merely believed principles are merely believed, as those from probable premises are merely probable.",
+    "claims": [
+      "If science arose from merely believed principles, faith and science of the same object would coexist",
+      "No conclusion is more evident than its principles",
+      "A conclusion from merely believed principles is merely believed"
+    ],
+    "concepts": [
+      "faith and science",
+      "evidence of principles",
+      "believed principles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e1322"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e1440": {
+    "summary": "Third proof: no deduction inferior to demonstration can cause the knowledge proper to a demonstrative syllogism, and every deduction from merely believed principles is inferior to demonstration because such principles are non-evident.",
+    "claims": [
+      "Scientific knowledge is proper to demonstrative syllogism",
+      "Deduction from believed principles is inferior to demonstration"
+    ],
+    "concepts": [
+      "demonstrative syllogism",
+      "hierarchy of deductions"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e1392"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e1465": {
+    "summary": "Fourth proof: if conclusions from merely believed premises were scientifically known, opinion would sometimes be science, since some people adhere to probable premises as firmly as to demonstrated ones (Aristotle); concludes that the wayfarer's theology is not proper science and that Aquinas's reasons fail.",
+    "claims": [
+      "Firm adherence does not make opinion into science",
+      "The wayfarer's revealed theology is not scientia proprie dicta"
+    ],
+    "concepts": [
+      "opinion",
+      "firmness of adherence",
+      "Aristotle"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e1440"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e1487": {
+    "summary": "Replies to Aquinas's reasons: the wayfarer's theology is not subalternate, and even subalternate sciences are science only for one who resolves to the higher science's principles or knows its own principles evidently a posteriori or by sense experience; a pupil has science only dispositively; Aristotle speaks of science in a broad sense; the fourth reason is deferred to the next question on whether theology is really distinct from faith.",
+    "claims": [
+      "A subalternate science is science only for one who knows its principles through the subalternating science or a posteriori through experience",
+      "Optics without geometry and without evident principles would be faith or opinion, not science",
+      "The learner's belief in principles merely disposes him to science",
+      "Aristotle's remark about principles known by faith uses 'science' broadly"
+    ],
+    "concepts": [
+      "subalternation",
+      "a posteriori knowledge",
+      "experience",
+      "master and pupil",
+      "dispositive belief"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e1465"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e1559": {
+    "summary": "Sets out Henry of Ghent's opinion (Quodlibet XII, q.2) that revealed theology is proper science in doctors because the articles are understood in an intermediate light between faith and glory; four points: three acts (believing, understanding, seeing) correspond to three lights; the intermediate light is infused in doctors to defend and explain faith (Augustine on infants and adults); it perfects rather than voids faith, as dawn between night and noon; and in it the articles are truly understood (Augustine, Anselm). Henry argues the supernatural light with faith is no weaker than the agent intellect with phantasms.",
+    "claims": [
+      "Believing, understanding and seeing God differ essentially and correspond to three lights",
+      "An intermediate light between faith and glory is infused in doctors to defend and declare faith",
+      "That light coexists with faith as contraries coexist in remiss degree, like dawn",
+      "In that light the articles are truly understood, so doctors' theology is proper science",
+      "The supernatural light given faith is no less effective than the agent intellect given a phantasm"
+    ],
+    "concepts": [
+      "Henry of Ghent",
+      "lumen medium",
+      "light of faith",
+      "light of glory",
+      "credo ut intelligam",
+      "Anselm Proslogion",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e1487"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e1709": {
+    "summary": "Henry's second argument (knowledge more certain than faith is proper science, and doctors' knowledge in the intermediate light is) with Augustine's authority, then the author's response: he extracts three conclusions on which the opinion rests and opposes them, beginning with the first: no light higher than faith is infused in theologians by common law, since Henry admits recipients perceive the light, and modern doctors deny having it.",
+    "claims": [
+      "Augustine calls theology certain science (Letter to Volusian; De Trinitate XIV) — Henry",
+      "No light higher than faith is infused into theologians by common law",
+      "Those who receive the light perceive it, according to Henry, but modern doctors deny receiving it"
+    ],
+    "concepts": [
+      "Henry of Ghent",
+      "intermediate light",
+      "perception of grace",
+      "Augustine to Volusian"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e1559"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e1785": {
+    "summary": "Further proofs of the first opposing conclusion: doctors can freely dissent from believed truths (they can become heretics), which is impossible for what is evidently known; doctors would adhere more firmly than the simple faithful, against experience; faith would not be necessary for them, against Augustine; Scripture asserts only faith and the gloss says we are now illuminated by faith alone. Second conclusion: on Henry's own principles the light of faith would not coexist with the intermediate light, since the greater theologian would have less faith and merit less, as approach to one contrary is withdrawal from the other.",
+    "claims": [
+      "What is evidently known cannot be freely dissented from, but theologians can become heretics",
+      "The simple faithful adhere as firmly as theologians",
+      "If doctors had evident knowledge, faith would not be necessary for them",
+      "On Henry's account, the greater the theologian, the less his faith and merit",
+      "Approach to one contrary means withdrawal from the other, as dawn dispels darkness"
+    ],
+    "concepts": [
+      "freedom of dissent",
+      "heresy",
+      "necessity of faith",
+      "contraries",
+      "light of faith",
+      "Henry of Ghent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e1709"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e1935": {
+    "summary": "Confirms the second conclusion: when one extreme is incompatible with the other extreme, it is either incompatible with the intermediate or remitted in proportion to its approach to the other extreme (like cold and lukewarm); so the light of faith is remitted as the intermediate light approaches glory.",
+    "claims": [
+      "Faith's light would be weakened in proportion as the intermediate light approaches the light of glory"
+    ],
+    "concepts": [
+      "intermediates and extremes",
+      "contraries",
+      "light of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e1785"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e1969": {
+    "summary": "Third opposing conclusion: it is impossible and contradictory for a theologian to believe and scientifically know the same conclusion at once — though the habits, and even the acts by absolute power, may coexist if one does not actually believe or know by them — because faith concerns only non-apparent things (Lombard, Gregory, Augustine) and because one cannot both be able and unable to dissent from the same conclusion. Presents Thomas of Strasbourg's replies (contradiction requires the same respect: evident by science and non-evident by faith are compatible) and begins refuting them: what is non-evident by faith is in no way apparent.",
+    "claims": [
+      "It is contradictory to simultaneously believe and know the same conclusion",
+      "Faith is only of non-apparent things (Lombard, Gregory, Augustine)",
+      "One can always dissent from what is believed but not from what is known",
+      "Thomas of Strasbourg: evident by science and non-evident by faith are not contradictory",
+      "The evasion that the believed only fails to appear through the act of believing would equally make love concern only non-apparent things"
+    ],
+    "concepts": [
+      "faith and science",
+      "non-apparentia",
+      "Thomas of Strasbourg",
+      "contradiction",
+      "Peter Lombard Sentences III d.24",
+      "habitus vs actus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e1935"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e2125": {
+    "summary": "Further refutation: either 'he believes this, therefore something is non-apparent to him' follows or not; if so, what is believed is non-apparent absolutely, not only through the act of believing.",
+    "claims": [
+      "What is believed is non-apparent absolutely, not merely relative to the act of believing"
+    ],
+    "concepts": [
+      "non-apparentia",
+      "Lombard"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e1969"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e2141": {
+    "summary": "Further refutation: if what is believed could appear by another act, it could be seen, against Augustine and Gregory; Chrysostom's gloss on Hebrews 11 and Thomas the Apostle (who saw the man and believed the God) confirm that faith is not of what is seen.",
+    "claims": [
+      "Faith is not of things seen (Chrysostom)",
+      "Thomas saw a man and believed in God"
+    ],
+    "concepts": [
+      "Chrysostom",
+      "Hebrews 11",
+      "doubting Thomas",
+      "faith and sight"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e2125"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e2185": {
+    "summary": "Further: 'it does not appear by the act of believing, therefore it does not appear' is invalid, so interpreting Lombard that way imputes misunderstanding to him; the second reply also fails, because though one may assent by one habit and not another, it is contradictory to be simply able and unable to assent to the same truth, as one cannot both see and not see a thing absolutely.",
+    "claims": [
+      "The qualified reading of Lombard is arbitrary",
+      "It is contradictory to be able and not able to assent to the same truth absolutely",
+      "One can always withhold assent from what is believed, never from what is evidently known"
+    ],
+    "concepts": [
+      "assent",
+      "habits",
+      "contradiction",
+      "Thomas of Strasbourg"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e2141"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e2246": {
+    "summary": "Further: one can dissent from any believed conclusion contrarily (believing the opposite), as a Catholic can become a heretic, but not from a known conclusion; so the conclusion stands, and since every theologian believes theological conclusions, Henry's intermediate light does not make revealed theology proper science.",
+    "claims": [
+      "Contrary dissent is possible toward what is believed but not toward what is known",
+      "Henry's position fails"
+    ],
+    "concepts": [
+      "heresy",
+      "contrary dissent",
+      "intermediate light"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e2185"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e2277": {
+    "summary": "Answers Henry's authorities by distinguishing light taken essentially and metaphorically (any manifesting habit), so Augustine's light of the 'greater' is the second and third theological habit, acquired or infused as in the saints; Henry's reasons presuppose the light and his texts use 'science' broadly. Mentions and sets aside a third opinion (articles naturally self-evident), and presents a fourth, James of Pamiers's: the articles are evident to the faithful in the light of faith itself, as the blessed know creatures naturally (obscurely) and in the Word (clearly); faithful can be demonstrated to but not infidels, who lack the shared light; argued from the essential ordering of natural light, faith and glory.",
+    "claims": [
+      "'Light' can mean any habit manifesting something",
+      "Augustine's 'light of the greater' is the declarative and deductive theological habit",
+      "Henry's authorities take science broadly or refer to the deductive habit",
+      "James of Pamiers: the articles are clear and evident to the faithful in the light of faith",
+      "The light of faith is intermediate between the agent intellect and the light of glory and shares their perfection of making principles evident"
+    ],
+    "concepts": [
+      "lumen essentialiter et similitudinarie",
+      "Henry of Ghent",
+      "James of Pamiers",
+      "light of faith",
+      "essential order",
+      "demonstration to the faithful"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e2246"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e2486": {
+    "summary": "James's second argument: the light of faith is given either to make principles evident, to cause firm adherence, or to make assent meritorious — not the second (acquired faith suffices for firm assent; heretics still adhere firmly) or the third (charity alone makes acts meritorious) — so the first; supported by Richard of St Victor. The author attacks two of James's conclusions: first, faith does not make credibles evident, since it is of non-apparent things, and James's gloss would make beatific knowledge and knowledge in the Word non-evident too.",
+    "claims": [
+      "James: light of faith exists to make theological principles evident",
+      "A child raised among Christians assents firmly by acquired faith alone",
+      "Faith does not make credibles evident to wayfarers",
+      "James's reading of 'non-apparent' would make beatific knowledge non-evident"
+    ],
+    "concepts": [
+      "James of Pamiers",
+      "function of light of faith",
+      "acquired faith",
+      "charity and merit",
+      "Richard of St Victor"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e2277"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e2586": {
+    "summary": "Continues: James's gloss contradicts the Apostle, Lombard and the saints; an act that is only believing is not evident knowing, otherwise firmer belief would mean more evidence. Second conclusion: infused faith inclines to assent to theological truths, since acquired faith does so and infused faith is no weaker.",
+    "claims": [
+      "Believing is not evident knowing",
+      "Infused faith inclines the believer to assent to theological truths",
+      "Infused faith is not weaker than acquired faith"
+    ],
+    "concepts": [
+      "infused faith",
+      "acquired faith",
+      "inclination to assent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e2486"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e2625": {
+    "summary": "Another proof (infused faith inclines to its proper act, believing, which is assenting); concludes that revealed theology is not proper science in the light of faith, and replies to James's first argument: the light of faith is nobler than natural light in itself and in object but not in evidence, and it is not infused in vain since it gives firm adherence.",
+    "claims": [
+      "A habit naturally inclines to its proper act",
+      "The light of faith is nobler than the agent intellect's light but not in evidence",
+      "Faith's light gives firm adherence, not evidence",
+      "That faith excludes error shows only that nothing false is believed by it"
+    ],
+    "concepts": [
+      "light of faith",
+      "nobility vs evidence",
+      "firm adherence",
+      "agent intellect"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e2586"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e2671": {
+    "summary": "Replies to James's second argument: the light of faith, as a theological virtue, is both a light under which things are seen and a habit inclining to its proper act of believing; infused faith inclines more strongly than acquired; faith can make assent meritorious given charity (Augustine). Then introduces Francis of Marchia's opinion that the wayfarer's theology is proper science because the articles are self-evident or deduced from self-evident truths in natural light.",
+    "claims": [
+      "Faith is both light and habit, inclining to firm adherence",
+      "Faith makes assent meritorious when charity and the other requisites are present",
+      "We are called to believe by grace; believing we acquire merit (Augustine, 83 Questions)"
+    ],
+    "concepts": [
+      "faith as light and habit",
+      "merit",
+      "charity",
+      "Francis of Marchia"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e2625"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e2728": {
+    "summary": "Continues the exposition of Francis of Marchia's opinion in four points: demonstrating a property of a subject differs from demonstrating the truth of a proposition, yet the two imply each other; the truth of 'God is three and one' is evidently demonstrable by the wayfarer a posteriori; and from that truth the predicate is concluded of the subject. The proof: whatever God reveals is infallibly true, and that God revealed the articles is evident from necessary supernatural signs, since probable signs could produce only probable faith.",
+    "claims": [
+      "Demonstrating a predicate of a subject and demonstrating the truth of the proposition imply each other",
+      "Every theological proposition is evidently demonstrable a posteriori by a wayfarer",
+      "Revelation of the articles is evident through supernatural signs that are necessary, not merely probable",
+      "Probable signs produce only probable faith"
+    ],
+    "concepts": [
+      "Francis of Marchia",
+      "truth of propositions",
+      "demonstration a posteriori",
+      "supernatural signs",
+      "credibility of revelation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e2671"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e2876": {
+    "summary": "Francis's second argument: no conclusion exceeds the certainty of its middle; supernatural signs stand to faith as middle to conclusion, and faith is certain, so the signs are certain, not probable.",
+    "claims": [
+      "Faith cannot be more certain than the signs on which it rests",
+      "Faith is certain, so its signs are necessary"
+    ],
+    "concepts": [
+      "certainty",
+      "middle term",
+      "supernatural signs"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e2728"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e2893": {
+    "summary": "Third argument: as natural signs to natural causes so supernatural to supernatural; probable signs would generate only probable belief, so Catholics would hold the articles only probably, and faith would be opinion.",
+    "claims": [
+      "Merely probable signs yield only probable belief",
+      "Faith would then be a kind of opinion, which is false"
+    ],
+    "concepts": [
+      "natural and supernatural signs",
+      "opinion",
+      "faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e2876"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e2911": {
+    "summary": "Fourth argument: a non-necessary middle cannot cause necessary assent, and the assent of faith is as certain as scientific assent (nothing is held more firmly than what is held by faith), so faith rests on necessary signs.",
+    "claims": [
+      "Certain assent requires a necessary middle",
+      "Faith's assent is as firm as scientific assent"
+    ],
+    "concepts": [
+      "necessary middle",
+      "firmness of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e2893"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e2944": {
+    "summary": "Fifth argument: a probable middle generates only opinion (Topics I), and faith is above opinion, so it rests on a necessary middle; this proves the first of Francis's conclusions.",
+    "claims": [
+      "Probable middles generate only opinion",
+      "Faith is above opinion and so rests on a necessary middle"
+    ],
+    "concepts": [
+      "opinion",
+      "Topics",
+      "necessary middle"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e2911"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e2966": {
+    "summary": "Proof of Francis's main conclusion: any habit resting on a necessary middle is proper science, and faith rests on a necessary middle; otherwise the certainty of faith would be due to chance.",
+    "claims": [
+      "A habit resting on a necessary middle is proper science",
+      "Without a necessary middle, faith's certainty would be a matter of chance"
+    ],
+    "concepts": [
+      "necessary middle",
+      "certainty of faith",
+      "scientia proprie dicta"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e2944"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e2979": {
+    "summary": "Second proof: faith of itself is indifferent to true and false, like opinion, and so is determined to the true only by some habit that regards the true determinately; this cannot be opinion, art, prudence or understanding, so it is science or wisdom (and all wisdom is science).",
+    "claims": [
+      "Faith of itself is indifferent to truth and falsity",
+      "Faith is determined to truth only by a habit determinately regarding truth",
+      "That habit must be science or wisdom"
+    ],
+    "concepts": [
+      "indeterminacy of faith",
+      "determining habit",
+      "intellectual virtues"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e2966"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e3012": {
+    "summary": "Identifies the two conclusions on which Francis's opinion rests — that the articles' truth can be evidently concluded through supernatural signs, and that the wayfarer's theology rests on a necessary middle evident to us — and announces two opposing conclusions.",
+    "claims": [],
+    "concepts": [
+      "Francis of Marchia",
+      "supernatural signs",
+      "necessary middle"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e2979"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e3035": {
+    "summary": "First opposing conclusion: the truth of the articles is not evidently demonstrable through supernatural signs, because from signs only believed and not clearly seen nothing is evidently demonstrable, and the signs, being past, are believed rather than seen.",
+    "claims": [
+      "Nothing is evidently demonstrable from signs that are only believed",
+      "The supernatural signs, being past, are only believed by us"
+    ],
+    "concepts": [
+      "supernatural signs",
+      "evidence",
+      "past events",
+      "testimony"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e3012"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e3061": {
+    "summary": "Second proof: natural signs conclude evidently only to one who sees them, and likewise supernatural signs; Francis himself did not see them, so on his own principle he would not be bound to believe the articles indubitably.",
+    "claims": [
+      "Signs conclude evidently only for those who see them",
+      "Francis, not having seen the signs, would on his principle not be bound to believe"
+    ],
+    "concepts": [
+      "signs",
+      "evidence",
+      "ad hominem argument"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e3035"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e3085": {
+    "summary": "Second opposing conclusion: the wayfarer's theology as Francis means it does not rest on a necessary middle evidently concluding for believers (unlike the deductive theology of the fourth conclusion). Rejects Francis's distinction between a proper necessary middle (giving evidence) and an extraneous necessary middle (giving necessary assent without sufficient evidence): a posteriori demonstrations use extraneous middles yet convince all equally; a middle compelling assent would exclude the need of faith; and a self-evident middle cannot be doubted. Then answers Francis's reasons: the signs are believed, not seen; faith is certain because revealed by God, not because demonstrated; and faith is determined to truth because God revealing cannot deceive. Finally presents Francis of Meyronnes's objections to the fourth conclusion: then impossible suppositions could ground science, and false conclusions could be known.",
+    "claims": [
+      "Francis's distinction between proper and extraneous necessary middles fails",
+      "A middle compelling assent excludes the need for faith",
+      "Faith is certain because it is revealed by God, though that it is revealed is believed, not demonstrated",
+      "Faith is determined to truth by God's revelation, not by another inherent habit",
+      "Meyronnes: if deductive theology were science, science could follow from impossible suppositions"
+    ],
+    "concepts": [
+      "necessary middle",
+      "proper vs extraneous middle",
+      "demonstration quia",
+      "certainty of faith",
+      "revelation",
+      "Francis of Meyronnes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e3061"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e3345": {
+    "summary": "Meyronnes's second objection: from a false supposition other falsehoods can be evidently deduced, so if such deduction yielded science, falsehood could be scientifically known, which is impossible.",
+    "claims": [
+      "The false cannot be known, since it is not"
+    ],
+    "concepts": [
+      "Francis of Meyronnes",
+      "falsehood",
+      "science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e3085"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e3354": {
+    "summary": "Meyronnes's third and fourth objections: knowledge presupposing something believed does not resolve to what is simply self-evident; and to know is to know through the cause, but what is predicated of God in theological conclusions has no cause; confirmed because, as Romans says, the just live by faith.",
+    "claims": [
+      "No knowledge presupposing something believed resolves into what is simply self-evident",
+      "Divine predicates have no cause, so cannot be scientifically known",
+      "The just live by faith (Romans 1)"
+    ],
+    "concepts": [
+      "Francis of Meyronnes",
+      "resolution",
+      "causal knowledge",
+      "Romans 1"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e3345"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e3378": {
+    "summary": "Replies to Meyronnes's first two objections: the impossible as such is not knowable, but what is deduced from an impossible supposition may have the ratio of the necessary and be knowable — as doctors ask whether the Son would be distinct from the Holy Spirit if the Spirit did not proceed from him, a question the blessed can know; likewise for false suppositions.",
+    "claims": [
+      "What follows from an impossible supposition can have the character of necessary truth",
+      "Counterfactual Trinitarian questions are meaningful and knowable"
+    ],
+    "concepts": [
+      "impossible supposition",
+      "Filioque counterfactual",
+      "necessary truth"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e3354"
+      ]
+    }
+  },
+  "at8va9-e04861-d1e3408": {
+    "summary": "Replies to the third objection by distinguishing two ways knowledge presupposes something believed — as a principle used in the proof (not proper science) or as a supposed existence not used as premise (proper science, as in the bodies example); to the fourth, science through a cause in inferring or a posteriori suffices; faith is simply necessary for the supposition, but given the supposition the deduction is evident. Replies to the principal arguments: deductive theology being science does not mean faith and science of the same object coexist, and Richard's 'necessary reasons' are necessary by their matter, not by their evidence.",
+    "claims": [
+      "Knowledge using a believed premise as principle is not proper science",
+      "Knowledge merely supposing a believed existence, without using it as a premise, can be proper science",
+      "Faith is required for the supposition, but not further for the evident deduction",
+      "Richard's necessary reasons are necessary by their subject matter, not by evidence"
+    ],
+    "concepts": [
+      "suppositio vs principium",
+      "deductive theology",
+      "Richard of St Victor",
+      "necessary reasons",
+      "faith and science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e04861",
+        "at8va9-e04861-Dd1e677",
+        "at8va9-e04861-d1e3378"
+      ]
+    }
+  },
+  "at8va9-e04861-Dd1e156": {
+    "summary": "Article 1 lays the distinctions for the question: three theological habits (revealed theology proceeding from the articles; declarative-defensive theology from naturally known probable premises; and a deductive habit drawing evident conclusions on the supposition of the articles), three kinds of proper science (a posteriori; a priori in being and inferring; a priori in inferring only), and three orders of priority, the last applying to things really identical but conceptually distinct, such as the divine nature and its attributes, which can ground syllogisms more evident than demonstration propter quid.",
+    "claims": [
+      "There are three theological habits possible to the wayfarer",
+      "Proper science can be a posteriori, a priori in being and inferring, or a priori in inferring only",
+      "Conceptually distinct but really identical items preserve an order in inference that yields highly evident syllogisms"
+    ],
+    "concepts": [
+      "theological habits",
+      "demonstratio quia and propter quid",
+      "priority in inferring",
+      "divine attributes"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e04861-d1e160"
+      ]
+    }
+  },
+  "at8va9-e04861-Dd1e298": {
+    "summary": "Article 2 sets out four conclusions. Revealed theology as distinct from naturally acquired knowledge does not resolve into the self-evident, since assent to it requires the will's command and faith, cannot be compelled, and must be meritorious; hence it is not proper science. The declarative-defensive theological habit is not proper science either, since what is scientific for the believer would be open to the infidel and theological expertise does not make belief firmer. However, a theological habit that deduces conclusions from self-evident premises on the supposition of the articles' existence is proper science, as the example of geometric conclusions about bodies supposed in heaven shows.",
+    "claims": [
+      "Revealed theology does not resolve into principles self-evident in natural light",
+      "Revealed theology is not scientia proprie dicta",
+      "Declarative-defensive theology is not scientia proprie dicta",
+      "Deductive theology on the supposition of the articles is scientia proprie dicta"
+    ],
+    "concepts": [
+      "revealed theology",
+      "declarative theology",
+      "deductive theology",
+      "imperium voluntatis",
+      "merit of faith",
+      "suppositio",
+      "scientia proprie dicta"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e04861-d1e302",
+        "at8va9-e04861-d1e352",
+        "at8va9-e04861-d1e365",
+        "at8va9-e04861-d1e430",
+        "at8va9-e04861-d1e514",
+        "at8va9-e04861-d1e536",
+        "at8va9-e04861-d1e645"
+      ]
+    }
+  },
+  "at8va9-e04861-Dd1e677": {
+    "summary": "Articles 3 and 4 defend the conclusions against rival positions. Against Francis of Marchia's claim that the articles are self-evident or deduced from the self-evident, Vargas shows it contradicts the duty of simple believers, infidels and heretics to believe, was condemned at Paris, and ignores assent on authority. Against Aquinas's subalternation thesis, he argues the wayfarer's and the blessed's theology share subject and principles and that science cannot arise from merely believed principles. Against Henry of Ghent's intermediate light, he denies that such a light is infused, argues it would weaken faith, and holds that believing and knowing the same conclusion at once is contradictory (against Thomas of Strasbourg). Against James of Pamiers he denies that faith makes credibles evident and affirms that infused faith inclines to assent. Against Francis of Marchia's appeal to necessary supernatural signs, he holds the signs are believed, not seen, and faith is certain because of God's revelation. Finally he answers Francis of Meyronnes's objections to deductive theology by distinguishing a believed principle from a believed supposition.",
+    "claims": [
+      "The articles are not self-evident or deduced from the self-evident for wayfarers",
+      "The wayfarer's theology is not subalternate to that of the blessed",
+      "No proper science arises from merely believed principles",
+      "No intermediate light above faith is infused in theologians by common law",
+      "It is contradictory to believe and know the same conclusion at once",
+      "Faith does not make credibles evident, though it inclines to firm assent",
+      "The articles' truth is not evidently demonstrable through supernatural signs",
+      "Deductive theology on a believed supposition is proper science"
+    ],
+    "concepts": [
+      "Francis of Marchia",
+      "Thomas Aquinas",
+      "Henry of Ghent",
+      "Thomas of Strasbourg",
+      "James of Pamiers",
+      "Francis of Meyronnes",
+      "subalternation",
+      "intermediate light",
+      "supernatural signs",
+      "faith and science"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e04861-d1e681",
+        "at8va9-e04861-d1e770",
+        "at8va9-e04861-d1e822",
+        "at8va9-e04861-d1e855",
+        "at8va9-e04861-d1e885",
+        "at8va9-e04861-d1e911",
+        "at8va9-e04861-d1e929",
+        "at8va9-e04861-d1e942",
+        "at8va9-e04861-d1e1033",
+        "at8va9-e04861-d1e1075",
+        "at8va9-e04861-d1e1092",
+        "at8va9-e04861-d1e1114",
+        "at8va9-e04861-d1e1134",
+        "at8va9-e04861-d1e1145",
+        "at8va9-e04861-d1e1158",
+        "at8va9-e04861-d1e1174",
+        "at8va9-e04861-d1e1243",
+        "at8va9-e04861-d1e1274",
+        "at8va9-e04861-d1e1287",
+        "at8va9-e04861-d1e1322",
+        "at8va9-e04861-d1e1392",
+        "at8va9-e04861-d1e1440",
+        "at8va9-e04861-d1e1465",
+        "at8va9-e04861-d1e1487",
+        "at8va9-e04861-d1e1559",
+        "at8va9-e04861-d1e1709",
+        "at8va9-e04861-d1e1785",
+        "at8va9-e04861-d1e1935",
+        "at8va9-e04861-d1e1969",
+        "at8va9-e04861-d1e2125",
+        "at8va9-e04861-d1e2141",
+        "at8va9-e04861-d1e2185",
+        "at8va9-e04861-d1e2246",
+        "at8va9-e04861-d1e2277",
+        "at8va9-e04861-d1e2486",
+        "at8va9-e04861-d1e2586",
+        "at8va9-e04861-d1e2625",
+        "at8va9-e04861-d1e2671",
+        "at8va9-e04861-d1e2728",
+        "at8va9-e04861-d1e2876",
+        "at8va9-e04861-d1e2893",
+        "at8va9-e04861-d1e2911",
+        "at8va9-e04861-d1e2944",
+        "at8va9-e04861-d1e2966",
+        "at8va9-e04861-d1e2979",
+        "at8va9-e04861-d1e3012",
+        "at8va9-e04861-d1e3035",
+        "at8va9-e04861-d1e3061",
+        "at8va9-e04861-d1e3085",
+        "at8va9-e04861-d1e3345",
+        "at8va9-e04861-d1e3354",
+        "at8va9-e04861-d1e3378",
+        "at8va9-e04861-d1e3408"
+      ]
+    }
+  },
+  "at8va9-e04861": {
+    "summary": "The second question asks whether the theological habit possible to a wayfarer in the ordinary order (de lege communi) is scientia proprie dicta. Vargas distinguishes three theological habits and answers differently for each. Revealed theology, which proceeds from the articles as believed principles, and declarative-defensive theology, which argues from probable premises, are not proper science: their principles are not self-evident, assent to them requires the will and faith, and they cannot evidently convince. A deductive habit that draws conclusions from self-evident premises on the supposition of the articles' existence is proper science. He defends this against Aquinas's subalternation, Henry of Ghent's intermediate light, James of Pamiers's evidence in the light of faith, and Francis of Marchia's self-evidence and supernatural signs, insisting throughout that faith concerns the non-apparent and cannot coincide with evident knowledge of the same conclusion.",
+    "claims": [
+      "Revealed theology possible to the wayfarer by common law is not scientia proprie dicta",
+      "Declarative-defensive theology is not scientia proprie dicta",
+      "A theological habit deducing conclusions from self-evident premises on the supposition of the articles is scientia proprie dicta",
+      "Faith is of non-apparent things and assent to it depends on the will and on God's authority",
+      "Believing and scientifically knowing the same conclusion at once is contradictory"
+    ],
+    "concepts": [
+      "theology as science",
+      "viator",
+      "lex communis",
+      "revealed theology",
+      "deductive theology",
+      "faith and science",
+      "subalternation",
+      "intermediate light",
+      "supernatural signs",
+      "imperium voluntatis"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e04861-d1e106",
+        "at8va9-e04861-d1e115",
+        "at8va9-e04861-d1e146",
+        "at8va9-e04861-Dd1e156",
+        "at8va9-e04861-Dd1e298",
+        "at8va9-e04861-Dd1e677"
+      ]
+    }
+  }
+}

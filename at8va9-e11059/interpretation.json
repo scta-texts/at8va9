@@ -1,0 +1,688 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-01T04:32:18Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "create-interpretation-v1",
+    "source_commit": "2712681",
+    "generation_method": "hierarchical",
+    "source_file": "cod-x7yh5z_at8va9-e11059.xml"
+  },
+  "at8va9-e11059-d1e106": {
+    "summary": "Moving from questions about the formal cause of the doctrine (theology's scientific status) to its material cause, poses the general question: whether it belongs to the formal ratio of the first and per se subject of a scientific habit to have properties (passiones) really distinct from it.",
+    "claims": [],
+    "concepts": [
+      "subject of science",
+      "passiones",
+      "real distinction",
+      "causa materialis",
+      "causa formalis"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e11059"
+      ]
+    }
+  },
+  "at8va9-e11059-d1e122": {
+    "summary": "Gives the argument for (no demonstration and so no science is possible of what lacks really distinct properties, since a proposition predicating an indistinct property of a subject is immediate; confirmed because otherwise substance itself could be demonstrated, against Aristotle) and against (if a subject had really distinct properties, God could make it without them, which is impossible); announces the four articles.",
+    "claims": [
+      "Science is the habit of a demonstrated conclusion",
+      "A proposition predicating an indistinct property of its subject is immediate and indemonstrable",
+      "Aristotle denies demonstration of substance",
+      "If properties were really distinct, God could separate subject and property, which is impossible"
+    ],
+    "concepts": [
+      "demonstration",
+      "immediate proposition",
+      "passio",
+      "divine power",
+      "Posterior Analytics",
+      "Metaphysics VI"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e11059",
+        "at8va9-e11059-d1e106"
+      ]
+    }
+  },
+  "at8va9-e11059-d1e178": {
+    "summary": "Article 1 draws three distinctions: the 'subject' of a science as subject in which (the intellect, which does not specify science), subject which (the known conclusion, properly called object, which is complex since only the complex is true), and subject about which (that of which something is known, the subject meant in the question); 'property' as the spoken term, the mental concept, or properly the thing signified; and scientific habits of one conclusion or of several.",
+    "claims": [
+      "The intellect as subject in which does not give science its species or dignity",
+      "The object of science is a complex, since only the complex is true",
+      "The question concerns the subject about which something is known",
+      "A property properly is the thing signified by the term or concept"
+    ],
+    "concepts": [
+      "subiectum in quo",
+      "subiectum quod",
+      "subiectum de quo",
+      "object of science",
+      "voces and conceptus",
+      "Peri hermeneias"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e11059",
+        "at8va9-e11059-Dd1e174"
+      ]
+    }
+  },
+  "at8va9-e11059-d1e247": {
+    "summary": "Article 2, first conclusion: it is not of the formal ratio of the first subject of a scientific habit to virtually contain first all the truths of that habit. Proofs: the same truth would be virtually contained first in diverse subjects (subalternate and subalternating sciences); virtual containment belongs to the middle term, which has the ratio of cause, rather than to the subject — rejecting Rodington's reply that the middle is the subject's definition, since the middle is often extrinsic (the exterior angle for the triangle, interposition of the moon or earth for eclipses); and knowledge of a subject may be possible without knowledge of its property, as the man blind from birth knows the crow but not its blackness.",
+    "claims": [
+      "The first subject of a science does not as such virtually contain all the science's truths",
+      "Virtual containment of the conclusion belongs to the middle term as cause propter quid",
+      "The middle of demonstration is not always the definition of the subject",
+      "Many truths cannot be known without knowledge of something extrinsic to the subject",
+      "Knowledge of a subject does not always include knowledge of its demonstrable property"
+    ],
+    "concepts": [
+      "virtual containment",
+      "subject of science",
+      "middle term",
+      "Rodington",
+      "eclipse",
+      "triangle",
+      "subalternation",
+      "Scotus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e11059",
+        "at8va9-e11059-Dd1e243"
+      ]
+    }
+  },
+  "at8va9-e11059-d1e429": {
+    "summary": "Fourth proof: the subject does not always virtually contain the predicate, since sometimes the predicate is more perfect, as when it is demonstrated that substantial form can inform matter, and the less perfect cannot contain the more perfect.",
+    "claims": [
+      "The less perfect does not virtually contain the more perfect",
+      "The predicate can be more perfect than the subject"
+    ],
+    "concepts": [
+      "virtual containment",
+      "perfection",
+      "form and matter"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e11059",
+        "at8va9-e11059-Dd1e243",
+        "at8va9-e11059-d1e247"
+      ]
+    }
+  },
+  "at8va9-e11059-d1e449": {
+    "summary": "Second conclusion: the formal ratio of the first subject of science is not being the subject relative to the predicate in a known conclusion, if that subject is a word or concept; because of the first subject of a science one presupposes what it is and that it is, which is not presupposed of a word or concept; the reply distinguishing the term from what it supposits for concedes the point; and properties like risibility or beatifiability belong to things, not to words or concepts.",
+    "claims": [
+      "Of the first subject of a science one presupposes quid est and quia est",
+      "Properties demonstrated belong to things, not to words or concepts",
+      "The first subject of a science is what the term supposits for, not the term"
+    ],
+    "concepts": [
+      "subject of science",
+      "supposition",
+      "word and concept",
+      "Posterior Analytics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e11059",
+        "at8va9-e11059-Dd1e243",
+        "at8va9-e11059-d1e429"
+      ]
+    }
+  },
+  "at8va9-e11059-d1e501": {
+    "summary": "Third proof of the second conclusion (the first subject is intended principally in a science, while terms are intended only for the sake of things, as signs) and the third conclusion: the formal ratio of the first subject of a single-conclusion science is to be the thing signified by the subject term or concept of that conclusion; for a many-conclusion science, it is the thing signified by the subject of the first and principal conclusion. Proofs of the first part: something is truly known of the thing (the earth is round), not of the concept; and the unity and distinction of sciences follow things, not words (De anima III).",
+    "claims": [
+      "Words and concepts are intended in science only for the sake of the things they signify",
+      "The first subject of a one-conclusion science is the thing signified by the subject of that conclusion",
+      "The first subject of a many-conclusion science is the thing signified by the subject of its first and principal conclusion",
+      "Sciences are divided as things are (De anima III)"
+    ],
+    "concepts": [
+      "subject of science",
+      "signification",
+      "things vs signs",
+      "unity of science",
+      "De anima III"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e11059",
+        "at8va9-e11059-Dd1e243",
+        "at8va9-e11059-d1e449"
+      ]
+    }
+  },
+  "at8va9-e11059-d1e606": {
+    "summary": "Further proof: science is impossible without knowledge of the thing signified by the subject of the known conclusion, and that thing is none of the other components (premises, conclusion, subject term, predicate, middle), so it is the first subject; confirmed because science perishes if that thing is annihilated though it survives the annihilation of the other components.",
+    "claims": [
+      "Science cannot exist without knowledge of the thing signified",
+      "With that thing annihilated, the conclusion cannot be known"
+    ],
+    "concepts": [
+      "components of science",
+      "annihilation",
+      "thing signified"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e11059",
+        "at8va9-e11059-Dd1e243",
+        "at8va9-e11059-d1e501"
+      ]
+    }
+  },
+  "at8va9-e11059-d1e658": {
+    "summary": "Fourth proof of the first part (the formal ratio of the subject is that with which the subject is posited and without which it is not; science presupposes imperfect knowledge of the thing and acquires perfect knowledge) and proof of the second part: a many-conclusion science such as metaphysics or natural philosophy has one first subject, which can only be the thing signified by the subject of its first and principal conclusion.",
+    "claims": [
+      "The thing signified is what, when posited, makes there be a subject of science",
+      "A science of many conclusions has one first subject",
+      "That subject is the thing signified in its first and principal conclusion"
+    ],
+    "concepts": [
+      "formal ratio of subject",
+      "unity of science",
+      "metaphysics",
+      "natural philosophy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e11059",
+        "at8va9-e11059-Dd1e243",
+        "at8va9-e11059-d1e606"
+      ]
+    }
+  },
+  "at8va9-e11059-d1e726": {
+    "summary": "Further proof of the second part: the order among conclusions mirrors the order among their subjects and the things signified, and all conclusions of a science are ordered and attributed to its first conclusion, so the thing signified in the first conclusion is the subject to which all others are ordered.",
+    "claims": [
+      "The order of conclusions mirrors the order of their subjects",
+      "All subjects of a science's conclusions are attributed to the subject of the first conclusion"
+    ],
+    "concepts": [
+      "attribution",
+      "order of conclusions",
+      "subject of science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e11059",
+        "at8va9-e11059-Dd1e243",
+        "at8va9-e11059-d1e658"
+      ]
+    }
+  },
+  "at8va9-e11059-d1e757": {
+    "summary": "Fourth conclusion: it is not of the formal ratio of the first subject of science to have really distinct properties. Proved because metaphysics, a demonstrative science (Averroes), has as subject being as being, which has no really distinct properties (being and one are the same nature, against Avicenna; Grosseteste); and because God, subject of the theology of comprehensors and wayfarers, created and uncreated, has no really distinct properties.",
+    "claims": [
+      "Metaphysics is a demonstrative science of being as being",
+      "Being and one, its property, are the same nature (Aristotle and Averroes against Avicenna)",
+      "God, the subject of theology, has no properties really distinct from him",
+      "Having really distinct properties is not required for being the subject of science"
+    ],
+    "concepts": [
+      "metaphysics",
+      "ens inquantum ens",
+      "unum",
+      "Averroes",
+      "Avicenna",
+      "Grosseteste",
+      "God as subject of theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e11059",
+        "at8va9-e11059-Dd1e243",
+        "at8va9-e11059-d1e726"
+      ]
+    }
+  },
+  "at8va9-e11059-d1e840": {
+    "summary": "Third proof: whatever can be grasped by a quidditative and a denominative concept that is true and necessary can be the subject of science, since any necessary non-self-evident proposition is demonstrable; being and God can be so conceived through essential and attribute concepts though lacking really distinct properties; closes Article 2.",
+    "claims": [
+      "Every necessary proposition that is not self-evident is demonstrable",
+      "What can be conceived by quidditative and denominative concepts can be the subject of a science",
+      "God can be conceived by essential and attribute concepts"
+    ],
+    "concepts": [
+      "quidditative and denominative concepts",
+      "demonstrability",
+      "divine attributes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e11059",
+        "at8va9-e11059-Dd1e243",
+        "at8va9-e11059-d1e757"
+      ]
+    }
+  },
+  "at8va9-e11059-d1e891": {
+    "summary": "Fragmentary opening of Articles 3 and 4 (continued in the next paragraph), announcing that doubts against the conclusions will be raised and resolved.",
+    "claims": [],
+    "concepts": [
+      "dubia",
+      "structure of the question"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e11059",
+        "at8va9-e11059-Dd1e887"
+      ]
+    }
+  },
+  "at8va9-e11059-d1e898": {
+    "summary": "Presents Scotus's opinion against the first conclusion — the first subject virtually contains all truths of its science — with his arguments: the subject contains the predicate of immediate propositions, which contain the conclusions (as reformulated by Landulphus through the first principle); the subject is the equivocal and adequate cause of the science; and, from others, essentially ordered truths must stop at something first, which can only be the subject, since every predicate is virtually contained in its subject.",
+    "claims": [
+      "Scotus: the first subject contains the immediate propositions and through them all conclusions",
+      "The subject is an equivocal and adequate cause of the science",
+      "In essentially ordered truths there must be a first, which is the subject"
+    ],
+    "concepts": [
+      "Scotus",
+      "Landulphus Caracciolo",
+      "virtual containment",
+      "equivocal cause",
+      "essential order"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e11059",
+        "at8va9-e11059-Dd1e887",
+        "at8va9-e11059-d1e891"
+      ]
+    }
+  },
+  "at8va9-e11059-d1e989": {
+    "summary": "A fourth argument for Scotus (the subject's entity virtually contains that of its properties, so their truth) followed by the replies: the major fails in subalternate sciences and in a posteriori sciences; containment of the predicate can mean entity or knowledge, and knowledge of a property (that it is, what it is, why it belongs) is not generally contained in the subject's — sometimes the property is better known and proves the subject a posteriori, as effects prove God exists; the subject need not be the efficient cause of science; if a cause, it causes the property, not the conclusion; and knowing a cause like the sun does not give perfect knowledge of its effects.",
+    "claims": [
+      "The subject does not virtually contain the immediate propositions in subalternate or a posteriori sciences",
+      "Knowledge of a subject does not regularly contain knowledge of its property in any of the three ways",
+      "Sometimes the property is better known than the subject and proves it a posteriori, as God's existence is proved from effects",
+      "Many doctors hold the subject is not the efficient cause of science but its matter",
+      "Knowing an efficient cause does not give knowledge of its effects' genus and difference"
+    ],
+    "concepts": [
+      "Scotus",
+      "virtual containment",
+      "demonstratio quia",
+      "existence of God",
+      "eclipse",
+      "subject as cause of science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e11059",
+        "at8va9-e11059-Dd1e887",
+        "at8va9-e11059-d1e898"
+      ]
+    }
+  },
+  "at8va9-e11059-d1e1195": {
+    "summary": "Replies to Landulphus's arguments (in subalternate sciences resolution stops at the higher science's subject; analysis ends in subject, predicate and middle, and of these the middle is principal as cause; the cause of demonstration is the middle; Aristotle's link of being and truth concerns intrinsic perfection), then presents Michael of Massa's and Ockham's opinion against the third conclusion: the subject of science is the subject of the known conclusion, since science needs only principles, subject, middle and property, and the subject is 'subjected' only in the conclusion; and science can be had without knowledge of anything besides the premises, conclusion, terms and middle.",
+    "claims": [
+      "In subalternate sciences resolution terminates at the subalternating science's subject",
+      "The middle, not the subject, is the cause propter quid of the conclusion",
+      "Aristotle's correlation of being and truth concerns intrinsic perfection, not knowledge of effects through causes",
+      "Michael of Massa: the subject of science is the subject of the known conclusion",
+      "Ockham: science requires knowledge only of premises, conclusion, terms and middle"
+    ],
+    "concepts": [
+      "Landulphus",
+      "Michael of Massa",
+      "Ockham",
+      "middle term",
+      "subject of conclusion",
+      "resolution"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e11059",
+        "at8va9-e11059-Dd1e887",
+        "at8va9-e11059-d1e989"
+      ]
+    }
+  },
+  "at8va9-e11059-d1e1339": {
+    "summary": "Ockham's further argument: the subject of science is something incomplex, and besides the subject and predicate of the conclusion the only incomplex is the middle, so the subject of science is the subject of the conclusion.",
+    "claims": [
+      "The only incomplex items in a demonstration are subject, predicate and middle"
+    ],
+    "concepts": [
+      "Ockham",
+      "incomplex terms"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e11059",
+        "at8va9-e11059-Dd1e887",
+        "at8va9-e11059-d1e1195"
+      ]
+    }
+  },
+  "at8va9-e11059-d1e1350": {
+    "summary": "Further argument: everyone agrees the subject is that of which properties are considered, and this is always the subject of the conclusion.",
+    "claims": [
+      "The subject of science is that of which properties are considered"
+    ],
+    "concepts": [
+      "properties",
+      "subject of conclusion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e11059",
+        "at8va9-e11059-Dd1e887",
+        "at8va9-e11059-d1e1339"
+      ]
+    }
+  },
+  "at8va9-e11059-d1e1357": {
+    "summary": "Further argument: the first ratio of a subject is that with which, all else removed, something is a subject; merely being the subject of a known conclusion suffices for being the subject of the science.",
+    "claims": [
+      "Being the subject of a known conclusion suffices to be the subject of the science"
+    ],
+    "concepts": [
+      "formal ratio of subject",
+      "Ockham"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e11059",
+        "at8va9-e11059-Dd1e887",
+        "at8va9-e11059-d1e1350"
+      ]
+    }
+  },
+  "at8va9-e11059-d1e1379": {
+    "summary": "Replies to Michael of Massa (the subject of the conclusion follows the intellect's composing operation while the subject of science precedes it; the conclusion itself is another necessary component; the subject is so called because subjected to the demonstrable property) and to Ockham (science requires knowledge of the thing, since truth depends on what is; 'every man is capable of learning' is known for the thing, not the word; science is of things, not words; the last argument would equally make the predicate the subject, and positing a conclusion's subject without the thing is contradictory). Then presents the English opinion that the thing outside is not the first subject: a science has one subject, but the things signified are many individuals; neither a universal elephant nor any particular one could be the subject.",
+    "claims": [
+      "The subject of the conclusion follows the intellect's operation, while the subject of science precedes it",
+      "The truth of a conclusion depends on the thing signified",
+      "Science concerns things, not words or concepts",
+      "A conclusion is known for the thing it signifies, not for itself",
+      "English opinion: the thing outside the soul cannot be the one subject of a science since the things signified are many"
+    ],
+    "concepts": [
+      "Michael of Massa",
+      "Ockham",
+      "English theologians",
+      "truth and being",
+      "unity of the subject",
+      "universals"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e11059",
+        "at8va9-e11059-Dd1e887",
+        "at8va9-e11059-d1e1357"
+      ]
+    }
+  },
+  "at8va9-e11059-d1e1548": {
+    "summary": "Further English arguments: there is no science of singulars and outside things are only singular, since universals are nothing or posterior (De anima I); one can know about roses in winter when none exist; and God knew man from eternity though no man existed, so the thing outside is not the subject.",
+    "claims": [
+      "There is no science or definition of singulars",
+      "Science of roses persists when no rose exists",
+      "God knew man from eternity though no man existed"
+    ],
+    "concepts": [
+      "universals",
+      "singulars",
+      "existence of the object",
+      "divine knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e11059",
+        "at8va9-e11059-Dd1e887",
+        "at8va9-e11059-d1e1379"
+      ]
+    }
+  },
+  "at8va9-e11059-d1e1585": {
+    "summary": "Replies to the English arguments. Rejecting real common natures — every thing is particular — Vargas holds that unity of subject does not require numerical or specific real unity but only a unity of per se order or essential likeness among individuals (as many men make one people): the subject of the science of elephants is 'elephant indeterminately taken', one or many, whatever exist — a vague individual, which explains why the subject abstracts from existence. He rebuts the objection that every thing is determinate by the example of giving any two of a thousand florins (a fallacy of figure of speech). The subject is universal virtually and objectively, not formally; science of roses in winter concerns essence, not existence; and God's eternal knowledge of man has God himself as its subject.",
+    "claims": [
+      "Every thing in the world is particular and none universal",
+      "The subject of a science need not be one by numerical or real common unity; unity of per se order suffices",
+      "The subject of the science of man is man taken indeterminately, any one or many",
+      "Inferring from 'each is determinate' to 'some is determinately the subject' commits a fallacy of figure of speech",
+      "The subject of science is universal virtually and objectively, not formally",
+      "The subject of God's eternal knowledge of man is the deity itself"
+    ],
+    "concepts": [
+      "universals",
+      "individuum vagum",
+      "unity of per se order",
+      "florins example",
+      "fallacia figurae dictionis",
+      "Averroes on definitions",
+      "divine knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e11059",
+        "at8va9-e11059-Dd1e887",
+        "at8va9-e11059-d1e1548"
+      ]
+    }
+  },
+  "at8va9-e11059-d1e1903": {
+    "summary": "Replies to Landulphus's argument against the fourth conclusion (that the cause showing a property must be a cause in being, which requires real distinction): some a priori demonstrations have a middle that is a cause only in inferring; Aristotle's 'prior simply' includes what is prior in concept; Grosseteste defines a narrower kind of knowing; demonstration produces science because it infers from true, immediate, necessary premises, not because its middle is a cause in being.",
+    "claims": [
+      "Some demonstrations have a middle that is a cause only in inferring, not in being",
+      "Things prior simply in concept but not in reality are causes only in inferring",
+      "Grosseteste defines a special case of science, a priori in being and inferring",
+      "Demonstration differs from dialectical and false syllogisms by its true, immediate, necessary premises"
+    ],
+    "concepts": [
+      "Landulphus",
+      "causa in essendo et in inferendo",
+      "Grosseteste",
+      "demonstration",
+      "priority in concept"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e11059",
+        "at8va9-e11059-Dd1e887",
+        "at8va9-e11059-d1e1585"
+      ]
+    }
+  },
+  "at8va9-e11059-d1e1953": {
+    "summary": "Replies to the principal arguments: not every proposition predicating an indistinct property is immediate, since it can be proved a posteriori or a priori in inferring; substance can be demonstrated in these ways (every man is an animal through the definition of animal), though not a priori in being; and against the contrary argument, properties are often really distinct, with God's power to separate them deferred.",
+    "claims": [
+      "Propositions with indistinct properties can be demonstrated a posteriori or a priori in inferring",
+      "Substance can be demonstrated, though not a priori through a cause in being",
+      "Many demonstrable properties are really distinct from their subjects"
+    ],
+    "concepts": [
+      "demonstration of substance",
+      "immediate proposition",
+      "response to principal arguments"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "at8va9-e11059",
+        "at8va9-e11059-Dd1e887",
+        "at8va9-e11059-d1e1903"
+      ]
+    }
+  },
+  "at8va9-e11059-Dd1e174": {
+    "summary": "Article 1 distinguishes three senses of the subject of a science (in which, which, about which), fixing on the subject about which something is known; three senses of 'property' (word, concept, or thing signified), taking the thing signified as proper; and scientific habits of one or many conclusions.",
+    "claims": [
+      "The question concerns the subject about which something is known",
+      "A property properly is the thing signified"
+    ],
+    "concepts": [
+      "subiectum de quo",
+      "object of science",
+      "passio",
+      "signification"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e11059-d1e178"
+      ]
+    }
+  },
+  "at8va9-e11059-Dd1e243": {
+    "summary": "Article 2 gives four conclusions. The first subject of a science does not as such virtually contain all its truths, since that role belongs to the middle term, which is often extrinsic to the subject. The first subject is not a word or concept functioning as subject of the conclusion. It is the thing signified by the subject of the (first and principal) known conclusion. Having really distinct properties is not part of its formal ratio, as metaphysics (being and one) and theology (God) show.",
+    "claims": [
+      "The first subject does not virtually contain all truths of its science",
+      "The first subject is not a word or concept",
+      "The first subject is the thing signified by the subject term of the first known conclusion",
+      "Having really distinct properties is not of the formal ratio of the first subject"
+    ],
+    "concepts": [
+      "virtual containment",
+      "middle term",
+      "signification",
+      "metaphysics",
+      "God as subject"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e11059-d1e247",
+        "at8va9-e11059-d1e429",
+        "at8va9-e11059-d1e449",
+        "at8va9-e11059-d1e501",
+        "at8va9-e11059-d1e606",
+        "at8va9-e11059-d1e658",
+        "at8va9-e11059-d1e726",
+        "at8va9-e11059-d1e757",
+        "at8va9-e11059-d1e840"
+      ]
+    }
+  },
+  "at8va9-e11059-Dd1e887": {
+    "summary": "Articles 3 and 4 answer objections. Against Scotus and Landulphus on virtual containment, Vargas shows that subject-knowledge does not regularly contain property-knowledge and that the middle term is the true cause of the conclusion. Against Michael of Massa and Ockham, who identify the subject of science with the subject of the conclusion, he insists science is of things signified. Against the English view that the thing outside cannot be the one subject, he holds, as a nominalist about real universals, that unity of per se order among individuals suffices and that the subject is the indeterminately taken individual. Against Landulphus on the fourth conclusion, he defends demonstrations through causes in inferring only.",
+    "claims": [
+      "The middle term, not the subject, virtually contains the conclusion",
+      "The subject of science is the thing signified, not the concept",
+      "Unity of per se order among particulars suffices for the unity of a science's subject",
+      "Demonstration does not require a middle that is a cause in being"
+    ],
+    "concepts": [
+      "Scotus",
+      "Landulphus",
+      "Michael of Massa",
+      "Ockham",
+      "English theologians",
+      "universals",
+      "individuum vagum",
+      "causa in inferendo"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e11059-d1e891",
+        "at8va9-e11059-d1e898",
+        "at8va9-e11059-d1e989",
+        "at8va9-e11059-d1e1195",
+        "at8va9-e11059-d1e1339",
+        "at8va9-e11059-d1e1350",
+        "at8va9-e11059-d1e1357",
+        "at8va9-e11059-d1e1379",
+        "at8va9-e11059-d1e1548",
+        "at8va9-e11059-d1e1585",
+        "at8va9-e11059-d1e1903",
+        "at8va9-e11059-d1e1953"
+      ]
+    }
+  },
+  "at8va9-e11059": {
+    "summary": "Turning to the material cause of theology, the fifth question asks in general whether the first subject of a science must have properties really distinct from it. Vargas first argues that the first subject does not as such virtually contain all the science's truths, since the middle term, often extrinsic to the subject, plays that role. He holds that the subject is not the word or concept in the conclusion but the thing it signifies, whose unity, given that all things are particular, is a unity of per se order among indeterminately taken individuals. He answers no to the question: being in metaphysics and God in theology lack really distinct properties yet are subjects of science, since demonstration through a cause in inferring suffices.",
+    "claims": [
+      "It is not of the formal ratio of a science's first subject to have really distinct properties",
+      "The first subject does not as such virtually contain all the truths of its science",
+      "The first subject is the thing signified by the subject term of the first known conclusion, not the term or concept",
+      "All things are particular; the unity of a science's subject is a unity of per se order",
+      "Demonstration through a cause in inferring only suffices for proper science"
+    ],
+    "concepts": [
+      "subject of science",
+      "passiones",
+      "real distinction",
+      "virtual containment",
+      "middle term",
+      "signification",
+      "universals",
+      "metaphysics",
+      "God as subject",
+      "causa in inferendo"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e11059-d1e106",
+        "at8va9-e11059-d1e122",
+        "at8va9-e11059-Dd1e174",
+        "at8va9-e11059-Dd1e243",
+        "at8va9-e11059-Dd1e887"
+      ]
+    }
+  }
+}
