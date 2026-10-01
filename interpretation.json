@@ -1,0 +1,138 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-01T10:40:00Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "create-interpretation-ancestors-v1",
+    "source_commit": "f544a40",
+    "generation_method": "hierarchical",
+    "scope": "Ancestor nodes above item level with at least one interpreted descendant; currently only the Book 1 prologue is covered",
+    "source_structure": "~/Projects/scta/scta-projectfiles/at8va9.xml"
+  },
+  "at8va9-d1e52": {
+    "summary": "The prologue to Book 1 opens with a sermon-style praeambulum on 'Ego sum alpha et omega' (Apoc. 1). In it Vargas argues that sacred theology is both the first of all sciences, in duration, perfection, direction and correction, and the last, as the end to which all sciences and human acts are ordered. He also maps the theme verse onto the four books of the Sentences. Ten questions follow, examining theology through its causes. The first four (formal cause) ask whether theology is a science. By God's absolute power a wayfarer can have evident, deductive knowledge of theological truths derived from intuitive vision of God, and this counts as proper science (q1). In the ordinary order Vargas distinguishes three theological habits. Revealed theology, which proceeds from the articles as believed principles, is not science and is not really distinct from faith. Declarative-defensive theology is not science either; it is an opinion without fear of the opposite. Only deductive theology, which reasons from self-evident premises on the supposition of the articles, is proper science (q2–q3). The articles of faith are principles only of revealed theology, and its sole first principles are the Trinity and the Incarnation (q4). Questions 5–8 turn to the material cause, the subject of theology. A science's first subject need not have really distinct properties (q5). Created theology does not have God under the ratio of deity absolutely as its subject, since a finite intellect cannot know the infinite as infinite (q6). Instead its subject is deity under a virtually finite ratio, proportioned to the created intellect (q7). This is confirmed by the principle that an infinite subject would entail an infinite science (q8). The efficient cause is set aside as evident. For the final cause, theology's principal end is meritorious love of God, which is neither praxis nor speculation (q9). Theology is therefore neither practical nor speculative but affective, and Vargas proposes a threefold division of science into practical, speculative and affective (q10). The praeambulum's rhetorical claim that theology is the end of all sciences thus receives its disputational form in the final two questions. Throughout the questions he argues against Aquinas, Scotus, Henry of Ghent, Aureol, Ockham, Rodington and others, often following Giles of Rome.",
+    "claims": [
+      "Sacred theology is the first and last of all sciences, prior to them and their end (praeambulum)",
+      "The four books of the Sentences correspond to the theme Ego sum alpha et omega: being, creation, Incarnation, final holiness",
+      "By God's absolute power a wayfarer can have evident, deductive theological knowledge that is proper science",
+      "In the ordinary order only deductive theology, not revealed or declarative-defensive theology, is scientia proprie dicta",
+      "Revealed theology is not really distinct from faith; declarative and deductive theology are",
+      "The articles of faith are principles only of revealed theology, whose first principles are the Trinity and the Incarnation",
+      "A science's first subject need not have really distinct properties",
+      "Created theology has as its subject God under a virtually finite ratio proportioned to the created intellect, not deity absolutely",
+      "An infinite formal subject would entail an infinite science",
+      "The principal end of theology is meritorious love of God, which is neither praxis nor speculation",
+      "Theology is an affective science, and science divides into practical, speculative and affective"
+    ],
+    "concepts": [
+      "primacy of theology",
+      "theology as end of the sciences",
+      "division of the Sentences",
+      "theology as science",
+      "causes of theology",
+      "viator",
+      "potentia Dei absoluta",
+      "intuitive cognition",
+      "revealed theology",
+      "declarative theology",
+      "deductive theology",
+      "faith and science",
+      "articles of faith",
+      "subject of theology",
+      "divine infinity",
+      "virtual finitude",
+      "final cause of theology",
+      "dilectio Dei meritoria",
+      "scientia affectiva",
+      "Giles of Rome",
+      "Thomas Aquinas",
+      "Scotus",
+      "Henry of Ghent",
+      "Peter Aureol",
+      "Rodington"
+    ],
+    "_metadata": {
+      "level": "prologus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-e00003",
+        "at8va9-e00484",
+        "at8va9-e04861",
+        "at8va9-e08253",
+        "at8va9-e09731",
+        "at8va9-e11059",
+        "at8va9-e12961",
+        "at8va9-e15127",
+        "at8va9-e17285",
+        "at8va9-e18602",
+        "at8va9-e20777"
+      ],
+      "partial": false,
+      "model": "claude-opus-5-5",
+      "prompt_version": "create-interpretation-ancestors-v1",
+      "generated_at": "2026-10-01T10:40:00Z",
+      "source_commit": "f544a40",
+      "source_structure": "~/Projects/scta/scta-projectfiles/at8va9.xml"
+    }
+  },
+  "at8va9-d1e48": {
+    "summary": "This summary rests only on the prologue to Book 1, which is now fully interpreted (the praeambulum and ten questions). None of distinctions 1–48 is yet interpreted, so it says nothing about the body of the commentary on Book 1. The praeambulum presents theology as first and last of the sciences and introduces Book 1 as treating God in his intrinsic perfection. The prologue questions then establish theology's status, subject and end. Only deductive theology is proper science, while revealed theology is not really distinct from faith and declarative theology is a kind of opinion. The subject of created theology is deity under a virtually finite ratio, proportioned to the created intellect. Theology's end is meritorious love of God, which makes theology an affective rather than a practical or speculative science.",
+    "claims": [
+      "Sacred theology is both first and last of the sciences, ordered as their end",
+      "In the ordinary order only deductive theology is scientia proprie dicta",
+      "Created theology has God under a virtually finite ratio as its subject",
+      "Theology's principal end is meritorious love of God, and theology is an affective science"
+    ],
+    "concepts": [
+      "theology as science",
+      "faith and science",
+      "subject of theology",
+      "virtual finitude",
+      "final cause of theology",
+      "scientia affectiva"
+    ],
+    "_metadata": {
+      "level": "liber",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-d1e52"
+      ],
+      "partial": true,
+      "coverage": "1 of 27 direct children have interpretations (only at8va9-d1e52, l1prol, which is fully covered)",
+      "model": "claude-opus-5-5",
+      "prompt_version": "create-interpretation-ancestors-v1",
+      "generated_at": "2026-10-01T10:40:00Z",
+      "source_commit": "f544a40",
+      "source_structure": "~/Projects/scta/scta-projectfiles/at8va9.xml"
+    }
+  },
+  "at8va9": {
+    "summary": "This summary rests only on the prologue to Book 1 of Alphonsus Vargas of Toledo's Commentary on the Sentences. That prologue is fully interpreted, but no distinction of Book 1 is yet interpreted, so the summary does not describe the work as a whole. In a sermon-style praeambulum Vargas presents theology as the first and last of all sciences and maps his theme verse onto the four books of the Sentences. In the prologue questions he restricts proper science to deductive theology, which reasons from self-evident premises on the supposition of the articles. He makes the subject of created theology God under a ratio virtually proportioned to the finite intellect. He also holds that theology aims principally at meritorious love of God, and on that basis argues that it is an affective science, beyond the philosophers' division of science into practical and speculative.",
+    "claims": [
+      "Only deductive theology is scientia proprie dicta for the wayfarer in the ordinary order",
+      "The subject of created theology is God under a virtually finite ratio",
+      "Theology is an affective science ordered to meritorious love of God"
+    ],
+    "concepts": [
+      "theology as science",
+      "subject of theology",
+      "scientia affectiva",
+      "love of God",
+      "Sentences commentary"
+    ],
+    "_metadata": {
+      "level": "work",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "at8va9-d1e48"
+      ],
+      "partial": true,
+      "coverage": "1 of 1 direct children have interpretations (at8va9-d1e48, Liber 1, which is itself partial)",
+      "model": "claude-opus-5-5",
+      "prompt_version": "create-interpretation-ancestors-v1",
+      "generated_at": "2026-10-01T10:40:00Z",
+      "source_commit": "f544a40",
+      "source_structure": "~/Projects/scta/scta-projectfiles/at8va9.xml"
+    }
+  }
+}

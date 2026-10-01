@@ -1,0 +1,456 @@
+{
+ "_metadata": {
+  "schema_version": "1.0",
+  "generated_at": "2026-10-01T10:31:00Z",
+  "model": "claude-opus-5-5",
+  "prompt_version": "create-interpretation-v1",
+  "source_commit": "f544a40",
+  "generation_method": "hierarchical",
+  "source_file": "cod-x7yh5z_at8va9-e00003.xml"
+ },
+ "at8va9-e00003-d1e103": {
+  "summary": "Contains no text. It holds only the page and column markers (fol. 9r, col. a) that open the praeambulum in the Venice 1490 witness.",
+  "claims": [],
+  "concepts": [],
+  "_metadata": {
+   "level": "paragraph",
+   "generation_method": "source_text_with_context",
+   "context_ids": [
+    "at8va9-e00003"
+   ]
+  }
+ },
+ "at8va9-e00003-d1e110": {
+  "summary": "The incipit rubric introduces the work as a lectura on the first book of the Sentences. It is attributed to Brother Alphonsus of Toledo, styled an outstanding doctor, master of sacred theology and (Spanish, presumably Seville) archbishop of the Order of Hermits of St Augustine. This frames what follows as an Augustinian-Hermit theological commentary.",
+  "claims": [],
+  "concepts": [
+   "lectura",
+   "Sentences commentary",
+   "Augustinian Hermits"
+  ],
+  "_metadata": {
+   "level": "paragraph",
+   "generation_method": "source_text_with_context",
+   "context_ids": [
+    "at8va9-e00003"
+   ]
+  }
+ },
+ "at8va9-e00003-d1e123": {
+  "summary": "Contains no text. This empty paragraph separates the rubric from the opening of the sermon-style praeambulum.",
+  "claims": [],
+  "concepts": [],
+  "_metadata": {
+   "level": "paragraph",
+   "generation_method": "source_text_with_context",
+   "context_ids": [
+    "at8va9-e00003"
+   ]
+  }
+ },
+ "at8va9-e00003-d1e125": {
+  "summary": "Opens the praeambulum on its theme verse, 'Ego sum alpha et omega' (Apoc. 1). Following Isidore, Etymologies I, Vargas notes that alpha is the first and omega the last letter of the Greek alphabet. Christ, uncreated Wisdom and the Son of God, compares himself to them as beginning and end. Vargas then applies the image to Scripture: divinely inspired sacred Scripture is likewise both first and last of all sciences and writings. This sets out the twofold thesis that the rest of the praeambulum develops.",
+  "claims": [
+   "Sacred Scripture is the first of all sciences and writings",
+   "Sacred Scripture is also the last of all sciences and writings",
+   "Christ's self-description as alpha and omega signifies that he is beginning and end"
+  ],
+  "concepts": [
+   "alpha and omega",
+   "uncreated Wisdom",
+   "Scripture as science",
+   "primacy of theology",
+   "beginning and end"
+  ],
+  "_metadata": {
+   "level": "paragraph",
+   "generation_method": "source_text_with_context",
+   "context_ids": [
+    "at8va9-e00003",
+    "at8va9-e00003-d1e174",
+    "at8va9-e00003-d1e308"
+   ]
+  }
+ },
+ "at8va9-e00003-d1e174": {
+  "summary": "Divides the first part of the thesis, Scripture's being 'first', into four kinds of priority over other sciences. It is first in duration, preceding them in time. It is first in perfection, exceeding them. It is first in direction, regulating them. It is first in correction, correcting them as a father does. This four-member scheme organizes the next three paragraphs.",
+  "claims": [
+   "Scripture is prior to other sciences in duration, perfection, direction and correction"
+  ],
+  "concepts": [
+   "primacy of theology",
+   "priority",
+   "perfection",
+   "direction",
+   "correction"
+  ],
+  "_metadata": {
+   "level": "paragraph",
+   "generation_method": "source_text_with_context",
+   "context_ids": [
+    "at8va9-e00003",
+    "at8va9-e00003-d1e125",
+    "at8va9-e00003-d1e187"
+   ]
+  }
+ },
+ "at8va9-e00003-d1e187": {
+  "summary": "Proves the first two priorities from Wisdom's own words in Scripture. Scripture is first in duration because Wisdom says she came forth from the mouth of the Most High, firstborn before every creature (Ecclus. 24), so her fruits are the purest. It is first in perfection because Wisdom dwells in the highest places, enthroned on a pillar of cloud (Ecclus. 24), and so is more precious than all riches and beyond comparison with anything desired (Prov. 3).",
+  "claims": [
+   "Scripture is first in duration, being firstborn before all creatures",
+   "Scripture is first in perfection, being more precious than anything desired"
+  ],
+  "concepts": [
+   "priority of duration",
+   "priority of perfection",
+   "Wisdom personified",
+   "sacred Scripture"
+  ],
+  "_metadata": {
+   "level": "paragraph",
+   "generation_method": "source_text_with_context",
+   "context_ids": [
+    "at8va9-e00003",
+    "at8va9-e00003-d1e174"
+   ]
+  }
+ },
+ "at8va9-e00003-d1e209": {
+  "summary": "Proves the third priority, direction. Wisdom entering the soul guards and directs one away from the evil way (Prov. 2). For that reason David prays to be directed by God's word (Ps. 118). Scripture thus serves as the rule that guides human action.",
+  "claims": [
+   "Scripture is first in direction, ruling and guiding human conduct"
+  ],
+  "concepts": [
+   "priority of direction",
+   "Scripture as rule",
+   "prudence"
+  ],
+  "_metadata": {
+   "level": "paragraph",
+   "generation_method": "source_text_with_context",
+   "context_ids": [
+    "at8va9-e00003",
+    "at8va9-e00003-d1e174"
+   ]
+  }
+ },
+ "at8va9-e00003-d1e227": {
+  "summary": "Proves the fourth priority, correction. Wisdom cries out in public, calling the foolish to turn to her correction (Prov. 1), and the Scriptures were written for our correction (cited as 1 Cor. 4). Scripture therefore corrects as well as directs.",
+  "claims": [
+   "Scripture is first in correction, written for our correction"
+  ],
+  "concepts": [
+   "priority of correction",
+   "Wisdom personified",
+   "sacred Scripture"
+  ],
+  "_metadata": {
+   "level": "paragraph",
+   "generation_method": "source_text_with_context",
+   "context_ids": [
+    "at8va9-e00003",
+    "at8va9-e00003-d1e174"
+   ]
+  }
+ },
+ "at8va9-e00003-d1e243": {
+  "summary": "Collects the four priorities and attaches allegorical figures to them. They are the four heads of the river flowing out of Eden, which water the paradise of the created angelic and human intellect (Gen. 2). They are the four golden rings at the corners of the ark of Scripture (Exod. 25). They are the four porticoes among the cedar columns of Wisdom's house (3 Kings 7). And they are the four wheels beside the cherubim, by which the humble soul is raised toward God (Ezek. 1). The fourfold priority is shown to be prefigured throughout Scripture.",
+  "claims": [
+   "The four priorities of sacred doctrine are prefigured by fourfold scriptural figures"
+  ],
+  "concepts": [
+   "allegorical exegesis",
+   "primacy of theology",
+   "created intellect",
+   "elevation of the soul"
+  ],
+  "_metadata": {
+   "level": "paragraph",
+   "generation_method": "source_text_with_context",
+   "context_ids": [
+    "at8va9-e00003",
+    "at8va9-e00003-d1e174",
+    "at8va9-e00003-d1e187",
+    "at8va9-e00003-d1e209",
+    "at8va9-e00003-d1e227"
+   ]
+  }
+ },
+ "at8va9-e00003-d1e272": {
+  "summary": "Concludes the first part: this most sacred doctrine is rightly called the first of all sciences, as 'wisdom was created before all things' (Ecclus. 1). Vargas supports this with Augustine's De Genesi ad litteram. There Augustine reads the light of the first day as created spiritual wisdom, the illumination of rational creatures by eternal Wisdom, and not as the coeternal Son. Created wisdom in the rational creature is thus first among all creatures.",
+  "claims": [
+   "Sacred doctrine is the first of all sciences",
+   "The light of the first day can be understood as created wisdom illuminating rational creatures, distinct from uncreated Wisdom"
+  ],
+  "concepts": [
+   "primacy of theology",
+   "created and uncreated wisdom",
+   "spiritual light",
+   "illumination",
+   "Augustinian exegesis"
+  ],
+  "_metadata": {
+   "level": "paragraph",
+   "generation_method": "source_text_with_context",
+   "context_ids": [
+    "at8va9-e00003",
+    "at8va9-e00003-d1e125",
+    "at8va9-e00003-d1e243"
+   ]
+  }
+ },
+ "at8va9-e00003-d1e308": {
+  "summary": "Turns to the second part of the thesis, that Scripture is the last of all sciences because it is the end of all. Vargas characterizes it as an end that does four things. It draws the gaze by the brightness of its splendour, attracts by the purity of its whiteness, refreshes by the variety of its sweetness and fully suffices by the dignity of its worth. He then adds a rhymed series of superlatives (clearer, purer, truer, worthier than all things made so). Both every humanly discovered science and all our acts are ordered to it as their end. (The trailing '4r' appears to be a stray marker in the transcription.)",
+  "claims": [
+   "Sacred Scripture is the last of all sciences because it is their end",
+   "All human sciences and all human acts are finally ordered to sacred Scripture"
+  ],
+  "concepts": [
+   "theology as end of the sciences",
+   "final cause",
+   "ordering of the sciences",
+   "beauty",
+   "sufficiency"
+  ],
+  "_metadata": {
+   "level": "paragraph",
+   "generation_method": "source_text_with_context",
+   "context_ids": [
+    "at8va9-e00003",
+    "at8va9-e00003-d1e125",
+    "at8va9-e00003-d1e339"
+   ]
+  }
+ },
+ "at8va9-e00003-d1e339": {
+  "summary": "Proves the first condition of Scripture as end: it draws the gaze by the brightness of its splendour. Wisdom is bright and never fades, and is easily seen by those who seek her (Wis. 6). So the speaker loved her above health and beauty and chose her for light, since her light is inextinguishable (Wis. 7).",
+  "claims": [
+   "Wisdom as end attracts by its unfading brightness"
+  ],
+  "concepts": [
+   "splendour",
+   "wisdom as light",
+   "desire for wisdom"
+  ],
+  "_metadata": {
+   "level": "paragraph",
+   "generation_method": "source_text_with_context",
+   "context_ids": [
+    "at8va9-e00003",
+    "at8va9-e00003-d1e308"
+   ]
+  }
+ },
+ "at8va9-e00003-d1e352": {
+  "summary": "Proves the second condition: Scripture as end draws one sweetly by the purity of its whiteness. Wisdom is the brightness of eternal light, the spotless mirror of God's majesty and the image of his goodness (Wis. 7), and the eye marvels at her whiteness (Ecclus. 43).",
+  "claims": [
+   "Wisdom as end draws by its purity, being the spotless mirror and image of God"
+  ],
+  "concepts": [
+   "candor",
+   "purity",
+   "wisdom as image of God",
+   "divine goodness"
+  ],
+  "_metadata": {
+   "level": "paragraph",
+   "generation_method": "source_text_with_context",
+   "context_ids": [
+    "at8va9-e00003",
+    "at8va9-e00003-d1e308"
+   ]
+  }
+ },
+ "at8va9-e00003-d1e363": {
+  "summary": "Proves the third condition: Scripture as end refreshes sweetly by the variety of its sweetness. Wisdom invites all who desire her to be filled, her spirit being sweeter than honey (Ecclus. 24). The book received from the angel's hand was like sweet honey in the mouth (Apoc. 10).",
+  "claims": [
+   "Wisdom as end refreshes and satisfies with sweetness"
+  ],
+  "concepts": [
+   "sweetness",
+   "spiritual refreshment",
+   "desire for wisdom"
+  ],
+  "_metadata": {
+   "level": "paragraph",
+   "generation_method": "source_text_with_context",
+   "context_ids": [
+    "at8va9-e00003",
+    "at8va9-e00003-d1e308"
+   ]
+  }
+ },
+ "at8va9-e00003-d1e381": {
+  "summary": "Proves the fourth condition: Scripture as end fully suffices by the dignity of its worth. Our sufficiency is not from ourselves but from God (2 Cor. 3). Hence blessed is the one who finds wisdom (Prov. 3).",
+  "claims": [
+   "Wisdom as end is fully sufficient, since our sufficiency is from God",
+   "Finding wisdom makes one blessed"
+  ],
+  "concepts": [
+   "sufficiency",
+   "dependence on God",
+   "beatitude"
+  ],
+  "_metadata": {
+   "level": "paragraph",
+   "generation_method": "source_text_with_context",
+   "context_ids": [
+    "at8va9-e00003",
+    "at8va9-e00003-d1e308"
+   ]
+  }
+ },
+ "at8va9-e00003-d1e392": {
+  "summary": "Begins a set of four allegorical figures, one per paragraph, for the four conditions by which theology is shown to be the last of the sciences. This paragraph gives the first. The four conditions are the four jars of water poured over the holocaust and the wood (3 Kings 18). After them the holocaust of the will is consumed by a 'seraphic' fire, which suggests the end is fulfilled in ardent love.",
+  "claims": [
+   "The four conditions of theology as end are prefigured by the four jars poured on Elijah's holocaust"
+  ],
+  "concepts": [
+   "allegorical exegesis",
+   "theology as end",
+   "will",
+   "seraphic love"
+  ],
+  "_metadata": {
+   "level": "paragraph",
+   "generation_method": "source_text_with_context",
+   "context_ids": [
+    "at8va9-e00003",
+    "at8va9-e00003-d1e308",
+    "at8va9-e00003-d1e406"
+   ]
+  }
+ },
+ "at8va9-e00003-d1e406": {
+  "summary": "Second figure of the four conditions: the four smallest things of the earth (cited as Prov. 3), by which the pride of worldly wisdom is wonderfully overcome. Theology's finality humbles merely secular knowledge.",
+  "claims": [
+   "Theology's finality overcomes the pride of worldly wisdom"
+  ],
+  "concepts": [
+   "allegorical exegesis",
+   "worldly wisdom",
+   "humility"
+  ],
+  "_metadata": {
+   "level": "paragraph",
+   "generation_method": "source_text_with_context",
+   "context_ids": [
+    "at8va9-e00003",
+    "at8va9-e00003-d1e392"
+   ]
+  }
+ },
+ "at8va9-e00003-d1e413": {
+  "summary": "Third figure of the four conditions: the four rows of stones on which great deeds are magnificently displayed (Wis. 18). The transcription reads 'parietum', probably for 'parentum', 'of the fathers', as in Wis. 18:24.",
+  "claims": [
+   "Theology's finality is prefigured by the four rows of stones displaying great deeds"
+  ],
+  "concepts": [
+   "allegorical exegesis"
+  ],
+  "_metadata": {
+   "level": "paragraph",
+   "generation_method": "source_text_with_context",
+   "context_ids": [
+    "at8va9-e00003",
+    "at8va9-e00003-d1e392"
+   ]
+  }
+ },
+ "at8va9-e00003-d1e420": {
+  "summary": "Fourth figure of the four conditions: the four angels standing at the four corners of the earth (Apoc. 7). Through them the winds of heretical depravity are chained by divine power. Theology as end thus also guards against heresy.",
+  "claims": [
+   "Theology's finality restrains heresy"
+  ],
+  "concepts": [
+   "allegorical exegesis",
+   "heresy",
+   "defense of the faith"
+  ],
+  "_metadata": {
+   "level": "paragraph",
+   "generation_method": "source_text_with_context",
+   "context_ids": [
+    "at8va9-e00003",
+    "at8va9-e00003-d1e392"
+   ]
+  }
+ },
+ "at8va9-e00003-d1e429": {
+  "summary": "Concludes the praeambulum and makes the transition to Book 1. This faithful doctrine is the end of all sciences, since in it one finds rest, eternal as well as temporal (Ecclus. 6). Knowledge of wisdom makes a person near to God and a possessor of eternal life, whose beatitude is the contemplation of God and the perception of truth. The source is cited as a 'gloria', perhaps a gloss. So theology is both first and last of the sciences, as Isidore's reading of the theme verse established. Vargas then reads 'Ego sum alpha et omega' as announcing the four books of the Sentences: 'Ego sum' gives the perfection of being (Book 1); alpha, the beginning, gives the expression of power in creation (Book 2); 'the Word was made flesh' gives the union of piety (Book 3); omega, the end, gives the conclusion of holiness (Book 4). He promises to treat Books 2–4 in their places. For Book 1 he argues, with Jerome on the divine names (Exod. 3, 'qui est'), that only God, being immutable and eternal, can say 'I am' absolutely. Book 1 therefore treats God according to his natural, intrinsic perfection. A doxology closes the paragraph.",
+  "claims": [
+   "Sacred theology is both the beginning and the end of all sciences",
+   "The knowledge of wisdom leads to eternal life, whose beatitude is contemplation of God",
+   "The theme verse Ego sum alpha et omega maps onto the matter of the four books of the Sentences",
+   "Only God can say 'I am' absolutely, being immutable and eternal",
+   "Book 1 of the Sentences treats God according to his natural and intrinsic perfection"
+  ],
+  "concepts": [
+   "primacy and finality of theology",
+   "division of the Sentences",
+   "divine being",
+   "Ego sum qui sum",
+   "divine immutability",
+   "eternity",
+   "Incarnation",
+   "creation",
+   "beatitude",
+   "divine names"
+  ],
+  "_metadata": {
+   "level": "paragraph",
+   "generation_method": "source_text_with_context",
+   "context_ids": [
+    "at8va9-e00003",
+    "at8va9-e00003-d1e125",
+    "at8va9-e00003-d1e272",
+    "at8va9-e00003-d1e308"
+   ]
+  }
+ },
+ "at8va9-e00003": {
+  "summary": "The praeambulum is a sermon-style principium that precedes the questions of the prologue. Its theme verse is 'Ego sum alpha et omega' (Apoc. 1), read through Isidore. Vargas argues that sacred Scripture, or theology, is both the first and the last of all sciences. It is first through a fourfold priority of duration, perfection, direction and correction, which he proves from the sapiential books and Augustine's reading of the first day's light as created wisdom. It is last as the end of all sciences and all human acts, attracting by splendour and purity, refreshing by sweetness and fully sufficing. Each fourfold scheme is given allegorical figures from Scripture. Finally he divides the theme verse to match the four books of the Sentences: being (Book 1), creative power (Book 2), Incarnation (Book 3) and final holiness (Book 4). He introduces Book 1 as treating God in his intrinsic perfection, since only God can say 'I am' absolutely. Although rhetorical rather than disputational, the praeambulum anticipates the prologue questions' concern with theology's status and its final ordering to God.",
+  "claims": [
+   "Sacred theology is the first of all sciences in duration, perfection, direction and correction",
+   "Sacred theology is the last of all sciences as the end to which all sciences and acts are ordered",
+   "The theme Ego sum alpha et omega corresponds to the matter of the four books of the Sentences",
+   "Book 1 treats God according to his intrinsic perfection, since only God can say 'I am' absolutely"
+  ],
+  "concepts": [
+   "primacy of theology",
+   "theology as end of the sciences",
+   "alpha and omega",
+   "created and uncreated wisdom",
+   "allegorical exegesis",
+   "division of the Sentences",
+   "divine being",
+   "principium"
+  ],
+  "_metadata": {
+   "level": "praeambulum",
+   "generation_method": "descendant_summaries",
+   "input_ids": [
+    "at8va9-e00003-d1e103",
+    "at8va9-e00003-d1e110",
+    "at8va9-e00003-d1e123",
+    "at8va9-e00003-d1e125",
+    "at8va9-e00003-d1e174",
+    "at8va9-e00003-d1e187",
+    "at8va9-e00003-d1e209",
+    "at8va9-e00003-d1e227",
+    "at8va9-e00003-d1e243",
+    "at8va9-e00003-d1e272",
+    "at8va9-e00003-d1e308",
+    "at8va9-e00003-d1e339",
+    "at8va9-e00003-d1e352",
+    "at8va9-e00003-d1e363",
+    "at8va9-e00003-d1e381",
+    "at8va9-e00003-d1e392",
+    "at8va9-e00003-d1e406",
+    "at8va9-e00003-d1e413",
+    "at8va9-e00003-d1e420",
+    "at8va9-e00003-d1e429"
+   ]
+  }
+ }
+}
